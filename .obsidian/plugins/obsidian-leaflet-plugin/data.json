@@ -1,0 +1,220 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1640018090494,
+      "markers": [
+        {
+          "id": "ID_59c8592b7b69",
+          "type": "link",
+          "loc": [
+            -4.8277587890625,
+            5.947265625
+          ],
+          "link": "1 - Port",
+          "layer": "%5B%5B0-Brevoy.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.743408203125,
+            0.80462646484375
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Localisations/Brevoy/Taverne.md"
+      ]
+    },
+    {
+      "id": "brevoy-taverne",
+      "lastAccessed": 1640830173997,
+      "markers": [
+        {
+          "id": "ID_4abb199838ca",
+          "type": "group",
+          "loc": [
+            -0.570220947265625,
+            0.525390625
+          ],
+          "link": "G1",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "1 - Compendium/Lieux/Brevoy/6 - Taverne/6 - Taverne.md"
+      ]
+    },
+    {
+      "id": "scenario-1-taverne",
+      "lastAccessed": 1640830216810,
+      "markers": [
+        {
+          "id": "ID_8889f82ba88a",
+          "type": "group",
+          "loc": [
+            -0.576080322265625,
+            0.52734375
+          ],
+          "link": "G1",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
+      ]
+    },
+    {
+      "id": "brevoy",
+      "lastAccessed": 1641326598396,
+      "markers": [
+        {
+          "id": "ID_bbab6aa85a28",
+          "type": "link",
+          "loc": [
+            -4.92755126953125,
+            6.017578125
+          ],
+          "link": "1 - Port",
+          "layer": "%5B%5B0%20-%20Brevoy.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "1 - Compendium/Lieux/Brevoy/0 - Brevoy/0 - Brevoy.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#22a1d8",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "link",
+      "iconName": "circle",
+      "color": "#d8224f",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "group",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "4.7.4",
+  "version": {
+    "major": 4,
+    "minor": 7,
+    "patch": 4
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "never",
+  "displayOverlayTooltips": false,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[3-1 - Base.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[3-1 - Base.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "brevoy-taverne",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "metric"
+}

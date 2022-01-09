@@ -1,0 +1,136 @@
+.clean-embeds .markdown-embed-title,
+.clean-embeds .obsidian-metatable {
+  display: none;
+}
+
+/* Link icon */
+.clean-embeds .markdown-embed-link,
+.clean-embeds .file-embed-link {
+  top: 0;
+  right: 0;
+  left: unset;
+  text-align: right;
+  border: none;
+  margin: 0;
+  width: 24px;
+  height: 24px;
+  color: var(--text-faint);
+  cursor: pointer;
+}
+
+/* for Ars Magna theme and others that change ::before */
+.clean-embeds .markdown-embed-link::before,
+.clean-embeds .file-embed-link::before {
+  display: none;
+}
+
+/* Link icon size & hide */
+.clean-embeds .file-embed-link svg,
+.clean-embeds .markdown-embed-link svg {
+  height: 24px;
+  width: 24px;
+  opacity: 0;
+  display: unset;
+}
+
+/* show on hover */
+.clean-embeds .markdown-embed:hover .file-embed-link svg,
+.clean-embeds .markdown-embed:hover .markdown-embed-link svg {
+  opacity: 1;
+}
+
+/* change background on hover, to exactly see what’s embedded */
+/*
+.clean-embeds .markdown-embed:hover,
+.clean-embeds .file-embed:hover {
+  background-color: var(--background-secondary) !important;
+}
+*/
+/* End link show/hide stuff */
+
+
+
+/* remove border and scroll */
+/* unfortunately needs !important for some themes */
+.clean-embeds .markdown-embed,
+.clean-embeds .file-embed {
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.clean-embeds .markdown-embed-content,
+.clean-embeds .markdown-embed-content > .markdown-preview-view { 
+  max-height: unset;
+  padding: 0 !important; /* !important for "Pisum" theme */
+  margin: 0;
+  border: 0;
+}
+
+/* remove <br> between internal embeds */
+.clean-embeds .markdown-preview-section div > br {
+  display: none;
+}
+
+/* remove section title */
+.clean-embeds .internal-embed[src*="#"] .markdown-preview-section div:nth-child(2) h1,
+.clean-embeds .internal-embed[src*="#"] .markdown-preview-section div:nth-child(2) h2,
+.clean-embeds .internal-embed[src*="#"] .markdown-preview-section div:nth-child(2) h3,
+.clean-embeds .internal-embed[src*="#"] .markdown-preview-section div:nth-child(2) h4 {
+  font-size: 0;
+  margin: initial;
+  border: none;
+}
+
+/* remove vertical space added by markdown-preview-sizer */
+.clean-embeds div.markdown-preview-sizer.markdown-preview-section {
+  min-height: unset !important;
+  padding-bottom: 0 !important;
+}
+
+/* special considerations for printing (PDF export) */
+@media print {
+
+  /* remove frontmatter box if "Show frontmatter" was enabled */
+  /* Also remove metadata table from "Metatable" plugin */
+  pre.frontmatter,
+  .obsidian-metatable {
+    display: none;
+  }
+
+  /*.clean-embeds .internal-embed > div div:nth-child(2) h1,
+  .clean-embeds .internal-embed > div div:nth-child(2) h2,
+  .clean-embeds .internal-embed > div div:nth-child(2) h3,
+  .clean-embeds .internal-embed > div div:nth-child(2) h4 {
+    font-size: 0;
+    margin: initial;
+    border: none;
+  }*/
+
+  /* remove container border, padding and amrgin */
+  .internal-embed > div {
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* remove content max height and scroll */
+  .markdown-embed-content {
+    max-height: initial;
+    overflow: hidden;
+  }
+
+  /* remove note title */
+  /*
+  .clean-embed-note .internal-embed > div > div:first-child {
+    display: none;
+  }
+  */
+  .clean-embed-section .internal-embed > div > div > div > div > div:nth-child(2) {
+    display: none;
+  }
+}
+
+.clean-embed-section .internal-embed > div > div > div > div > div:nth-child(2) {
+  display: none;
+}

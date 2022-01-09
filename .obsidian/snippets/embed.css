@@ -1,0 +1,55 @@
+/* Remove note title and metadata */
+.embed-note .markdown-embed-title,
+.embed-note .obsidian-metatable {
+  display: none;
+}
+
+/* Remove container border, padding and margin */
+
+.embed-note .markdown-embed,
+.embed-note .file-embed,
+.embed-section .markdown-embed,
+.embed-section .file-embed {
+  /* border: none !important; */
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.embed-note .markdown-embed,
+.embed-note .file-embed {
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.embed-note .markdown-embed-content,
+.embed-note .markdown-embed-content > .markdown-preview-view,
+.embed-section .markdown-embed-content,
+.embed-section .markdown-embed-content > .markdown-preview-view {  
+  max-height: unset;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+/* Remove sizer height */
+.embed-note div.markdown-preview-sizer.markdown-preview-section,
+.embed-section div.markdown-preview-sizer.markdown-preview-section {
+  min-height: unset !important;
+  padding-bottom: 0 !important;
+}
+
+/* Remove section title */
+.embed-section .internal-embed > div > div > div > div > div:nth-child(2) {
+  display: none;
+}
+
+@media print {
+
+  /* Remove section title */
+  .embed-section .internal-embed > div > div > div > *:first-child {
+    display: none;
+  }
+
+}
+

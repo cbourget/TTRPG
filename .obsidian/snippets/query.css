@@ -1,0 +1,19 @@
+.internal-query {
+  /* border: none; */
+  margin: 0;
+}
+
+.internal-query .internal-query-header {
+  display: none;
+}
+
+.search-result-file-matches {
+  display: none;
+}
+
+@media print {
+  .internal-query .search-result-container {
+    max-height: initial;
+    overflow: hidden;
+  }
+}

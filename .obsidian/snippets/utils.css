@@ -1,0 +1,11 @@
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+
+.page-break {
+  display: block;
+  page-break-after: always;
+}

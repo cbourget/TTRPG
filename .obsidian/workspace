@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "c70dceb087c2eee7",
+    "type": "split",
+    "children": [
+      {
+        "id": "09fc1bb14b7f7f32",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6865e9d7bb6d9101",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0cd6f862b299ff8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a926cbb9d2f4badf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a280d8ff5cf0447f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Église Osiron",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343
+  },
+  "right": {
+    "id": "8b329d269e60daa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "23b6867aab09ac2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2825bb4a703afc51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "375f74ff60c2112f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1828133681acbc89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md"
+              }
+            }
+          },
+          {
+            "id": "6a275f9136f5c4a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "09fc1bb14b7f7f32",
+  "lastOpenFiles": [
+    "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md",
+    "Ressources/Tokens/NPCs1.md",
+    "Ressources/GM-Screen.pdf",
+    "Entre Deux Mondes/1 - Compendium/Lieux/Brevoy/0 - Brevoy/0 - Brevoy.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Corgak/Corgak.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Grog/Grog.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Grog/Grog.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.jpg",
+    "1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.md"
+  ]
+}

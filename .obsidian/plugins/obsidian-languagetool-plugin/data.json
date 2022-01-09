@@ -1,0 +1,7 @@
+{
+  "serverUrl": "https://api.languagetoolplus.com",
+  "glassBg": false,
+  "shouldAutoCheck": false,
+  "pickyMode": false,
+  "staticLanguage": "fr"
+}

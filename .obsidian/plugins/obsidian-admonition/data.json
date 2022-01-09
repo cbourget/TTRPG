@@ -1,0 +1,77 @@
+{
+  "userAdmonitions": {
+    "gallery-print": {
+      "type": "gallery-print",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "images",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Gallery Print",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "gallery": {
+      "type": "gallery",
+      "color": "0, 0, 0",
+      "icon": {
+        "name": "images",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Gallery",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "desc": {
+      "type": "desc",
+      "color": "54, 109, 34",
+      "icon": {
+        "name": "list-alt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Description",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "objectives": {
+      "type": "objectives",
+      "color": "250, 217, 0",
+      "icon": {
+        "name": "trophy",
+        "type": "rpg"
+      },
+      "command": false,
+      "title": "Objectifs",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "stats": {
+      "type": "stats",
+      "color": "94, 0, 0",
+      "icon": {
+        "name": "broadsword",
+        "type": "rpg"
+      },
+      "command": false,
+      "title": "Stats",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "6.7.2",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "syncLinks": true,
+  "enableMarkdownProcessor": false,
+  "injectColor": true,
+  "parseTitles": true
+}

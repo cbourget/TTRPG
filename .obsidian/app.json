@@ -1,0 +1,23 @@
+{
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 75
+  },
+  "attachmentFolderPath": "Obsidian/Attachments",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "defaultViewMode": "preview",
+  "foldHeading": true,
+  "spellcheck": false,
+  "useMarkdownLinks": false,
+  "spellcheckDictionary": [
+    "Pthumériens",
+    "Phtumériens",
+    "Osiron",
+    "Osiron"
+  ],
+  "legacyEditor": false,
+  "livePreview": true
+}

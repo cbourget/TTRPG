@@ -1,0 +1,16 @@
+{
+  "baseFontSize": 16,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "images",
+    "tags",
+    "campaign",
+    "admonition",
+    "map",
+    "utils",
+    "statblock",
+    "theme",
+    "query",
+    "embed"
+  ]
+}

@@ -1,0 +1,79 @@
+
+/* Generic view style */
+* {
+  font-family: 'Bebas Kai',Bebas,'Noto Sans Cond','Noto Sans',Helvetica,Arial,sans-serif
+}
+
+h1, h2, h3 {
+  margin-bottom: 5px;
+  margin-top: 5px;
+  font-weight: 400;
+}
+h1 {
+  border-bottom: 1px solid black;
+}
+h3 {
+  color: #3B7B59;
+}
+
+.aggregate h1 {
+  border: none;
+  font-weight: bold;
+}
+.aggregate .embed-note h1 {
+  border-bottom: 1px solid black;
+  font-weight: 400;
+}
+
+a:not(.tag) {
+  color: #3B7B59;
+}
+
+/* Embedded stat block */
+iframe.embedded-statblock {
+  width: 100%;
+  border: none;
+  height: 900px;
+}
+
+/* Action icons */
+img[alt$="OneAction.png"],
+img[alt$="TwoActions.png"],
+img[alt$="ThreeActions.png"],
+img[alt$="FreeAction.png"],
+img[alt$="Reaction.png"] {
+  height: 20px;
+}
+
+/* Tags */
+.npc-tags .tag {
+  background-color: #5e0000;
+  color: #fff;
+  font-size: 14px;
+  padding: 4px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0px 0px;
+  cursor: pointer;
+}
+
+.npc-tags .tag:hover {
+  background-color: #fff;
+  color: #5e0000;
+}
+
+@media print {
+  .nav {
+    display: none;
+  }
+
+  h1 {
+    border: none;
+    font-weight: bold;
+  }
+  .embed-note h1 {
+    border-bottom: 1px solid black;
+    font-weight: 400;
+  }
+}

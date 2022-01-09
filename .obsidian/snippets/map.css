@@ -1,0 +1,50 @@
+.leaflet-marker-icon[data-type="link"]::before {
+  content: attr(data-link);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -6px);
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+  border-radius: 4px;
+  padding: 1px 2px;
+  background-color: rgb(216, 34, 79);
+  white-space: nowrap;
+}
+
+.leaflet-marker-icon[data-type="group"]::before {
+  content: attr(data-link);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 2px);
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+  border-radius: 4px;
+  padding: 1px 2px;
+  white-space: nowrap;
+}
+
+.popover.hover-popover {
+  max-height: none;
+  width: initial;
+}
+.popover.hover-popover .markdown-embed {
+  height: initial;
+}
+.popover.hover-popover .markdown-embed .admonition-gallery .admonition-content {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+.popover.hover-popover .markdown-embed .admonition-gallery .admonition-content span img {
+  width: 168px;
+  height: 240px;
+  border-radius: 8px;
+  object-fit: cover;
+}

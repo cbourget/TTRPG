@@ -1,0 +1,94 @@
+/* General */
+.admonition {
+  background-color: inherit !important;
+}
+.admonition-desc.admonition,
+.admonition-gallery.admonition,
+.admonition-gallery-print.admonition {
+  background-color: initial;
+  box-shadow: none;
+  border-left: none;
+  margin: 0;
+}
+.admonition-desc .admonition-title,
+.admonition-gallery .admonition-title,
+.admonition-gallery-print .admonition-title {
+  display: none !important;
+}
+.admonition-desc .admonition-content,
+.admonition-gallery .admonition-content,
+.admonition-gallery-print .admonition-content {
+  margin: 0;
+}
+
+/* Desc */
+span.image {
+  margin-right: 16px;
+  float: left;
+}
+span.image span,
+span.image a {
+  display: block;
+  text-align: center;
+}
+span img {
+  border-radius: 25%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: 20% 0%;
+  box-shadow: rgb(0 0 0 / 16%) 0px 3px 6px, rgb(0 0 0 / 23%) 0px 3px 6px;
+  margin: 4px;
+  
+}
+p.traits {
+  font-style: italic;
+  font-weight: bold;
+}
+
+@media print {
+  .admonition-desc .admonition-content span.image a {
+    display: none;
+  }
+}
+
+/* Gallery */
+.admonition-gallery .admonition-content {
+  display: flex;
+}
+.admonition-gallery .admonition-content p {
+  padding: 8px;
+}
+.admonition-gallery .admonition-content span {
+  display: flex;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.admonition-gallery .admonition-content span img {
+  width: 240px;
+  height: 340px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+.admonition-gallery .admonition-content a {
+  display: block;
+  text-align: center;
+}
+
+/* Gallery print */
+.admonition-gallery-print .admonition-content {
+  display: flex;
+}
+.admonition-gallery-print .admonition-content span {
+  display: flex;
+  border: 2px solid #ddd;
+  border-radius: 8px 8px 0 0px;
+  overflow: hidden;
+}
+.admonition-gallery-print .admonition-content span img {
+  width: 1in;
+  height: 2in;
+  object-fit: cover;
+  object-position: 64% 0%;
+}
