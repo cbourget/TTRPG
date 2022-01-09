@@ -11,6 +11,7 @@
     "statblock",
     "theme",
     "query",
-    "embed"
+    "embed",
+    "note"
   ]
 }

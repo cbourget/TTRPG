@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "09fc1bb14b7f7f32",
+        "id": "dc8fe618bcd0c45e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md",
+            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md",
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md"
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md",
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "09fc1bb14b7f7f32",
+  "active": "dc8fe618bcd0c45e",
   "lastOpenFiles": [
-    "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md",
-    "Ressources/Tokens/NPCs1.md",
-    "Ressources/GM-Screen.pdf",
-    "Entre Deux Mondes/1 - Compendium/Lieux/Brevoy/0 - Brevoy/0 - Brevoy.md",
     "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Corgak/Corgak.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Grog/Grog.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Grog/Grog.jpg",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.jpg",
-    "1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.md"
+    "Entre Deux Mondes/2 - Campagne/2 - Campagne.md",
+    "Pathfinder/GM-Screen.pdf",
+    "Entre Deux Mondes/1 - Compendium/Concepts/Boletaria.md",
+    "Entre Deux Mondes/1 - Compendium/Concepts/Âme.md",
+    "Entre Deux Mondes/1 - Compendium/Concepts/Alchimie.md",
+    "Obsidian/Templates/creature.md",
+    "Obsidian/Templates/secrets.md",
+    "Obsidian/Templates/scenario.md",
+    "Obsidian/Templates/npc.md"
   ]
 }

@@ -1,9 +1,10 @@
 <%*
-const Utils = tp.user.Utils();
+const campaign = tp.user.Campaign().load()
+const utils = tp.user.Utils();
 const name = await tp.system.prompt('Enter Name');
-const id = Utils.kebabCase(name);
+const id = utils.kebabCase(name);
 
-await tp.file.move(`1 - Compendium/Lieux/${name}`);
+await tp.file.move(`${campaign.name}/1 - Compendium/Lieux/${name}`);
 -%>
 
 ```leaflet

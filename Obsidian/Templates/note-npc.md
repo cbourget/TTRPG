@@ -1,12 +1,10 @@
 <%*
-const Race = tp.user.Race()
-const Gender = tp.user.Gender()
-
+const campaign = tp.user.Campaign().load()
 const name = await tp.system.prompt('Enter Name');
-const race = await Race.choose(tp);
-const gender = await Gender.choose(tp);
+const race = await campaign.chooseRace(tp);
+const gender = await campaign.chooseGender(tp);
 
-await tp.file.move(`1 - Compendium/NPCs/${name}`);
+await tp.file.move(`${campaign.name}/1 - Compendium/NPCs/${name}`);
 -%>
 
 ---

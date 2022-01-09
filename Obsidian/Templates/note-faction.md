@@ -1,10 +1,11 @@
 <%*
-const Utils = tp.user.Utils()
+const campaign = tp.user.Campaign().load()
+const utils = tp.user.Utils()
 
 const name = await tp.system.prompt('Enter Name');
-const tag = Utils.camelCase(name);
+const tag = utils.camelCase(name);
 
-await tp.file.move(`1 - Compendium/Factions/${name}`);
+await tp.file.move(`${campaign.name}/1 - Compendium/Factions/${name}`);
 -%>
 
 ---
