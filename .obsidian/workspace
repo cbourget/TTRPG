@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dc8fe618bcd0c45e",
+        "id": "7bbcbda310bdb5ca",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md",
+            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Nilheim/Nilheim.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md",
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Nilheim/Nilheim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md"
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Nilheim/Nilheim.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md",
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Nilheim/Nilheim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dc8fe618bcd0c45e",
+  "active": "7bbcbda310bdb5ca",
   "lastOpenFiles": [
+    "Entre Deux Mondes/1 - Compendium/NPCs/Nilheim/Nilheim.md",
     "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.md",
+    "Entre Deux Mondes/1 - Compendium/Factions/Cragmire.md",
+    "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md",
+    "Entre Deux Mondes/1 - Compendium/Factions/Pictis/Pictis.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/test.md",
     "Entre Deux Mondes/2 - Campagne/2 - Campagne.md",
     "Pathfinder/GM-Screen.pdf",
-    "Entre Deux Mondes/1 - Compendium/Concepts/Boletaria.md",
-    "Entre Deux Mondes/1 - Compendium/Concepts/Âme.md",
-    "Entre Deux Mondes/1 - Compendium/Concepts/Alchimie.md",
-    "Obsidian/Templates/creature.md",
-    "Obsidian/Templates/secrets.md",
-    "Obsidian/Templates/scenario.md",
-    "Obsidian/Templates/npc.md"
+    "Entre Deux Mondes/1 - Compendium/Concepts/Boletaria.md"
   ]
 }

@@ -1,5 +1,6 @@
 <%*
-const campaign = tp.user.Campaign().load()
+const campaign = await tp.user.Campaign().load();
+console.log(campaign)
 const name = await tp.system.prompt('Enter Name');
 const race = await campaign.chooseRace(tp);
 const gender = await campaign.chooseGender(tp);

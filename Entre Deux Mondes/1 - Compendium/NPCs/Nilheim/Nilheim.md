@@ -12,7 +12,8 @@ tags: NPC Capes-Jaunes Syndic-Des-Marchands
 
 <span class="image">![[Nilheim.jpg]][[Nilheim.jpg|Voir]]</span>
 
-<p class="traits">Impassible, Réservé, Prudent </p>
+<p class="physique"><span>Physique:</span> Impassible, Réservé, Prudent</p>
+<p class="traits"><span>Traits:</span> Impassible, Réservé, Prudent</p>
 
 Membre des [[Capes Jaunes]] depuis 6 ans, il a joint la guilde dans le but de survivre dans un monde où il ne trouvait plus sa place. Il arbore d'étranges brûlures sur le corps et aimerait en comprendre la signification.
 ```

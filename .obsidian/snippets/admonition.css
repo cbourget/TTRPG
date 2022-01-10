@@ -22,16 +22,16 @@
 }
 
 /* Desc */
-span.image {
+.admonition-desc .admonition-content span.image {
   margin-right: 16px;
   float: left;
 }
-span.image span,
-span.image a {
+.admonition-desc .admonition-content span.image span,
+.admonition-desc .admonition-content span.image a {
   display: block;
   text-align: center;
 }
-span img {
+.admonition-desc .admonition-content span img {
   border-radius: 25%;
   width: 200px;
   height: 200px;
@@ -39,10 +39,15 @@ span img {
   object-position: 20% 0%;
   box-shadow: rgb(0 0 0 / 16%) 0px 3px 6px, rgb(0 0 0 / 23%) 0px 3px 6px;
   margin: 4px;
-  
 }
-p.traits {
+
+.admonition-desc .admonition-content p.physique,
+.admonition-desc .admonition-content p.traits {
   font-style: italic;
+}
+
+.admonition-desc .admonition-content p.physique span,
+.admonition-desc .admonition-content p.traits span {
   font-weight: bold;
 }
 

@@ -1,5 +1,5 @@
 <%*
-const campaign = tp.user.Campaign().load()
+const campaign = await tp.user.Campaign().load()
 const name = await tp.system.prompt('Enter Name');
 
 await tp.file.move(`${campaign.name}/2 - Campagne/Scenarios/${name}`);

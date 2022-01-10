@@ -20,7 +20,7 @@ const RACES = [
 const Campaign = () => ({
   name: null,
 
-  load: async (tp) => {
+  load: async function (tp) {
     if (!this.name && CAMPAINGS.length === 1) {
       this.name = CAMPAINGS[0]
     }
@@ -30,14 +30,11 @@ const Campaign = () => ({
     }
 
     const choice = await tp.system.suggester(CAMPAINGS, CAMPAINGS)
-    if (!choice) {
-      choice = CAMPAINGS[0]
-    }
-    this.name = choice
+    this.name = choice || CAMPAINGS[0]
     return this
   },
 
-  chooseCampaign: async (tp) => {
+  chooseCampaign: async function (tp) {
     const choice = await tp.system.suggester(GENDERS, GENDERS)
     if (!choice) {
       return 'Homme'
@@ -45,7 +42,7 @@ const Campaign = () => ({
     return choice
   },
 
-  chooseGender: async (tp) => {
+  chooseGender: async function (tp) {
     const choice = await tp.system.suggester(GENDERS, GENDERS)
     if (!choice) {
       return 'Homme'
@@ -53,7 +50,7 @@ const Campaign = () => ({
     return choice
   },
 
-  chooseRace: async (tp) => {
+  chooseRace: async function (tp) {
     const choice = await tp.system.suggester(RACES, RACES)
     if (!choice) {
       return 'Humain'

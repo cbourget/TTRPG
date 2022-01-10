@@ -1,5 +1,5 @@
 <%*
-const campaign = tp.user.Campaign().load()
+const campaign = await tp.user.Campaign().load()
 const utils = tp.user.Utils();
 const name = await tp.system.prompt('Enter Name');
 const id = utils.kebabCase(name);
