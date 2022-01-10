@@ -41,14 +41,8 @@
   margin: 4px;
 }
 
-.admonition-desc .admonition-content p.physique,
-.admonition-desc .admonition-content p.traits {
+.admonition-desc .admonition-content p.desc-item {
   font-style: italic;
-}
-
-.admonition-desc .admonition-content p.physique span,
-.admonition-desc .admonition-content p.traits span {
-  font-weight: bold;
 }
 
 @media print {
