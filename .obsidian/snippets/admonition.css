@@ -41,8 +41,8 @@
   margin: 4px;
 }
 
-.admonition-desc .admonition-content p.desc-item {
-  font-style: italic;
+.admonition-desc .admonition-content p.desc-item span {
+  font-weight: bold;
 }
 
 @media print {

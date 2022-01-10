@@ -5,7 +5,7 @@ tags: Faction Capes-Jaunes
 ---
 
 # Capes Jaunes
-<span class="nav">[Statistiques](#Statistiques) [Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Secrets](#Secrets)</span>
+<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Secrets](#Secrets)</span>
 
 ```ad-desc
 

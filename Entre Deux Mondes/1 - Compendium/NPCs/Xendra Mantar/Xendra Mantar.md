@@ -1,7 +1,7 @@
 
 ---
 cssclass: 'npc'
-tags: NPC Capes-Jaunes Syndic-Des-Marchands
+tags: NPC Mantar Capes-Jaunes Syndic-Des-Marchands
 ---
 <span class="npc-tags">#Humain #Femme</span>
 
@@ -13,7 +13,7 @@ tags: NPC Capes-Jaunes Syndic-Des-Marchands
 <span class="image">![[Xendra Mantar.jpg]][[Xendra Mantar.jpg|Voir]]</span>
 
 <p class="desc-item"><span>Apparence: </span>Grande, Beauté envoutante, Intimidante, Fais de courts ou longs mouvements souples lorsqu'elle parle</p>
-<p class="desc-item"><span>Traits: </span> Alerte, Pragmatique, Grance confiance en elle, Difficilement impressionable, Elle est généralement traitée en reine par les hommes mais ceux qui ne la traite pas ainsi l'intigue davantage, Elle supporte difficilement l'échec de sa guilde dans sa dernière mission et elle en est devenue plus colérique et aggressive qu'à l'habitude. </p>
+<p class="desc-item"><span>Traits: </span> Alerte, Pragmatique, Grance confiance en elle, Difficilement impressionable, Elle est généralement traitée en reine par les hommes mais ceux qui ne la traite pas ainsi l'intigue davantage, Elle supporte difficilement l'échec de sa guilde dans sa dernière mission et elle en est devenue plus colérique qu'à l'habitude. </p>
 
 Membre des [[Capes Jaunes]] depuis plusieurs années, elle a choisit une voie différente de sa famille pour accroître ses talents de magicienne. Elle croit que que la théorie est inutile si elle n'est pas mise en pratique.
 ```
@@ -25,9 +25,7 @@ Membre des [[Capes Jaunes]] depuis plusieurs années, elle a choisit une voie di
 <span class="embed-section">![[Syndic Des Marchands#Objectifs]]</span>
 
 ## Détails
-Xendra a passé sa jeunesse dans les bibliothèques et académies, comme le veut la tradition de la famille [[Mantar]]. Inspirée par les récits de son ancêtre [[Izalith Mantar]], elle décida de partir voir le monde au tournant de ses 14 ans. Éventuellement, elle s'engagea dans les [[Capes Jaunes]] car cela lui permettait de gagner sa vie en plus de lui offrir une certaine protection face aux sorciers qui n'apprécient pad qu'elle aie acquise de tels pouvoirs.
-
-Elle supporte difficilement l'échec de sa guilde dans sa dernière mission et elle en est devenue plus colérique et aggressive qu'à l'habitude. 
+Xendra a passé sa jeunesse dans les bibliothèques et académies, comme le veut la tradition de la famille [[Mantar]]. Inspirée par les récits de son ancêtre [[Izalith Mantar]], elle décida de partir voir le monde au tournant de ses 14 ans. Éventuellement, elle s'engagea dans les [[Capes Jaunes]] car cela lui permettait de gagner sa vie en plus de lui offrir une certaine protection face aux sorciers qui n'apprécient pas qu'elle aie acquise de tels pouvoirs.
 
 ## Relations
 - Membre des [[Capes Jaunes]].

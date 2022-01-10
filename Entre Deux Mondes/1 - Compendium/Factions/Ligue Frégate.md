@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ```
 
 ## Objectifs
-- [x] S'enrichir
+- [ ] S'enrichir
 - [ ] Établir une voie maritime vers [[Nostaria]]
 
 ## Détails

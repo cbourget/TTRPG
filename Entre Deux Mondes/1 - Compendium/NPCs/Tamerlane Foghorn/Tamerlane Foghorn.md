@@ -12,10 +12,10 @@ tags: NPC Foghorn
 
 <span class="image">![[Tamerlane Foghorn.jpg]][[Tamerlane Foghorn.jpg|Voir]]</span>
 
-<p class="desc-item"><span>Apparence:</span> Vigoureux , D'apprence jeune malgré son âge, Regard pesant</p>
+<p class="desc-item"><span>Apparence:</span> Vigoureux , D'apparence jeune malgré son âge, Regard lourd</p>
 <p class="desc-item"><span>Traits:</span> Impassible, Pragmatique, Analytique, Prêt à écouter toute information pouvant lui être utile</p>
 
-Le frère et bras droit d'[[Alaric Foghorn]]. Sa réputation de mercenaire d'exception a contribue au prestige de sa famille. Il n'hésite pas à faire ce qui est nécessaire pour atteindre ses objectifs. Il est au courant de tout ce qui se passe à [[Brevoy]] et n'hésite pas à tirer quelques ficelles lorsque cela est dans l'intérêt de [[Brevoy]] et de sa famille. 
+Le frère et bras droit d'[[Alaric Foghorn]]. Sa réputation de mercenaire d'exception a contribué au prestige de sa famille. Il n'hésite pas à faire ce qui est nécessaire pour atteindre ses objectifs. Il est au courant de tout ce qui se passe à [[Brevoy]] et tire parfois quelques ficelles lorsque cela est dans l'intérêt de [[Brevoy]] et de sa famille. 
 ```
 
 ## Objectifs
@@ -25,8 +25,6 @@ Le frère et bras droit d'[[Alaric Foghorn]]. Sa réputation de mercenaire d'exc
 
 ### Foghorn
 <span class="embed-section">![[Foghorn#Objectifs]]</span>
-
-
 
 ## Détails
 Tarmerlane éprouve depuis longtemps une haine viscérale envers les sorciers, particulièrement ceux des des puissantes familles [[Estelmer]] et [[Ilvastar]]. Les problèmes que vivent ces deux familles sont pour lui une opportunité d'accroître l'influence de sa famille.
