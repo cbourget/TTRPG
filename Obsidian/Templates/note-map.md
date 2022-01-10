@@ -7,6 +7,12 @@ const id = utils.kebabCase(name);
 await tp.file.move(`${campaign.name}/1 - Compendium/Lieux/${name}`);
 -%>
 
+---
+
+cssclass: 'map'
+
+---
+
 ```leaflet
 id:  <% id %>
 image: [[Image.jpg]]

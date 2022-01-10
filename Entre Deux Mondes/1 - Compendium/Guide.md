@@ -33,5 +33,5 @@ cssclass: 'aggregate'
 <span class="embed-note page-break">![[Roy Larg]]</span>
 <span class="embed-note page-break">![[Tamerlane Foghorn]]</span>
 <span class="embed-note page-break">![[Vonnder Cragmire]]</span>
-<span class="embed-note page-break">![[Wilhelm]]</span>
+<span class="embed-note page-break">![[Wilhelm Oberon]]</span>
 <span class="embed-note page-break">![[Xendra Mantar]]</span>

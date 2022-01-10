@@ -5,7 +5,7 @@ tags: NPC Église-Osiron
 ---
 <span class="npc-tags">#Humain #Homme</span>
 
-# Wilheim
+# Wilhelm Oberon
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Statistiques](#Statistiques) [Secrets](#Secrets)</span>
 
 ```ad-desc

@@ -1,7 +1,7 @@
 
 ---
 cssclass: 'npc'
-tags: NPC Abadar
+tags: NPC Non-Affilié Abadar
 ---
 <span class="npc-tags">#Nain #Homme</span>
 

@@ -13,14 +13,15 @@ tags: NPC Capes-Jaunes Syndic-Des-Marchands
 <span class="image">![[Nilheim.jpg]][[Nilheim.jpg|Voir]]</span>
 
 <p class="desc-item"><span>Apparence:</span> Élancé, Peau blême, Regard profond, Armure d'écailles et brassard couvrant tout son corps</p>
-<p class="desc-item"><span>Traits:</span> Impassible, Réservé, Prudent</p>
+<p class="desc-item"><span>Traits:</span> Impassible, Réservé, Prudent, Devient agressif lorsqu'on lui parle de ses cicatrices</p>
 
-Membre des [[Capes Jaunes]] depuis 6 ans, il a joint la guilde dans le but de survivre dans un monde où il ne trouvait plus sa place. Il arbore d'étranges brûlures sur le corps et aimerait en comprendre la signification.
+Membre des [[Capes Jaunes]] depuis quelques années, il a joint la guilde dans le but de survivre dans un monde où il ne trouvait plus sa place. Il arbore d'étranges brûlures sur le corps et aimerait en comprendre la signification.
 ```
 
 ## Objectifs
-<span class="embed-section">![[Syndic Des Marchands#Objectifs]]</span>
 - [ ] Comprendre la signification de ses brûlures.
+### Syndic des Marchands
+<span class="embed-section">![[Syndic Des Marchands#Objectifs]]</span>
 
 ## Détails
 Lorsqu'il était jeune, Nilheim avait des épisodes lors desquels il n'était pas conscient et se mettait à agir de façon incontrôlée. Pendant ces épisodes, il se mettait à dessiner des symboles incompréhensibles. Lorsque ses parents lui refusèrent l'accès à une plume et du papier, il se mit à dessiner sur son propre corps avec la flamme d'une bougie.
@@ -30,7 +31,9 @@ Dépourvus face à la condition de leur fils, les parents de Nilheim le confièr
 C'est finalement [[Xendra Mantar]] qui l'invita à rejoindre les [[Capes Jaunes]] après qu'ils se fût croisés à quelques reprises dans le [[3 - Quartier de la Culture|Quartier de la Culture]], où Nilheim cherchait à en apprendre plus sur les mystérieux symboles qu'il arbore.
 
 ## Relations
-- Travaille pour la [[Guilde Marchande]]
+- Membre des [[Capes Jaunes]]
+- Engagé par la [[Guilde Marchande]]
+- Sa discrétion lui vaut de ne pas avoir d'ennemis mais certains membres de l'[[Église d'Osiron]] ont une amrtume palpable à son égard.
 
 ## Statistiques
 

@@ -25,5 +25,5 @@ L'intendant qui dirige [[Brevoy]].
 ## Relations
 
 ## Statistiques
-<iframe src="https://pathfinderdashboard.com/Creatures/Adept.html" allow="fullscreen" style="height:100%;width:100%; aspect-ratio: 16 / 9;"></iframe>
+
 ## Secrets

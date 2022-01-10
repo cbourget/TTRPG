@@ -33,5 +33,5 @@ cssclass: 'aggregate'
 <span class="embed-note">[[Roy Larg]]</span>
 <span class="embed-note">[[Tamerlane Foghorn]]</span>
 <span class="embed-note">[[Vonnder Cragmire]]</span>
-<span class="embed-note">[[Wilhelm]]</span>
+<span class="embed-note">[[Wilhelm Oberon]]</span>
 <span class="embed-note">[[Xendra Mantar]]</span>

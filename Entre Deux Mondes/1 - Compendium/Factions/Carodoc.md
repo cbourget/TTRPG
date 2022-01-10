@@ -1,7 +1,7 @@
 
 ---
 
-cssclass: 'npc'
+cssclass: 'faction'
 tags: Faction Carodoc
 
 ---
@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ```
 
 ## Objectifs
-![[Ligue Frégate#Objectifs]]
+<span class="embed-section"> ![[Ligue Frégate#Objectifs]]</span>
 
 ## Détails
 

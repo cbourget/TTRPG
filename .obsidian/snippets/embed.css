@@ -10,7 +10,7 @@
 .embed-note .file-embed,
 .embed-section .markdown-embed,
 .embed-section .file-embed {
-  /* border: none !important; */
+  border: none !important;
   padding: 0 !important;
   margin: 0 !important;
 }

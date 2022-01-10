@@ -1,6 +1,6 @@
 
 ---
-cssclass: 'npc'
+cssclass: 'faction'
 tags: Faction Capes-Jaunes
 ---
 

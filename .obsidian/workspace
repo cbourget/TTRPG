@@ -4,24 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7bbcbda310bdb5ca",
+        "id": "7faff0b58abd2fa4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Entre Deux Mondes/1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "733a736e08e0437f",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.jpg"
           }
         }
       }
@@ -131,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7bbcbda310bdb5ca",
+  "active": "7faff0b58abd2fa4",
   "lastOpenFiles": [
     "Entre Deux Mondes/1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.md",
-    "Entre Deux Mondes/1 - Compendium/Concepts/Ilvastar.md",
-    "Entre Deux Mondes/1 - Compendium/Concepts/Estelmer.md",
-    "Entre Deux Mondes/1 - Compendium/Concepts/Duriens.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
     "Entre Deux Mondes/1 - Compendium/NPCs/Nilheim/Nilheim.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.jpg",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Nilheim/Nilheim.jpg",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Jormun/Jormun.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Gareth/Gareth.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md"
+    "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md",
+    "Obsidian/Templates/embed-secrets.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.jpg",
+    "Entre Deux Mondes/1 - Compendium/Concepts/null.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.md",
+    "Entre Deux Mondes/1 - Compendium/Factions/Mantar.md",
+    "Entre Deux Mondes/1 - Compendium/Factions/Cragmire.md"
   ]
 }

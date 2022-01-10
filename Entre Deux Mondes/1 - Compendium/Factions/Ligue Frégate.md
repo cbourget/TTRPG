@@ -1,7 +1,7 @@
 
 ---
 
-cssclass: 'npc'
+cssclass: 'faction'
 tags: Faction Ligue-Frégate
 
 ---
@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ```
 
 ## Objectifs
-- [ ] S'enrichir
+- [x] S'enrichir
 - [ ] Établir une voie maritime vers [[Nostaria]]
 
 ## Détails

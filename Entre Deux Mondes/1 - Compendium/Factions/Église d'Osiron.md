@@ -1,7 +1,7 @@
 
 ---
 
-cssclass: 'npc'
+cssclass: 'faction'
 tags: Faction Église-Osiron
 
 ---

@@ -1,7 +1,7 @@
 
 ---
 cssclass: 'npc'
-tags: NPC
+tags: NPC Non-Affilié
 ---
 <span class="npc-tags">#Humain #Homme</span>
 

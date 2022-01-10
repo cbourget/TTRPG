@@ -10,7 +10,7 @@ await tp.file.move(`${campaign.name}/1 - Compendium/Factions/${name}`);
 
 ---
 
-cssclass: 'npc'
+cssclass: 'faction'
 tags: Faction <% tag %>
 
 ---

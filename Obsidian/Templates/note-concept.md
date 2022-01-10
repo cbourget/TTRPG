@@ -7,7 +7,7 @@ await tp.file.move(`${campaign.name}/1 - Compendium/Concepts/${name}`);
 
 ---
 
-cssclass: ''
+cssclass: 'concept'
 
 ---
 
