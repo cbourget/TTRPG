@@ -12,12 +12,12 @@ tags: NPC Foghorn
 
 <span class="image">![[Tamerlane Foghorn.jpg]][[Tamerlane Foghorn.jpg|Voir]]</span>
 
-<p class="desc-item"><span>Apparence:</span> Vigoureux , D'apparence jeune malgré son âge, Regard lourd</p>
-<p class="desc-item"><span>Traits:</span> Impassible, Pragmatique, Analytique, Prêt à écouter toute information pouvant lui être utile</p>
-
-Le frère et bras droit d'[[Alaric Foghorn]]. Sa réputation de mercenaire d'exception a contribué au prestige de sa famille. Il n'hésite pas à faire ce qui est nécessaire pour atteindre ses objectifs. Il est au courant de tout ce qui se passe à [[Brevoy]] et tire parfois quelques ficelles lorsque cela est dans l'intérêt de [[Brevoy]] et de sa famille. 
+<p class="desc-item"><span>Physique: </span> Vigoureux , D'apparence jeune malgré son âge, Regard lourd</p>
+<p class="desc-item"><span>Caractère: </span> Impassible, Pragmatique, Analytique, Prêt à écouter toute information pouvant lui être utile</p>
+<p class="desc-item"><span>Croyances: </span> Inconnu</p>
 ```
-
+---
+Le frère et bras droit d'[[Alaric Foghorn]]. Sa réputation de mercenaire d'exception a contribué au prestige de sa famille. Il n'hésite pas à faire ce qui est nécessaire pour atteindre ses objectifs. Il est au courant de tout ce qui se passe à [[Brevoy]] et tire parfois quelques ficelles lorsque cela est dans l'intérêt de [[Brevoy]] et de sa famille. 
 ## Objectifs
 - [ ] Faire en sorte que les [[Estelmer]] et [[Ilvastar]] échouent dans leur tentative de guérir l'affliction qui les prive de leur magie.
 - [ ] Trouver une façon de de soumettre la famille [[Cragmire]].

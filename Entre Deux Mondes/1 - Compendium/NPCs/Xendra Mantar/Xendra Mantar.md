@@ -12,11 +12,17 @@ tags: NPC Mantar Capes-Jaunes Syndic-Des-Marchands
 
 <span class="image">![[Xendra Mantar.jpg]][[Xendra Mantar.jpg|Voir]]</span>
 
-<p class="desc-item"><span>Apparence: </span>Grande, Beauté envoutante, Intimidante, Fais de courts ou longs mouvements souples lorsqu'elle parle</p>
-<p class="desc-item"><span>Traits: </span> Alerte, Pragmatique, Grance confiance en elle, Difficilement impressionable, Elle est généralement traitée en reine par les hommes mais ceux qui ne la traite pas ainsi l'intigue davantage, Elle supporte difficilement l'échec de sa guilde dans sa dernière mission et elle en est devenue plus colérique qu'à l'habitude. </p>
+<p class="desc-item"><span>Physique: </span>Grande, Beauté envoutante, Intimidante, Fais de courts ou longs mouvements souples lorsqu'elle parle</p>
+
+<p class="desc-item"><span>Caractère: </span> Alerte, Pragmatique, Grance confiance en elle, Difficilement impressionable, Elle supporte difficilement l'échec de sa guilde dans sa dernière mission et elle en est devenue plus colérique qu'à l'habitude. </p>
+
+<p class="desc-item"><span>Croyances: </span>Inconnu</p>
+
+```
+
+---
 
 Membre des [[Capes Jaunes]] depuis plusieurs années, elle a choisit une voie différente de sa famille pour accroître ses talents de magicienne. Elle croit que que la théorie est inutile si elle n'est pas mise en pratique.
-```
 
 ## Objectifs
 - [ ] Elle aimerait comprendre pourquoi son ancêtre [[Izalith Mantar]] n'est jamais revenue car elle est convaincue qu'elle a fait une importante découverte.

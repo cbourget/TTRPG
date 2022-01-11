@@ -12,11 +12,15 @@ tags: NPC Capes-Jaunes Syndic-Des-Marchands
 
 <span class="image">![[Nilheim.jpg]][[Nilheim.jpg|Voir]]</span>
 
-<p class="desc-item"><span>Apparence:</span> Élancé, Peau blême, Regard profond, Armure d'écailles et brassard couvrant tout son corps</p>
-<p class="desc-item"><span>Traits:</span> Impassible, Réservé, Prudent, Devient agressif lorsqu'on lui parle de ses cicatrices</p>
+<p class="desc-item"><span>Apparence: </span> Élancé, Peau blême, Regard profond, Armure d'écailles et brassard couvrant tout son corps</p>
+<p class="desc-item"><span>Caractère :</span> Impassible, Réservé, Prudent, Devient agressif lorsqu'on lui parle de ses cicatrices</p>
+<p class="desc-item"><span>Croyances: </span> Inconnu </p>
+
+
+```
+---
 
 Membre des [[Capes Jaunes]] depuis quelques années, il a joint la guilde dans le but de survivre dans un monde où il ne trouvait plus sa place. Il arbore d'étranges brûlures sur le corps et aimerait en comprendre la signification.
-```
 
 ## Objectifs
 - [ ] Comprendre la signification de ses brûlures.

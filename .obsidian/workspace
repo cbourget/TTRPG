@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Entre Deux Mondes/1 - Compendium/Factions.md",
+            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/Factions.md",
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/Factions.md"
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/Factions.md",
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,15 +123,15 @@
   },
   "active": "7faff0b58abd2fa4",
   "lastOpenFiles": [
+    "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Nilheim/Nilheim.md",
+    "Entre Deux Mondes/1 - Compendium/Factions/Cragmire.md",
+    "Entre Deux Mondes/1 - Compendium/Factions/Carodoc.md",
+    "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Hossulim/Hossulim.md",
     "Entre Deux Mondes/1 - Compendium/Factions.md",
     "Entre Deux Mondes/1 - Compendium/Factions/Syndic Des Marchands.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Non-Affilié.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Mantar.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Ligue Frégate.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Ilvastar.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Guilde Marchande.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Foghorn.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Estelmer.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Église d'Osiron.md"
+    "Entre Deux Mondes/1 - Compendium/Factions/Non-Affilié.md"
   ]
 }
