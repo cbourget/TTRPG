@@ -7,11 +7,9 @@
         "id": "7faff0b58abd2fa4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
-            "mode": "preview",
-            "source": false
+            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.jpg"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.jpg"
               }
             }
           },
@@ -107,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,15 +121,15 @@
   },
   "active": "7faff0b58abd2fa4",
   "lastOpenFiles": [
+    "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Cloaked Guy.jpg",
     "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Vonnder Cragmire/Vonnder Cragmire.md",
     "Entre Deux Mondes/1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Nilheim/Nilheim.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Cragmire.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Carodoc.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Hossulim/Hossulim.md",
-    "Entre Deux Mondes/1 - Compendium/Factions.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Syndic Des Marchands.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Non-Affilié.md"
+    "Entre Deux Mondes/1 - Compendium/NPCs/Roy Larg/Roy Larg.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Ronzu/Ronzu.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Randal Carodoc/Randal Carodoc.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Nilheim/Nilheim.md"
   ]
 }

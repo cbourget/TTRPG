@@ -1,7 +1,7 @@
 
 ---
 cssclass: 'npc'
-tags: NPC Église-Osiron
+tags: NPC Oberon Église-Osiron
 ---
 <span class="npc-tags">#Humain #Homme</span>
 
@@ -10,7 +10,7 @@ tags: NPC Église-Osiron
 
 ```ad-desc
 
-<span class="image">![[Wilhelm.jpg]][[Wilhelm.jpg|Voir]]</span>
+<span class="image">![[Wilhelm Oberon.jpg]][[Wilhelm Oberon.jpg|Voir]]</span>
 
 <p class="traits">Lorem, Ipsum</p>
 
