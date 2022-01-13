@@ -3,24 +3,24 @@
 cssclass: 'npc'
 tags: NPC Capes-Jaunes Syndic-Des-Marchands 
 ---
-<span class="npc-tags">#Demi-Elfe #Homme</span>
+<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Statistiques](#Statistiques) [Secrets](#Secrets)</span>
 
 # Nilheim
-<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Statistiques](#Statistiques) [Secrets](#Secrets)</span>
+<span class="npc-tags">#Demi-Elfe #Homme</span>
+
 
 ```ad-desc
 
 <span class="image">![[Nilheim.jpg]][[Nilheim.jpg|Voir]]</span>
 
+Membre des [[Capes Jaunes]] depuis quelques années, il a joint la guilde dans le but de survivre dans un monde où il ne trouvait plus sa place. Il arbore d'étranges brûlures sur le corps et aimerait en comprendre la signification.
+
+```
+
+## Description
 <p class="desc-item"><span>Apparence: </span> Élancé, Peau blême, Regard profond, Armure d'écailles et brassard couvrant tout son corps</p>
 <p class="desc-item"><span>Caractère :</span> Impassible, Réservé, Prudent, Devient agressif lorsqu'on lui parle de ses cicatrices</p>
 <p class="desc-item"><span>Croyances: </span> Inconnu </p>
-
-
-```
----
-
-Membre des [[Capes Jaunes]] depuis quelques années, il a joint la guilde dans le but de survivre dans un monde où il ne trouvait plus sa place. Il arbore d'étranges brûlures sur le corps et aimerait en comprendre la signification.
 
 ## Objectifs
 - [ ] Comprendre la signification de ses brûlures.

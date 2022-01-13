@@ -7,7 +7,7 @@
   },
   "attachmentFolderPath": "Obsidian/Attachments",
   "alwaysUpdateLinks": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "defaultViewMode": "preview",
   "foldHeading": true,
   "spellcheck": false,

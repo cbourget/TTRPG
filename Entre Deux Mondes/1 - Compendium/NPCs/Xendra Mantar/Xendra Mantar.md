@@ -3,26 +3,23 @@
 cssclass: 'npc'
 tags: NPC Mantar Capes-Jaunes Syndic-Des-Marchands
 ---
-<span class="npc-tags">#Humain #Femme</span>
-
-# Xendra Mantar
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Statistiques](#Statistiques) [Secrets](#Secrets)</span>
 
-```ad-desc
-
-<span class="image">![[Xendra Mantar.jpg]][[Xendra Mantar.jpg|Voir]]</span>
-
-<p class="desc-item"><span>Physique: </span>Grande, Beauté envoutante, Intimidante, Fais de courts ou longs mouvements souples lorsqu'elle parle</p>
-
-<p class="desc-item"><span>Caractère: </span> Alerte, Pragmatique, Grance confiance en elle, Difficilement impressionable, Elle supporte difficilement l'échec de sa guilde dans sa dernière mission et elle en est devenue plus colérique qu'à l'habitude. </p>
-
-<p class="desc-item"><span>Croyances: </span>Inconnu</p>
-
-```
-
----
+# Xendra Mantar
+<span class="npc-tags">#Humain #Femme</span>
 
 Membre des [[Capes Jaunes]] depuis plusieurs années, elle a choisit une voie différente de sa famille pour accroître ses talents de magicienne. Elle croit que que la théorie est inutile si elle n'est pas mise en pratique.
+
+```ad-desc
+<span class="image">![[Xendra Mantar.jpg]][[Xendra Mantar.jpg|Voir]]</span>
+
+<span>Membre des [[Capes Jaunes]] depuis plusieurs années, elle a choisit une voie différente de sa famille pour accroître ses talents de magicienne. Elle croit que que la théorie est inutile si elle n'est pas mise en pratique.</span>
+```
+
+## Description
+Physique: Grande, Beauté envoutante, Intimidante, Fais de courts ou longs mouvements souples lorsqu'elle parle
+
+Caractère: Alerte, Pragmatique, Grance confiance en elle, Difficilement impressionable, Elle supporte difficilement l'échec de sa guilde dans sa dernière mission et elle en est devenue plus colérique qu'à l'habitude.
 
 ## Objectifs
 - [ ] Elle aimerait comprendre pourquoi son ancêtre [[Izalith Mantar]] n'est jamais revenue car elle est convaincue qu'elle a fait une importante découverte.
