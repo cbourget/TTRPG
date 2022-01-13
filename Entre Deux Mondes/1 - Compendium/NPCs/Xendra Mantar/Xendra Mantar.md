@@ -23,8 +23,8 @@ tags: NPC Mantar Capes-Jaunes Syndic-Des-Marchands
 - [ ] Elle aimerait comprendre pourquoi son ancêtre [[Izalith Mantar]] n'est jamais revenue car elle est convaincue qu'elle a fait une importante découverte.
 - [ ] Venger l'affront subit lors de la dernières missions.
 
-[[Syndic Des Marchands#Objectifs]]
-	<span class="embed-section">![[Syndic Des Marchands#Objectifs]]</span>
+<span class="tab">[[Syndic Des Marchands#Objectifs]]</span>
+<span class="embed-section tab">![[Syndic Des Marchands#Objectifs]]</span>
 
 ## Détails
 Xendra a passé sa jeunesse dans les bibliothèques et académies, comme le veut la tradition de la famille [[Mantar]]. Inspirée par les récits de son ancêtre [[Izalith Mantar]], elle décida de partir voir le monde au tournant de ses 14 ans. Éventuellement, elle s'engagea dans les [[Capes Jaunes]] car cela lui permettait de gagner sa vie en plus de lui offrir une certaine protection face aux sorciers qui n'apprécient pas qu'elle aie acquise de tels pouvoirs.

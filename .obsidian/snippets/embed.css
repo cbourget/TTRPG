@@ -1,3 +1,8 @@
+.embed-note,
+.embed-section {
+  display: block;
+}
+
 /* Remove note title and metadata */
 .embed-note .markdown-embed-title,
 .embed-note .obsidian-metatable {

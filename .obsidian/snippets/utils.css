@@ -9,3 +9,7 @@
   display: block;
   page-break-after: always;
 }
+
+.tab {
+  padding-left: 20px;
+}
