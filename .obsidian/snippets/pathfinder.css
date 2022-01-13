@@ -10,7 +10,7 @@ h1, h2, h3 {
   font-weight: 400;
 }
 h1 {
-  border-bottom: 1px solid back;
+  border-bottom: 1px solid black;
 }
 h2 {
   color:#051b52;
