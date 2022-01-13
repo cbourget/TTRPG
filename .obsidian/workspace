@@ -7,9 +7,11 @@
         "id": "7faff0b58abd2fa4",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.jpg"
+            "file": "Entre Deux Mondes/1 - Compendium/Index.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.jpg",
+                "file": "Entre Deux Mondes/1 - Compendium/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.jpg"
+                "file": "Entre Deux Mondes/1 - Compendium/Index.md"
               }
             }
           },
@@ -105,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.jpg",
+                "file": "Entre Deux Mondes/1 - Compendium/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,15 +123,15 @@
   },
   "active": "7faff0b58abd2fa4",
   "lastOpenFiles": [
+    "Entre Deux Mondes/1 - Compendium/Index.md",
+    "Entre Deux Mondes/1 - Compendium/Factions.md",
+    "Entre Deux Mondes/1 - Compendium/Guide.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Grog/Grog.md",
+    "Obsidian/Templates/embed-stats.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.md",
     "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.jpg",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Cloaked Guy.jpg",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Vonnder Cragmire/Vonnder Cragmire.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Roy Larg/Roy Larg.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Ronzu/Ronzu.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Randal Carodoc/Randal Carodoc.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Nilheim/Nilheim.md"
+    "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md",
+    "Entre Deux Mondes/1 - Compendium/Lieux/Brevoy/1 - Port/1 - Port.md",
+    "Entre Deux Mondes/1 - Compendium/Lieux/Brevoy/0 - Brevoy/0 - Brevoy.md"
   ]
 }

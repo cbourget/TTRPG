@@ -25,5 +25,5 @@ Discple d'Abadar qui suit une étoile qu'il croit être un signe de son dieu.
 ## Relations
 
 ## Statistiques
-
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Assassin.html"></iframe>
 ## Secrets
