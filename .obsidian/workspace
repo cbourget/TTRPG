@@ -7,11 +7,9 @@
         "id": "da4641846e5508c9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
-            "mode": "preview",
-            "source": false
+            "file": "Images/ImminarMap.jpg"
           }
         }
       }
@@ -25,6 +23,7 @@
       {
         "id": "d0cd6f862b299ff8",
         "type": "tabs",
+        "dimension": 74.45328031809146,
         "children": [
           {
             "id": "a926cbb9d2f4badf",
@@ -50,6 +49,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "92167755dfd6ebc0",
+        "type": "tabs",
+        "dimension": 25.54671968190855,
+        "children": [
+          {
+            "id": "d41d8b8630bc95e2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
+                "file": "Images/ImminarMap.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
+                "file": "Images/ImminarMap.jpg"
               }
             }
           },
@@ -107,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
+                "file": "Images/ImminarMap.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,15 +136,15 @@
   },
   "active": "da4641846e5508c9",
   "lastOpenFiles": [
-    "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Syndic Des Marchands.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Nilheim/Nilheim.md",
-    "Entre Deux Mondes/1 - Compendium/Index.md",
-    "Entre Deux Mondes/1 - Compendium/Factions.md",
-    "Entre Deux Mondes/1 - Compendium/Guide.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Grog/Grog.md",
-    "Obsidian/Templates/embed-stats.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.md"
+    "Images/ImminarMap.jpg",
+    "Images/XendrikHex.jpeg",
+    "Images/WorldMap.jpg",
+    "Images/Khorvaire2.jpg",
+    "Images/Khorvaire.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Frya Cragmire/Frya Cragmire.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Aruspice/Aruspice.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md"
   ]
 }
