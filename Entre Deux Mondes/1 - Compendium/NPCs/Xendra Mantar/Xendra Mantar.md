@@ -3,7 +3,7 @@
 cssclass: 'npc'
 tags: NPC Mantar Capes-Jaunes Syndic-Des-Marchands
 ---
-<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Statistiques](#Statistiques) [Secrets](#Secrets) [Relations](#Relations) </span>
+<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
 # Xendra Mantar
 ```ad-desc
@@ -39,6 +39,6 @@ Xendra a passé sa jeunesse dans les bibliothèques et académies, comme le veut
 | [[Ciel Phantomhive]], [[Gareth]] et [[Jormun]]                         | Elle ne les croit pas coupables de dont ils sont accusés simplement car elle ne les croit pas assez intelligents pour tirer profit d'une telle information privilégiée si elle était tombée entre leurs mains.                                                                                                       |
 
 ## Secrets
-<strong>Arcane: </strong> Les mouvements qu'elle fait quand elle parle s'apparentent à un invocation. Ces mouvements lui confèrent un temps de réaction accru pour lancer un sort et il se peut même qu'elle en lance de façon déguisée en pleine conversation.
+- <strong>Arcane: </strong> Les mouvements qu'elle fait quand elle parle s'apparentent à un invocation. Ces mouvements lui confèrent un temps de réaction accru pour lancer un sort et il se peut même qu'elle en lance de façon déguisée en pleine conversation.
 
 ## Statistiques

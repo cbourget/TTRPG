@@ -3,28 +3,37 @@
 cssclass: 'npc'
 tags: NPC Guilde-Marchande
 ---
-<span class="npc-tags">#Nain #Homme</span>
+<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
 # Hossulim
-<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Statistiques](#Statistiques) [Secrets](#Secrets)</span>
-
 ```ad-desc
 
 <span class="image">![[Hossulim.jpg]][[Hossulim.jpg|Voir]]</span>
 
-<p class="traits">Lorem, Ipsum</p>
+<span class="npc-tags">#Nain #Homme</span>
 
-De la guilde marchande.
+<span>Délégué au commerce extérieur de la [[Guilde Marchande]]</span>
+
+<strong>Physique: </strong>
+
+<strong>Caractère: </strong>
 ```
 
 
 ## Objectifs
-<span class="embed-section">![[Guilde Marchande#Objectifs]]</span>
+<span class="tab">[[Guilde Marchande#Objectifs]]</span>
+<span class="embed-section tab">![[Guilde Marchande#Objectifs]]</span>
 
 ## Détails
 
 ## Relations
+| -                        | Relation                            |
+| ------------------------ | ----------------------------------- |
+| [[Guilde Marchande]]     | Membre                              |
+| [[Capes Jaunes]]         | Les a engagés et les traite bien.   |
+| [[Syndic Des Marchands]] | Déteste le [[Syndic Des Marchands]] |
 
-## Statistiques
 
 ## Secrets
+
+## Statistiques

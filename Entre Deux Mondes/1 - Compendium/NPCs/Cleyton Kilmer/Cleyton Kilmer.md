@@ -3,18 +3,19 @@
 cssclass: 'npc'
 tags: NPC Kilmer
 ---
-<span class="npc-tags">#Humain #Homme</span>
+<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
 # Cleyton Kilmer
-<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Statistiques](#Statistiques) [Secrets](#Secrets)</span>
-
 ```ad-desc
-
 <span class="image">![[Cleyton Kilmer.jpg]][[Cleyton Kilmer.jpg|Voir]]</span>
 
-<p class="traits">Lorem, Ipsum</p>
+<span class="npc-tags">#Humain #Homme</span>
 
-Le découvreur du nouveau continent récemment revenu à [[Brevoy]] pour faire part de sa découverte.
+<span>Le découvreur du nouveau continent récemment revenu à [[Brevoy]] pour faire part de sa découverte. Il est très nerveux car il a l'impression d'être suivi depuis son retour. </span>
+
+<strong>Physique: </strong>
+
+<strong>Caractère: </strong>
 ```
 
 ## Objectifs
@@ -23,6 +24,6 @@ Le découvreur du nouveau continent récemment revenu à [[Brevoy]] pour faire p
 
 ## Relations
 
-## Statistiques
-
 ## Secrets
+
+## Statistiques

@@ -1,29 +1,32 @@
 
 ---
 cssclass: 'npc'
-tags: NPC Ligue-Frégate
+tags: NPC Larg Ligue-Frégate
 ---
-<span class="npc-tags">#Humain #Homme</span>
+<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
 # Roy Larg
-<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Statistiques](#Statistiques) [Secrets](#Secrets)</span>
-
 ```ad-desc
 
 <span class="image">![[Roy Larg.jpg]][[Roy Larg.jpg|Voir]]</span>
 
-<p class="traits">Lorem, Ipsum</p>
+<span class="npc-tags">#Humain #FHomme</span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
+<span>Lorem Ipsum</span>
+
+<strong>Physique: </strong>
+
+<strong>Caractère: </strong>
 ```
 
 ## Objectifs
-<span class="embed-section">![[Carodoc#Objectifs]]</span>
+<span class="tab">[[Ligue Frégate#Objectifs]]</span>
+<span class="embed-section tab">![[Ligue Frégate#Objectifs]]</span>
 
 ## Détails
 
 ## Relations
 
-## Statistiques
-
 ## Secrets
+
+## Statistiques

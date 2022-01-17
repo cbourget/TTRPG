@@ -7,9 +7,11 @@
         "id": "da4641846e5508c9",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Images/ImminarMap.jpg"
+            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 340
   },
   "right": {
     "id": "8b329d269e60daa7",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/ImminarMap.jpg",
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/ImminarMap.jpg"
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md"
               }
             }
           },
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/ImminarMap.jpg",
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,19 +134,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "active": "da4641846e5508c9",
   "lastOpenFiles": [
-    "Images/ImminarMap.jpg",
-    "Images/XendrikHex.jpeg",
-    "Images/WorldMap.jpg",
-    "Images/Khorvaire2.jpg",
-    "Images/Khorvaire.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Vonnder Cragmire/Vonnder Cragmire.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Kretiak Cragmire/Kretiak Cragmire.md",
     "Entre Deux Mondes/1 - Compendium/NPCs/Frya Cragmire/Frya Cragmire.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Aruspice/Aruspice.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md"
+    "Entre Deux Mondes/1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Roy Larg/Roy Larg.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Ronzu/Ronzu.md"
   ]
 }

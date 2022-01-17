@@ -3,28 +3,34 @@
 cssclass: 'npc'
 tags: NPC Carodoc Ligue-Frégate
 ---
-<span class="npc-tags">#Humain #Homme</span>
+<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
 # Randal Carodoc
-<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Statistiques](#Statistiques) [Secrets](#Secrets)</span>
-
 ```ad-desc
 
 <span class="image">![[Randal Carodoc.jpg]][[Randal Carodoc.jpg|Voir]]</span>
 
-<p class="traits">Lorem, Ipsum</p>
+<span class="npc-tags">#Humain #Homme</span>
 
-Capitaine du [[Kelpie]].
+<span>Capitaine du [[Kelpie]].</span>
+
+<strong>Physique: </strong>
+
+<strong>Caractère: </strong>
+
 ```
 
 
 ## Objectifs
-<span class="embed-section">![[Carodoc#Objectifs]]</span>
+<span class="tab">[[Carodoc#Objectifs]]</span>
+<span class="embed-section tab">![[Carodoc#Objectifs]]</span>
 
 ## Détails
 
 ## Relations
-
-## Statistiques
+<span class="tab">[[Carodoc#Relations]]</span>
+<span class="embed-section tab">![[Carodoc#Relations]]</span>
 
 ## Secrets
+
+## Statistiques

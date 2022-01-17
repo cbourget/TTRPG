@@ -3,27 +3,33 @@
 cssclass: 'npc'
 tags: NPC Non-Affilié
 ---
-<span class="npc-tags">#Humain #Homme</span>
+<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
 # Jormun
-<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Statistiques](#Statistiques) [Secrets](#Secrets)</span>
-
 ```ad-desc
 
 <span class="image">![[Jormun.jpg]][[Jormun.jpg|Voir]]</span>
 
-<p class="traits">Lorem, Ipsum</p>
+<span class="npc-tags">#Humain #Homme</span>
 
-Ami de [[Ciel Phantomhive]].
+<span>Ami de [[Ciel Phantomhive]].</span>
+
+<strong>Physique: </strong>
+
+<strong>Caractère: </strong>
 ```
 
 ## Objectifs
-- [ ] Prouver son innocence et se refaire une vie.
+- [ ] Prouver son innocence et se refaire une vie ou bien intégrer les [[Capes Jaunes]].
 
 ## Détails
 
 ## Relations
-
-## Statistiques
+| -                        | Relation                                                                                               |
+| ------------------------ | ------------------------------------------------------------------------------------------------------ |
+| [[Capes Jaunes]]         | En a peut car il est recherché par ces derniers mais aimerait intégrer leurs rangs.                                                                                            |
+| [[Ciel Phantomhive]]                         | Ami                                                                                                       |
 
 ## Secrets
+
+## Statistiques

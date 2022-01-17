@@ -3,18 +3,20 @@
 cssclass: 'npc'
 tags: NPC Non-Affilié
 ---
-<span class="npc-tags">#Gnome #Homme</span>
+<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
 # Ronzu
-<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Statistiques](#Statistiques) [Secrets](#Secrets)</span>
-
 ```ad-desc
 
 <span class="image">![[Ronzu.jpg]][[Ronzu.jpg|Voir]]</span>
 
-<p class="traits">Lorem, Ipsum</p>
+<span class="npc-tags">#Gnome #Femme</span>
 
-Cartographe
+<span>Lorem Ipsum</span>
+
+<strong>Physique: </strong>
+
+<strong>Caractère: </strong>
 ```
 
 ## Objectifs
@@ -24,6 +26,6 @@ Cartographe
 
 ## Relations
 
-## Statistiques
-
 ## Secrets
+
+## Statistiques

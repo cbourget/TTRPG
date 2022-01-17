@@ -3,27 +3,32 @@
 cssclass: 'npc'
 tags: NPC Oberon Église-Osiron
 ---
-<span class="npc-tags">#Humain #Homme</span>
+<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
 # Wilhelm Oberon
-<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Statistiques](#Statistiques) [Secrets](#Secrets)</span>
-
 ```ad-desc
 
 <span class="image">![[Wilhelm Oberon.jpg]][[Wilhelm Oberon.jpg|Voir]]</span>
 
-<p class="traits">Lorem, Ipsum</p>
+<span class="npc-tags">#Humain #Homme</span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
+<span>Lorem Ipsum</span>
+
+<strong>Physique: </strong>
+
+<strong>Caractère: </strong>
 ```
 
 ## Objectifs
-<span class="embed-section">![[Église d'Osiron#Objectifs]]</span>
+<span class="tab">[[Église d'Osiron#Objectifs]]</span>
+<span class="embed-section tab">![[Église d'Osiron#Objectifs]]</span>
 
 ## Détails
 
 ## Relations
-
-## Statistiques
+<span class="tab">[[Église d'Osiron#Relations]]</span>
+<span class="embed-section tab">![[Église d'Osiron#Relations]]</span>
 
 ## Secrets
+
+## Statistiques

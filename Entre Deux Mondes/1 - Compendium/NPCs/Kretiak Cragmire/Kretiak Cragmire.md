@@ -3,27 +3,31 @@
 cssclass: 'npc'
 tags: NPC Cragmire
 ---
-<span class="npc-tags">#Humain #Homme</span>
+<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
 # Kretiak Cragmire
-<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Statistiques](#Statistiques) [Secrets](#Secrets)</span>
-
 ```ad-desc
-
 <span class="image">![[Kretiak Cragmire.jpg]][[Kretiak Cragmire.jpg|Voir]]</span>
 
-<p class="traits">Lorem, Ipsum</p>
+<span class="npc-tags">#Humain #FHomme</span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
+<span>Lorem Ipsum</span>
+
+<strong>Physique: </strong>
+
+<strong>Caractère: </strong>
 ```
 
 ## Objectifs
-<span class="embed-section">![[Cragmire#Objectifs]]</span>
+<span class="tab">[[Cragmire#Objectifs]]</span>
+<span class="embed-section tab">![[Cragmire#Objectifs]]</span>
 
 ## Détails
 
 ## Relations
-
-## Statistiques
+<span class="tab">[[Cragmire#Relations]]</span>
+<span class="embed-section tab">![[Cragmire#Relations]]</span>
 
 ## Secrets
+
+## Statistiques

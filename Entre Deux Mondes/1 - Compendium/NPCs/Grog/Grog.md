@@ -3,18 +3,21 @@
 cssclass: 'npc'
 tags: NPC Non-Affilié Abadar
 ---
-<span class="npc-tags">#Nain #Homme</span>
+<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
 # Grog
-<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Statistiques](#Statistiques) [Secrets](#Secrets)</span>
-
 ```ad-desc
 
 <span class="image">![[Grog.jpg]][[Grog.jpg|Voir]]</span>
 
-<p class="traits">Lorem, Ipsum</p>
+<span class="npc-tags">#Nain #Homme</span>
 
-Discple d'Abadar qui suit une étoile qu'il croit être un signe de son dieu.
+<span>Discple d'Abadar qui suit une étoile qu'il croit être un signe de son dieu.</span>
+
+<strong>Physique: </strong>
+
+<strong>Caractère: </strong>
+
 ```
 
 ## Objectifs
@@ -24,6 +27,6 @@ Discple d'Abadar qui suit une étoile qu'il croit être un signe de son dieu.
 
 ## Relations
 
-## Statistiques
-<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Assassin.html"></iframe>
 ## Secrets
+
+## Statistiques
