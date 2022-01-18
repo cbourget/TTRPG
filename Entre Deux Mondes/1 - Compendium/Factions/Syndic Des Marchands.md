@@ -3,10 +3,9 @@
 cssclass: 'faction'
 tags: Faction Syndic-Des-Marchands
 ---
-
-# Syndic Des Marchands
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [NPCs](#NPCs) [Relations](#Relations) [Secrets](#Secrets)</span>
 
+# Syndic Des Marchands
 ```ad-desc
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.

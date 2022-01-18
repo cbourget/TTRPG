@@ -5,17 +5,16 @@ cssclass: 'faction'
 tags: Faction Ligue-Frégate
 
 ---
-
-# Ligue Frégate
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [NPCs](#NPCs) [Relations](#Relations) [Secrets](#Secrets)</span>
 
+# Ligue Frégate
 ```ad-desc
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ```
 
 ## Objectifs
-- [ ] S'enrichir
+- [ ] S'auver la ligue de la faillite et redorer son image
 - [ ] Établir une voie maritime vers [[Nostaria]]
 
 ## Détails

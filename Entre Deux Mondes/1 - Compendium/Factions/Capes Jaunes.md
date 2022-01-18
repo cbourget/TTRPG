@@ -3,10 +3,9 @@
 cssclass: 'faction'
 tags: Faction Capes-Jaunes
 ---
-
-# Capes Jaunes
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Secrets](#Secrets)</span>
 
+# Capes Jaunes
 ```ad-desc
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.

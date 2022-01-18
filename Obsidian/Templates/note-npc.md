@@ -1,6 +1,5 @@
 <%*
 const campaign = await tp.user.Campaign().load();
-console.log(campaign)
 const name = await tp.system.prompt('Enter Name');
 const race = await campaign.chooseRace(tp);
 const gender = await campaign.chooseGender(tp);
@@ -14,16 +13,21 @@ cssclass: 'npc'
 tags: NPC
 
 ---
-<span class="npc-tags">#<% race %> #<% gender %></span>
+<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
 # <% name %>
-<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Statistiques](#Statistiques) [Secrets](#Secrets)</span>
 
 ```ad-desc
 
 <span class="image">![[<% name %>.jpg]][[<% name %>.jpg|Voir]]</span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
+<span class="npc-tags">#<% race %> #<% gender %></span>
+
+<span>Lorem Ipsum</span>
+
+<strong>Physique: </strong>
+
+<strong>Caractère: </strong>
 ```
 
 ## Objectifs
@@ -31,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ## Détails
 
 ## Relations
-	
-## Statistiques
 
 ## Secrets
+
+## Statistiques

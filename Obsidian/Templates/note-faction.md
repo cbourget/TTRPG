@@ -14,10 +14,9 @@ cssclass: 'faction'
 tags: Faction <% tag %>
 
 ---
-
-# <% name %>
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [NPCs](#NPCs) [Relations](#Relations) [Secrets](#Secrets)</span>
 
+# <% name %>
 ```ad-desc
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.

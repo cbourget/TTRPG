@@ -2,28 +2,26 @@
 ---
 
 cssclass: 'faction'
-tags: Faction Église-Osiron
+tags: Faction Académie-des-Noms
 
 ---
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [NPCs](#NPCs) [Relations](#Relations) [Secrets](#Secrets)</span>
 
-# Église d'Osiron
+# Académie des Noms
 ```ad-desc
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ```
 
 ## Objectifs
-- [ ] Rehausser la foi à [[Brevoy]] en trouvant une sainte relique
-- [ ] Convertir des indigènes
-- [ ] Se positionner pour accéder au pouvoir en rehaussant leur prestige
-- [ ] Trouver un remède à l'affliction des mages.
+- [ ]  Investiguer sur [[Wanageeska]]
+- [ ] Compiler les données sur la colonie et sa croissance
 
 ## Détails
 
 ## NPCs
 ```query
-tag: NPC tag: Église-Osiron
+tag: NPC tag: Académie-des-Noms
 ```
 
 ## Relations

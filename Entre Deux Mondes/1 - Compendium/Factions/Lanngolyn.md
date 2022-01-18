@@ -2,28 +2,25 @@
 ---
 
 cssclass: 'faction'
-tags: Faction Église-Osiron
+tags: Faction Lanngolyn
 
 ---
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [NPCs](#NPCs) [Relations](#Relations) [Secrets](#Secrets)</span>
 
-# Église d'Osiron
+# Lanngolyn
 ```ad-desc
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ```
 
 ## Objectifs
-- [ ] Rehausser la foi à [[Brevoy]] en trouvant une sainte relique
-- [ ] Convertir des indigènes
-- [ ] Se positionner pour accéder au pouvoir en rehaussant leur prestige
-- [ ] Trouver un remède à l'affliction des mages.
+- [ ] Trouver des opportunités d'affaire et/ou découvrir de nouvelles plantes (café ?)
 
 ## Détails
 
 ## NPCs
 ```query
-tag: NPC tag: Église-Osiron
+tag: NPC tag: Lanngolyn
 ```
 
 ## Relations

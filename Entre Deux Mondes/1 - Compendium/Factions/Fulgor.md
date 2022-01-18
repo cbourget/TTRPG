@@ -2,28 +2,26 @@
 ---
 
 cssclass: 'faction'
-tags: Faction Église-Osiron
+tags: Faction Fulgor
 
 ---
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [NPCs](#NPCs) [Relations](#Relations) [Secrets](#Secrets)</span>
 
-# Église d'Osiron
+# Fulgor
 ```ad-desc
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ```
 
 ## Objectifs
-- [ ] Rehausser la foi à [[Brevoy]] en trouvant une sainte relique
-- [ ] Convertir des indigènes
-- [ ] Se positionner pour accéder au pouvoir en rehaussant leur prestige
-- [ ] Trouver un remède à l'affliction des mages.
+- [ ] Opérer une forge au bénéfice de la colonie
+- [ ] Trouver du fer et autres minerais rares (adamantium, mithril)
 
 ## Détails
 
 ## NPCs
 ```query
-tag: NPC tag: Église-Osiron
+tag: NPC tag: Fulgor
 ```
 
 ## Relations

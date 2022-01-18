@@ -4,14 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "da4641846e5508c9",
+        "id": "94482cb59037d0e0",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md",
-            "mode": "preview",
+            "file": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Notes.md",
+            "mode": "source",
             "source": true
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "378ba3819f78efd9",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Cloaked Guy.jpg"
           }
         }
       }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md",
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Cloaked Guy.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md"
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Cloaked Guy.jpg"
               }
             }
           },
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md",
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Cloaked Guy.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,17 +148,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "da4641846e5508c9",
+  "active": "378ba3819f78efd9",
   "lastOpenFiles": [
-    "Entre Deux Mondes/1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Cloaked Guy.jpg",
     "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.jpg",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Vonnder Cragmire/Vonnder Cragmire.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Kretiak Cragmire/Kretiak Cragmire.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Frya Cragmire/Frya Cragmire.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Roy Larg/Roy Larg.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Ronzu/Ronzu.md"
+    "Entre Deux Mondes/1 - Compendium/NPCs/Dame Yiotl.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/hussar.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/mage-lancer.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/summoner.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Norlu.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Tavernier.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Unknown Artemel.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/two guys.jpg"
   ]
 }
