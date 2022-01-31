@@ -1,8 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "note-npc",
+      "path": "Obsidian/Templates/note-npc.md"
+    },
+    {
+      "basename": "Aruspice",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Aruspice/Aruspice.md"
+    },
+    {
+      "basename": "Xendra Mantar",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
+    },
+    {
+      "basename": "Agrippine",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md"
+    },
+    {
+      "basename": "Capes Jaunes",
+      "path": "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md"
+    },
+    {
+      "basename": "Alaric Foghorn",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.md"
+    },
+    {
+      "basename": "Église d'Osiron",
+      "path": "Entre Deux Mondes/1 - Compendium/Factions/Église d'Osiron.md"
+    },
+    {
+      "basename": "NPCs1",
+      "path": "Entre Deux Mondes/Tokens/NPCs1.md"
+    },
+    {
+      "basename": "Guide",
+      "path": "Entre Deux Mondes/1 - Compendium/Guide.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Entre Deux Mondes/1 - Compendium/Index.md"
+    },
+    {
+      "basename": "Factions",
+      "path": "Entre Deux Mondes/1 - Compendium/Factions.md"
+    },
+    {
+      "basename": "note-faction",
+      "path": "Obsidian/Templates/note-faction.md"
+    },
+    {
+      "basename": "note-map",
+      "path": "Obsidian/Templates/note-map.md"
+    },
+    {
+      "basename": "note-concept",
+      "path": "Obsidian/Templates/note-concept.md"
+    },
+    {
+      "basename": "embed-stats-custom",
+      "path": "Obsidian/Templates/embed-stats-custom.md"
+    },
+    {
+      "basename": "embed-stats",
+      "path": "Obsidian/Templates/embed-stats.md"
+    },
+    {
+      "basename": "embed-secrets",
+      "path": "Obsidian/Templates/embed-secrets.md"
+    },
+    {
+      "basename": "6 - Taverne",
+      "path": "Entre Deux Mondes/1 - Compendium/Lieux/Brevoy/6 - Taverne/6 - Taverne.md"
+    },
+    {
+      "basename": "0 - Brevoy",
+      "path": "Entre Deux Mondes/1 - Compendium/Lieux/Brevoy/0 - Brevoy/0 - Brevoy.md"
+    },
+    {
       "basename": "Cloaked Guy",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Cloaked Guy.jpg"
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Cloaked Guy/Cloaked Guy.md"
+    },
+    {
+      "basename": "Cloaked Guy",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Cloaked Guy/Cloaked Guy.jpg"
+    },
+    {
+      "basename": "2 - Campagne",
+      "path": "Entre Deux Mondes/2 - Campagne/2 - Campagne.md"
+    },
+    {
+      "basename": "Notes",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Notes.md"
+    },
+    {
+      "basename": "Lanngolyn",
+      "path": "Entre Deux Mondes/1 - Compendium/Factions/Lanngolyn.md"
     },
     {
       "basename": "Brome Firbor",
@@ -41,10 +133,6 @@
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/two guys.jpg"
     },
     {
-      "basename": "Notes",
-      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Notes.md"
-    },
-    {
       "basename": "Seymor Estelmer",
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Seymor Estelmer/Seymor Estelmer.md"
     },
@@ -61,10 +149,6 @@
       "path": "Entre Deux Mondes/1 - Compendium/Factions/Ligue Frégate.md"
     },
     {
-      "basename": "Xendra Mantar",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
-    },
-    {
       "basename": "Syndic Des Marchands",
       "path": "Entre Deux Mondes/1 - Compendium/Factions/Syndic Des Marchands.md"
     },
@@ -77,16 +161,8 @@
       "path": "Entre Deux Mondes/1 - Compendium/Factions/Artemel.md"
     },
     {
-      "basename": "Église d'Osiron",
-      "path": "Entre Deux Mondes/1 - Compendium/Factions/Église d'Osiron.md"
-    },
-    {
       "basename": "Académie des Noms",
       "path": "Entre Deux Mondes/1 - Compendium/Factions/Académie des Noms.md"
-    },
-    {
-      "basename": "Factions",
-      "path": "Entre Deux Mondes/1 - Compendium/Factions.md"
     },
     {
       "basename": "Wanageeska",
@@ -95,10 +171,6 @@
     {
       "basename": "Ciel Phantomhive",
       "path": "Entre Deux Mondes/2 - Campagne/Joueurs/Ciel Phantomhive/Ciel Phantomhive.md"
-    },
-    {
-      "basename": "Lanngolyn",
-      "path": "Entre Deux Mondes/1 - Compendium/Factions/Lanngolyn.md"
     },
     {
       "basename": "Cragmire",
@@ -125,80 +197,8 @@
       "path": "Entre Deux Mondes/1 - Compendium/Factions/Fulgor.md"
     },
     {
-      "basename": "note-faction",
-      "path": "Obsidian/Templates/note-faction.md"
-    },
-    {
       "basename": "Non-Affilié",
       "path": "Entre Deux Mondes/1 - Compendium/Factions/Non-Affilié.md"
-    },
-    {
-      "basename": "Guilde Marchande",
-      "path": "Entre Deux Mondes/1 - Compendium/Factions/Guilde Marchande.md"
-    },
-    {
-      "basename": "Foghorn",
-      "path": "Entre Deux Mondes/1 - Compendium/Factions/Foghorn.md"
-    },
-    {
-      "basename": "Carodoc",
-      "path": "Entre Deux Mondes/1 - Compendium/Factions/Carodoc.md"
-    },
-    {
-      "basename": "Capes Jaunes",
-      "path": "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md"
-    },
-    {
-      "basename": "Pictis",
-      "path": "Entre Deux Mondes/1 - Compendium/Factions/Pictis/Pictis.md"
-    },
-    {
-      "basename": "2 - Campagne",
-      "path": "Entre Deux Mondes/2 - Campagne/2 - Campagne.md"
-    },
-    {
-      "basename": "Forest King",
-      "path": "Images/Forest King.jpg"
-    },
-    {
-      "basename": "note-npc",
-      "path": "Obsidian/Templates/note-npc.md"
-    },
-    {
-      "basename": "Wilhelm Oberon",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md"
-    },
-    {
-      "basename": "Perrin",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md"
-    },
-    {
-      "basename": "Vonnder Cragmire",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Vonnder Cragmire/Vonnder Cragmire.md"
-    },
-    {
-      "basename": "Kretiak Cragmire",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Kretiak Cragmire/Kretiak Cragmire.md"
-    },
-    {
-      "basename": "Frya Cragmire",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Frya Cragmire/Frya Cragmire.md"
-    },
-    {
-      "basename": "Tamerlane Foghorn",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.md"
-    },
-    {
-      "basename": "Roy Larg",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Roy Larg/Roy Larg.md"
-    },
-    {
-      "basename": "Ronzu",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Ronzu/Ronzu.md"
-    },
-    {
-      "basename": "Randal Carodoc",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Randal Carodoc/Randal Carodoc.md"
     }
   ],
   "omittedPaths": [],

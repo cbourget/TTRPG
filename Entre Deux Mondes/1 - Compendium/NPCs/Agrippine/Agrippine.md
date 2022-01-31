@@ -20,7 +20,7 @@ tags: NPC Capes-Jaunes Guilde-Marchande
 ```
 
 ## Objectifs
-- [ ] Elle aimerait réintégrer l'armée mais dans une position qui la palcerait aux commandes.
+- [ ] Elle aimerait réintégrer l'armée mais dans une position qui la placerait aux commandes.
 
 <span class="tab">[[Guilde Marchande#Objectifs]]</span>
 <span class="embed-section tab">![[Guilde Marchande#Objectifs]]</span>
