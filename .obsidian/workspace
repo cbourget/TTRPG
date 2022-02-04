@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Obsidian/Templates/note-npc.md",
-            "mode": "source",
+            "file": "Plan.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Templates/note-npc.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Templates/note-npc.md"
+                "file": "Plan.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Templates/note-npc.md",
+                "file": "Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +137,15 @@
   },
   "active": "94482cb59037d0e0",
   "lastOpenFiles": [
+    "Plan.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
+    "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Notes.md",
     "Obsidian/Templates/note-npc.md",
     "Entre Deux Mondes/1 - Compendium/NPCs/Aruspice/Aruspice.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
     "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md",
     "Entre Deux Mondes/1 - Compendium/Factions/Capes Jaunes.md",
     "Entre Deux Mondes/1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.md",
     "Entre Deux Mondes/1 - Compendium/Factions/Église d'Osiron.md",
-    "Entre Deux Mondes/Tokens/NPCs1.md",
-    "Entre Deux Mondes/1 - Compendium/Guide.md",
-    "Entre Deux Mondes/1 - Compendium/Index.md"
+    "Entre Deux Mondes/Tokens/NPCs1.md"
   ]
 }
