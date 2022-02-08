@@ -1,13 +1,17 @@
 
 ---
+
 cssclass: 'npc'
-tags: NPC Cragmire
+tags: NPC Fulgor
+
 ---
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
-# Kretiak Cragmire
+# Horadin Fulgor
+
 ```ad-desc
-<span class="image">![[Kretiak Cragmire.jpg]][[Kretiak Cragmire.jpg|Voir]]</span>
+
+<span class="image">![[Horadin Fulgor.jpg]][[Horadin Fulgor.jpg|Voir]]</span>
 
 <span class="npc-tags">#Humain #Homme</span>
 
@@ -19,14 +23,10 @@ tags: NPC Cragmire
 ```
 
 ## Objectifs
-<span class="tab">[[Cragmire#Objectifs]]</span>
-<span class="embed-section tab">![[Cragmire#Objectifs]]</span>
 
 ## Détails
 
 ## Relations
-<span class="tab">[[Cragmire#Relations]]</span>
-<span class="embed-section tab">![[Cragmire#Relations]]</span>
 
 ## Secrets
 
