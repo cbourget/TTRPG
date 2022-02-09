@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Perrin",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md"
+    },
+    {
+      "basename": "Alaric Foghorn",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.md"
+    },
+    {
+      "basename": "Agrippine",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md"
+    },
+    {
+      "basename": "Alchimie",
+      "path": "Entre Deux Mondes/1 - Compendium/Concepts/Alchimie.md"
+    },
+    {
+      "basename": "0 - Brevoy",
+      "path": "Entre Deux Mondes/1 - Compendium/Lieux/Brevoy/0 - Brevoy/0 - Brevoy.md"
+    },
+    {
+      "basename": "Église d'Osiron",
+      "path": "Entre Deux Mondes/1 - Compendium/Factions/Église d'Osiron.md"
+    },
+    {
+      "basename": "Guide",
+      "path": "Entre Deux Mondes/1 - Compendium/Guide.md"
+    },
+    {
+      "basename": "Estelmer",
+      "path": "Entre Deux Mondes/1 - Compendium/Factions/Estelmer.md"
+    },
+    {
+      "basename": "Carodoc",
+      "path": "Entre Deux Mondes/1 - Compendium/Factions/Carodoc.md"
+    },
+    {
+      "basename": "Artemel",
+      "path": "Entre Deux Mondes/1 - Compendium/Factions/Artemel.md"
+    },
+    {
+      "basename": "Académie des Noms",
+      "path": "Entre Deux Mondes/1 - Compendium/Factions/Académie des Noms.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "test",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/test.md"
+    },
+    {
       "basename": "Plan",
       "path": "Plan.md"
     },
@@ -59,14 +111,6 @@
     {
       "basename": "Aruspice",
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Aruspice/Aruspice.md"
-    },
-    {
-      "basename": "Agrippine",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md"
-    },
-    {
-      "basename": "Alaric Foghorn",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.md"
     },
     {
       "basename": "Bran Ilvastar",
@@ -155,50 +199,6 @@
     {
       "basename": "XendrikHex",
       "path": "Images/XendrikHex.jpeg"
-    },
-    {
-      "basename": "Warlord",
-      "path": "Images/Warlord.jpg"
-    },
-    {
-      "basename": "Wandering Tombshell",
-      "path": "Images/Wandering Tombshell.jpg"
-    },
-    {
-      "basename": "Wandering Mage",
-      "path": "Images/Wandering Mage.png"
-    },
-    {
-      "basename": "Ville Portuaire",
-      "path": "Images/Ville Portuaire.jpg"
-    },
-    {
-      "basename": "Undead Scavenger",
-      "path": "Images/Undead Scavenger.jpg"
-    },
-    {
-      "basename": "Tempest Fairy",
-      "path": "Images/Tempest Fairy.jpg"
-    },
-    {
-      "basename": "Swamp Creature",
-      "path": "Images/Swamp Creature.jpg"
-    },
-    {
-      "basename": "Sunny Mountains",
-      "path": "Images/Sunny Mountains.jpg"
-    },
-    {
-      "basename": "summoner",
-      "path": "Images/summoner.jpg"
-    },
-    {
-      "basename": "Street Ambiance",
-      "path": "Images/Street Ambiance.png"
-    },
-    {
-      "basename": "Spy",
-      "path": "Images/Spy.jpg"
     }
   ],
   "omittedPaths": [],
