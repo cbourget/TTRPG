@@ -11,7 +11,7 @@
 
 ## Scénario
 ### Expédition
-- [ ] [[Guilde Marchande]]
+- [x] [[Guilde Marchande]]
 	- [x] [[Agrippine]]
 	- [x]  [[Bran Ilvastar]]
 	- [x] [[Hossulim]]
@@ -20,10 +20,10 @@
 	- [x] [[Nilheim]]
 	- [x] [[Xendra Mantar]]
 	- [x] [[Corbu]]
-	- [ ] Ouvert 1
+	- [ ] Ouvert 1 / Marchand
 - [ ] [[Mantar]]
-	- [ ] [[Crik Mantar]]
-	- [ ] Ouvert 1
+	- [x] [[Crik Mantar]]
+	- [ ] Ouvert 1 / Érudit
 - [ ] [[Ligue Frégate]]
 	- [x] [[Randal Carodoc]]
 	- [x] [[Roy Larg]]
@@ -32,14 +32,14 @@
 	- [x] [[Vladimir Estelmer]]
 - [x] [[Ilvastar]]
 	- [x] [[Penny Ilvastar]]
-- [ ] [[Cragmire]]
+- [x] [[Cragmire]]
 	- [x] [[Frya Cragmire]]
 	- [x] [[Kretiak Cragmire]]
 - [x] [[Lanngolyn]]
 	- [x] [[Logan Lanngolyn]]
 - [ ] Hommes de Tamerlane
 	- [x] [[Rackham]]
-	- [ ] Homme 2
+	- [ ] Homme 2 (Dignitaire)
 	- [x] [[Meredia]]
 - [ ] [[Académie des Noms]]
 	- [ ] Membre 1
@@ -62,7 +62,7 @@
 	- [ ] Guérisseurs (Caledon)
 
 
-
+### TODO
 - [ ] Finir les NPCs
 - [ ] Carte de Nostaria
 - [ ] Stats des Mutagen

@@ -1,142 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Plan",
-      "path": "Plan.md"
-    },
-    {
-      "basename": "XendrikHex",
-      "path": "Images/XendrikHex.jpeg"
-    },
-    {
-      "basename": "Wormford",
-      "path": "Images/Wormford.jpg"
-    },
-    {
-      "basename": "WorldMap",
-      "path": "Images/WorldMap.jpg"
-    },
-    {
-      "basename": "Witch Eating Deer",
-      "path": "Images/Witch Eating Deer.jpg"
-    },
-    {
-      "basename": "Witch Apprentice",
-      "path": "Images/Witch Apprentice.jpg"
-    },
-    {
-      "basename": "Witch and Child",
-      "path": "Images/Witch and Child.jpg"
-    },
-    {
-      "basename": "Warrior Girl",
-      "path": "Images/Warrior Girl.jpg"
-    },
-    {
-      "basename": "Warlord",
-      "path": "Images/Warlord.jpg"
-    },
-    {
-      "basename": "Undead Scavenger",
-      "path": "Images/Undead Scavenger.jpg"
-    },
-    {
-      "basename": "Tempest Fairy",
-      "path": "Images/Tempest Fairy.jpg"
-    },
-    {
-      "basename": "Swamp Creature",
-      "path": "Images/Swamp Creature.jpg"
-    },
-    {
-      "basename": "Sunny Mountains",
-      "path": "Images/Sunny Mountains.jpg"
-    },
-    {
-      "basename": "Street Ambiance",
-      "path": "Images/Street Ambiance.png"
-    },
-    {
-      "basename": "Spy",
-      "path": "Images/Spy.jpg"
-    },
-    {
-      "basename": "Spider Infiltrator",
-      "path": "Images/Spider Infiltrator.jpg"
-    },
-    {
-      "basename": "Ship in Storm",
-      "path": "Images/Ship in Storm.jpg"
-    },
-    {
-      "basename": "Shady Sailor",
-      "path": "Images/Shady Sailor.jpg"
-    },
-    {
-      "basename": "Sailor",
-      "path": "Images/Sailor.jpg"
-    },
-    {
-      "basename": "Rotten God",
-      "path": "Images/Rotten God.png"
-    },
-    {
-      "basename": "Rochard",
-      "path": "Images/Rochard.png"
-    },
-    {
-      "basename": "Satyress",
-      "path": "Images/Satyress.jpg"
-    },
-    {
-      "basename": "Crik Mantar",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Crik Mantar/Crik Mantar.md"
-    },
-    {
-      "basename": "Crik Mantar",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Crik Mantar/Crik Mantar.jpg"
-    },
-    {
-      "basename": "Marin",
-      "path": "Images/Marin.jpg"
-    },
-    {
-      "basename": "Rat King",
-      "path": "Images/Rat King.png"
-    },
-    {
-      "basename": "Overgrown Cadtle",
-      "path": "Images/Overgrown Cadtle.jpg"
-    },
-    {
-      "basename": "Oracle",
-      "path": "Images/Oracle.jpg"
-    },
-    {
-      "basename": "Old Oracle",
-      "path": "Images/Old Oracle.jpg"
-    },
-    {
-      "basename": "Noble",
-      "path": "Images/Noble.jpg"
-    },
-    {
-      "basename": "Mushroom Warrior",
-      "path": "Images/Mushroom Warrior.jpg"
-    },
-    {
-      "basename": "Monroe Fulgor",
-      "path": "Images/Monroe Fulgor.jpg"
-    },
-    {
-      "basename": "Meridia",
-      "path": "Images/Meridia.jpg"
-    },
-    {
-      "basename": "Meredia",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Meredia/Meredia.md"
-    },
-    {
       "basename": "Lumberjack",
       "path": "Images/Lumberjack.jpg"
     },
@@ -145,8 +9,44 @@
       "path": "Images/Korigan Telazard.jpg"
     },
     {
+      "basename": "Khorvaire2",
+      "path": "Images/Khorvaire2.jpg"
+    },
+    {
+      "basename": "Khorvaire",
+      "path": "Images/Khorvaire.jpg"
+    },
+    {
       "basename": "Keeper of the Library",
       "path": "Images/Keeper of the Library.jpg"
+    },
+    {
+      "basename": "Izalith Mantar",
+      "path": "Images/Izalith Mantar.jpg"
+    },
+    {
+      "basename": "isle-of-kheyus-colour-1200",
+      "path": "Images/isle-of-kheyus-colour-1200.png"
+    },
+    {
+      "basename": "Insect",
+      "path": "Images/Insect.jpg"
+    },
+    {
+      "basename": "ImminarMap",
+      "path": "Images/ImminarMap.jpg"
+    },
+    {
+      "basename": "hussar",
+      "path": "Images/hussar.jpg"
+    },
+    {
+      "basename": "HowlDeepTavern",
+      "path": "Images/HowlDeepTavern.jpg"
+    },
+    {
+      "basename": "Horse Fairy",
+      "path": "Images/Horse Fairy.jpg"
     },
     {
       "basename": "Horse Crow",
@@ -165,16 +65,28 @@
       "path": "Images/Goblin Warrior 2.jpg"
     },
     {
-      "basename": "Double Shady",
-      "path": "Images/Double Shady.png"
-    },
-    {
       "basename": "Goblin Warrior",
       "path": "Images/Goblin Warrior.jpg"
     },
     {
+      "basename": "Fortress-City",
+      "path": "Images/Fortress-City.png"
+    },
+    {
       "basename": "Forgeron",
       "path": "Images/Forgeron.jpg"
+    },
+    {
+      "basename": "Forest Gobelin",
+      "path": "Images/Forest Gobelin.jpg"
+    },
+    {
+      "basename": "Forest King",
+      "path": "Images/Forest King.jpg"
+    },
+    {
+      "basename": "Fallen King",
+      "path": "Images/Fallen King.jpg"
     },
     {
       "basename": "Eye Demon",
@@ -199,6 +111,94 @@
     {
       "basename": "Ederfast2",
       "path": "Images/Ederfast2.jpg"
+    },
+    {
+      "basename": "Dwarf Adventurer",
+      "path": "Images/Dwarf Adventurer.jpg"
+    },
+    {
+      "basename": "Double Shady",
+      "path": "Images/Double Shady.png"
+    },
+    {
+      "basename": "Diseased Woman",
+      "path": "Images/Diseased Woman.jpg"
+    },
+    {
+      "basename": "Demonic Shamaness",
+      "path": "Images/Demonic Shamaness.jpg"
+    },
+    {
+      "basename": "Decay",
+      "path": "Images/Decay.png"
+    },
+    {
+      "basename": "Death Beach",
+      "path": "Images/Death Beach.jpg"
+    },
+    {
+      "basename": "Daugther of North",
+      "path": "Images/Daugther of North.jpg"
+    },
+    {
+      "basename": "Dark Lord",
+      "path": "Images/Dark Lord.jpg"
+    },
+    {
+      "basename": "Crown and Wizard",
+      "path": "Images/Crown and Wizard.jpg"
+    },
+    {
+      "basename": "Crow Awakening",
+      "path": "Images/Crow Awakening.jpg"
+    },
+    {
+      "basename": "Cleric Dwarf",
+      "path": "Images/Cleric Dwarf.jpg"
+    },
+    {
+      "basename": "Chamanness",
+      "path": "Images/Chamanness.png"
+    },
+    {
+      "basename": "Caryll",
+      "path": "Images/Caryll.jpg"
+    },
+    {
+      "basename": "Butcher",
+      "path": "Images/Butcher.jpg"
+    },
+    {
+      "basename": "Bridgelands",
+      "path": "Images/Bridgelands.jpg"
+    },
+    {
+      "basename": "Brevoy Street",
+      "path": "Images/Brevoy Street.jpg"
+    },
+    {
+      "basename": "Blacksmith",
+      "path": "Images/Blacksmith.jpg"
+    },
+    {
+      "basename": "Beast",
+      "path": "Images/Beast.jpg"
+    },
+    {
+      "basename": "Assassin",
+      "path": "Images/Assassin.jpg"
+    },
+    {
+      "basename": "Sailor",
+      "path": "Images/Sailor.jpg"
+    },
+    {
+      "basename": "Archer Rouge",
+      "path": "Images/Archer Rouge.jpg"
+    },
+    {
+      "basename": "Alley",
+      "path": "Images/Alley.jpg"
     }
   ],
   "omittedPaths": [],

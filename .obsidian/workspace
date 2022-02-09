@@ -6,24 +6,20 @@
       {
         "id": "a6ce1f13346091f9",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "image",
           "state": {
-            "file": "Images/Sailor.jpg"
-          },
-          "pinned": true
+            "file": "Images/Lumberjack.jpg"
+          }
         }
       },
       {
-        "id": "06e393c0b0af060d",
+        "id": "53cf240133f02159",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Plan.md",
-            "mode": "source",
-            "source": true
+            "file": "Images/Archer Rouge.jpg"
           }
         }
       }
@@ -97,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan.md",
+                "file": "Images/Lumberjack.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan.md"
+                "file": "Images/Lumberjack.jpg"
               }
             }
           },
@@ -135,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan.md",
+                "file": "Images/Lumberjack.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,17 +144,17 @@
     "width": 285,
     "collapsed": true
   },
-  "active": "06e393c0b0af060d",
+  "active": "a6ce1f13346091f9",
   "lastOpenFiles": [
-    "Plan.md",
-    "Images/XendrikHex.jpeg",
-    "Images/Wormford.jpg",
-    "Images/WorldMap.jpg",
-    "Images/Witch Eating Deer.jpg",
-    "Images/Witch Apprentice.jpg",
-    "Images/Witch and Child.jpg",
-    "Images/Warrior Girl.jpg",
-    "Images/Warlord.jpg",
-    "Images/Undead Scavenger.jpg"
+    "Images/Lumberjack.jpg",
+    "Images/Korigan Telazard.jpg",
+    "Images/Khorvaire2.jpg",
+    "Images/Khorvaire.jpg",
+    "Images/Keeper of the Library.jpg",
+    "Images/Izalith Mantar.jpg",
+    "Images/isle-of-kheyus-colour-1200.png",
+    "Images/Insect.jpg",
+    "Images/ImminarMap.jpg",
+    "Images/hussar.jpg"
   ]
 }
