@@ -25,7 +25,7 @@ tags: NPC Tamerlane
 ## Objectifs
 
 ## Détails
-
+Un membre de la famille De-Beauvais qui s'est converti à la piraterie et qui travaille pour [[Tamerlane Foghorn]].
 ## Relations
 
 ## Secrets

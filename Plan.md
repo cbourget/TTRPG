@@ -55,11 +55,13 @@
 	- [ ] Ouvert 4
 	- [ ] Ouvert 5
 - [ ] Autres
+	- [ ] [[Grog]] 
 	- [ ] Barde aberrant: Former un groupe de héros qui seront les protagonistes de son récit épique
-	- [ ] [[Gatsby]]
+	- [ ] [[Gatsby]] (Brute)
 	- [ ] Brute/Marin 2: S'enrichir
-	- [ ] [[Samora]].
+	- [ ] [[Samora]] (Linguiste)
 	- [ ] Guérisseurs (Caledon)
+	- [ ] Héron (Ranger)
 
 
 ### TODO

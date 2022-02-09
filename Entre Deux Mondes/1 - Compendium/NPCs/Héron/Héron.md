@@ -7,11 +7,11 @@ tags: NPC
 ---
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
-# Cloaked Guy
+# Héron
 
 ```ad-desc
 
-<span class="image">![[Cloaked Guy.jpg]][[Cloaked Guy.jpg|Voir]]</span>
+<span class="image">![[Héron.jpg]][[Héron.jpg|Voir]]</span>
 
 <span class="npc-tags">#Humain #Homme</span>
 

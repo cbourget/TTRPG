@@ -7,19 +7,11 @@
         "id": "a6ce1f13346091f9",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Images/Lumberjack.jpg"
-          }
-        }
-      },
-      {
-        "id": "53cf240133f02159",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "Images/Archer Rouge.jpg"
+            "file": "Plan.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Lumberjack.jpg",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Lumberjack.jpg"
+                "file": "Plan.md"
               }
             }
           },
@@ -131,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Lumberjack.jpg",
+                "file": "Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +138,15 @@
   },
   "active": "a6ce1f13346091f9",
   "lastOpenFiles": [
-    "Images/Lumberjack.jpg",
-    "Images/Korigan Telazard.jpg",
-    "Images/Khorvaire2.jpg",
-    "Images/Khorvaire.jpg",
-    "Images/Keeper of the Library.jpg",
-    "Images/Izalith Mantar.jpg",
-    "Images/isle-of-kheyus-colour-1200.png",
-    "Images/Insect.jpg",
-    "Images/ImminarMap.jpg",
-    "Images/hussar.jpg"
+    "Plan.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Héron/Héron.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Héron/Héron.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Unknown Artemel.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Rackham/Rackham.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Grog/Grog.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Horadin Fulgor/Horadin Fulgor.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Gatsby/Gatsby.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Gareth/Gareth.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Crik Mantar/Crik Mantar.md"
   ]
 }
