@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Brome Firbor",
+      "path": "Entre Deux Mondes/1 - Compendium/Concepts/Brome Firbor.md"
+    },
+    {
       "basename": "Perrin",
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Wormford",
       "path": "Images/Wormford.jpg"
-    },
-    {
-      "basename": "XendrikHex",
-      "path": "Images/XendrikHex.jpeg"
     }
   ],
   "omittedPaths": [],

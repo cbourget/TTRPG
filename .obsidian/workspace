@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md",
+            "file": "Entre Deux Mondes/1 - Compendium/Concepts/Brome Firbor.md",
             "mode": "preview",
             "source": true
           }
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Homme",
+                "query": "tag:#NPC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340
+    "width": 340,
+    "collapsed": true
   },
   "right": {
     "id": "8b329d269e60daa7",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md",
+                "file": "Entre Deux Mondes/1 - Compendium/Concepts/Brome Firbor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md"
+                "file": "Entre Deux Mondes/1 - Compendium/Concepts/Brome Firbor.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md",
+                "file": "Entre Deux Mondes/1 - Compendium/Concepts/Brome Firbor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,6 +159,7 @@
   },
   "active": "c6d5df47e0ce122a",
   "lastOpenFiles": [
+    "Entre Deux Mondes/1 - Compendium/Concepts/Brome Firbor.md",
     "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md",
     "Entre Deux Mondes/1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.md",
     "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md",
@@ -166,7 +168,6 @@
     "Entre Deux Mondes/1 - Compendium/Factions/Église d'Osiron.md",
     "Entre Deux Mondes/1 - Compendium/Guide.md",
     "Entre Deux Mondes/1 - Compendium/Factions/Estelmer.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Carodoc.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Artemel.md"
+    "Entre Deux Mondes/1 - Compendium/Factions/Carodoc.md"
   ]
 }
