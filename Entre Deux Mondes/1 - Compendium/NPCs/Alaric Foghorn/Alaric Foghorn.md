@@ -3,27 +3,32 @@
 cssclass: 'npc'
 tags: NPC Foghorn
 ---
-<span class="npc-tags">#Humain #Homme</span>
+<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
 # Alaric Foghorn
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails) [Relations](#Relations) [Statistiques](#Statistiques) [Secrets](#Secrets)</span>
 
 ```ad-desc
-
 <span class="image">![[Alaric Foghorn.jpg]][[Alaric Foghorn.jpg|Voir]]</span>
 
-<p class="traits">Lorem, Ipsum</p>
+<span class="npc-tags">#Humain #Homme</span>
 
-L'intendant qui dirige [[Brevoy]].
+<span>L'intendant de [[Brevoy]]</span>
+
+<strong>Physique: </strong> 
+
+<strong>Caractère: </strong>
+
 ```
 
 ## Objectifs
-<span class="embed-section">![[Foghorn#Objectifs]]</span>
+<span class="tab">[[Foghorn#Objectifs]]</span>
+<span class="embed-section tab">![[Foghorn#Objectifs]]</span>
 
 ## Détails
 
 ## Relations
 
-## Statistiques
-
 ## Secrets
+
+## Statistiques

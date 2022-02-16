@@ -2,16 +2,16 @@
 ---
 
 cssclass: 'npc'
-tags: NPC
+tags: NPC Syndic-Des-Marchands 
 
 ---
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
-# test
+# Harald
 
 ```ad-desc
 
-<span class="image">![[test.jpg]][[test.jpg|Voir]]</span>
+<span class="image">![[Harald.jpg]][[Harald.jpg|Voir]]</span>
 
 <span class="npc-tags">#Humain #Homme</span>
 

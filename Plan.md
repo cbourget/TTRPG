@@ -16,18 +16,20 @@
 	- [x]  [[Bran Ilvastar]]
 	- [x] [[Hossulim]]
 	- [x] [[Horadin Fulgor]]
-- [ ] [[Syndic Des Marchands]]
+- [x] [[Syndic Des Marchands]]
 	- [x] [[Nilheim]]
 	- [x] [[Xendra Mantar]]
 	- [x] [[Corbu]]
-	- [ ] Ouvert 1 / Marchand
-- [ ] [[Mantar]]
+	- [x] [[Harald]]
+- [x] [[Mantar]]
 	- [x] [[Crik Mantar]]
-	- [ ] Ouvert 1 / Érudit
+	- [x] [[Samora]]
 - [ ] [[Ligue Frégate]]
 	- [x] [[Randal Carodoc]]
 	- [x] [[Roy Larg]]
+	- [x] [[Cleyton Kilmer]]
 	- [ ] Ouvert 1
+	- [ ] Ouvert 2
 - [x] [[Estelmer]]
 	- [x] [[Vladimir Estelmer]]
 - [x] [[Ilvastar]]
@@ -37,9 +39,9 @@
 	- [x] [[Kretiak Cragmire]]
 - [x] [[Lanngolyn]]
 	- [x] [[Logan Lanngolyn]]
-- [ ] Hommes de Tamerlane
+- [x] [[Tamerlane Foghorn]]
+	- [x] [[Alcide Foghorn]]
 	- [x] [[Rackham]]
-	- [ ] Homme 2 (Dignitaire)
 	- [x] [[Meredia]]
 - [ ] [[Académie des Noms]]
 	- [ ] Membre 1
@@ -47,8 +49,8 @@
 	- [ ] [[Perrin]]
 	- [ ] [[Wilhelm Oberon]]
 	- [ ] Ouvert 1
-- [ ] Barde aberrant
-	- [ ] Barde aberrant
+- [ ] [[Christofle]]
+	- [ ] [[Christofle]]
 	- [ ] Ouvert 1
 	- [ ] Ouvert 2
 	- [ ] Ouvert 3
@@ -56,12 +58,15 @@
 	- [ ] Ouvert 5
 - [ ] Autres
 	- [ ] [[Grog]] 
-	- [ ] Barde aberrant: Former un groupe de héros qui seront les protagonistes de son récit épique
-	- [ ] [[Gatsby]] (Brute)
-	- [ ] Brute/Marin 2: S'enrichir
-	- [ ] [[Samora]] (Linguiste)
-	- [ ] Guérisseurs (Caledon)
-	- [ ] Héron (Ranger)
+	- [ ] [[Gatsby]]
+	- [ ] [[Corgak]]
+	- [ ] [[Livia]]
+	- [ ] [[Héron]] (ranger / chasseur)
+	- [ ] [[Talarissa]] (ranger / chasseuse)
+	- [ ] [[Cook]]
+	- [ ] [[Dom]]
+	- [ ] [[Albert]]
+	- [ ] [[Wisgar]]
 
 
 ### TODO

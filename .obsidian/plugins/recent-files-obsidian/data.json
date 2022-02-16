@@ -1,88 +1,188 @@
 {
   "recentFiles": [
     {
-      "basename": "Brome Firbor",
-      "path": "Entre Deux Mondes/1 - Compendium/Concepts/Brome Firbor.md"
-    },
-    {
-      "basename": "Perrin",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md"
-    },
-    {
-      "basename": "Alaric Foghorn",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.md"
-    },
-    {
-      "basename": "Agrippine",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md"
-    },
-    {
-      "basename": "Alchimie",
-      "path": "Entre Deux Mondes/1 - Compendium/Concepts/Alchimie.md"
-    },
-    {
-      "basename": "0 - Brevoy",
-      "path": "Entre Deux Mondes/1 - Compendium/Lieux/Brevoy/0 - Brevoy/0 - Brevoy.md"
-    },
-    {
-      "basename": "Église d'Osiron",
-      "path": "Entre Deux Mondes/1 - Compendium/Factions/Église d'Osiron.md"
-    },
-    {
-      "basename": "Guide",
-      "path": "Entre Deux Mondes/1 - Compendium/Guide.md"
-    },
-    {
-      "basename": "Estelmer",
-      "path": "Entre Deux Mondes/1 - Compendium/Factions/Estelmer.md"
-    },
-    {
-      "basename": "Carodoc",
-      "path": "Entre Deux Mondes/1 - Compendium/Factions/Carodoc.md"
-    },
-    {
-      "basename": "Artemel",
-      "path": "Entre Deux Mondes/1 - Compendium/Factions/Artemel.md"
-    },
-    {
-      "basename": "Académie des Noms",
-      "path": "Entre Deux Mondes/1 - Compendium/Factions/Académie des Noms.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "test",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/test.md"
-    },
-    {
       "basename": "Plan",
       "path": "Plan.md"
     },
     {
-      "basename": "Héron",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Héron/Héron.md"
+      "basename": "Livia",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Livia/Livia.jpg"
     },
     {
-      "basename": "Héron",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Héron/Héron.jpg"
+      "basename": "Livia",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Livia/Livia.md"
     },
     {
-      "basename": "Unknown Artemel",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Unknown Artemel.jpg"
+      "basename": "Tavernier",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Tavernier.jpg"
+    },
+    {
+      "basename": "Hal-Elf Ranger",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Hal-Elf Ranger.jpg"
+    },
+    {
+      "basename": "Goblin Warrior 2",
+      "path": "Images/Goblin Warrior 2.jpg"
+    },
+    {
+      "basename": "summoner",
+      "path": "Images/summoner.jpg"
+    },
+    {
+      "basename": "Swashbuckler",
+      "path": "Images/Swashbuckler.jpg"
+    },
+    {
+      "basename": "Warrior Girl",
+      "path": "Images/Warrior Girl.jpg"
+    },
+    {
+      "basename": "Scarred Northen Man",
+      "path": "Images/Scarred Northen Man.jpg"
+    },
+    {
+      "basename": "Satyress",
+      "path": "Images/Satyress.jpg"
+    },
+    {
+      "basename": "Sailor",
+      "path": "Images/Sailor.jpg"
+    },
+    {
+      "basename": "Rochard",
+      "path": "Images/Rochard.png"
+    },
+    {
+      "basename": "Monroe Fulgor",
+      "path": "Images/Monroe Fulgor.jpg"
+    },
+    {
+      "basename": "Marin",
+      "path": "Images/Marin.jpg"
+    },
+    {
+      "basename": "Meridia",
+      "path": "Images/Meridia.jpg"
+    },
+    {
+      "basename": "Xendra Mantar",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
+    },
+    {
+      "basename": "Wisgar",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Wisgar/Wisgar.md"
+    },
+    {
+      "basename": "Wisgar",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Wisgar/Wisgar.jpg"
+    },
+    {
+      "basename": "Wilhelm Oberon",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md"
+    },
+    {
+      "basename": "Vonnder Cragmire",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Vonnder Cragmire/Vonnder Cragmire.jpg"
+    },
+    {
+      "basename": "Vonnder Cragmire",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Vonnder Cragmire/Vonnder Cragmire.md"
+    },
+    {
+      "basename": "Vladimir Estelmer",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Vladimir Estelmer/Vladimir Estelmer.md"
+    },
+    {
+      "basename": "Tamerlane Foghorn",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.md"
+    },
+    {
+      "basename": "Talarissa",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Talarissa/Talarissa.md"
+    },
+    {
+      "basename": "Seymor Estelmer",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Seymor Estelmer/Seymor Estelmer.md"
+    },
+    {
+      "basename": "Samora",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Samora/Samora.md"
+    },
+    {
+      "basename": "Ronzu",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Ronzu/Ronzu.md"
+    },
+    {
+      "basename": "Randal Carodoc",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Randal Carodoc/Randal Carodoc.md"
+    },
+    {
+      "basename": "Randal Carodoc",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Randal Carodoc/Randal Carodoc.jpg"
+    },
+    {
+      "basename": "Rackham",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Rackham/Rackham.jpg"
     },
     {
       "basename": "Rackham",
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Rackham/Rackham.md"
     },
     {
-      "basename": "Grog",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Grog/Grog.md"
+      "basename": "Perrin",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md"
+    },
+    {
+      "basename": "Penny Ilvastar",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Penny Ilvastar/Penny Ilvastar.md"
+    },
+    {
+      "basename": "Nilheim",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Nilheim/Nilheim.md"
+    },
+    {
+      "basename": "Meredia",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Meredia/Meredia.jpg"
+    },
+    {
+      "basename": "Meredia",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Meredia/Meredia.md"
+    },
+    {
+      "basename": "Logan Lanngolyn",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.jpg"
+    },
+    {
+      "basename": "Logan Lanngolyn",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.md"
+    },
+    {
+      "basename": "Kretiak Cragmire",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Kretiak Cragmire/Kretiak Cragmire.md"
+    },
+    {
+      "basename": "Jormun",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Jormun/Jormun.md"
+    },
+    {
+      "basename": "Hossulim",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Hossulim/Hossulim.md"
     },
     {
       "basename": "Horadin Fulgor",
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Horadin Fulgor/Horadin Fulgor.md"
+    },
+    {
+      "basename": "Héron",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Héron/Héron.md"
+    },
+    {
+      "basename": "Harald",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Harald/Harald.md"
+    },
+    {
+      "basename": "Grog",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Grog/Grog.md"
     },
     {
       "basename": "Gatsby",
@@ -93,112 +193,12 @@
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Gareth/Gareth.md"
     },
     {
-      "basename": "Crik Mantar",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Crik Mantar/Crik Mantar.md"
-    },
-    {
       "basename": "Frya Cragmire",
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Frya Cragmire/Frya Cragmire.md"
     },
     {
-      "basename": "Corgak",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Corgak/Corgak.md"
-    },
-    {
-      "basename": "Corbu",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Corbu/Corbu.md"
-    },
-    {
-      "basename": "Cleyton Kilmer",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md"
-    },
-    {
-      "basename": "Aruspice",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Aruspice/Aruspice.md"
-    },
-    {
-      "basename": "Bran Ilvastar",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Bran Ilvastar/Bran Ilvastar.md"
-    },
-    {
-      "basename": "Assassin",
-      "path": "Images/Assassin.jpg"
-    },
-    {
-      "basename": "Archer Rouge",
-      "path": "Images/Archer Rouge.jpg"
-    },
-    {
-      "basename": "Crow Awakening",
-      "path": "Images/Crow Awakening.jpg"
-    },
-    {
-      "basename": "Crow Deer",
-      "path": "Images/Crow Deer.jpg"
-    },
-    {
-      "basename": "Daugther of North",
-      "path": "Images/Daugther of North.jpg"
-    },
-    {
-      "basename": "Dark Lord",
-      "path": "Images/Dark Lord.jpg"
-    },
-    {
-      "basename": "Decay",
-      "path": "Images/Decay.png"
-    },
-    {
-      "basename": "Demonic Shamaness",
-      "path": "Images/Demonic Shamaness.jpg"
-    },
-    {
-      "basename": "Forest Gobelin",
-      "path": "Images/Forest Gobelin.jpg"
-    },
-    {
-      "basename": "Forest Drake",
-      "path": "Images/Forest Drake.jpg"
-    },
-    {
-      "basename": "Goblin Warrior 2",
-      "path": "Images/Goblin Warrior 2.jpg"
-    },
-    {
-      "basename": "Goblin Warrior",
-      "path": "Images/Goblin Warrior.jpg"
-    },
-    {
-      "basename": "Monroe Fulgor",
-      "path": "Images/Monroe Fulgor.jpg"
-    },
-    {
-      "basename": "Warrior Girl",
-      "path": "Images/Warrior Girl.jpg"
-    },
-    {
-      "basename": "Winged Axe Woman",
-      "path": "Images/Winged Axe Woman.jpg"
-    },
-    {
-      "basename": "Witch and Child",
-      "path": "Images/Witch and Child.jpg"
-    },
-    {
-      "basename": "Witch Apprentice",
-      "path": "Images/Witch Apprentice.jpg"
-    },
-    {
-      "basename": "Witch Eating Deer",
-      "path": "Images/Witch Eating Deer.jpg"
-    },
-    {
-      "basename": "WorldMap",
-      "path": "Images/WorldMap.jpg"
-    },
-    {
-      "basename": "Wormford",
-      "path": "Images/Wormford.jpg"
+      "basename": "Dom",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Dom/Dom.md"
     }
   ],
   "omittedPaths": [],

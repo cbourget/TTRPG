@@ -1,1 +1,0 @@
-<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Assassin.html"></iframe>

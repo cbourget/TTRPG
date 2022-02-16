@@ -4,26 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "a6ce1f13346091f9",
+        "id": "a83ccf24fd3e33ce",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Albert/Albert.md",
+            "mode": "source",
+            "source": true
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "d9fe45e978318f91",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md",
-            "mode": "preview",
+            "file": "Plan.md",
+            "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "c6d5df47e0ce122a",
+        "id": "f04b96caf05fcfa6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Entre Deux Mondes/1 - Compendium/Concepts/Brome Firbor.md",
-            "mode": "preview",
-            "source": true
+            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Livia/Livia.jpg"
           }
         }
       }
@@ -37,7 +49,7 @@
       {
         "id": "d0cd6f862b299ff8",
         "type": "tabs",
-        "dimension": 74.45328031809146,
+        "dimension": 80.11928429423459,
         "children": [
           {
             "id": "a926cbb9d2f4badf",
@@ -67,7 +79,7 @@
       {
         "id": "92167755dfd6ebc0",
         "type": "tabs",
-        "dimension": 25.54671968190855,
+        "dimension": 19.880715705765407,
         "children": [
           {
             "id": "d41d8b8630bc95e2",
@@ -81,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340,
-    "collapsed": true
+    "width": 361
   },
   "right": {
     "id": "8b329d269e60daa7",
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/Concepts/Brome Firbor.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/Concepts/Brome Firbor.md"
+                "file": "Plan.md"
               }
             }
           },
@@ -136,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/Concepts/Brome Firbor.md",
+                "file": "Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,17 +168,17 @@
     "direction": "horizontal",
     "width": 285
   },
-  "active": "c6d5df47e0ce122a",
+  "active": "d9fe45e978318f91",
   "lastOpenFiles": [
-    "Entre Deux Mondes/1 - Compendium/Concepts/Brome Firbor.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md",
-    "Entre Deux Mondes/1 - Compendium/Concepts/Alchimie.md",
-    "Entre Deux Mondes/1 - Compendium/Lieux/Brevoy/0 - Brevoy/0 - Brevoy.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Église d'Osiron.md",
-    "Entre Deux Mondes/1 - Compendium/Guide.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Estelmer.md",
-    "Entre Deux Mondes/1 - Compendium/Factions/Carodoc.md"
+    "Plan.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Livia/Livia.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Livia/Livia.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Tavernier.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Hal-Elf Ranger.jpg",
+    "Images/Goblin Warrior 2.jpg",
+    "Images/summoner.jpg",
+    "Images/Swashbuckler.jpg",
+    "Images/Warrior Girl.jpg",
+    "Images/Scarred Northen Man.jpg"
   ]
 }
