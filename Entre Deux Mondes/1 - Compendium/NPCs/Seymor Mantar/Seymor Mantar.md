@@ -2,16 +2,16 @@
 ---
 
 cssclass: 'npc'
-tags: NPC Estelmer
+tags: NPC Mantar
 
 ---
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
-# Seymor Estelmer
+# Seymor Mantar
 
 ```ad-desc
 
-<span class="image">![[Seymor Estelmer.jpg]][[Seymor Estelmer.jpg|Voir]]</span>
+<span class="image">![[Seymor Mantar.jpg]][[Seymor Mantar.jpg|Voir]]</span>
 
 <span class="npc-tags">#Humain #Homme</span>
 
