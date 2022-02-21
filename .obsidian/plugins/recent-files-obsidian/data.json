@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "G3",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G3.md"
+    },
+    {
+      "basename": "G2",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G2.md"
+    },
+    {
+      "basename": "G1",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G1.md"
+    },
+    {
+      "basename": "G5",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G5.md"
+    },
+    {
+      "basename": "G4",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G4.md"
+    },
+    {
+      "basename": "Taverne",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
+    },
+    {
+      "basename": "embed-linked-image",
+      "path": "Obsidian/Templates/embed-linked-image.md"
+    },
+    {
+      "basename": "embed-secrets",
+      "path": "Obsidian/Templates/embed-secrets.md"
+    },
+    {
+      "basename": "embed-stats",
+      "path": "Obsidian/Templates/embed-stats.md"
+    },
+    {
       "basename": "Plan",
       "path": "Plan.md"
     },
     {
+      "basename": "embed-stats-custom",
+      "path": "Obsidian/Templates/embed-stats-custom.md"
+    },
+    {
       "basename": "1 - Joindre l'expédition",
       "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md"
+    },
+    {
+      "basename": "Foghorn",
+      "path": "Entre Deux Mondes/1 - Compendium/Factions/Foghorn.md"
     },
     {
       "basename": "Meredia",
@@ -155,50 +199,6 @@
     {
       "basename": "Dom",
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Dom/Dom.md"
-    },
-    {
-      "basename": "Crik Mantar",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Crik Mantar/Crik Mantar.md"
-    },
-    {
-      "basename": "Corvo Estelmer",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Corvo Estelmer/Corvo Estelmer.md"
-    },
-    {
-      "basename": "Corgak",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Corgak/Corgak.md"
-    },
-    {
-      "basename": "Corbu",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Corbu/Corbu.md"
-    },
-    {
-      "basename": "Cook",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Cook/Cook.md"
-    },
-    {
-      "basename": "Cleyton Kilmer",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md"
-    },
-    {
-      "basename": "Christofle",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Christofle/Christofle.md"
-    },
-    {
-      "basename": "Bran Ilvastar",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Bran Ilvastar/Bran Ilvastar.md"
-    },
-    {
-      "basename": "Aruspice",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Aruspice/Aruspice.md"
-    },
-    {
-      "basename": "Amir Carodoc",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Amir Carodoc/Amir Carodoc.md"
-    },
-    {
-      "basename": "Alcide Foghorn",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md"
     }
   ],
   "omittedPaths": [],

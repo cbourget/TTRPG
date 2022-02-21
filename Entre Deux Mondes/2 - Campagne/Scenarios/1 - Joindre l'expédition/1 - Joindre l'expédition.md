@@ -72,15 +72,15 @@ L'annonce accroît graduellement le moral dans la salle mais le fait qu'il en co
 ```ad-quote
 title: [[Corgak]]
 
-*En frappant sur la table de ses poings*
+**En frappant sur la table de ses poings**
 
-** 150!? Êtes vous fou!?** Comment voulez-vous qu'on se paye ça avec les 2 [[Boletar]] d'argent que votre ligue nous paye pour faire votre sale travaille?!
+150!? Êtes vous fou!? Comment voulez-vous qu'on se paye ça avec les 2 [[Boletar]] d'argent que votre ligue nous paye pour faire votre sale travaille?!
 ```
 
 ```ad-quote
 title: [[Perrin]]
 
-*Assis à sa table, sans regarder [[Corgark]] mais assez fort pour être entendu de tous*
+**Assis à sa table, sans regarder [[Corgark]] mais assez fort pour être entendu de tous**
 
 2 [[Boletar]] d'argent c'est un salaire généreux pour quelqu'un de son espèce.
 ```
@@ -88,17 +88,50 @@ title: [[Perrin]]
 ```ad-quote
 title: [[Corgak]]
 
-*En hurlant*
+**En hurlant**
 
-** Quoi?! Vient dont me dire ça icite!**
+Quoi?! Vient dont me dire ça icite!
 ```
 
 ```ad-quote
 title: [[Perrin]]
 
-*Toujours sans se tourner vers [[Corgak]]*
+**Toujours sans se tourner vers [[Corgak]]**
 
 Il a entendu? Ça me suprend avec toute la crasse qu'il a dans les oreilles..
 ```
 
 À ce moment, [[Corgak]] se précipite vers [[Perrin]] pour le frapper mais il est intercepté par [[Albert]] et il le frappe. Une mêlée éclate.
+
+### Arrivée de Tamerlane
+[[Tamerlane Foghorn]] et son groupe entrent dans la taverne pendant la mêlée. Certains reconnaissent aussitôt [[Tamerlane Foghorn]] et l'escarmouche arrête subitement. [[Amir Carodoc]] la salut nerveusement mais avant qu'il ne puisse terminer sa phrase, [[Tamerlane Foghorn]] lui indique de se taire et prend à son tour la parole.
+
+```ad-quote
+title: [[Tamerlane Foghorn]]
+
+**En s'addressant à [[Amir]]**
+
+Ainsi donc la rumeur est vraie... Je me serais attendu à une soirée de festivités plutôt que de conflit... **En dévisageant les gens impliqués dans la mélé**.
+
+Néanmoins, je me demande si la [[Ligue Frégate]] a fait des promesses qu'elle ne pourra tenir... 1 mois de provisions alors que nous sommes en temps de guerre et que le risque de pénurie est réel... La [[Ligue Frégate]] pense-t-elle qu'elle pourra sortir une telle quantité de vivres des greniers de la ville sans y être autorisée?
+
+Il me semble qu'un représentant de la [[Guilde Marchande]] aurait dû rappeler à la [[Ligue Frégate]] qu'elle est sujette au même rationnement que nous tous **en dévisageant [[Hossulim]]**
+
+**[[Corbu]] se met à rire du désarroi de [[Hossulim]] qui ne sait comment gérer la situation**
+
+**En faisant les cent pas et en interromppant quiconque tente de prendre la parole.**
+
+Je suis bien conscient des opportunités qu'engendrent une telle découverte et des sacrifices qui devront être faits pour les réaliser. Pour cette raison, je vous autorise l'accès aux provisions.
+
+Cependant, rappelez-vous les objectifs de cette expédition:
+
+- La mise sur pied d'une colonie ET
+- Le rapatriement de ressources vers [[Brevoy]]
+
+Afin de vous aider dans l'atteint de ses objectifs, 3 de mes hommes seront de l'expédition. Leur expertise sera des plus utiles.
+
+Quant aux autres, j'imagine que la [[Ligue Frégate]] sera garante de leurs compétences et de leur loyauté envers [[Brevoy]]. **Regarde [[Amir Carodoc]] et attend une  confirmation**.
+
+Bien. Dans ce cas, ma présence ici n'est plus requise. Que la fête se poursuive. 
+```
+

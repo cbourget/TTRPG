@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d9fe45e978318f91",
+        "id": "39d907eb86761780",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md",
+            "file": "Plan.md",
             "mode": "preview",
             "source": true
           },
@@ -18,16 +18,35 @@
         }
       },
       {
-        "id": "f04b96caf05fcfa6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Plan.md",
-            "mode": "preview",
-            "source": true
+        "id": "f60e7021150b33a4",
+        "type": "split",
+        "children": [
+          {
+            "id": "9b540b28765befdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G3.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dd604eee6095572c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -83,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361
+    "width": 418
   },
   "right": {
     "id": "8b329d269e60daa7",
@@ -99,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan.md",
+                "file": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan.md"
+                "file": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G3.md"
               }
             }
           },
@@ -137,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan.md",
+                "file": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,17 +178,17 @@
     "width": 285,
     "collapsed": true
   },
-  "active": "f04b96caf05fcfa6",
+  "active": "9b540b28765befdf",
   "lastOpenFiles": [
-    "Plan.md",
-    "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Meredia/Meredia.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Livia/Livia.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Kretiak Cragmire/Kretiak Cragmire.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Jormun/Jormun.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Hossulim/Hossulim.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Horadin Fulgor/Horadin Fulgor.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Héron/Héron.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Harald/Harald.md"
+    "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G3.md",
+    "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G2.md",
+    "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G1.md",
+    "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G5.md",
+    "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G4.md",
+    "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
+    "Obsidian/Templates/embed-linked-image.md",
+    "Obsidian/Templates/embed-secrets.md",
+    "Obsidian/Templates/embed-stats.md",
+    "Plan.md"
   ]
 }
