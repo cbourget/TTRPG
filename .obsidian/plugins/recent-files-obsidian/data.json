@@ -1,12 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "1 - Joindre l'expédition",
-      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md"
+      "basename": "Plan",
+      "path": "Entre Deux Mondes/2 - Campagne/Plan.md"
     },
     {
-      "basename": "Plan",
-      "path": "Plan.md"
+      "basename": "Xendra Mantar",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
+    },
+    {
+      "basename": "Rackham",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Rackham/Rackham.md"
+    },
+    {
+      "basename": "Penny Ilvastar",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Penny Ilvastar/Penny Ilvastar.md"
+    },
+    {
+      "basename": "Perrin",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md"
+    },
+    {
+      "basename": "Nilheim",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Nilheim/Nilheim.md"
+    },
+    {
+      "basename": "Meredia",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Meredia/Meredia.md"
+    },
+    {
+      "basename": "Christofle",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Christofle/Christofle.md"
+    },
+    {
+      "basename": "Taverne",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
+    },
+    {
+      "basename": "G6",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G6.md"
+    },
+    {
+      "basename": "G7",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G7.md"
+    },
+    {
+      "basename": "G8",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G8.md"
+    },
+    {
+      "basename": "G5",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G5.md"
+    },
+    {
+      "basename": "G4",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G4.md"
+    },
+    {
+      "basename": "G1",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G1.md"
+    },
+    {
+      "basename": "G3",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G3.md"
+    },
+    {
+      "basename": "G2",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G2.md"
+    },
+    {
+      "basename": "1 - Joindre l'expédition",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md"
     },
     {
       "basename": "Corgak",
@@ -37,44 +101,8 @@
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Cook/Cook.md"
     },
     {
-      "basename": "Taverne",
-      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
-    },
-    {
-      "basename": "G1",
-      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G1.md"
-    },
-    {
-      "basename": "G2",
-      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G2.md"
-    },
-    {
-      "basename": "G6",
-      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G6.md"
-    },
-    {
-      "basename": "G5",
-      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G5.md"
-    },
-    {
-      "basename": "G8",
-      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G8.md"
-    },
-    {
-      "basename": "G7",
-      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G7.md"
-    },
-    {
-      "basename": "G4",
-      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G4.md"
-    },
-    {
       "basename": "Estelmer",
       "path": "Entre Deux Mondes/1 - Compendium/Factions/Estelmer.md"
-    },
-    {
-      "basename": "G3",
-      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G3.md"
     },
     {
       "basename": "Notes",
@@ -99,10 +127,6 @@
     {
       "basename": "Foghorn",
       "path": "Entre Deux Mondes/1 - Compendium/Factions/Foghorn.md"
-    },
-    {
-      "basename": "Meredia",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Meredia/Meredia.md"
     },
     {
       "basename": "Livia",
@@ -165,14 +189,6 @@
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Norlu.jpg"
     },
     {
-      "basename": "Perrin",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Perrin/Perrin.md"
-    },
-    {
-      "basename": "Xendra Mantar",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
-    },
-    {
       "basename": "Wilhelm Oberon",
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Vladimir Estelmer",
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Vladimir Estelmer/Vladimir Estelmer.md"
-    },
-    {
-      "basename": "Tamerlane Foghorn",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.md"
-    },
-    {
-      "basename": "Talarissa",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Talarissa/Talarissa.md"
-    },
-    {
-      "basename": "Seymor Mantar",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Seymor Mantar/Seymor Mantar.jpg"
-    },
-    {
-      "basename": "Samora",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Samora/Samora.md"
     }
   ],
   "omittedPaths": [],
