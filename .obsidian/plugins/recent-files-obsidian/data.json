@@ -1,28 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "G3",
-      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G3.md"
+      "basename": "1 - Joindre l'expédition",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md"
     },
     {
-      "basename": "G2",
-      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G2.md"
+      "basename": "Plan",
+      "path": "Plan.md"
+    },
+    {
+      "basename": "Corgak",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Corgak/Corgak.md"
+    },
+    {
+      "basename": "Corvo Estelmer",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Corvo Estelmer/Corvo Estelmer.md"
+    },
+    {
+      "basename": "Seymor Mantar",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Seymor Mantar/Seymor Mantar.md"
+    },
+    {
+      "basename": "Harald",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Harald/Harald.md"
+    },
+    {
+      "basename": "Wisgar",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Wisgar/Wisgar.md"
+    },
+    {
+      "basename": "Albert",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Albert/Albert.md"
+    },
+    {
+      "basename": "Cook",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Cook/Cook.md"
+    },
+    {
+      "basename": "Taverne",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
     },
     {
       "basename": "G1",
       "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G1.md"
     },
     {
+      "basename": "G2",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G2.md"
+    },
+    {
+      "basename": "G6",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G6.md"
+    },
+    {
       "basename": "G5",
       "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G5.md"
+    },
+    {
+      "basename": "G8",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G8.md"
+    },
+    {
+      "basename": "G7",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G7.md"
     },
     {
       "basename": "G4",
       "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G4.md"
     },
     {
-      "basename": "Taverne",
-      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
+      "basename": "Estelmer",
+      "path": "Entre Deux Mondes/1 - Compendium/Factions/Estelmer.md"
+    },
+    {
+      "basename": "G3",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G3.md"
+    },
+    {
+      "basename": "Notes",
+      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Notes.md"
     },
     {
       "basename": "embed-linked-image",
@@ -37,16 +93,8 @@
       "path": "Obsidian/Templates/embed-stats.md"
     },
     {
-      "basename": "Plan",
-      "path": "Plan.md"
-    },
-    {
       "basename": "embed-stats-custom",
       "path": "Obsidian/Templates/embed-stats-custom.md"
-    },
-    {
-      "basename": "1 - Joindre l'expédition",
-      "path": "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md"
     },
     {
       "basename": "Foghorn",
@@ -81,20 +129,12 @@
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Héron/Héron.md"
     },
     {
-      "basename": "Harald",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Harald/Harald.md"
-    },
-    {
       "basename": "Ronzu",
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Ronzu/Ronzu.md"
     },
     {
       "basename": "Roy Larg",
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Roy Larg/Roy Larg.md"
-    },
-    {
-      "basename": "Seymor Mantar",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Seymor Mantar/Seymor Mantar.md"
     },
     {
       "basename": "Korigan Mantar",
@@ -159,46 +199,6 @@
     {
       "basename": "Samora",
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Samora/Samora.md"
-    },
-    {
-      "basename": "Randal Carodoc",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Randal Carodoc/Randal Carodoc.md"
-    },
-    {
-      "basename": "Rackham",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Rackham/Rackham.md"
-    },
-    {
-      "basename": "Penny Ilvastar",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Penny Ilvastar/Penny Ilvastar.md"
-    },
-    {
-      "basename": "Nilheim",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Nilheim/Nilheim.md"
-    },
-    {
-      "basename": "Logan Lanngolyn",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.md"
-    },
-    {
-      "basename": "Grog",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Grog/Grog.md"
-    },
-    {
-      "basename": "Gatsby",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Gatsby/Gatsby.md"
-    },
-    {
-      "basename": "Gareth",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Gareth/Gareth.md"
-    },
-    {
-      "basename": "Frya Cragmire",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Frya Cragmire/Frya Cragmire.md"
-    },
-    {
-      "basename": "Dom",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Dom/Dom.md"
     }
   ],
   "omittedPaths": [],

@@ -32,34 +32,6 @@
       ]
     },
     {
-      "id": "scenario-1-taverne",
-      "lastAccessed": 1640830216810,
-      "markers": [
-        {
-          "id": "ID_8889f82ba88a",
-          "type": "group",
-          "loc": [
-            -0.576080322265625,
-            0.52734375
-          ],
-          "link": "G1",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
-      ]
-    },
-    {
       "id": "brevoy",
       "lastAccessed": 1641326598396,
       "markers": [
@@ -113,6 +85,51 @@
       "shapes": [],
       "files": [
         "Entre Deux Mondes/1 - Compendium/Lieux/Brevoy/6 - Taverne/6 - Taverne.md"
+      ]
+    },
+    {
+      "id": "scenario-1-taverne",
+      "lastAccessed": 1645406480926,
+      "markers": [
+        {
+          "id": "ID_c8bb29cb8979",
+          "type": "group",
+          "loc": [
+            -0.56231689453125,
+            0.529296875
+          ],
+          "link": "G1",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_88495b590938",
+          "type": "group",
+          "loc": [
+            -0.68731689453125,
+            0.755859375
+          ],
+          "link": "G2",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
       ]
     }
   ],

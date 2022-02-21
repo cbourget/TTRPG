@@ -40,7 +40,7 @@ Sur la partie surélevée de la taverne,  [[Amir Carodoc]] et [[Cleyton Kilmer]]
 ```ad-quote
 title: [[Amir Carodoc]]
 
-*De bonne humeur*
+**De bonne humeur**
 
 Bonsoir à tous. Aujourd'hui, nous écrivons une nouvelle page d'histoire, car oui, la rumeur est vraie. Nous avons enfin touché terre à l'ouest grâce à cet homme et son équipe. Levez vos verres pour le capitaine [[Cleyton Kilmer]]!
 
@@ -50,7 +50,7 @@ Cleyton, parlez nous donc cette terre.
 ```ad-quote
 title: [[Cleyton Kilmer]]
 
-*Regarde dans la sallle et répond de façon distraite*
+**Regarde dans la sallle et répond de façon distraite**
 
 Oui oui... C'était une terre merveilleuse. Dès qu'on l'a vue, on a su que c'était une terre aux opportunités infinies. La côte était immense et verdoyante. Nous aurions vraiment aimé...
 ```
@@ -58,7 +58,7 @@ Oui oui... C'était une terre merveilleuse. Dès qu'on l'a vue, on a su que c'é
 ```ad-quote
 title: [[Amir Carodoc]]
 
-*En interrompant nerveusement [[Cleyton Kilmer]]*
+**En interrompant nerveusement [[Cleyton Kilmer]]**
 
 ...Nous avons compris, merci pour ces explications et merci de nous faire rêver. Je vous félicite encore de votre découverte!
 
@@ -67,7 +67,7 @@ Je vous annonce donc que dans 3 jours, 50 hommes et femmes partiront avec le cap
 La durée de la traversée est d'un mois et il vous sera fourni suffisamment de provisions pour y survivre. En contre-partie, tout ce qui vous sera demandé, est votre sueur, de votre sang, votre courage ainsi que 150 [[Boletar]] d'or...
 ```
 
-L'annonce accroît graduellement le moral dans la salle mais le fait qu'il en coûtera 150 [[Boletar]] pour joindre l'expédition jette une douche d'eau froide sur les moins bien nentis et la frustration se fait sentir. Le ton monte...
+L'annonce accroît graduellement le moral dans la salle mais le fait qu'il en coûtera 150 [[Boletar]] pour joindre l'expédition jette une douche d'eau froide sur les moins bien nantis et la frustration se fait sentir. Le ton monte...
 
 ```ad-quote
 title: [[Corgak]]
@@ -80,7 +80,7 @@ title: [[Corgak]]
 ```ad-quote
 title: [[Perrin]]
 
-**Assis à sa table, sans regarder [[Corgark]] mais assez fort pour être entendu de tous**
+**Assis à sa table, sans regarder [[Corgak]] mais assez fort pour être entendu de tous**
 
 2 [[Boletar]] d'argent c'est un salaire généreux pour quelqu'un de son espèce.
 ```
@@ -115,7 +115,7 @@ Ainsi donc la rumeur est vraie... Je me serais attendu à une soirée de festivi
 
 Néanmoins, je me demande si la [[Ligue Frégate]] a fait des promesses qu'elle ne pourra tenir... 1 mois de provisions alors que nous sommes en temps de guerre et que le risque de pénurie est réel... La [[Ligue Frégate]] pense-t-elle qu'elle pourra sortir une telle quantité de vivres des greniers de la ville sans y être autorisée?
 
-Il me semble qu'un représentant de la [[Guilde Marchande]] aurait dû rappeler à la [[Ligue Frégate]] qu'elle est sujette au même rationnement que nous tous **en dévisageant [[Hossulim]]**
+Il me semble qu'un représentant de la [[Guilde Marchande]] aurait dû rappeler à la [[Ligue Frégate]] qu'elle est sujette au même rationnement que nous tous. **Dévisage [[Hossulim]]**
 
 **[[Corbu]] se met à rire du désarroi de [[Hossulim]] qui ne sait comment gérer la situation**
 
