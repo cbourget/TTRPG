@@ -65,7 +65,7 @@
       "markers": [
         {
           "id": "ID_4abb199838ca",
-          "type": "group",
+          "type": "g1",
           "loc": [
             -0.570220947265625,
             0.525390625
@@ -89,14 +89,31 @@
     },
     {
       "id": "scenario-1-taverne",
-      "lastAccessed": 1645406480926,
+      "lastAccessed": 1645651234059,
       "markers": [
         {
-          "id": "ID_c8bb29cb8979",
-          "type": "group",
+          "id": "ID_7abb69893b88",
+          "type": "g2",
           "loc": [
-            -0.56231689453125,
-            0.529296875
+            -0.681549072265625,
+            0.7421875
+          ],
+          "link": "G2",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_3bda6b99b8e9",
+          "type": "g1",
+          "loc": [
+            -0.558502197265625,
+            0.5302734375
           ],
           "link": "G1",
           "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
@@ -109,13 +126,64 @@
           "tooltip": "never"
         },
         {
-          "id": "ID_88495b590938",
-          "type": "group",
+          "id": "ID_eac86a7b09c8",
+          "type": "g3",
           "loc": [
-            -0.68731689453125,
-            0.755859375
+            -0.852447509765625,
+            0.685546875
           ],
-          "link": "G2",
+          "link": "G3",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_4ae8290bd808",
+          "type": "g4",
+          "loc": [
+            -0.390533447265625,
+            1.03125
+          ],
+          "link": "G4",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_999b7b3a5bb9",
+          "type": "g5",
+          "loc": [
+            -0.46661376953125,
+            0.724609375
+          ],
+          "link": "G5",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_e82a492b192b",
+          "type": "g6",
+          "loc": [
+            -0.37872314453125,
+            0.91796875
+          ],
+          "link": "G6",
           "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
           "mutable": true,
           "command": false,
@@ -160,7 +228,157 @@
       "maxZoom": null
     },
     {
-      "type": "group",
+      "type": "g1",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "g2",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "g3",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "g4",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "g5",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "g6",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "g7",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "g8",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "g9",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "g10",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "g11",
       "iconName": "circle",
       "color": "#ddb113",
       "layer": false,

@@ -15,7 +15,16 @@
   white-space: nowrap;
 }
 
-.leaflet-marker-icon[data-type="group"]::before {
+.leaflet-marker-icon[data-type="g1"]::before,
+.leaflet-marker-icon[data-type="g2"]::before,
+.leaflet-marker-icon[data-type="g3"]::before,
+.leaflet-marker-icon[data-type="g4"]::before,
+.leaflet-marker-icon[data-type="g5"]::before,
+.leaflet-marker-icon[data-type="g6"]::before,
+.leaflet-marker-icon[data-type="g7"]::before,
+.leaflet-marker-icon[data-type="g8"]::before,
+.leaflet-marker-icon[data-type="g9"]::before,
+.leaflet-marker-icon[data-type="g10"]::before {
   content: attr(data-link);
   display: flex;
   justify-content: center;
