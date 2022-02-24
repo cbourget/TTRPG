@@ -7,11 +7,9 @@
         "id": "f5c88625aa564804",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Entre Deux Mondes/Tokens/NPCs1.md",
-            "mode": "preview",
-            "source": true
+            "file": "Entre Deux Mondes/1 - Compendium/NPCs/two guys.jpg"
           }
         }
       }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entre Deux Mondes/Tokens/NPCs1.md",
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/two guys.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entre Deux Mondes/Tokens/NPCs1.md"
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/two guys.jpg"
               }
             }
           },
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entre Deux Mondes/Tokens/NPCs1.md",
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/two guys.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,15 +145,15 @@
   },
   "active": "f5c88625aa564804",
   "lastOpenFiles": [
-    "Entre Deux Mondes/Tokens/NPCs1.md",
-    "Entre Deux Mondes/2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
-    "Entre Deux Mondes/2 - Campagne/Joueurs/Ciel Phantomhive/Ciel Phantomhive.md",
-    "Entre Deux Mondes/2 - Campagne/Joueurs/Père Aurel/Père Aurel.md",
-    "Entre Deux Mondes/2 - Campagne/Joueurs/Sigur Eldridge/Sigur Eldridge.md",
-    "Entre Deux Mondes/2 - Campagne/Joueurs/Wanageeska/Wanageeska.md",
-    "Entre Deux Mondes/2 - Campagne/Joueurs/Père Aurel/Père Aurel.jpg",
-    "Entre Deux Mondes/2 - Campagne/Joueurs/Sigur Eldridge/Sigur Eldridge.jpg",
-    "Entre Deux Mondes/2 - Campagne/Joueurs/Ciel Phantomhive/Ciel Phantomhive.jpg",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Agrippine/Agrippine.md"
+    "Entre Deux Mondes/1 - Compendium/NPCs/two guys.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Tavernier.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Norlu.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Korigan Mantar.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Hal-Elf Ranger.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Izalith Mantar.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Dame Yiotl.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Wisgar/Wisgar.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md"
   ]
 }
