@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Cleyton Kilmer",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md"
+    },
+    {
+      "basename": "Cook",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Cook/Cook.md"
+    },
+    {
       "basename": "Korigan Mantar",
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Korigan Mantar.jpg"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Nymph3",
       "path": "Images/Beasts/Nymph3.jpg"
-    },
-    {
-      "basename": "Nymph2",
-      "path": "Images/Beasts/Nymph2.jpg"
-    },
-    {
-      "basename": "Nymph",
-      "path": "Images/Beasts/Nymph.jpg"
     }
   ],
   "omittedPaths": [],
