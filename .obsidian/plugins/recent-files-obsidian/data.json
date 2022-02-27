@@ -1,48 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "Taff",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Taff/Taff.md"
+    },
+    {
+      "basename": "Xendra Mantar",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
+    },
+    {
+      "basename": "Taff",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Taff/Taff.jpg"
+    },
+    {
+      "basename": "Izalith Mantar 1",
+      "path": "Images/Characters/Izalith Mantar 1.jpg"
+    },
+    {
+      "basename": "Meredia",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Meredia/Meredia.md"
+    },
+    {
+      "basename": "Hal-Elf Ranger",
+      "path": "Images/Characters/Hal-Elf Ranger.jpg"
+    },
+    {
+      "basename": "Celestials",
+      "path": "Images/Characters/Celestials.jpg"
+    },
+    {
+      "basename": "Dame Yiotl",
+      "path": "Images/Characters/Dame Yiotl.jpg"
+    },
+    {
+      "basename": "Brome Firbor",
+      "path": "Images/Characters/Brome Firbor.jpg"
+    },
+    {
+      "basename": "Korigan Mantar",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Korigan Mantar/Korigan Mantar.md"
+    },
+    {
+      "basename": "Seymor Mantar",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Seymor Mantar/Seymor Mantar.md"
+    },
+    {
+      "basename": "Korigan Mantar",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Korigan Mantar/Korigan Mantar.jpg"
+    },
+    {
+      "basename": "Norlu",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Norlu/Norlu.md"
+    },
+    {
+      "basename": "Norlu",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Norlu/Norlu.jpg"
+    },
+    {
+      "basename": "Larissa Artemel",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Larissa Artemel/Larissa Artemel.md"
+    },
+    {
+      "basename": "Larissa Artemel",
+      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Larissa Artemel/Larissa Artemel.jpg"
+    },
+    {
       "basename": "Cleyton Kilmer",
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md"
     },
     {
       "basename": "Cook",
       "path": "Entre Deux Mondes/1 - Compendium/NPCs/Cook/Cook.md"
-    },
-    {
-      "basename": "Korigan Mantar",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Korigan Mantar.jpg"
-    },
-    {
-      "basename": "Tavernier",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Tavernier.jpg"
-    },
-    {
-      "basename": "Unknown Artemel",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Unknown Artemel.jpg"
-    },
-    {
-      "basename": "Celestials",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Celestials.jpg"
-    },
-    {
-      "basename": "Norlu",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Norlu.jpg"
-    },
-    {
-      "basename": "Izalith Mantar",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Izalith Mantar.jpg"
-    },
-    {
-      "basename": "Hal-Elf Ranger",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Hal-Elf Ranger.jpg"
-    },
-    {
-      "basename": "Dame Yiotl",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Dame Yiotl.jpg"
-    },
-    {
-      "basename": "Brome Firbor",
-      "path": "Entre Deux Mondes/1 - Compendium/NPCs/Brome Firbor.jpg"
     },
     {
       "basename": "XendrikHex",
@@ -171,34 +199,6 @@
     {
       "basename": "QuartierBandits",
       "path": "Images/Maps/QuartierBandits.jpg"
-    },
-    {
-      "basename": "Paladin",
-      "path": "Images/Characters/Paladin.jpg"
-    },
-    {
-      "basename": "Overgrown Castle",
-      "path": "Images/Locations/Overgrown Castle.jpg"
-    },
-    {
-      "basename": "Orc Juggler",
-      "path": "Images/Characters/Orc Juggler.png"
-    },
-    {
-      "basename": "Oracle",
-      "path": "Images/Beasts/Oracle.jpg"
-    },
-    {
-      "basename": "Old Oracle",
-      "path": "Images/Characters/Old Oracle.jpg"
-    },
-    {
-      "basename": "Nymph4",
-      "path": "Images/Beasts/Nymph4.jpg"
-    },
-    {
-      "basename": "Nymph3",
-      "path": "Images/Beasts/Nymph3.jpg"
     }
   ],
   "omittedPaths": [],

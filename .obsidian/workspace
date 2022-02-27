@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md",
-            "mode": "preview",
+            "file": "Entre Deux Mondes/1 - Compendium/NPCs/Taff/Taff.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md",
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Taff/Taff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md"
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Taff/Taff.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md",
+                "file": "Entre Deux Mondes/1 - Compendium/NPCs/Taff/Taff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,15 +147,15 @@
   },
   "active": "dd2f9f86fe034d68",
   "lastOpenFiles": [
-    "Entre Deux Mondes/1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Cook/Cook.md",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Korigan Mantar.jpg",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Tavernier.jpg",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Unknown Artemel.jpg",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Celestials.jpg",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Norlu.jpg",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Izalith Mantar.jpg",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Hal-Elf Ranger.jpg",
-    "Entre Deux Mondes/1 - Compendium/NPCs/Dame Yiotl.jpg"
+    "Entre Deux Mondes/1 - Compendium/NPCs/Taff/Taff.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Taff/Taff.jpg",
+    "Images/Characters/Izalith Mantar 1.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Meredia/Meredia.md",
+    "Images/Characters/Hal-Elf Ranger.jpg",
+    "Images/Characters/Celestials.jpg",
+    "Images/Characters/Dame Yiotl.jpg",
+    "Images/Characters/Brome Firbor.jpg",
+    "Entre Deux Mondes/1 - Compendium/NPCs/Korigan Mantar/Korigan Mantar.md"
   ]
 }
