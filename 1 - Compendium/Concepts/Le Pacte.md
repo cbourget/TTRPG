@@ -26,6 +26,6 @@ Les autres membres du groupes choisrent de rester sur [[Nostaria]] où [[Père G
 * [[Estelle de Beauvais]], une savante versée dans l'art alchimique choisie d'agrémenter son art par la [[Âme#Contention d'âme|Contention d'âme]] afin d'accroître sa puissance et de rivaliser avec les [[Pthumériens]] à leur éveil.
 * [[Korigan Telazar]] fît appel à de puissantes entités démoniaques afin qu'elles lui offrent leur protection en échange d'âmes.
 * [[Donnyr Avian]] choisit la discrétion et élu domicile dans la [[Forêt de Vernoir]].
-* [[Entre Deux Mondes/1 - Compendium/Concepts/Brome Firbor]], un bâtisseur chevronné, ériga une imposante cité-forteresse au-dessus de la tombe afin que les [[Pthumériens]] n'en échappent jamais.
+* [[Brome Firbor]], un bâtisseur chevronné, ériga une imposante cité-forteresse au-dessus de la tombe afin que les [[Pthumériens]] n'en échappent jamais.
 
 ## Secrets

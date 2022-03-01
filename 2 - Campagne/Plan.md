@@ -41,7 +41,7 @@
 	- [x] [[Logan Lanngolyn]]
 - [x] [[Tamerlane Foghorn]]
 	- [x] [[Alcide Foghorn]]
-	- [x] [[Rackham]]
+	- [x] [[1 - Compendium/NPCs/Rackham/Rackham]]
 	- [x] [[Meredia]]
 - [ ] [[Académie des Noms]]
 	- [ ] Membre 1
