@@ -1,7 +1,7 @@
 
 ---
 cssclass: 'npc'
-tags: NPC
+tags: Joueur
 ---
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 

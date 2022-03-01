@@ -1,7 +1,7 @@
 
 ---
 cssclass: 'npc'
-tags: NPC Capes-Jaunes
+tags: Joueur Capes-Jaunes
 ---
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 

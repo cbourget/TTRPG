@@ -1,7 +1,7 @@
 
 ---
 cssclass: 'npc'
-tags: NPC Église-Osiron 
+tags: Joueur Église-Osiron 
 ---
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 

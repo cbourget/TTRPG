@@ -19,7 +19,7 @@ De plus, il est évident que des gens de plusieurs classes sociales et on remarq
 
 ```
 
-Les joueurs et les NPCs arrivent progressivement à la taverne. Après l'arrivée du dernier et avant que l'annonce officielle ne soit faite, les joueurs ont **3 tours** pour intéragir avec les NPCs.
+Les joueurs et les NPCs arrivent progressivement à la taverne. Après l'arrivée du dernier et avant que l'annonce officielle ne soit faite, les joueurs ont **3 tours** pour intéragir avec les NPCs. Après le premier tour, [[Rackham]] et sa bande font leur entrée. Ils sont arrogants et lancent une remarque à l'endroit de [[Wanageeska]]. Ils se dirient ensuite vers leur table habituelle, prêts à tabasser ceux qui l'occupent mais [[Rackham]] suggère de prendre une autre table en constatant que leur table est occupée par les [[Cragmire]], [[Estelmer]] et [[Ilvastar]]. 
 
 ```ad-tip
 title: Actions
