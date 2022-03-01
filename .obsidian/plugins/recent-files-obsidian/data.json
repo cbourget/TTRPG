@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Index",
+      "path": "1 - Compendium/Index.md"
+    },
+    {
+      "basename": "Académie des Noms",
+      "path": "1 - Compendium/Factions/Académie des Noms.md"
+    },
+    {
+      "basename": "Pictis",
+      "path": "1 - Compendium/Factions/Pictis/Pictis.md"
+    },
+    {
+      "basename": "Strix",
+      "path": "1 - Compendium/NPCs/Strix/Strix.md"
+    },
+    {
+      "basename": "Strix",
+      "path": "1 - Compendium/NPCs/Strix/Strix.jpg"
+    },
+    {
+      "basename": "Agrippine",
+      "path": "1 - Compendium/NPCs/Agrippine/Agrippine.md"
+    },
+    {
+      "basename": "Agrippine",
+      "path": "1 - Compendium/NPCs/Agrippine/Agrippine.jpg"
+    },
+    {
+      "basename": "Guide",
+      "path": "1 - Compendium/Guide.md"
+    },
+    {
+      "basename": "Female Captain",
+      "path": "Images/Characters/Female Captain.jpg"
+    },
+    {
+      "basename": "Swashbuckler",
+      "path": "Images/Characters/Swashbuckler.jpg"
+    },
+    {
+      "basename": "Winged Axe Woman",
+      "path": "Images/Characters/Winged Axe Woman.jpg"
+    },
+    {
       "basename": "Borgne",
-      "path": "1 - Compendium/NPCs/Borgne.jpg"
+      "path": "1 - Compendium/NPCs/Borgne/Borgne.md"
+    },
+    {
+      "basename": "Borgne",
+      "path": "1 - Compendium/NPCs/Borgne/Borgne.jpg"
     },
     {
       "basename": "Meredia",
@@ -75,10 +123,6 @@
     {
       "basename": "Javelin",
       "path": "1 - Compendium/NPCs/Javelin/Javelin.jpg"
-    },
-    {
-      "basename": "Pictis",
-      "path": "1 - Compendium/Factions/Pictis/Pictis.md"
     },
     {
       "basename": "Rackham",
@@ -155,50 +199,6 @@
     {
       "basename": "Daugther of North",
       "path": "Images/Characters/Daugther of North.jpg"
-    },
-    {
-      "basename": "Dark Lord",
-      "path": "Images/Characters/Dark Lord.jpg"
-    },
-    {
-      "basename": "Dame Yiotl",
-      "path": "Images/Characters/Dame Yiotl.jpg"
-    },
-    {
-      "basename": "Crown and Wizard",
-      "path": "Images/Characters/Crown and Wizard.jpg"
-    },
-    {
-      "basename": "Cloaked Guy",
-      "path": "Images/Characters/Cloaked Guy.jpg"
-    },
-    {
-      "basename": "Cleric Dwarf",
-      "path": "Images/Characters/Cleric Dwarf.jpg"
-    },
-    {
-      "basename": "Chamanness",
-      "path": "Images/Characters/Chamanness.png"
-    },
-    {
-      "basename": "Butcher",
-      "path": "Images/Characters/Butcher.jpg"
-    },
-    {
-      "basename": "Brome Firbor",
-      "path": "Images/Characters/Brome Firbor.jpg"
-    },
-    {
-      "basename": "Blacksmith",
-      "path": "Images/Characters/Blacksmith.jpg"
-    },
-    {
-      "basename": "Bard",
-      "path": "Images/Characters/Bard.jpg"
-    },
-    {
-      "basename": "Assassin",
-      "path": "Images/Characters/Assassin.jpg"
     }
   ],
   "omittedPaths": [],

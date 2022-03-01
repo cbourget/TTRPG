@@ -1,0 +1,33 @@
+
+---
+
+cssclass: 'npc'
+tags: NPC
+
+---
+<span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
+
+# Borgne
+
+```ad-desc
+
+<span class="image">![[Borgne.jpg]][[Borgne.jpg|Voir]]</span>
+
+<span class="npc-tags">#Humain #Homme</span>
+
+<span>Lorem Ipsum</span>
+
+<strong>Physique: </strong>
+
+<strong>Caractère: </strong>
+```
+
+## Objectifs
+
+## Détails
+
+## Relations
+
+## Secrets
+
+## Statistiques

@@ -4,7 +4,7 @@ const name = await tp.system.prompt('Enter Name');
 const race = await campaign.chooseRace(tp);
 const gender = await campaign.chooseGender(tp);
 
-await tp.file.move(`${campaign.name}/1 - Compendium/NPCs/${name}`);
+await tp.file.move(`1 - Compendium/NPCs/${name}`);
 -%>
 
 ---

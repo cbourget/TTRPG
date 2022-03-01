@@ -34,14 +34,6 @@ const Campaign = () => ({
     return this
   },
 
-  chooseCampaign: async function (tp) {
-    const choice = await tp.system.suggester(GENDERS, GENDERS)
-    if (!choice) {
-      return 'Homme'
-    }
-    return choice
-  },
-
   chooseGender: async function (tp) {
     const choice = await tp.system.suggester(GENDERS, GENDERS)
     if (!choice) {

@@ -7,9 +7,11 @@
         "id": "dd2f9f86fe034d68",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "1 - Compendium/NPCs/Borgne.jpg"
+            "file": "1 - Compendium/Index.md",
+            "mode": "source",
+            "source": true
           }
         },
         "group": "2ebf6f3d0c935115"
@@ -18,9 +20,11 @@
         "id": "e4aed530adccc8d7",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "1 - Compendium/NPCs/Borgne.jpg"
+            "file": "1 - Compendium/Index.md",
+            "mode": "preview",
+            "source": true
           }
         },
         "group": "2ebf6f3d0c935115"
@@ -95,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Compendium/NPCs/Borgne.jpg",
+                "file": "1 - Compendium/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Compendium/NPCs/Borgne.jpg"
+                "file": "1 - Compendium/Index.md"
               }
             }
           },
@@ -133,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Compendium/NPCs/Borgne.jpg",
+                "file": "1 - Compendium/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,15 +161,15 @@
   },
   "active": "dd2f9f86fe034d68",
   "lastOpenFiles": [
-    "1 - Compendium/NPCs/Borgne.jpg",
-    "1 - Compendium/NPCs/Meredia/Meredia.md",
-    "1 - Compendium/NPCs/Siegfried/Siegfried.md",
-    "1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md",
-    "1 - Compendium/Factions/Foghorn.md",
-    "1 - Compendium/Factions.md",
-    "Images/Characters/Spy.jpg",
-    "Images/Characters/Shady Sailor.jpg",
-    "Images/Characters/Scarred Northen Man.jpg",
-    "Images/Characters/Sailor.jpg"
+    "1 - Compendium/Index.md",
+    "1 - Compendium/Factions/Académie des Noms.md",
+    "1 - Compendium/Factions/Pictis/Pictis.md",
+    "1 - Compendium/NPCs/Strix/Strix.md",
+    "1 - Compendium/NPCs/Strix/Strix.jpg",
+    "1 - Compendium/NPCs/Agrippine/Agrippine.md",
+    "1 - Compendium/NPCs/Agrippine/Agrippine.jpg",
+    "1 - Compendium/Guide.md",
+    "Images/Characters/Female Captain.jpg",
+    "Images/Characters/Swashbuckler.jpg"
   ]
 }
