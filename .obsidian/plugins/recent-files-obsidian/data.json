@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "NPCs1",
+      "path": "Tokens/NPCs1.md"
+    },
+    {
+      "basename": "Javelin",
+      "path": "1 - Compendium/NPCs/Javelin/Javelin.jpg"
+    },
+    {
+      "basename": "NPCs1",
+      "path": "NPCs1.pdf"
+    },
+    {
+      "basename": "Sigur Eldridge",
+      "path": "2 - Campagne/Joueurs/Sigur Eldridge/Sigur Eldridge.md"
+    },
+    {
+      "basename": "Père Aurel",
+      "path": "2 - Campagne/Joueurs/Père Aurel/Père Aurel.md"
+    },
+    {
+      "basename": "Léon de Beauvais",
+      "path": "2 - Campagne/Joueurs/Léon de Beauvais/Léon de Beauvais.md"
+    },
+    {
+      "basename": "Ciel Phantomhive",
+      "path": "2 - Campagne/Joueurs/Ciel Phantomhive/Ciel Phantomhive.md"
+    },
+    {
+      "basename": "Wanageeska",
+      "path": "2 - Campagne/Joueurs/Wanageeska/Wanageeska.md"
+    },
+    {
+      "basename": "Wanageeska",
+      "path": "2 - Campagne/Joueurs/Wanageeska/Wanageeska.jpg"
+    },
+    {
+      "basename": "Belivik Vulpin",
+      "path": "1 - Compendium/NPCs/Belivik Vulpin/Belivik Vulpin.md"
+    },
+    {
+      "basename": "Vilfort Estelmer",
+      "path": "1 - Compendium/NPCs/Vilfort Estelmer/Vilfort Estelmer.md"
+    },
+    {
+      "basename": "Vilfort Estelmer",
+      "path": "1 - Compendium/NPCs/Vilfort Estelmer/Vilfort Estelmer.jpg"
+    },
+    {
+      "basename": "Fanny",
+      "path": "1 - Compendium/NPCs/Fanny/Fanny.md"
+    },
+    {
       "basename": "Plan",
       "path": "Plan.md"
     },
@@ -35,22 +87,6 @@
     {
       "basename": "Carodoc",
       "path": "1 - Compendium/Factions/Carodoc.md"
-    },
-    {
-      "basename": "Sigur Eldridge",
-      "path": "2 - Campagne/Joueurs/Sigur Eldridge/Sigur Eldridge.md"
-    },
-    {
-      "basename": "Wanageeska",
-      "path": "2 - Campagne/Joueurs/Wanageeska/Wanageeska.md"
-    },
-    {
-      "basename": "Père Aurel",
-      "path": "2 - Campagne/Joueurs/Père Aurel/Père Aurel.md"
-    },
-    {
-      "basename": "Ciel Phantomhive",
-      "path": "2 - Campagne/Joueurs/Ciel Phantomhive/Ciel Phantomhive.md"
     },
     {
       "basename": "Père Gawain",
@@ -163,42 +199,6 @@
     {
       "basename": "Tombeau",
       "path": "1 - Compendium/NPCs/Tombeau/Tombeau.jpg"
-    },
-    {
-      "basename": "Hummer",
-      "path": "1 - Compendium/NPCs/Hummer/Hummer.md"
-    },
-    {
-      "basename": "Javelin",
-      "path": "1 - Compendium/NPCs/Javelin/Javelin.jpg"
-    },
-    {
-      "basename": "Rackham",
-      "path": "1 - Compendium/NPCs/Rackham/Rackham.md"
-    },
-    {
-      "basename": "Xendra Mantar",
-      "path": "1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
-    },
-    {
-      "basename": "Rackham",
-      "path": "1 - Compendium/Factions/Rackham.md"
-    },
-    {
-      "basename": "Hummer",
-      "path": "1 - Compendium/NPCs/Hummer/Hummer.jpg"
-    },
-    {
-      "basename": "Forest Warrior",
-      "path": "Images/Characters/Forest Warrior.jpg"
-    },
-    {
-      "basename": "Mithrand",
-      "path": "1 - Compendium/NPCs/Mithrand/Mithrand.md"
-    },
-    {
-      "basename": "Mithrand",
-      "path": "1 - Compendium/NPCs/Mithrand/Mithrand.jpg"
     }
   ],
   "omittedPaths": [],

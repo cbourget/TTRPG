@@ -9,7 +9,7 @@ tags: Joueur Église-Osiron
 ```ad-desc
 <span class="image">![[Père Aurel.jpg]][[Père Aurel.jpg|Voir]]</span>
 
-<span class="npc-tags">#Humain #Femme</span>
+<span class="npc-tags">#Humain #Homme</span>
 
 <span>Lorem Impsum.</span>
 

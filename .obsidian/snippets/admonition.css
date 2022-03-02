@@ -82,7 +82,7 @@
   overflow: hidden;
 }
 .admonition-gallery-print .admonition-content span img {
-  width: 1in;
+  width: calc(1in - 4px);
   height: 2in;
   object-fit: cover;
   object-position: 50% 0%;

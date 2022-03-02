@@ -9,7 +9,7 @@ tags: Joueur
 ```ad-desc
 <span class="image">![[Sigur Eldridge.jpg]][[Sigur Eldridge.jpg|Voir]]</span>
 
-<span class="npc-tags">#Humain #Femme</span>
+<span class="npc-tags">#Humain #Homme</span>
 
 <span>Lorem Impsum.</span>
 

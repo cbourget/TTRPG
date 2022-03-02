@@ -31,7 +31,7 @@
 	- [ ] Ouvert 1
 	- [ ] Ouvert 2
 - [x] [[Estelmer]]
-	- [x] [[Vladimir Estelmer]]
+	- [x] [[Vilfort Estelmer]]
 - [x] [[Ilvastar]]
 	- [x] [[Penny Ilvastar]]
 - [x] [[Cragmire]]
