@@ -11,11 +11,6 @@
 
 ![[Amir Carodoc.jpg]]
 
-![[Borgne.jpg]]
-
-
-
-
 ```
 
 ```ad-gallery-print
@@ -32,7 +27,6 @@
 
 ![[Corgak.jpg]]
 
-![[Corvo Estelmer.jpg]]
 ```
 
 
@@ -50,7 +44,6 @@
 
 ![[Gareth.jpg]]
 
-![[Gatsby.jpg]]
 ```
 
 ```ad-gallery-print
@@ -66,8 +59,6 @@
 ![[Hossulim.jpg]]
 
 ![[Hummer.jpg]]
-
-![[Javelin.jpg]]
 
 ```
 
@@ -85,8 +76,6 @@
 
 ![[Logan Lanngolyn.jpg]]
 
-![[Meredia.jpg]]
-
 ```
 
 ```ad-gallery-print
@@ -102,8 +91,6 @@
 ![[Perrin.jpg]]
 
 ![[Rackham.jpg]]
-
-![[Randal Carodoc.jpg]]
 
 ```
 
@@ -121,8 +108,6 @@
 
 ![[Strix.jpg]]
 
-![[Taff.jpg]]
-
 ```
 
 ```ad-gallery-print
@@ -138,8 +123,6 @@
 ![[Vilfort Estelmer.jpg]]
 
 ![[Vonnder Cragmire.jpg]]
-
-![[Wilhelm Oberon.jpg]]
 
 ```
 
@@ -157,6 +140,30 @@
 
 ![[Léon de Beauvais.jpg]]
 
+```
+
+```ad-gallery-print
+
+![[Borgne.jpg]]
+
 ![[Père Aurel.jpg]]
 
+![[Wilhelm Oberon.jpg]]
+
+![[Taff.jpg]]
+
+![[Randal Carodoc.jpg]]
+
+![[Meredia.jpg]]
 ```
+
+```ad-gallery-print
+
+![[Javelin.jpg]]
+
+![[Gatsby.jpg]]
+
+![[Corvo Estelmer.jpg]]
+```
+
+

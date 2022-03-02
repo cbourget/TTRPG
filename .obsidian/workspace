@@ -10,10 +10,24 @@
           "type": "markdown",
           "state": {
             "file": "Tokens/NPCs1.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "1681d9f664232f9d"
+      },
+      {
+        "id": "ba7069fdfbc7e098",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tokens/NPCs1.md",
             "mode": "preview",
             "source": true
           }
-        }
+        },
+        "group": "1681d9f664232f9d"
       }
     ],
     "direction": "vertical"

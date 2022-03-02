@@ -77,12 +77,13 @@
 }
 .admonition-gallery-print .admonition-content span {
   display: flex;
-  border: 2px solid #ddd;
+  border: 4px solid #ddd;
+  margin-right: 2px;
   border-radius: 8px 8px 0 0px;
   overflow: hidden;
 }
 .admonition-gallery-print .admonition-content span img {
-  width: calc(1in - 4px);
+  width: 1in;
   height: 2in;
   object-fit: cover;
   object-position: 50% 0%;
