@@ -4,20 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fbdf46ab9494a204",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Tokens/NPCs1.md",
-            "mode": "source",
-            "source": true
-          }
-        },
-        "group": "1681d9f664232f9d"
-      },
-      {
-        "id": "ba7069fdfbc7e098",
+        "id": "d0137feccb4fe7aa",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -26,8 +13,7 @@
             "mode": "preview",
             "source": true
           }
-        },
-        "group": "1681d9f664232f9d"
+        }
       }
     ],
     "direction": "vertical"
@@ -167,11 +153,11 @@
     "width": 285,
     "collapsed": true
   },
-  "active": "fbdf46ab9494a204",
+  "active": "d0137feccb4fe7aa",
   "lastOpenFiles": [
     "Tokens/NPCs1.md",
-    "1 - Compendium/NPCs/Javelin/Javelin.jpg",
     "NPCs1.pdf",
+    "1 - Compendium/NPCs/Javelin/Javelin.jpg",
     "2 - Campagne/Joueurs/Sigur Eldridge/Sigur Eldridge.md",
     "2 - Campagne/Joueurs/Père Aurel/Père Aurel.md",
     "2 - Campagne/Joueurs/Léon de Beauvais/Léon de Beauvais.md",
