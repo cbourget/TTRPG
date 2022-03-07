@@ -2,7 +2,7 @@
 ---
 
 cssclass: 'npc'
-tags: NPC Ilvastar Capes-Jaunes 
+tags: NPC Ilvastar Capes-Jaunes Guilde-Marchande
 
 ---
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
@@ -23,6 +23,8 @@ tags: NPC Ilvastar Capes-Jaunes
 ```
 
 ## Objectifs
+<span class="tab">[[Guilde Marchande#Objectifs]]</span>
+<span class="embed-section tab">![[Guilde Marchande#Objectifs]]</span>
 
 ## Détails
 

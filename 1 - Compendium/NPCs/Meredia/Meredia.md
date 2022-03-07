@@ -23,6 +23,10 @@ tags: NPC Tamerlane
 ```
 
 ## Objectifs
+- [ ] Assassiner [[Agrippine]] car elle en sait trop sur [[Tamerlane Foghorn]].
+
+<span class="tab">[[Tamerlane Foghorn#Objectifs]]</span>
+<span class="embed-section tab">![[Tamerlane Foghorn#Objectifs]]</span>
 
 ## Détails
 

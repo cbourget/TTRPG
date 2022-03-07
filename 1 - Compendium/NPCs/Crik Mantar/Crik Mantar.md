@@ -23,6 +23,11 @@ tags: NPC Mantar
 ```
 
 ## Objectifs
+<span class="tab">[[Académie des Noms#Objectifs]]</span>
+<span class="embed-section tab">![[Académie des Noms#Objectifs]]</span>
+
+<span class="tab">[[Mantar#Objectifs]]</span>
+<span class="embed-section tab">![[Mantar#Objectifs]]</span>
 
 ## Détails
 

@@ -18,8 +18,7 @@ Un marin grognon qui appécie l'alcool.
 ```
 
 ## Objectifs
-- [ ] S'enrichir
-- [ ] Se refaire une vie ailleurs.
+- [ ] S'enrichir et se refaire une vie ailleurs.
 
 ## Détails
 

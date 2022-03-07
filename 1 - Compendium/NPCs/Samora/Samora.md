@@ -23,7 +23,11 @@ tags: NPC
 ```
 
 ## Objectifs
-- [ ] Être l'interprète et apprendre la langue des Pthumériens
+- [ ] Être l'interprète et apprendre la langue des Pthumériens.
+
+<span class="tab">[[Mantar#Objectifs]]</span>
+<span class="embed-section tab">![[Mantar#Objectifs]]</span>
+
 
 ## Détails
 

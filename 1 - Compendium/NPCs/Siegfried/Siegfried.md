@@ -23,9 +23,15 @@ tags: NPC Tamerlane
 ```
 
 ## Objectifs
+- [ ] Venger la famille [[De Beauvais]].
+
+<span class="tab">[[Tamerlane Foghorn#Objectifs]]</span>
+<span class="embed-section tab">![[Tamerlane Foghorn#Objectifs]]</span>
 
 ## Détails
-Un membre de la famille De-Beauvais qui s'est converti à la piraterie et qui travaille pour [[Tamerlane Foghorn]].
+Un membre de la famille De-Beauvais, chef d'une bande de contrebandiers travaillant d'abord pour [[Durne]], et, récemment pour [[Tamerlane Foghorn]]. Il a appris l'existence de l'[[Alchimie]] et en informé [[Tamerlane Foghorn]]. Ensembles, ils souhaitent se l'approprier. Il a donc tourné le dos à [[Durne]].
+
+Siegfrid n'est pas son vrai nom. Il s'agit de Gerald de-Beauvais.
 
 ## Relations
 

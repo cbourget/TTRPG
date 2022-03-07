@@ -20,6 +20,7 @@ tags: NPC Foghorn
 ---
 
 ## Objectifs
+- [ ] S'approprier l'[[Alchimie]]
 - [ ] Faire en sorte que les [[Estelmer]] et [[Ilvastar]] échouent dans leur tentative de guérir l'affliction qui les prive de leur magie.
 - [ ] Trouver une façon de de soumettre la famille [[Cragmire]].
 - [ ] Faire en sorte que l'[[Église d'Osiron]] déjà ebranlée s'effondre.

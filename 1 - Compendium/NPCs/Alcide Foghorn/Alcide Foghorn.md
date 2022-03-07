@@ -23,8 +23,11 @@ tags: NPC Foghorn Tamerlane
 ```
 
 ## Objectifs
+<span class="tab">[[Tamerlane Foghorn#Objectifs]]</span>
+<span class="embed-section tab">![[Tamerlane Foghorn#Objectifs]]</span>
 
 ## Détails
+Grand oncle de [[Alaric Foghorn]] et de [[Tamerlane Foghorn.jpg]]. À la demande de [[Tamerlane Foghorn]], il s'est joint à l'expédition.
 
 ## Relations
 

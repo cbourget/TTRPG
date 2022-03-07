@@ -23,6 +23,8 @@ tags: NPC
 ```
 
 ## Objectifs
+- [ ] Empêcher l'expédition de partir
+- [ ] Venger la traîtrise de [[]]
 
 ## Détails
 

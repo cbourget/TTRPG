@@ -7,11 +7,11 @@ tags: NPC Carodoc Ligue-Frégate
 ---
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
 
-# Amir Carodoc
+# Rakell Carodoc
 
 ```ad-desc
 
-<span class="image">![[Amir Carodoc.jpg]][[Amir Carodoc.jpg|Voir]]</span>
+<span class="image">![[Rakell Carodoc.jpg]][[Rakell Carodoc.jpg|Voir]]</span>
 
 <span class="npc-tags">#Humain #Homme</span>
 
@@ -25,6 +25,7 @@ tags: NPC Carodoc Ligue-Frégate
 ## Objectifs
 
 ## Détails
+Amiral et chef de la [[Ligue Frégate]].
 
 ## Relations
 

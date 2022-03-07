@@ -9,11 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tokens/NPCs1.md",
+            "file": "1 - Compendium/NPCs/Livia/Livia.md",
             "mode": "preview",
             "source": true
           }
-        }
+        },
+        "group": "7adeabebfc793107"
+      },
+      {
+        "id": "36f608807cfd72df",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1 - Compendium/NPCs/Livia/Livia.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "7adeabebfc793107"
       }
     ],
     "direction": "vertical"
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tokens/NPCs1.md",
+                "file": "1 - Compendium/NPCs/Livia/Livia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tokens/NPCs1.md"
+                "file": "1 - Compendium/NPCs/Livia/Livia.md"
               }
             }
           },
@@ -131,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tokens/NPCs1.md",
+                "file": "1 - Compendium/NPCs/Livia/Livia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,17 +167,17 @@
     "width": 285,
     "collapsed": true
   },
-  "active": "d0137feccb4fe7aa",
+  "active": "36f608807cfd72df",
   "lastOpenFiles": [
-    "Tokens/NPCs1.md",
-    "NPCs1.pdf",
-    "1 - Compendium/NPCs/Javelin/Javelin.jpg",
-    "2 - Campagne/Joueurs/Sigur Eldridge/Sigur Eldridge.md",
-    "2 - Campagne/Joueurs/Père Aurel/Père Aurel.md",
-    "2 - Campagne/Joueurs/Léon de Beauvais/Léon de Beauvais.md",
-    "2 - Campagne/Joueurs/Ciel Phantomhive/Ciel Phantomhive.md",
-    "2 - Campagne/Joueurs/Wanageeska/Wanageeska.md",
-    "2 - Campagne/Joueurs/Wanageeska/Wanageeska.jpg",
-    "1 - Compendium/NPCs/Belivik Vulpin/Belivik Vulpin.md"
+    "1 - Compendium/NPCs/Livia/Livia.md",
+    "1 - Compendium/NPCs/Larissa Artemel/Larissa Artemel.md",
+    "1 - Compendium/NPCs/Korigan Mantar/Korigan Mantar.md",
+    "1 - Compendium/NPCs/Jormun/Jormun.md",
+    "1 - Compendium/NPCs/Javelin/Javelin.md",
+    "1 - Compendium/NPCs/Hossulim/Hossulim.md",
+    "1 - Compendium/NPCs/Horadin Fulgor/Horadin Fulgor.md",
+    "1 - Compendium/NPCs/Héron/Héron.md",
+    "1 - Compendium/NPCs/Harald/Harald.md",
+    "1 - Compendium/NPCs/Grog/Grog.md"
   ]
 }

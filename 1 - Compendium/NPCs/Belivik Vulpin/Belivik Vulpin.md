@@ -23,8 +23,10 @@ tags: NPC Vulpin
 ```
 
 ## Objectifs
+- [ ] Faire en sorte que le nom de sa famille soit associé à la colonisation de [[Nostaria]]. Pour cela, il financera l'expédition de quelqu'un.
 
 ## Détails
+Un riche noble qui aimerait que le nom de sa famille fasse parti de l'histoire. Il n'a malheureusement pas de descendance.
 
 ## Relations
 

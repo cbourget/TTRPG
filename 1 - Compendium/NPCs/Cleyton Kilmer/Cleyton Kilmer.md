@@ -19,6 +19,7 @@ tags: NPC Kilmer
 ```
 
 ## Objectifs
+- [ ] S'assurer que ces compatriotes sont en sécurité et retrouver son chemin vers l'île.
 
 ## Détails
 

@@ -23,6 +23,7 @@ tags: NPC
 ```
 
 ## Objectifs
+- [ ] S'associer à des aventuriers afin d'écrire un livre qui relatera les événements à venir de leur point de vue.
 
 ## Détails
 

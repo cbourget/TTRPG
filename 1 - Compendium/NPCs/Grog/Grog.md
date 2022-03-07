@@ -21,7 +21,7 @@ tags: NPC Non-Affilié Abadar
 ```
 
 ## Objectifs
-- [ ] Fonder uen civilisation là où l'étoile le mènera.
+- [ ] Fonder une civilisation là où l'étoile le mènera.
 
 ## Détails
 

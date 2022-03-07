@@ -35,7 +35,7 @@ title: Actions
 ```
 
 ### Annonce
-Sur la partie surélevée de la taverne,  [[Amir Carodoc]] et [[Cleyton Kilmer]], le découvreur de l'île, s'avancent. [[Amir Carodoc]] est très enjoué mais [[Cleyton Kilmer]] semble un peu nerveux. Il jette des regards dans la foule comme s'il cherchait quelque chose ou quelqu'un.
+Sur la partie surélevée de la taverne,  [[Rakell Carodoc]] et [[Cleyton Kilmer]], le découvreur de l'île, s'avancent. [[Rakell Carodoc]] est très enjoué mais [[Cleyton Kilmer]] semble un peu nerveux. Il jette des regards dans la foule comme s'il cherchait quelque chose ou quelqu'un.
 
 ```ad-quote
 title: [[Amir Carodoc]]
@@ -104,7 +104,7 @@ Il a entendu? Ça me suprend avec toute la crasse qu'il a dans les oreilles..
 À ce moment, [[Corgak]] se précipite vers [[Perrin]] pour le frapper mais il est intercepté par [[Albert]] et il le frappe. Une mêlée éclate.
 
 ### Arrivée de Tamerlane
-[[Tamerlane Foghorn]] et son groupe entrent dans la taverne pendant la mêlée. Certains reconnaissent aussitôt [[Tamerlane Foghorn]] et l'escarmouche arrête subitement. [[Amir Carodoc]] la salut nerveusement mais avant qu'il ne puisse terminer sa phrase, [[Tamerlane Foghorn]] lui indique de se taire et prend à son tour la parole.
+[[Tamerlane Foghorn]] et son groupe entrent dans la taverne pendant la mêlée. Certains reconnaissent aussitôt [[Tamerlane Foghorn]] et l'escarmouche arrête subitement. [[Rakell Carodoc]] la salut nerveusement mais avant qu'il ne puisse terminer sa phrase, [[Tamerlane Foghorn]] lui indique de se taire et prend à son tour la parole.
 
 ```ad-quote
 title: [[Tamerlane Foghorn]]
@@ -135,3 +135,8 @@ Quant aux autres, j'imagine que la [[Ligue Frégate]] sera garante de leurs comp
 Bien. Dans ce cas, ma présence ici n'est plus requise. Que la fête se poursuive. 
 ```
 
+### Nommer la Terre
+[[Seymor Mantar]] demandera à ce qu'on nom soit trouvé pour cette fameuse terre. Il suggérera [[Nostaria]] (nouvelle terre) et expliquant l'éthymologie de [[Boletaria]] (vieille terre).  [[Samora]] lui fera remarqué que ce n'est pas Nostaria mais bien Nostara et que Boletaria est ainsi nommé en raison d'une erreur de traduction. Cela enthousiasmera [[Seymor Mantar]] (qui le sait) et il proposera de financer son expédition afin qu'elle soit interprète.
+
+### Obtenir la bénédiction d'Abadar
+[[Grog]] déclarera publiquement que la bénédiction d'[[Abadar]] père de la civilisation est requise pour se voyage et qu'en tant que prêtre d'[[Abadar]], sa présence peut la lui conférer. Cela incitera [[Rakell Carodoc]] à le financer.
