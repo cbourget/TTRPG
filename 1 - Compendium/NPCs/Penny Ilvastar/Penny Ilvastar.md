@@ -23,6 +23,8 @@ tags: NPC Ilvastar
 ```
 
 ## Objectifs
+<span class="tab">[[Ilvastar#Objectifs]]</span>
+<span class="embed-section tab">![[Ilvastar#Objectifs]]</span>
 
 ## Détails
 

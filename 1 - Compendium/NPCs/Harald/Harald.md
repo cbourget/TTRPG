@@ -23,6 +23,8 @@ tags: NPC Syndic-Des-Marchands
 ```
 
 ## Objectifs
+<span class="tab">[[Syndic Des Marchands#Objectifs]]</span>
+<span class="embed-section tab">![[Syndic Des Marchands#Objectifs]]</span>
 
 ## Détails
 

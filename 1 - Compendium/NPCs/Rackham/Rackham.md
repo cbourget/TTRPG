@@ -23,9 +23,11 @@ tags: NPC Rackham
 ```
 
 ## Objectifs
+<span class="tab">[[Rackham#Objectifs]]</span>
+<span class="embed-section tab">![[Rackham#Objectifs]]</span>
 
 ## Détails
-Un membre de la famille De-Beauvais qui s'est converti à la piraterie et qui travaille pour [[Tamerlane Foghorn]].
+
 ## Relations
 
 ## Secrets

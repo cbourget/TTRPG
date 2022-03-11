@@ -23,6 +23,8 @@ tags: NPC Estelmer
 ```
 
 ## Objectifs
+<span class="tab">[[Estelmer#Objectifs]]</span>
+<span class="embed-section tab">![[Estelmer#Objectifs]]</span>
 
 ## Détails
 

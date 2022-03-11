@@ -23,6 +23,7 @@ tags: NPC
 ```
 
 ## Objectifs
+- [ ] S'enrichir et se refaire une vie ailleurs.
 
 ## Détails
 

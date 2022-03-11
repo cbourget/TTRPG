@@ -23,6 +23,8 @@ tags: NPC Fulgor
 ```
 
 ## Objectifs
+<span class="tab">[[Fulgor#Objectifs]]</span>
+<span class="embed-section tab">![[Fulgor#Objectifs]]</span>
 
 ## Détails
 

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 - Compendium/NPCs/Livia/Livia.md",
-            "mode": "preview",
+            "file": "1 - Compendium/NPCs/Albert/Albert.md",
+            "mode": "source",
             "source": true
           }
         },
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 - Compendium/NPCs/Livia/Livia.md",
-            "mode": "source",
+            "file": "1 - Compendium/NPCs/Albert/Albert.md",
+            "mode": "preview",
             "source": true
           }
         },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Compendium/NPCs/Livia/Livia.md",
+                "file": "1 - Compendium/NPCs/Albert/Albert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Compendium/NPCs/Livia/Livia.md"
+                "file": "1 - Compendium/NPCs/Albert/Albert.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Compendium/NPCs/Livia/Livia.md",
+                "file": "1 - Compendium/NPCs/Albert/Albert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,17 +167,17 @@
     "width": 285,
     "collapsed": true
   },
-  "active": "36f608807cfd72df",
+  "active": "d0137feccb4fe7aa",
   "lastOpenFiles": [
-    "1 - Compendium/NPCs/Livia/Livia.md",
-    "1 - Compendium/NPCs/Larissa Artemel/Larissa Artemel.md",
-    "1 - Compendium/NPCs/Korigan Mantar/Korigan Mantar.md",
-    "1 - Compendium/NPCs/Jormun/Jormun.md",
-    "1 - Compendium/NPCs/Javelin/Javelin.md",
-    "1 - Compendium/NPCs/Hossulim/Hossulim.md",
-    "1 - Compendium/NPCs/Horadin Fulgor/Horadin Fulgor.md",
-    "1 - Compendium/NPCs/Héron/Héron.md",
-    "1 - Compendium/NPCs/Harald/Harald.md",
-    "1 - Compendium/NPCs/Grog/Grog.md"
+    "1 - Compendium/NPCs/Albert/Albert.md",
+    "1 - Compendium/NPCs/Cook/Cook.md",
+    "1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md",
+    "1 - Compendium/NPCs/Aruspice/Aruspice.md",
+    "1 - Compendium/NPCs/Belivik Vulpin/Belivik Vulpin.md",
+    "1 - Compendium/NPCs/Bran Ilvastar/Bran Ilvastar.md",
+    "1 - Compendium/NPCs/Borgne/Borgne.md",
+    "1 - Compendium/NPCs/Christofle/Christofle.md",
+    "1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md",
+    "1 - Compendium/NPCs/Corbu/Corbu.md"
   ]
 }

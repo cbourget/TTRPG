@@ -23,6 +23,8 @@ tags: NPC Carodoc Ligue-Frégate
 ```
 
 ## Objectifs
+<span class="tab">[[Ligue Frégate#Objectifs]]</span>
+<span class="embed-section tab">![[Ligue Frégate#Objectifs]]</span>
 
 ## Détails
 Amiral et chef de la [[Ligue Frégate]].

@@ -23,6 +23,8 @@ tags: NPC
 ```
 
 ## Objectifs
+<span class="tab">[[Mantar#Objectifs]]</span>
+<span class="embed-section tab">![[Mantar#Objectifs]]</span>
 
 ## Détails
 

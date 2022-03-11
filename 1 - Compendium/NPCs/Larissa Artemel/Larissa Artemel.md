@@ -23,6 +23,7 @@ tags: NPC
 ```
 
 ## Objectifs
+- [ ] TODO
 
 ## Détails
 
