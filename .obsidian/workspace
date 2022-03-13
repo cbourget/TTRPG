@@ -7,11 +7,9 @@
         "id": "d0137feccb4fe7aa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "1 - Compendium/NPCs/Siegfried/Siegfried.md",
-            "mode": "source",
-            "source": true
+            "file": "Images/Maps/ThievesGuild.jpeg"
           }
         },
         "group": "7adeabebfc793107"
@@ -20,11 +18,9 @@
         "id": "36f608807cfd72df",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "1 - Compendium/NPCs/Siegfried/Siegfried.md",
-            "mode": "source",
-            "source": true
+            "file": "Images/Maps/ThievesGuild.jpeg"
           }
         },
         "group": "7adeabebfc793107"
@@ -107,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Compendium/NPCs/Siegfried/Siegfried.md",
+                "file": "Images/Maps/ThievesGuild.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
+                "file": "Images/Maps/ThievesGuild.jpeg"
               }
             }
           },
@@ -145,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Compendium/NPCs/Siegfried/Siegfried.md",
+                "file": "Images/Maps/ThievesGuild.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,15 +165,15 @@
   },
   "active": "d0137feccb4fe7aa",
   "lastOpenFiles": [
-    "1 - Compendium/NPCs/Siegfried/Siegfried.md",
-    "1 - Compendium/NPCs/Norlu/Norlu.md",
-    "1 - Compendium/NPCs/Agrippine/Agrippine.md",
-    "1 - Compendium/NPCs/Albert/Albert.md",
-    "1 - Compendium/NPCs/Cook/Cook.md",
-    "1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md",
-    "1 - Compendium/NPCs/Aruspice/Aruspice.md",
-    "1 - Compendium/NPCs/Belivik Vulpin/Belivik Vulpin.md",
-    "1 - Compendium/NPCs/Bran Ilvastar/Bran Ilvastar.md",
-    "1 - Compendium/NPCs/Borgne/Borgne.md"
+    "Images/Maps/ThievesGuild.jpeg",
+    "Images/Maps/Sewer3.jpg",
+    "Images/Maps/Sewer2.jpg",
+    "Images/Maps/Sewer.jpg",
+    "1 - Compendium/NPCs/Samora/Samora.md",
+    "1 - Compendium/NPCs/Strix/Strix.md",
+    "1 - Compendium/NPCs/Vilfort Estelmer/Vilfort Estelmer.md",
+    "1 - Compendium/NPCs/Vonnder Cragmire/Vonnder Cragmire.md",
+    "1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md",
+    "1 - Compendium/NPCs/Corvo Estelmer/Corvo Estelmer.md"
   ]
 }

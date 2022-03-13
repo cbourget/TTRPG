@@ -9,7 +9,7 @@
 
 ![[Aruspice.jpg]]
 
-![[Amir Carodoc.jpg]]
+![[Rakell Carodoc.jpg]]
 
 ```
 
