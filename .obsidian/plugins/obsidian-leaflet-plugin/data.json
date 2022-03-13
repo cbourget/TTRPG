@@ -202,7 +202,7 @@
     },
     {
       "id": "scenario-1-égoûts",
-      "lastAccessed": 1647194716648,
+      "lastAccessed": 1647196545664,
       "markers": [
         {
           "id": "ID_49baabf93bfa",
@@ -243,16 +243,16 @@
           "id": "ID_3bfb9aab8949",
           "type": "Group 1",
           "loc": [
-            -6.51171875,
-            6.8046875
+            -6.6171875,
+            6.6640625
           ],
           "link": "N1",
           "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.9290666666666667,
-            0.8890666666666667
+            0.9098666666666667,
+            0.9034666666666666
           ],
           "description": null,
           "minZoom": null,
@@ -283,15 +283,15 @@
           "id": "ID_49c939d8ea49",
           "type": "Loot 1",
           "loc": [
-            -2.546875,
-            0.9375
+            -2.6015625,
+            0.9921875
           ],
           "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.128,
-            0.34773333333333334
+            0.13546666666666668,
+            0.3552
           ],
           "description": null,
           "minZoom": null,
@@ -361,16 +361,16 @@
           "id": "ID_99d97bbbc8f9",
           "type": "Encounter 4",
           "loc": [
-            -6.53125,
-            4.96875
+            -6.515625,
+            5.0625
           ],
           "link": "E4",
           "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.6784,
-            0.8917333333333334
+            0.6912,
+            0.8896
           ],
           "description": null,
           "minZoom": null,
@@ -390,6 +390,63 @@
           "percent": [
             0.6826666666666666,
             0.5248
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_eafb6a599afa",
+          "type": "Encounter 5",
+          "loc": [
+            -0.936767578125,
+            6.47265625
+          ],
+          "link": "E5",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_e9b83bf98809",
+          "type": "Trap 1",
+          "loc": [
+            -3.9921875,
+            1.90625
+          ],
+          "link": "T1",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.26026666666666665,
+            0.5450666666666667
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_1be829cbda19",
+          "type": "Trap 2",
+          "loc": [
+            -4.875,
+            3.90625
+          ],
+          "link": "T1",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5333333333333333,
+            0.6656
           ],
           "description": null,
           "minZoom": null,
@@ -884,6 +941,36 @@
       "type": "Loot 7",
       "iconName": "crown",
       "color": "#d88322",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Trap 1",
+      "iconName": "box",
+      "color": "#9e22d8",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Trap 2",
+      "iconName": "box",
+      "color": "#9e22d8",
       "layer": false,
       "transform": {
         "size": 6,

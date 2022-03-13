@@ -5,8 +5,24 @@
       "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md"
     },
     {
+      "basename": "T1",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/T1.md"
+    },
+    {
+      "basename": "E5",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E5.md"
+    },
+    {
       "basename": "E4",
       "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E4.md"
+    },
+    {
+      "basename": "E3",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E3.md"
+    },
+    {
+      "basename": "N1",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/N1.md"
     },
     {
       "basename": "Égoûts",
@@ -19,10 +35,6 @@
     {
       "basename": "E2",
       "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E2.md"
-    },
-    {
-      "basename": "E3",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E3.md"
     },
     {
       "basename": "Taverne",
@@ -39,10 +51,6 @@
     {
       "basename": "Bandit Lair",
       "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Bandit Lair/Bandit Lair.md"
-    },
-    {
-      "basename": "N1",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/N1.md"
     },
     {
       "basename": "Bandit Lair",
@@ -191,14 +199,6 @@
     {
       "basename": "Perrin",
       "path": "1 - Compendium/NPCs/Perrin/Perrin.md"
-    },
-    {
-      "basename": "Penny Ilvastar",
-      "path": "1 - Compendium/NPCs/Penny Ilvastar/Penny Ilvastar.md"
-    },
-    {
-      "basename": "Norlu",
-      "path": "1 - Compendium/NPCs/Norlu/Norlu.md"
     }
   ],
   "omittedPaths": [],
