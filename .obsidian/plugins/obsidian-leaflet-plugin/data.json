@@ -202,7 +202,7 @@
     },
     {
       "id": "scenario-1-égoûts",
-      "lastAccessed": 1647191130215,
+      "lastAccessed": 1647192937803,
       "markers": [
         {
           "id": "ID_49baabf93bfa",
@@ -274,6 +274,81 @@
             0.38693333333333335,
             0.23653333333333335
           ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_49c939d8ea49",
+          "type": "L1",
+          "loc": [
+            -2.546875,
+            0.9375
+          ],
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.128,
+            0.34773333333333334
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_0b98783be9f9",
+          "type": "E2",
+          "loc": [
+            -3.859375,
+            4.71875
+          ],
+          "link": "E2",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6442666666666667,
+            0.5269333333333334
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_9b08da196b8b",
+          "type": "E3",
+          "loc": [
+            -5.296875,
+            2.796875
+          ],
+          "link": "E3",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3818666666666667,
+            0.7232
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_88a918ca7a9b",
+          "type": "link",
+          "loc": [
+            -1.76416015625,
+            1.828125
+          ],
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -662,6 +737,21 @@
       "type": "E10",
       "iconName": "skull",
       "color": "#0414fb",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "L1",
+      "iconName": "crown",
+      "color": "#d88322",
       "layer": false,
       "transform": {
         "size": 6,
