@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0137feccb4fe7aa",
+        "id": "a80dffefe81db107",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Images/Maps/ThievesGuild.jpeg"
+            "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
+            "mode": "preview",
+            "source": true
           }
-        },
-        "group": "7adeabebfc793107"
-      },
-      {
-        "id": "36f608807cfd72df",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "Images/Maps/ThievesGuild.jpeg"
-          }
-        },
-        "group": "7adeabebfc793107"
+        }
       }
     ],
     "direction": "vertical"
@@ -103,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Maps/ThievesGuild.jpeg",
+                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Maps/ThievesGuild.jpeg"
+                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
               }
             }
           },
@@ -141,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Maps/ThievesGuild.jpeg",
+                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,17 +153,17 @@
     "width": 285,
     "collapsed": true
   },
-  "active": "d0137feccb4fe7aa",
+  "active": "a80dffefe81db107",
   "lastOpenFiles": [
-    "Images/Maps/ThievesGuild.jpeg",
-    "Images/Maps/Sewer3.jpg",
-    "Images/Maps/Sewer2.jpg",
-    "Images/Maps/Sewer.jpg",
-    "1 - Compendium/NPCs/Samora/Samora.md",
-    "1 - Compendium/NPCs/Strix/Strix.md",
-    "1 - Compendium/NPCs/Vilfort Estelmer/Vilfort Estelmer.md",
-    "1 - Compendium/NPCs/Vonnder Cragmire/Vonnder Cragmire.md",
-    "1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md",
-    "1 - Compendium/NPCs/Corvo Estelmer/Corvo Estelmer.md"
+    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
+    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md",
+    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G1.md",
+    "2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md",
+    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.jpg",
+    "1 - Compendium/Lieux/Brevoy/6 - Taverne/6 - Taverne.md",
+    "1 - Compendium/Lieux/Brevoy/3 - Quartier de la Culture/3 - Quartier de la Culture.md",
+    "1 - Compendium/Lieux/Brevoy/2 - Rues/2 - Rues.md",
+    "1 - Compendium/Lieux/Brevoy/1 - Port/1 - Port.md",
+    "1 - Compendium/Lieux/Brevoy/0 - Brevoy/0 - Brevoy.md"
   ]
 }

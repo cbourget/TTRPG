@@ -88,8 +88,89 @@
       ]
     },
     {
+      "id": "scenario-1-égoûts",
+      "lastAccessed": 1647186370106,
+      "markers": [
+        {
+          "id": "ID_49baabf93bfa",
+          "type": "Entrée",
+          "loc": [
+            -0.453125,
+            0.15625
+          ],
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.021333333333333333,
+            0.06186666666666667
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_9b792be9582a",
+          "type": "Sortie",
+          "loc": [
+            -0.6910400390625,
+            6.43359375
+          ],
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_b809daf878ea",
+          "type": "Sortie",
+          "loc": [
+            -0.733642578125,
+            6.46875
+          ],
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_cac93b18a96b",
+          "type": "Sortie",
+          "loc": [
+            -0.8046875,
+            6.4375
+          ],
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8789333333333333,
+            0.10986666666666667
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md"
+      ]
+    },
+    {
       "id": "scenario-1-taverne",
-      "lastAccessed": 1645651234059,
+      "lastAccessed": 1647186374002,
       "markers": [
         {
           "id": "ID_7abb69893b88",
@@ -184,6 +265,22 @@
             0.91796875
           ],
           "link": "G6",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_7b799b29e899",
+          "type": "g1",
+          "loc": [
+            -0.729400634765625,
+            0.5126953125
+          ],
           "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
           "mutable": true,
           "command": false,
@@ -381,6 +478,51 @@
       "type": "g11",
       "iconName": "circle",
       "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Passage",
+      "iconName": "archway",
+      "color": "#22a1d8",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Entrée",
+      "iconName": "angle-double-down",
+      "color": "#22d837",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Sortie",
+      "iconName": "angle-double-up",
+      "color": "#d8223d",
       "layer": false,
       "transform": {
         "size": 6,
