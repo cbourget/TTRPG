@@ -10,3 +10,9 @@ defaultZoom: 6
 unit: meters
 scale: 1
 ```
+
+```ad-note
+title: Environnement: canal
+
+Débuter son tour dedans = Fortitude 15 ou sickened +1
+```

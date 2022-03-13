@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a80dffefe81db107",
+        "id": "edd8f0e870c20515",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
+            "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md",
             "mode": "preview",
             "source": true
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
+                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
+                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
+                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,17 +153,17 @@
     "width": 285,
     "collapsed": true
   },
-  "active": "a80dffefe81db107",
+  "active": "edd8f0e870c20515",
   "lastOpenFiles": [
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G1.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md",
+    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E1.md",
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.jpg",
-    "1 - Compendium/Lieux/Brevoy/6 - Taverne/6 - Taverne.md",
-    "1 - Compendium/Lieux/Brevoy/3 - Quartier de la Culture/3 - Quartier de la Culture.md",
-    "1 - Compendium/Lieux/Brevoy/2 - Rues/2 - Rues.md",
-    "1 - Compendium/Lieux/Brevoy/1 - Port/1 - Port.md",
-    "1 - Compendium/Lieux/Brevoy/0 - Brevoy/0 - Brevoy.md"
+    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Bandit Lair/Bandit Lair.md",
+    "1 - Compendium/Monsters/Sewer Ooze/Sewer OOze.md",
+    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/N1.md",
+    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Bandit Lair/Bandit Lair.jpeg",
+    "Images/Maps/Sewer3.jpg",
+    "Images/Maps/Prison.jpg",
+    "Images/Maps/QuartierBandits.jpg"
   ]
 }

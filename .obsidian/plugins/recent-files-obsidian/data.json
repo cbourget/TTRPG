@@ -1,24 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Taverne",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
-    },
-    {
       "basename": "Égoûts",
       "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md"
     },
     {
-      "basename": "G1",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G1.md"
+      "basename": "E1",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E1.md"
+    },
+    {
+      "basename": "Égoûts",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.jpg"
+    },
+    {
+      "basename": "Bandit Lair",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Bandit Lair/Bandit Lair.md"
+    },
+    {
+      "basename": "Sewer OOze",
+      "path": "1 - Compendium/Monsters/Sewer Ooze/Sewer OOze.md"
+    },
+    {
+      "basename": "N1",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/N1.md"
+    },
+    {
+      "basename": "Bandit Lair",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Bandit Lair/Bandit Lair.jpeg"
+    },
+    {
+      "basename": "Sewer3",
+      "path": "Images/Maps/Sewer3.jpg"
+    },
+    {
+      "basename": "Prison",
+      "path": "Images/Maps/Prison.jpg"
+    },
+    {
+      "basename": "QuartierBandits",
+      "path": "Images/Maps/QuartierBandits.jpg"
+    },
+    {
+      "basename": "Taverne",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
     },
     {
       "basename": "1 - Joindre l'expédition",
       "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md"
     },
     {
-      "basename": "Égoûts",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.jpg"
+      "basename": "G1",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G1.md"
     },
     {
       "basename": "6 - Taverne",
@@ -41,24 +73,8 @@
       "path": "1 - Compendium/Lieux/Brevoy/0 - Brevoy/0 - Brevoy.md"
     },
     {
-      "basename": "Sewer3",
-      "path": "Images/Maps/Sewer3.jpg"
-    },
-    {
       "basename": "Sewer2",
       "path": "Images/Maps/Sewer2.jpg"
-    },
-    {
-      "basename": "Prison",
-      "path": "Images/Maps/Prison.jpg"
-    },
-    {
-      "basename": "QuartierBandits",
-      "path": "Images/Maps/QuartierBandits.jpg"
-    },
-    {
-      "basename": "ThievesGuild",
-      "path": "Images/Maps/ThievesGuild.jpeg"
     },
     {
       "basename": "Samora",
@@ -183,22 +199,6 @@
     {
       "basename": "Logan Lanngolyn",
       "path": "1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.md"
-    },
-    {
-      "basename": "Livia",
-      "path": "1 - Compendium/NPCs/Livia/Livia.md"
-    },
-    {
-      "basename": "Larissa Artemel",
-      "path": "1 - Compendium/NPCs/Larissa Artemel/Larissa Artemel.md"
-    },
-    {
-      "basename": "Kretiak Cragmire",
-      "path": "1 - Compendium/NPCs/Kretiak Cragmire/Kretiak Cragmire.md"
-    },
-    {
-      "basename": "Korigan Mantar",
-      "path": "1 - Compendium/NPCs/Korigan Mantar/Korigan Mantar.md"
     }
   ],
   "omittedPaths": [],
