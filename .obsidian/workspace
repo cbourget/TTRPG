@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 - Compendium/NPCs/Albert/Albert.md",
+            "file": "1 - Compendium/NPCs/Siegfried/Siegfried.md",
             "mode": "source",
             "source": true
           }
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 - Compendium/NPCs/Albert/Albert.md",
-            "mode": "preview",
+            "file": "1 - Compendium/NPCs/Siegfried/Siegfried.md",
+            "mode": "source",
             "source": true
           }
         },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Compendium/NPCs/Albert/Albert.md",
+                "file": "1 - Compendium/NPCs/Siegfried/Siegfried.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Compendium/NPCs/Albert/Albert.md"
+                "file": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Compendium/NPCs/Albert/Albert.md",
+                "file": "1 - Compendium/NPCs/Siegfried/Siegfried.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,15 +169,15 @@
   },
   "active": "d0137feccb4fe7aa",
   "lastOpenFiles": [
+    "1 - Compendium/NPCs/Siegfried/Siegfried.md",
+    "1 - Compendium/NPCs/Norlu/Norlu.md",
+    "1 - Compendium/NPCs/Agrippine/Agrippine.md",
     "1 - Compendium/NPCs/Albert/Albert.md",
     "1 - Compendium/NPCs/Cook/Cook.md",
     "1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md",
     "1 - Compendium/NPCs/Aruspice/Aruspice.md",
     "1 - Compendium/NPCs/Belivik Vulpin/Belivik Vulpin.md",
     "1 - Compendium/NPCs/Bran Ilvastar/Bran Ilvastar.md",
-    "1 - Compendium/NPCs/Borgne/Borgne.md",
-    "1 - Compendium/NPCs/Christofle/Christofle.md",
-    "1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md",
-    "1 - Compendium/NPCs/Corbu/Corbu.md"
+    "1 - Compendium/NPCs/Borgne/Borgne.md"
   ]
 }

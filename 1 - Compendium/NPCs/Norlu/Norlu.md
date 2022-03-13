@@ -24,7 +24,7 @@ tags: NPC
 
 ## Objectifs
 - [ ] Empêcher l'expédition de partir
-- [ ] Venger la traîtrise de [[]]
+- [ ] Venger la traîtrise de [[Siegfried]]
 
 ## Détails
 

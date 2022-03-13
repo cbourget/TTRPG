@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Siegfried",
+      "path": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
+    },
+    {
+      "basename": "Norlu",
+      "path": "1 - Compendium/NPCs/Norlu/Norlu.md"
+    },
+    {
+      "basename": "Agrippine",
+      "path": "1 - Compendium/NPCs/Agrippine/Agrippine.md"
+    },
+    {
       "basename": "Albert",
       "path": "1 - Compendium/NPCs/Albert/Albert.md"
     },
@@ -141,10 +153,6 @@
       "path": "1 - Compendium/NPCs/Nilheim/Nilheim.md"
     },
     {
-      "basename": "Norlu",
-      "path": "1 - Compendium/NPCs/Norlu/Norlu.md"
-    },
-    {
       "basename": "Penny Ilvastar",
       "path": "1 - Compendium/NPCs/Penny Ilvastar/Penny Ilvastar.md"
     },
@@ -181,10 +189,6 @@
       "path": "1 - Compendium/NPCs/Seymor Mantar/Seymor Mantar.md"
     },
     {
-      "basename": "Siegfried",
-      "path": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
-    },
-    {
       "basename": "Strix",
       "path": "1 - Compendium/NPCs/Strix/Strix.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Talarissa",
       "path": "1 - Compendium/NPCs/Talarissa/Talarissa.md"
-    },
-    {
-      "basename": "Vilfort Estelmer",
-      "path": "1 - Compendium/NPCs/Vilfort Estelmer/Vilfort Estelmer.md"
     }
   ],
   "omittedPaths": [],
