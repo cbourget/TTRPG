@@ -1,53 +1,22 @@
-.leaflet-marker-icon[data-type="link"]::before {
+.leaflet-marker-icon::before {
   content: attr(data-link);
   display: flex;
   justify-content: center;
   align-items: center;
   position: absolute;
   left: 50%;
-  transform: translate(-50%, -6px);
+  transform: translate(-50%, 0px);
   font-size: 12px;
   font-weight: bold;
   color: white;
   border-radius: 4px;
   padding: 1px 2px;
-  background-color: rgb(216, 34, 79);
   white-space: nowrap;
 }
 
-.leaflet-marker-icon[data-type="g1"]::before,
-.leaflet-marker-icon[data-type="g2"]::before,
-.leaflet-marker-icon[data-type="g3"]::before,
-.leaflet-marker-icon[data-type="g4"]::before,
-.leaflet-marker-icon[data-type="g5"]::before,
-.leaflet-marker-icon[data-type="g6"]::before,
-.leaflet-marker-icon[data-type="g7"]::before,
-.leaflet-marker-icon[data-type="g8"]::before,
-.leaflet-marker-icon[data-type="g9"]::before,
-.leaflet-marker-icon[data-type="g10"]::before,
-.leaflet-marker-icon[data-type="E1"]::before,
-.leaflet-marker-icon[data-type="E2"]::before,
-.leaflet-marker-icon[data-type="E3"]::before,
-.leaflet-marker-icon[data-type="E4"]::before,
-.leaflet-marker-icon[data-type="E5"]::before,
-.leaflet-marker-icon[data-type="E6"]::before,
-.leaflet-marker-icon[data-type="E7"]::before,
-.leaflet-marker-icon[data-type="E8"]::before,
-.leaflet-marker-icon[data-type="E9"]::before,
-.leaflet-marker-icon[data-type="E10"]::before  {
-  content: attr(data-link);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%, 2px);
-  font-size: 12px;
-  font-weight: bold;
-  color: white;
-  border-radius: 4px;
-  padding: 1px 2px;
-  white-space: nowrap;
+.leaflet-marker-icon[data-type="link"]::before {
+  background-color: rgb(216, 34, 79);
+  transform: translate(-50%, -6px);
 }
 
 .popover.hover-popover {

@@ -89,11 +89,11 @@
     },
     {
       "id": "scenario-1-taverne",
-      "lastAccessed": 1647188859112,
+      "lastAccessed": 1647193577196,
       "markers": [
         {
           "id": "ID_7abb69893b88",
-          "type": "g2",
+          "type": "Group 2",
           "loc": [
             -0.681549072265625,
             0.7421875
@@ -110,7 +110,7 @@
         },
         {
           "id": "ID_3bda6b99b8e9",
-          "type": "g1",
+          "type": "Group 1",
           "loc": [
             -0.558502197265625,
             0.5302734375
@@ -127,7 +127,7 @@
         },
         {
           "id": "ID_eac86a7b09c8",
-          "type": "g3",
+          "type": "Group 3",
           "loc": [
             -0.852447509765625,
             0.685546875
@@ -144,7 +144,7 @@
         },
         {
           "id": "ID_4ae8290bd808",
-          "type": "g4",
+          "type": "Group 4",
           "loc": [
             -0.390533447265625,
             1.03125
@@ -161,7 +161,7 @@
         },
         {
           "id": "ID_999b7b3a5bb9",
-          "type": "g5",
+          "type": "Group 5",
           "loc": [
             -0.46661376953125,
             0.724609375
@@ -178,7 +178,7 @@
         },
         {
           "id": "ID_e82a492b192b",
-          "type": "g6",
+          "type": "Group 6",
           "loc": [
             -0.37872314453125,
             0.91796875
@@ -202,11 +202,11 @@
     },
     {
       "id": "scenario-1-égoûts",
-      "lastAccessed": 1647192937803,
+      "lastAccessed": 1647194716648,
       "markers": [
         {
           "id": "ID_49baabf93bfa",
-          "type": "Entrée",
+          "type": "Entrance",
           "loc": [
             -0.6328125,
             0.125
@@ -225,7 +225,7 @@
         },
         {
           "id": "ID_b809daf878ea",
-          "type": "Sortie",
+          "type": "Exit",
           "loc": [
             -0.733642578125,
             6.46875
@@ -241,18 +241,18 @@
         },
         {
           "id": "ID_3bfb9aab8949",
-          "type": "link",
+          "type": "Group 1",
           "loc": [
-            -0.640625,
-            1.515625
+            -6.51171875,
+            6.8046875
           ],
           "link": "N1",
           "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.20693333333333333,
-            0.08746666666666666
+            0.9290666666666667,
+            0.8890666666666667
           ],
           "description": null,
           "minZoom": null,
@@ -261,7 +261,7 @@
         },
         {
           "id": "ID_a8f9e8fa69c8",
-          "type": "E1",
+          "type": "Encounter 1",
           "loc": [
             -1.732421875,
             2.833984375
@@ -281,7 +281,7 @@
         },
         {
           "id": "ID_49c939d8ea49",
-          "type": "L1",
+          "type": "Loot 1",
           "loc": [
             -2.546875,
             0.9375
@@ -300,18 +300,18 @@
         },
         {
           "id": "ID_0b98783be9f9",
-          "type": "E2",
+          "type": "Encounter 2",
           "loc": [
-            -3.859375,
-            4.71875
+            -3.65625,
+            4.6796875
           ],
           "link": "E2",
           "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.6442666666666667,
-            0.5269333333333334
+            0.6389333333333334,
+            0.4992
           ],
           "description": null,
           "minZoom": null,
@@ -320,18 +320,18 @@
         },
         {
           "id": "ID_9b08da196b8b",
-          "type": "E3",
+          "type": "Encounter 3",
           "loc": [
-            -5.296875,
-            2.796875
+            -4.03125,
+            2.765625
           ],
           "link": "E3",
           "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.3818666666666667,
-            0.7232
+            0.3776,
+            0.5504
           ],
           "description": null,
           "minZoom": null,
@@ -339,16 +339,58 @@
           "tooltip": "never"
         },
         {
-          "id": "ID_88a918ca7a9b",
-          "type": "link",
+          "id": "ID_7a7a0b98680a",
+          "type": "Loot 2",
           "loc": [
-            -1.76416015625,
-            1.828125
+            -6.31103515625,
+            0.9765625
           ],
           "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.13333333333333333,
+            0.8616666666666667
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_99d97bbbc8f9",
+          "type": "Encounter 4",
+          "loc": [
+            -6.53125,
+            4.96875
+          ],
+          "link": "E4",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6784,
+            0.8917333333333334
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_f81adb083818",
+          "type": "Loot 3",
+          "loc": [
+            -3.84375,
+            5
+          ],
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6826666666666666,
+            0.5248
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -374,7 +416,7 @@
   },
   "markerIcons": [
     {
-      "type": "link",
+      "type": "Link",
       "iconName": "circle",
       "color": "#d8224f",
       "layer": true,
@@ -389,7 +431,7 @@
       "maxZoom": null
     },
     {
-      "type": "g1",
+      "type": "Group 1",
       "iconName": "circle",
       "color": "#ddb113",
       "layer": false,
@@ -404,7 +446,7 @@
       "maxZoom": null
     },
     {
-      "type": "g2",
+      "type": "Group 2",
       "iconName": "circle",
       "color": "#ddb113",
       "layer": false,
@@ -419,7 +461,7 @@
       "maxZoom": null
     },
     {
-      "type": "g3",
+      "type": "Group 3",
       "iconName": "circle",
       "color": "#ddb113",
       "layer": false,
@@ -434,7 +476,7 @@
       "maxZoom": null
     },
     {
-      "type": "g4",
+      "type": "Group 4",
       "iconName": "circle",
       "color": "#ddb113",
       "layer": false,
@@ -449,7 +491,7 @@
       "maxZoom": null
     },
     {
-      "type": "g5",
+      "type": "Group 5",
       "iconName": "circle",
       "color": "#ddb113",
       "layer": false,
@@ -464,7 +506,7 @@
       "maxZoom": null
     },
     {
-      "type": "g6",
+      "type": "Group 6",
       "iconName": "circle",
       "color": "#ddb113",
       "layer": false,
@@ -479,7 +521,7 @@
       "maxZoom": null
     },
     {
-      "type": "g7",
+      "type": "Group 7",
       "iconName": "circle",
       "color": "#ddb113",
       "layer": false,
@@ -494,7 +536,7 @@
       "maxZoom": null
     },
     {
-      "type": "g8",
+      "type": "Group 8",
       "iconName": "circle",
       "color": "#ddb113",
       "layer": false,
@@ -509,7 +551,7 @@
       "maxZoom": null
     },
     {
-      "type": "g9",
+      "type": "Group 9",
       "iconName": "circle",
       "color": "#ddb113",
       "layer": false,
@@ -524,7 +566,7 @@
       "maxZoom": null
     },
     {
-      "type": "g10",
+      "type": "Group 10",
       "iconName": "circle",
       "color": "#ddb113",
       "layer": false,
@@ -539,7 +581,7 @@
       "maxZoom": null
     },
     {
-      "type": "g11",
+      "type": "Group 11",
       "iconName": "circle",
       "color": "#ddb113",
       "layer": false,
@@ -554,7 +596,7 @@
       "maxZoom": null
     },
     {
-      "type": "Passage",
+      "type": "Archway",
       "iconName": "archway",
       "color": "#22a1d8",
       "layer": false,
@@ -569,7 +611,7 @@
       "maxZoom": null
     },
     {
-      "type": "Entrée",
+      "type": "Entrance",
       "iconName": "angle-double-down",
       "color": "#22d837",
       "layer": false,
@@ -584,7 +626,7 @@
       "maxZoom": null
     },
     {
-      "type": "Sortie",
+      "type": "Exit",
       "iconName": "angle-double-up",
       "color": "#d8223d",
       "layer": false,
@@ -599,7 +641,7 @@
       "maxZoom": null
     },
     {
-      "type": "E1",
+      "type": "Encounter 1",
       "iconName": "skull",
       "color": "#0414fb",
       "layer": false,
@@ -614,7 +656,7 @@
       "maxZoom": null
     },
     {
-      "type": "E2",
+      "type": "Encounter 2",
       "iconName": "skull",
       "color": "#0414fb",
       "layer": false,
@@ -629,7 +671,7 @@
       "maxZoom": null
     },
     {
-      "type": "E3",
+      "type": "Encounter 3",
       "iconName": "skull",
       "color": "#0414fb",
       "layer": false,
@@ -644,7 +686,7 @@
       "maxZoom": null
     },
     {
-      "type": "E4",
+      "type": "Encounter 4",
       "iconName": "skull",
       "color": "#0414fb",
       "layer": false,
@@ -659,7 +701,7 @@
       "maxZoom": null
     },
     {
-      "type": "E5",
+      "type": "Encounter 5",
       "iconName": "skull",
       "color": "#0414fb",
       "layer": false,
@@ -674,7 +716,7 @@
       "maxZoom": null
     },
     {
-      "type": "E6",
+      "type": "Encounter 6",
       "iconName": "skull",
       "color": "#0414fb",
       "layer": false,
@@ -689,7 +731,7 @@
       "maxZoom": null
     },
     {
-      "type": "E7",
+      "type": "Encounter 7",
       "iconName": "skull",
       "color": "#0414fb",
       "layer": false,
@@ -704,7 +746,7 @@
       "maxZoom": null
     },
     {
-      "type": "E8",
+      "type": "Encounter 8",
       "iconName": "skull",
       "color": "#0414fb",
       "layer": false,
@@ -719,7 +761,7 @@
       "maxZoom": null
     },
     {
-      "type": "E9",
+      "type": "Encounter 9",
       "iconName": "skull",
       "color": "#0414fb",
       "layer": false,
@@ -734,7 +776,7 @@
       "maxZoom": null
     },
     {
-      "type": "E10",
+      "type": "Encounter 10",
       "iconName": "skull",
       "color": "#0414fb",
       "layer": false,
@@ -749,7 +791,97 @@
       "maxZoom": null
     },
     {
-      "type": "L1",
+      "type": "Loot 1",
+      "iconName": "crown",
+      "color": "#d88322",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Loot 2",
+      "iconName": "crown",
+      "color": "#d88322",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Loot 3",
+      "iconName": "crown",
+      "color": "#d88322",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Loot 4",
+      "iconName": "crown",
+      "color": "#d88322",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Loot 5",
+      "iconName": "crown",
+      "color": "#d88322",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Loot 6",
+      "iconName": "crown",
+      "color": "#d88322",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Loot 7",
       "iconName": "crown",
       "color": "#d88322",
       "layer": false,
