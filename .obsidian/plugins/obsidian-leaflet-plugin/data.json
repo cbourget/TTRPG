@@ -170,7 +170,7 @@
     },
     {
       "id": "scenario-1-taverne",
-      "lastAccessed": 1647186374002,
+      "lastAccessed": 1647186844231,
       "markers": [
         {
           "id": "ID_7abb69893b88",
@@ -265,22 +265,6 @@
             0.91796875
           ],
           "link": "G6",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_7b799b29e899",
-          "type": "g1",
-          "loc": [
-            -0.729400634765625,
-            0.5126953125
-          ],
           "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
           "mutable": true,
           "command": false,
@@ -523,6 +507,156 @@
       "type": "Sortie",
       "iconName": "angle-double-up",
       "color": "#d8223d",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "E1",
+      "iconName": "skull",
+      "color": "#fb0408",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "E2",
+      "iconName": "skull",
+      "color": "#fb0408",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "E3",
+      "iconName": "skull",
+      "color": "#fb0408",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "E4",
+      "iconName": "skull",
+      "color": "#fb0408",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "E5",
+      "iconName": "skull",
+      "color": "#fb0408",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "E6",
+      "iconName": "skull",
+      "color": "#fb0408",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "E7",
+      "iconName": "skull",
+      "color": "#fb0408",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "E8",
+      "iconName": "skull",
+      "color": "#fb0408",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "E9",
+      "iconName": "skull",
+      "color": "#fb0408",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "E10",
+      "iconName": "skull",
+      "color": "#fb0408",
       "layer": false,
       "transform": {
         "size": 6,
