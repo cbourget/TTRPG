@@ -202,21 +202,22 @@
     },
     {
       "id": "scenario-1-égoûts",
-      "lastAccessed": 1647196545664,
+      "lastAccessed": 1647213601781,
       "markers": [
         {
           "id": "ID_49baabf93bfa",
           "type": "Entrance",
           "loc": [
-            -0.6328125,
-            0.125
+            -0.625,
+            0.296875
           ],
+          "link": " ",
           "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.017066666666666667,
-            0.0864
+            0.04053333333333333,
+            0.08533333333333333
           ],
           "description": null,
           "minZoom": null,
@@ -230,6 +231,7 @@
             -0.733642578125,
             6.46875
           ],
+          "link": " ",
           "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
           "mutable": true,
           "command": false,
@@ -400,14 +402,17 @@
           "id": "ID_eafb6a599afa",
           "type": "Encounter 5",
           "loc": [
-            -0.936767578125,
-            6.47265625
+            -0.984375,
+            6.4140625
           ],
           "link": "E5",
           "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.8757333333333334,
+            0.1344
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -969,6 +974,66 @@
     },
     {
       "type": "Trap 2",
+      "iconName": "box",
+      "color": "#9e22d8",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Trap 3",
+      "iconName": "box",
+      "color": "#9e22d8",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Trap 4",
+      "iconName": "box",
+      "color": "#9e22d8",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Trap 5",
+      "iconName": "box",
+      "color": "#9e22d8",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Trap 6",
       "iconName": "box",
       "color": "#9e22d8",
       "layer": false,
