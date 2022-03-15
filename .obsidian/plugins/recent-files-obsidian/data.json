@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Âme - Savard",
+      "path": "1 - Compendium/Concepts/Âme - Savard.md"
+    },
+    {
+      "basename": "Âme",
+      "path": "1 - Compendium/Concepts/Âme.md"
+    },
+    {
       "basename": "Égoûts",
       "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Randal Carodoc",
       "path": "1 - Compendium/NPCs/Randal Carodoc/Randal Carodoc.md"
-    },
-    {
-      "basename": "Rakell Carodoc",
-      "path": "1 - Compendium/NPCs/Rakell Carodoc/Rakell Carodoc.md"
-    },
-    {
-      "basename": "Perrin",
-      "path": "1 - Compendium/NPCs/Perrin/Perrin.md"
     }
   ],
   "omittedPaths": [],
