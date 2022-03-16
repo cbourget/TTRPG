@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "N1",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/N1.md"
+    },
+    {
+      "basename": "Nadia",
+      "path": "1 - Compendium/NPCs/Nadia.md"
+    },
+    {
+      "basename": "Eryn",
+      "path": "1 - Compendium/NPCs/Eryn.md"
+    },
+    {
+      "basename": "T1",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/T1.md"
+    },
+    {
+      "basename": "E5",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E5.md"
+    },
+    {
+      "basename": "Égoûts",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md"
+    },
+    {
       "basename": "Âme - Savard",
       "path": "1 - Compendium/Concepts/Âme - Savard.md"
     },
@@ -9,28 +33,12 @@
       "path": "1 - Compendium/Concepts/Âme.md"
     },
     {
-      "basename": "Égoûts",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md"
-    },
-    {
-      "basename": "E5",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E5.md"
-    },
-    {
-      "basename": "T1",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/T1.md"
-    },
-    {
       "basename": "E4",
       "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E4.md"
     },
     {
       "basename": "E3",
       "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E3.md"
-    },
-    {
-      "basename": "N1",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/N1.md"
     },
     {
       "basename": "Égoûts",
@@ -191,14 +199,6 @@
     {
       "basename": "Roy Larg",
       "path": "1 - Compendium/NPCs/Roy Larg/Roy Larg.md"
-    },
-    {
-      "basename": "Ronzu",
-      "path": "1 - Compendium/NPCs/Ronzu/Ronzu.md"
-    },
-    {
-      "basename": "Randal Carodoc",
-      "path": "1 - Compendium/NPCs/Randal Carodoc/Randal Carodoc.md"
     }
   ],
   "omittedPaths": [],
