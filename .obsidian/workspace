@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/N1.md",
+            "file": "TOOD.md",
             "mode": "source",
             "source": true
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/N1.md",
+                "file": "TOOD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/N1.md"
+                "file": "TOOD.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/N1.md",
+                "file": "TOOD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,6 +155,7 @@
   },
   "active": "edd8f0e870c20515",
   "lastOpenFiles": [
+    "TOOD.md",
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/N1.md",
     "1 - Compendium/NPCs/Nadia.md",
     "1 - Compendium/NPCs/Eryn.md",
@@ -163,7 +164,6 @@
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md",
     "1 - Compendium/Concepts/Âme - Savard.md",
     "1 - Compendium/Concepts/Âme.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E4.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E3.md"
+    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E4.md"
   ]
 }

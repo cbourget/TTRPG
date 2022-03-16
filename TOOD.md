@@ -1,0 +1,11 @@
+- Consolider BG Pete
+- Écrire lettre de Norlu
+- Préparer le loot
+- Préparer les tables de la taverne
+- Préparer des cartons pour les activités d'exploration
+- Préparer le lair des bandits
+- Préparer les stats des NPCs
+- Confirmer la mécanique de collecte d'âme
+- Confirmer la mécanique de Joey (feu)
+- Whip de Duro
+- Préparer certains indices pour la quête de retrouver Cleyton
