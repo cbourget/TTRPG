@@ -136,7 +136,7 @@ Bien. Dans ce cas, ma présence ici n'est plus requise. Que la fête se poursuiv
 ```
 
 ### Nommer la Terre
-[[Seymor Mantar]] demandera à ce qu'on nom soit trouvé pour cette fameuse terre. Il suggérera [[Nostaria]] (nouvelle terre) et expliquant l'éthymologie de [[Boletaria]] (vieille terre).  [[Samora]] lui fera remarqué que ce n'est pas Nostaria mais bien Nostara et que Boletaria est ainsi nommé en raison d'une erreur de traduction. Cela enthousiasmera [[Seymor Mantar]] (qui le sait) et il proposera de financer son expédition afin qu'elle soit interprète.
+[[Korigan Mantar]] demandera à ce qu'on nom soit trouvé pour cette fameuse terre. Il suggérera [[Nostaria]] (nouvelle terre) et expliquant l'éthymologie de [[Boletaria]] (vieille terre).  [[Samora]] lui fera remarqué que ce n'est pas Nostaria mais bien Nostara et que Boletaria est ainsi nommé en raison d'une erreur de traduction. Cela enthousiasmera [[Korigan Mantar]] (qui le sait) et il proposera de financer son expédition afin qu'elle soit interprète.
 
 ### Obtenir la bénédiction d'Abadar
 [[Grog]] déclarera publiquement que la bénédiction d'[[Abadar]] père de la civilisation est requise pour se voyage et qu'en tant que prêtre d'[[Abadar]], sa présence peut la lui conférer. Cela incitera [[Rakell Carodoc]] à le financer.

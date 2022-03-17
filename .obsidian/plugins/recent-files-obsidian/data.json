@@ -1,6 +1,194 @@
 {
   "recentFiles": [
     {
+      "basename": "Taverne",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
+    },
+    {
+      "basename": "Livia",
+      "path": "1 - Compendium/NPCs/Livia/Livia.md"
+    },
+    {
+      "basename": "G5",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G5.md"
+    },
+    {
+      "basename": "Larissa Artemel",
+      "path": "1 - Compendium/NPCs/Larissa Artemel/Larissa Artemel.md"
+    },
+    {
+      "basename": "Kretiak Cragmire",
+      "path": "1 - Compendium/NPCs/Kretiak Cragmire/Kretiak Cragmire.md"
+    },
+    {
+      "basename": "1 - Joindre l'expédition",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md"
+    },
+    {
+      "basename": "Korigan Mantar",
+      "path": "1 - Compendium/NPCs/Korigan Mantar/Korigan Mantar.jpg"
+    },
+    {
+      "basename": "Korigan Mantar",
+      "path": "1 - Compendium/NPCs/Korigan Mantar/Korigan Mantar.md"
+    },
+    {
+      "basename": "Jormun",
+      "path": "1 - Compendium/NPCs/Jormun/Jormun.md"
+    },
+    {
+      "basename": "G7",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G7.md"
+    },
+    {
+      "basename": "Javelin",
+      "path": "1 - Compendium/NPCs/Javelin/Javelin.md"
+    },
+    {
+      "basename": "Hummer",
+      "path": "1 - Compendium/NPCs/Hummer/Hummer.md"
+    },
+    {
+      "basename": "Hossulim",
+      "path": "1 - Compendium/NPCs/Hossulim/Hossulim.md"
+    },
+    {
+      "basename": "Horadin Fulgor",
+      "path": "1 - Compendium/NPCs/Horadin Fulgor/Horadin Fulgor.md"
+    },
+    {
+      "basename": "G10",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G10.md"
+    },
+    {
+      "basename": "Héron",
+      "path": "1 - Compendium/NPCs/Héron/Héron.md"
+    },
+    {
+      "basename": "G11",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G11.md"
+    },
+    {
+      "basename": "G8",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G8.md"
+    },
+    {
+      "basename": "Harald",
+      "path": "1 - Compendium/NPCs/Harald/Harald.md"
+    },
+    {
+      "basename": "G9",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G9.md"
+    },
+    {
+      "basename": "Grog",
+      "path": "1 - Compendium/NPCs/Grog/Grog.md"
+    },
+    {
+      "basename": "Gatsby",
+      "path": "1 - Compendium/NPCs/Gatsby/Gatsby.md"
+    },
+    {
+      "basename": "Gareth",
+      "path": "1 - Compendium/NPCs/Gareth/Gareth.md"
+    },
+    {
+      "basename": "Frya Cragmire",
+      "path": "1 - Compendium/NPCs/Frya Cragmire/Frya Cragmire.md"
+    },
+    {
+      "basename": "Fanny",
+      "path": "1 - Compendium/NPCs/Fanny/Fanny.md"
+    },
+    {
+      "basename": "Belivik Vulpin",
+      "path": "1 - Compendium/NPCs/Belivik Vulpin/Belivik Vulpin.md"
+    },
+    {
+      "basename": "Edelia",
+      "path": "1 - Compendium/NPCs/Edelia/Edelia.md"
+    },
+    {
+      "basename": "Dom",
+      "path": "1 - Compendium/NPCs/Dom/Dom.md"
+    },
+    {
+      "basename": "Crik Mantar",
+      "path": "1 - Compendium/NPCs/Crik Mantar/Crik Mantar.md"
+    },
+    {
+      "basename": "Corvo Estelmer",
+      "path": "1 - Compendium/NPCs/Corvo Estelmer/Corvo Estelmer.md"
+    },
+    {
+      "basename": "Corgak",
+      "path": "1 - Compendium/NPCs/Corgak/Corgak.md"
+    },
+    {
+      "basename": "Corbu",
+      "path": "1 - Compendium/NPCs/Corbu/Corbu.md"
+    },
+    {
+      "basename": "Cook",
+      "path": "1 - Compendium/NPCs/Cook/Cook.md"
+    },
+    {
+      "basename": "Cleyton Kilmer",
+      "path": "1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md"
+    },
+    {
+      "basename": "Christofle",
+      "path": "1 - Compendium/NPCs/Christofle/Christofle.md"
+    },
+    {
+      "basename": "Aruspice",
+      "path": "1 - Compendium/NPCs/Aruspice/Aruspice.md"
+    },
+    {
+      "basename": "Alcide Foghorn",
+      "path": "1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md"
+    },
+    {
+      "basename": "G6",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G6.md"
+    },
+    {
+      "basename": "Albert",
+      "path": "1 - Compendium/NPCs/Albert/Albert.md"
+    },
+    {
+      "basename": "Alaric Foghorn",
+      "path": "1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.md"
+    },
+    {
+      "basename": "Agrippine",
+      "path": "1 - Compendium/NPCs/Agrippine/Agrippine.md"
+    },
+    {
+      "basename": "NPCs1",
+      "path": "Tokens/NPCs1.md"
+    },
+    {
+      "basename": "G4",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G4.md"
+    },
+    {
+      "basename": "Tombeau",
+      "path": "1 - Compendium/NPCs/Tombeau/Tombeau.md"
+    },
+    {
+      "basename": "Vilfort Estelmer",
+      "path": "1 - Compendium/NPCs/Vilfort Estelmer/Vilfort Estelmer.md"
+    },
+    {
+      "basename": "Vilfort Estelmer",
+      "path": "1 - Compendium/NPCs/Vilfort Estelmer/Vilfort Estelmer.jpg"
+    },
+    {
+      "basename": "G1",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G1.md"
+    },
+    {
       "basename": "TOOD",
       "path": "TOOD.md"
     },
@@ -11,194 +199,6 @@
     {
       "basename": "Nadia",
       "path": "1 - Compendium/NPCs/Nadia.md"
-    },
-    {
-      "basename": "Eryn",
-      "path": "1 - Compendium/NPCs/Eryn.md"
-    },
-    {
-      "basename": "T1",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/T1.md"
-    },
-    {
-      "basename": "E5",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E5.md"
-    },
-    {
-      "basename": "Égoûts",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md"
-    },
-    {
-      "basename": "Âme - Savard",
-      "path": "1 - Compendium/Concepts/Âme - Savard.md"
-    },
-    {
-      "basename": "Âme",
-      "path": "1 - Compendium/Concepts/Âme.md"
-    },
-    {
-      "basename": "E4",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E4.md"
-    },
-    {
-      "basename": "E3",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E3.md"
-    },
-    {
-      "basename": "Égoûts",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.jpg"
-    },
-    {
-      "basename": "E1",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E1.md"
-    },
-    {
-      "basename": "E2",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E2.md"
-    },
-    {
-      "basename": "Taverne",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
-    },
-    {
-      "basename": "Sewer Ooze",
-      "path": "1 - Compendium/Monsters/Sewer Ooze/Sewer Ooze.md"
-    },
-    {
-      "basename": "L1",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/L1.md"
-    },
-    {
-      "basename": "Bandit Lair",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Bandit Lair/Bandit Lair.md"
-    },
-    {
-      "basename": "Bandit Lair",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Bandit Lair/Bandit Lair.jpeg"
-    },
-    {
-      "basename": "Sewer3",
-      "path": "Images/Maps/Sewer3.jpg"
-    },
-    {
-      "basename": "Prison",
-      "path": "Images/Maps/Prison.jpg"
-    },
-    {
-      "basename": "QuartierBandits",
-      "path": "Images/Maps/QuartierBandits.jpg"
-    },
-    {
-      "basename": "1 - Joindre l'expédition",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md"
-    },
-    {
-      "basename": "G1",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G1.md"
-    },
-    {
-      "basename": "6 - Taverne",
-      "path": "1 - Compendium/Lieux/Brevoy/6 - Taverne/6 - Taverne.md"
-    },
-    {
-      "basename": "3 - Quartier de la Culture",
-      "path": "1 - Compendium/Lieux/Brevoy/3 - Quartier de la Culture/3 - Quartier de la Culture.md"
-    },
-    {
-      "basename": "2 - Rues",
-      "path": "1 - Compendium/Lieux/Brevoy/2 - Rues/2 - Rues.md"
-    },
-    {
-      "basename": "1 - Port",
-      "path": "1 - Compendium/Lieux/Brevoy/1 - Port/1 - Port.md"
-    },
-    {
-      "basename": "0 - Brevoy",
-      "path": "1 - Compendium/Lieux/Brevoy/0 - Brevoy/0 - Brevoy.md"
-    },
-    {
-      "basename": "Sewer2",
-      "path": "Images/Maps/Sewer2.jpg"
-    },
-    {
-      "basename": "Samora",
-      "path": "1 - Compendium/NPCs/Samora/Samora.md"
-    },
-    {
-      "basename": "Strix",
-      "path": "1 - Compendium/NPCs/Strix/Strix.md"
-    },
-    {
-      "basename": "Vilfort Estelmer",
-      "path": "1 - Compendium/NPCs/Vilfort Estelmer/Vilfort Estelmer.md"
-    },
-    {
-      "basename": "Vonnder Cragmire",
-      "path": "1 - Compendium/NPCs/Vonnder Cragmire/Vonnder Cragmire.md"
-    },
-    {
-      "basename": "Cleyton Kilmer",
-      "path": "1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md"
-    },
-    {
-      "basename": "Corvo Estelmer",
-      "path": "1 - Compendium/NPCs/Corvo Estelmer/Corvo Estelmer.md"
-    },
-    {
-      "basename": "Crik Mantar",
-      "path": "1 - Compendium/NPCs/Crik Mantar/Crik Mantar.md"
-    },
-    {
-      "basename": "Edelia",
-      "path": "1 - Compendium/NPCs/Edelia/Edelia.md"
-    },
-    {
-      "basename": "Rackham",
-      "path": "1 - Compendium/NPCs/Rackham/Rackham.md"
-    },
-    {
-      "basename": "Hummer",
-      "path": "1 - Compendium/NPCs/Hummer/Hummer.md"
-    },
-    {
-      "basename": "Javelin",
-      "path": "1 - Compendium/NPCs/Javelin/Javelin.md"
-    },
-    {
-      "basename": "Xendra Mantar",
-      "path": "1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
-    },
-    {
-      "basename": "Wisgar",
-      "path": "1 - Compendium/NPCs/Wisgar/Wisgar.md"
-    },
-    {
-      "basename": "Wilhelm Oberon",
-      "path": "1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md"
-    },
-    {
-      "basename": "Tombeau",
-      "path": "1 - Compendium/NPCs/Tombeau/Tombeau.md"
-    },
-    {
-      "basename": "Tamerlane Foghorn",
-      "path": "1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.md"
-    },
-    {
-      "basename": "Talarissa",
-      "path": "1 - Compendium/NPCs/Talarissa/Talarissa.md"
-    },
-    {
-      "basename": "Taff",
-      "path": "1 - Compendium/NPCs/Taff/Taff.md"
-    },
-    {
-      "basename": "Siegfried",
-      "path": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
-    },
-    {
-      "basename": "Seymor Mantar",
-      "path": "1 - Compendium/NPCs/Seymor Mantar/Seymor Mantar.md"
     }
   ],
   "omittedPaths": [],

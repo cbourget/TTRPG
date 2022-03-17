@@ -53,6 +53,7 @@
 }
 .admonition-gallery .admonition-content p {
   padding: 8px;
+  margin-top: 0;
 }
 .admonition-gallery .admonition-content span {
   display: flex;
@@ -65,6 +66,7 @@
   height: 340px;
   border-radius: 8px;
   object-fit: cover;
+  object-position: 50% 0%;
 }
 .admonition-gallery .admonition-content a {
   display: block;
