@@ -354,7 +354,7 @@
     },
     {
       "id": "scenario-1-taverne",
-      "lastAccessed": 1647459712427,
+      "lastAccessed": 1647479754316,
       "markers": [
         {
           "id": "ID_7abb69893b88",
@@ -539,10 +539,107 @@
           "id": "ID_28c93b2afaaa",
           "type": "Group 11",
           "loc": [
-            -1.090728759765625,
-            0.697265625
+            -1.0888671875,
+            0.693359375
           ],
           "link": "G11",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5205278592375366,
+            0.8863275039745628
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_4a1af99b9aea",
+          "type": "Group 12",
+          "loc": [
+            -1.136627197265625,
+            0.4130859375
+          ],
+          "link": "G12",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_da4beabab97b",
+          "type": "Group 13",
+          "loc": [
+            -1.154296875,
+            0.6650390625
+          ],
+          "link": "G13",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.499266862170088,
+            0.9395866454689984
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_d8b929e85af9",
+          "type": "Group 14",
+          "loc": [
+            -1.0361328125,
+            0.580078125
+          ],
+          "link": "G14",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.43548387096774194,
+            0.8434022257551669
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_abf9f8090899",
+          "type": "Group 15",
+          "loc": [
+            -0.8642578125,
+            0.8720703125
+          ],
+          "link": "G15",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6546920821114369,
+            0.7034976152623211
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_2ad9a9d9d88b",
+          "type": "Group 17",
+          "loc": [
+            -0.810455322265625,
+            0.5791015625
+          ],
+          "link": "G17",
           "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
           "mutable": true,
           "command": false,
@@ -738,6 +835,111 @@
     },
     {
       "type": "Group 11",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Group 12",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Group 13",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Group 14",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Group 15",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Group 16",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Group 17",
+      "iconName": "circle",
+      "color": "#ddb113",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Group 18",
       "iconName": "circle",
       "color": "#ddb113",
       "layer": false,

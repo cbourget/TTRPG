@@ -13,7 +13,7 @@ tags: NPC Syndic-Des-Marchands
 
 <span class="image">![[Harald.jpg]][[Harald.jpg|Voir]]</span>
 
-<span class="npc-tags">#Humain #Homme</span>
+<span class="npc-tags">#Gnome #Homme</span>
 
 <span>Lorem Ipsum</span>
 

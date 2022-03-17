@@ -23,8 +23,6 @@ tags: NPC Rackham
 ```
 
 ## Objectifs
-<span class="tab">[[Rackham#Objectifs]]</span>
-<span class="embed-section tab">![[Rackham#Objectifs]]</span>
 
 ## Détails
 
