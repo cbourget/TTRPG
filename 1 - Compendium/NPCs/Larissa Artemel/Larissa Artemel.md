@@ -23,7 +23,7 @@ tags: NPC
 ```
 
 ## Objectifs
-- [ ] TODO
+- [ ] Elle aime l'aventure et les grand espaces, ce que la plupart des Artemel ont en commun.
 
 ## Détails
 

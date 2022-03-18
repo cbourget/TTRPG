@@ -23,7 +23,7 @@ tags: NPC
 ```
 
 ## Objectifs
-- [ ] TODO
+- [ ] Répandre la lumière de [[Calédon]] par-delà la mer et contribuer au succès de l'expédition.
 
 ## Détails
 

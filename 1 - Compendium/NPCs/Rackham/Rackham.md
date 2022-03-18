@@ -23,6 +23,7 @@ tags: NPC Rackham
 ```
 
 ## Objectifs
+- S'enrichir de biens matérials et établir un avant-poste pour ses activités frauduleuses (traite d'esclaves, entre autres).
 
 ## Détails
 

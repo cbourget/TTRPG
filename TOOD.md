@@ -1,11 +1,13 @@
-- Consolider BG Pete
+
 - Écrire lettre de Norlu
 - Préparer le loot
-- Préparer les tables de la taverne
 - Préparer des cartons pour les activités d'exploration
 - Préparer le lair des bandits
 - Préparer les stats des NPCs
 - Confirmer la mécanique de collecte d'âme
+	- X will saving throw contre will du monstre + modificateur aribitraire
 - Confirmer la mécanique de Joey (feu)
+	- Seulement une fois sur l'île
 - Whip de Duro
+	- Relic, divine retribution ou Shauth Lash
 - Préparer certains indices pour la quête de retrouver Cleyton

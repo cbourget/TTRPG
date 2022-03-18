@@ -88,271 +88,6 @@
       ]
     },
     {
-      "id": "scenario-1-égoûts",
-      "lastAccessed": 1647213601781,
-      "markers": [
-        {
-          "id": "ID_49baabf93bfa",
-          "type": "Entrance",
-          "loc": [
-            -0.625,
-            0.296875
-          ],
-          "link": " ",
-          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.04053333333333333,
-            0.08533333333333333
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_b809daf878ea",
-          "type": "Exit",
-          "loc": [
-            -0.733642578125,
-            6.46875
-          ],
-          "link": " ",
-          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_3bfb9aab8949",
-          "type": "Group 1",
-          "loc": [
-            -6.6171875,
-            6.6640625
-          ],
-          "link": "N1",
-          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.9098666666666667,
-            0.9034666666666666
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_a8f9e8fa69c8",
-          "type": "Encounter 1",
-          "loc": [
-            -1.732421875,
-            2.833984375
-          ],
-          "link": "E1",
-          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.38693333333333335,
-            0.23653333333333335
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_49c939d8ea49",
-          "type": "Loot 1",
-          "loc": [
-            -2.6015625,
-            0.9921875
-          ],
-          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.13546666666666668,
-            0.3552
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_0b98783be9f9",
-          "type": "Encounter 2",
-          "loc": [
-            -3.65625,
-            4.6796875
-          ],
-          "link": "E2",
-          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6389333333333334,
-            0.4992
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_9b08da196b8b",
-          "type": "Encounter 3",
-          "loc": [
-            -4.03125,
-            2.765625
-          ],
-          "link": "E3",
-          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.3776,
-            0.5504
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_7a7a0b98680a",
-          "type": "Loot 2",
-          "loc": [
-            -6.31103515625,
-            0.9765625
-          ],
-          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.13333333333333333,
-            0.8616666666666667
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_99d97bbbc8f9",
-          "type": "Encounter 4",
-          "loc": [
-            -6.515625,
-            5.0625
-          ],
-          "link": "E4",
-          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6912,
-            0.8896
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_f81adb083818",
-          "type": "Loot 3",
-          "loc": [
-            -3.84375,
-            5
-          ],
-          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6826666666666666,
-            0.5248
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_eafb6a599afa",
-          "type": "Encounter 5",
-          "loc": [
-            -0.984375,
-            6.4140625
-          ],
-          "link": "E5",
-          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.8757333333333334,
-            0.1344
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_e9b83bf98809",
-          "type": "Trap 1",
-          "loc": [
-            -3.9921875,
-            1.90625
-          ],
-          "link": "T1",
-          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.26026666666666665,
-            0.5450666666666667
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_1be829cbda19",
-          "type": "Trap 2",
-          "loc": [
-            -4.875,
-            3.90625
-          ],
-          "link": "T1",
-          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5333333333333333,
-            0.6656
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md"
-      ]
-    },
-    {
       "id": "scenario-1-taverne",
       "lastAccessed": 1647479754316,
       "markers": [
@@ -654,6 +389,254 @@
       "shapes": [],
       "files": [
         "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
+      ]
+    },
+    {
+      "id": "scenario-1-égoûts",
+      "lastAccessed": 1647567869355,
+      "markers": [
+        {
+          "id": "ID_49baabf93bfa",
+          "type": "Entrance",
+          "loc": [
+            -0.625,
+            0.296875
+          ],
+          "link": " ",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.04053333333333333,
+            0.08533333333333333
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_b809daf878ea",
+          "type": "Exit",
+          "loc": [
+            -0.733642578125,
+            6.46875
+          ],
+          "link": " ",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_3bfb9aab8949",
+          "type": "Group 1",
+          "loc": [
+            -6.6171875,
+            6.6640625
+          ],
+          "link": "N1",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9098666666666667,
+            0.9034666666666666
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_a8f9e8fa69c8",
+          "type": "Encounter 1",
+          "loc": [
+            -1.732421875,
+            2.833984375
+          ],
+          "link": "E1",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.38693333333333335,
+            0.23653333333333335
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_49c939d8ea49",
+          "type": "Loot 1",
+          "loc": [
+            -3.3828125,
+            0.970703125
+          ],
+          "link": "L1",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.13253333333333334,
+            0.46186666666666665
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_0b98783be9f9",
+          "type": "Encounter 2",
+          "loc": [
+            -3.65625,
+            4.6796875
+          ],
+          "link": "E2",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6389333333333334,
+            0.4992
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_9b08da196b8b",
+          "type": "Encounter 3",
+          "loc": [
+            -4.03125,
+            2.765625
+          ],
+          "link": "E3",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3776,
+            0.5504
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_7a7a0b98680a",
+          "type": "Loot 2",
+          "loc": [
+            -6.31103515625,
+            0.9765625
+          ],
+          "link": "L2",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.13333333333333333,
+            0.8616666666666667
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_99d97bbbc8f9",
+          "type": "Encounter 4",
+          "loc": [
+            -6.515625,
+            5.0625
+          ],
+          "link": "E4",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6912,
+            0.8896
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_eafb6a599afa",
+          "type": "Encounter 5",
+          "loc": [
+            -0.984375,
+            6.4140625
+          ],
+          "link": "E5",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8757333333333334,
+            0.1344
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_e9b83bf98809",
+          "type": "Trap 1",
+          "loc": [
+            -3.9921875,
+            1.90625
+          ],
+          "link": "T1",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.26026666666666665,
+            0.5450666666666667
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_1be829cbda19",
+          "type": "Trap 2",
+          "loc": [
+            -4.875,
+            3.90625
+          ],
+          "link": "T1",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5333333333333333,
+            0.6656
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md"
       ]
     }
   ],

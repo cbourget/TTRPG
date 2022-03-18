@@ -23,7 +23,7 @@ tags: NPC
 ```
 
 ## Objectifs
-- [ ] S'enrichir et se refaire une vie ailleurs.
+- [ ] En tant que disciple de [[Érastil]], il souhaite se refaire une vie ailleurs, loin de la ville.
 
 ## Détails
 

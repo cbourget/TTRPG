@@ -1,80 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Foghorn",
-      "path": "1 - Compendium/Factions/Foghorn.md"
+      "basename": "Égoûts",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md"
     },
     {
-      "basename": "Taverne",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
+      "basename": "L3",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/L3.md"
     },
     {
-      "basename": "G9",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G9.md"
+      "basename": "L2",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/L2.md"
     },
     {
-      "basename": "G7",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G7.md"
+      "basename": "L1",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/L1.md"
     },
     {
-      "basename": "G15",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G15.md"
+      "basename": "1 - Joindre l'expédition",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md"
     },
     {
-      "basename": "G10",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G10.md"
+      "basename": "Calédon",
+      "path": "1 - Compendium/Concepts/Calédon.md"
     },
     {
-      "basename": "G12",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G12.md"
+      "basename": "Rackham",
+      "path": "1 - Compendium/NPCs/Rackham/Rackham.md"
     },
     {
-      "basename": "G11",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G11.md"
-    },
-    {
-      "basename": "G14",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G14.md"
-    },
-    {
-      "basename": "G17",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G17.md"
-    },
-    {
-      "basename": "G3",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G3.md"
-    },
-    {
-      "basename": "G8",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G8.md"
-    },
-    {
-      "basename": "G2",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G2.md"
-    },
-    {
-      "basename": "G5",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G5.md"
-    },
-    {
-      "basename": "G1",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G1.md"
-    },
-    {
-      "basename": "Xendra Mantar",
-      "path": "1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
-    },
-    {
-      "basename": "Wisgar",
-      "path": "1 - Compendium/NPCs/Wisgar/Wisgar.md"
-    },
-    {
-      "basename": "Wilhelm Oberon",
-      "path": "1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md"
-    },
-    {
-      "basename": "Vonnder Cragmire",
-      "path": "1 - Compendium/NPCs/Vonnder Cragmire/Vonnder Cragmire.md"
+      "basename": "Vilfort Estelmer",
+      "path": "1 - Compendium/NPCs/Vilfort Estelmer/Vilfort Estelmer.md"
     },
     {
       "basename": "Tombeau",
@@ -101,6 +57,10 @@
       "path": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
     },
     {
+      "basename": "Seymor Mantar",
+      "path": "1 - Compendium/NPCs/Seymor Mantar/Seymor Mantar.md"
+    },
+    {
       "basename": "Samora",
       "path": "1 - Compendium/NPCs/Samora/Samora.md"
     },
@@ -119,10 +79,6 @@
     {
       "basename": "Rakell Carodoc",
       "path": "1 - Compendium/NPCs/Rakell Carodoc/Rakell Carodoc.md"
-    },
-    {
-      "basename": "Rackham",
-      "path": "1 - Compendium/NPCs/Rackham/Rackham.md"
     },
     {
       "basename": "Perrin",
@@ -145,10 +101,6 @@
       "path": "1 - Compendium/NPCs/Mithrand/Mithrand.md"
     },
     {
-      "basename": "G16",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G16.md"
-    },
-    {
       "basename": "Meredia",
       "path": "1 - Compendium/NPCs/Meredia/Meredia.md"
     },
@@ -157,8 +109,24 @@
       "path": "1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.md"
     },
     {
+      "basename": "Héron",
+      "path": "1 - Compendium/NPCs/Héron/Héron.md"
+    },
+    {
+      "basename": "Érastil",
+      "path": "1 - Compendium/Concepts/Érastil.md"
+    },
+    {
       "basename": "Livia",
       "path": "1 - Compendium/NPCs/Livia/Livia.md"
+    },
+    {
+      "basename": "Taverne",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
       "basename": "Larissa Artemel",
@@ -167,6 +135,18 @@
     {
       "basename": "Kretiak Cragmire",
       "path": "1 - Compendium/NPCs/Kretiak Cragmire/Kretiak Cragmire.md"
+    },
+    {
+      "basename": "Korigan Mantar",
+      "path": "1 - Compendium/NPCs/Korigan Mantar/Korigan Mantar.md"
+    },
+    {
+      "basename": "Jormun",
+      "path": "1 - Compendium/NPCs/Jormun/Jormun.md"
+    },
+    {
+      "basename": "Javelin",
+      "path": "1 - Compendium/NPCs/Javelin/Javelin.md"
     },
     {
       "basename": "Hummer",
@@ -179,10 +159,6 @@
     {
       "basename": "Horadin Fulgor",
       "path": "1 - Compendium/NPCs/Horadin Fulgor/Horadin Fulgor.md"
-    },
-    {
-      "basename": "Héron",
-      "path": "1 - Compendium/NPCs/Héron/Héron.md"
     },
     {
       "basename": "Harald",
@@ -199,6 +175,30 @@
     {
       "basename": "Gareth",
       "path": "1 - Compendium/NPCs/Gareth/Gareth.md"
+    },
+    {
+      "basename": "Frya Cragmire",
+      "path": "1 - Compendium/NPCs/Frya Cragmire/Frya Cragmire.md"
+    },
+    {
+      "basename": "Fanny",
+      "path": "1 - Compendium/NPCs/Fanny/Fanny.md"
+    },
+    {
+      "basename": "Edelia",
+      "path": "1 - Compendium/NPCs/Edelia/Edelia.md"
+    },
+    {
+      "basename": "Dom",
+      "path": "1 - Compendium/NPCs/Dom/Dom.md"
+    },
+    {
+      "basename": "Crik Mantar",
+      "path": "1 - Compendium/NPCs/Crik Mantar/Crik Mantar.md"
+    },
+    {
+      "basename": "Corvo Estelmer",
+      "path": "1 - Compendium/NPCs/Corvo Estelmer/Corvo Estelmer.md"
     }
   ],
   "omittedPaths": [],

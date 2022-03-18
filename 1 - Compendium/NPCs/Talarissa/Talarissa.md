@@ -23,7 +23,8 @@ tags: NPC
 ```
 
 ## Objectifs
-- [ ] TODO
+- [ ] Elle désire se mêler aux activités des humains de [[Brevoy]] et voir comment l'harmonie peut être réalisé
+- [ ] Elle désire faire payer à la famille [[Cragmire]] les préjudices infligés à son peuple.
 
 ## Détails
 
