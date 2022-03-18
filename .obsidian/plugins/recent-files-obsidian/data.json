@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Égoûts",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md"
+      "basename": "TOOD",
+      "path": "TOOD.md"
+    },
+    {
+      "basename": "Plan",
+      "path": "Plan.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Index.md"
+    },
+    {
+      "basename": "Lettre",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Bandit Lair/Lettre.md"
+    },
+    {
+      "basename": "Bandit Lair",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Bandit Lair/Bandit Lair.md"
     },
     {
       "basename": "L3",
       "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/L3.md"
+    },
+    {
+      "basename": "Égoûts",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md"
+    },
+    {
+      "basename": "L4",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/L4.md"
     },
     {
       "basename": "L2",
@@ -175,30 +199,6 @@
     {
       "basename": "Gareth",
       "path": "1 - Compendium/NPCs/Gareth/Gareth.md"
-    },
-    {
-      "basename": "Frya Cragmire",
-      "path": "1 - Compendium/NPCs/Frya Cragmire/Frya Cragmire.md"
-    },
-    {
-      "basename": "Fanny",
-      "path": "1 - Compendium/NPCs/Fanny/Fanny.md"
-    },
-    {
-      "basename": "Edelia",
-      "path": "1 - Compendium/NPCs/Edelia/Edelia.md"
-    },
-    {
-      "basename": "Dom",
-      "path": "1 - Compendium/NPCs/Dom/Dom.md"
-    },
-    {
-      "basename": "Crik Mantar",
-      "path": "1 - Compendium/NPCs/Crik Mantar/Crik Mantar.md"
-    },
-    {
-      "basename": "Corvo Estelmer",
-      "path": "1 - Compendium/NPCs/Corvo Estelmer/Corvo Estelmer.md"
     }
   ],
   "omittedPaths": [],

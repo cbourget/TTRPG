@@ -393,7 +393,7 @@
     },
     {
       "id": "scenario-1-égoûts",
-      "lastAccessed": 1647567869355,
+      "lastAccessed": 1647568127801,
       "markers": [
         {
           "id": "ID_49baabf93bfa",
@@ -496,16 +496,16 @@
           "id": "ID_0b98783be9f9",
           "type": "Encounter 2",
           "loc": [
-            -3.65625,
-            4.6796875
+            -3.52734375,
+            4.703125
           ],
           "link": "E2",
           "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.6389333333333334,
-            0.4992
+            0.6421333333333333,
+            0.4816
           ],
           "description": null,
           "minZoom": null,
@@ -616,17 +616,54 @@
           "id": "ID_1be829cbda19",
           "type": "Trap 2",
           "loc": [
-            -4.875,
-            3.90625
+            -2.984375,
+            6.84375
           ],
           "link": "T1",
           "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.5333333333333333,
-            0.6656
+            0.9344,
+            0.40746666666666664
           ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_59d8986a58a8",
+          "type": "Loot 3",
+          "loc": [
+            -3.3125,
+            4.6953125
+          ],
+          "link": "L3",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6410666666666667,
+            0.45226666666666665
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_8baa7899a9f8",
+          "type": "Loot 4",
+          "loc": [
+            -5.01416015625,
+            5.421875
+          ],
+          "link": "L4",
+          "layer": "%5B%5B%C3%89go%C3%BBts.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -637,6 +674,52 @@
       "shapes": [],
       "files": [
         "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md"
+      ]
+    },
+    {
+      "id": "scenario-1-bandit-lair",
+      "lastAccessed": 1647568217094,
+      "markers": [
+        {
+          "id": "ID_fbea492a694a",
+          "type": "Entrance",
+          "loc": [
+            -4.132080078125,
+            6.46875
+          ],
+          "layer": "%5B%5BBandit%20Lair.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_4adb7af98a0b",
+          "type": "Entrance",
+          "loc": [
+            -0.2421875,
+            4.390625
+          ],
+          "layer": "%5B%5BBandit%20Lair.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6422857142857142,
+            0.03542857142857143
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "2 - Campagne/Scenarios/1 - Joindre l'expédition/Bandit Lair/Bandit Lair.md"
       ]
     }
   ],

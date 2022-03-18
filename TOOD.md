@@ -1,5 +1,4 @@
 
-- Écrire lettre de Norlu
 - Préparer le loot
 - Préparer des cartons pour les activités d'exploration
 - Préparer le lair des bandits
