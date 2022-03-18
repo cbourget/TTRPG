@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G9.md",
+                "file": "1 - Compendium/Factions/Foghorn.md",
                 "mode": "preview",
                 "source": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
+                "file": "1 - Compendium/Factions/Foghorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
+                "file": "1 - Compendium/Factions/Foghorn.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
+                "file": "1 - Compendium/Factions/Foghorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +186,9 @@
     "width": 285,
     "collapsed": true
   },
-  "active": "edd8f0e870c20515",
+  "active": "83a5abddf47c1f11",
   "lastOpenFiles": [
+    "1 - Compendium/Factions/Foghorn.md",
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G9.md",
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G7.md",
@@ -196,7 +197,6 @@
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G12.md",
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G11.md",
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G14.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G17.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G3.md"
+    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G17.md"
   ]
 }

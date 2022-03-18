@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Foghorn",
+      "path": "1 - Compendium/Factions/Foghorn.md"
+    },
+    {
       "basename": "Taverne",
       "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Gareth",
       "path": "1 - Compendium/NPCs/Gareth/Gareth.md"
-    },
-    {
-      "basename": "Frya Cragmire",
-      "path": "1 - Compendium/NPCs/Frya Cragmire/Frya Cragmire.md"
     }
   ],
   "omittedPaths": [],
