@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Âme",
+      "path": "1 - Compendium/Concepts/Âme.md"
+    },
+    {
       "basename": "TOOD",
       "path": "TOOD.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Gatsby",
       "path": "1 - Compendium/NPCs/Gatsby/Gatsby.md"
-    },
-    {
-      "basename": "Gareth",
-      "path": "1 - Compendium/NPCs/Gareth/Gareth.md"
     }
   ],
   "omittedPaths": [],
