@@ -1,12 +1,8 @@
 
 - Préparer le loot
-- Préparer des cartons pour les activités d'exploration
 - Préparer le lair des bandits
 - Préparer les stats des NPCs
-- Confirmer la mécanique de collecte d'âme
-	- X will saving throw contre will du monstre + modificateur aribitraire
-- Confirmer la mécanique de Joey (feu)
-	- Seulement une fois sur l'île
 - Whip de Duro
 	- Relic, divine retribution ou Shauth Lash
+	- Whip mais 1d6 dmg + deadly (1d6). Pas de disarm et divine retribution
 - Préparer certains indices pour la quête de retrouver Cleyton
