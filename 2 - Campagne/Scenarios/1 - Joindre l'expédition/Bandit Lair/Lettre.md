@@ -3,3 +3,5 @@ Madame, Monsieur,
 En ce quatorzième jour suivant le solstice d’Osiron, moi, Norlu, ai découvert la prochaine entreprise de la famille régnante. Celle-ci s’avère plus audacieuse que nos pires soupçons. Elle consiste en un voyage vers le continent perdu de l’ouest. Un groupe de marins aurait enfin mis les pieds sur cette terre et est revenu récemment pour vanter son exploit. Sachant qu’un chemin est possible, certains comptent se diriger vers elle. Enfin, le régent, aussi pompeux soit-il, s’est donné le droit de la baptiser avant même de s’y rendre. Il lui a donné la dénomination de Nostaria. En attendant vos prochaines instructions, nous tenterons de retarder cette expédition.
 
 D'ailleurs, celui que nous appelions chef n'est plus. C'est maintenant moi qui suis aux commandes. Les opérations peuvent continuer normalement.
+
+Votre loyal serviteur, Norlu

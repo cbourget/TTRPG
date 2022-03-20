@@ -32,3 +32,4 @@ tags: NPC Rackham
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Harbormaster.html"></iframe>

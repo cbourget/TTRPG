@@ -33,3 +33,6 @@ tags: NPC Rackham
 ## Secrets
 
 ## Statistiques
+Weak
+
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Drunkard.html"></iframe>

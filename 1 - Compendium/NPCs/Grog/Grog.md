@@ -30,3 +30,4 @@ tags: NPC Non-Affilié Abadar
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Prophet.html"></iframe>

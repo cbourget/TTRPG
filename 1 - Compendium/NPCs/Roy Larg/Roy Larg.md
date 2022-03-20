@@ -30,3 +30,5 @@ tags: NPC Larg Ligue-Frégate
 ## Secrets
 
 ## Statistiques
+
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Mercenary Sailor.html"></iframe>

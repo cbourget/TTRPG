@@ -34,3 +34,5 @@ Grand oncle de [[Alaric Foghorn]] et de [[Tamerlane Foghorn.jpg]]. À la demande
 ## Secrets
 
 ## Statistiques
+Greatsword au lieu de greataxe
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Monster Hunter.html"></iframe>

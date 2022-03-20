@@ -28,3 +28,4 @@ tags: NPC Kilmer
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Navigator.html"></iframe>

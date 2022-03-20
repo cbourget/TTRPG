@@ -42,3 +42,4 @@ Xendra a passé sa jeunesse dans les bibliothèques et académies, comme le veut
 - <strong>Arcane: </strong> Les mouvements qu'elle fait quand elle parle s'apparentent à un invocation. Ces mouvements lui confèrent un temps de réaction accru pour lancer un sort et il se peut même qu'elle en lance de façon déguisée en pleine conversation.
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Class/wizard 4.html"></iframe>

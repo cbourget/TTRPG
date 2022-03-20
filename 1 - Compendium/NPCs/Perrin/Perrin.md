@@ -31,3 +31,4 @@ tags: NPC Église-Osiron
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Class/champion 2.html"></iframe>

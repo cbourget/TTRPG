@@ -7,9 +7,11 @@
         "id": "cfdcec87323e9edd",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Images/Characters/Diseased Woman.jpg"
+            "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Characters/Diseased Woman.jpg",
+                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Characters/Diseased Woman.jpg"
+                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
               }
             }
           },
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Characters/Diseased Woman.jpg",
+                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,15 +155,15 @@
   },
   "active": "cfdcec87323e9edd",
   "lastOpenFiles": [
-    "Images/Characters/Diseased Woman.jpg",
-    "Images/Beasts/Dinosaurs.jpg",
-    "Images/Beasts/Caryll.jpg",
-    "Images/Beasts/Beast.jpg",
-    "Tokens/NPCs1.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Bandit Lair/Bandit Lair.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/L1.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Notes.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/2 - Retrouver Cleyton.md"
+    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
+    "1 - Compendium/NPCs/Crik Mantar/Crik Mantar.md",
+    "1 - Compendium/NPCs/Kretiak Cragmire/Kretiak Cragmire.md",
+    "1 - Compendium/NPCs/Perrin/Perrin.md",
+    "1 - Compendium/NPCs/Taff/Taff.md",
+    "1 - Compendium/NPCs/Larissa Artemel/Larissa Artemel.md",
+    "1 - Compendium/NPCs/Roy Larg/Roy Larg.md",
+    "1 - Compendium/NPCs/Corbu/Corbu.md",
+    "1 - Compendium/NPCs/Hummer/Hummer.md",
+    "1 - Compendium/NPCs/Dom/Dom.md"
   ]
 }

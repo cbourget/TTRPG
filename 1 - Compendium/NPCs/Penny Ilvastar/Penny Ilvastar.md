@@ -33,3 +33,4 @@ tags: NPC Ilvastar
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Despot.html"></iframe>

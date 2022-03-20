@@ -33,3 +33,4 @@ tags: NPC Syndic-Des-Marchands
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Class/alchemist 1.html"></iframe>

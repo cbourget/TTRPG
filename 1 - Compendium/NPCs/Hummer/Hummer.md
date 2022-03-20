@@ -33,3 +33,4 @@ tags: NPC Rackham
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Ruffian.html"></iframe>

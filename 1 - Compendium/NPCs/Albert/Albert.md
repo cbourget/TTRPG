@@ -32,3 +32,4 @@ tags: NPC
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Farmer.html"></iframe>

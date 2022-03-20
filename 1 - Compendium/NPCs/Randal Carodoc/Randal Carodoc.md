@@ -34,3 +34,4 @@ tags: NPC Carodoc Ligue-Frégate
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Ship Captain.html"></iframe>

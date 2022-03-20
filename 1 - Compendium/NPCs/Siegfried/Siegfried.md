@@ -38,3 +38,5 @@ Siegfrid n'est pas son vrai nom. Il s'agit de Gerald de-Beauvais.
 ## Secrets
 
 ## Statistiques
+
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Veteran Guard Captain.html"></iframe>

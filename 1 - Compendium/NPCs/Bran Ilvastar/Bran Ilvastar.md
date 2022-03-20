@@ -33,3 +33,6 @@ tags: NPC Ilvastar Capes-Jaunes Guilde-Marchande
 ## Secrets
 
 ## Statistiques
+Elite
+
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Drow Fighter.html"></iframe>

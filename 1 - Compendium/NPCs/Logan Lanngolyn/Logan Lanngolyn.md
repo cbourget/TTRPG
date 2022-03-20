@@ -32,3 +32,4 @@ tags: NPC Lanngolynn
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Class/fighter 0.html"></iframe>

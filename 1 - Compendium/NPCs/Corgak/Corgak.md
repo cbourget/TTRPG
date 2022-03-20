@@ -27,3 +27,4 @@ Un marin grognon qui appécie l'alcool.
 ## Statistiques
 
 ## Secrets
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Class/monk 1.html"></iframe>

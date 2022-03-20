@@ -31,3 +31,4 @@ tags: NPC
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Server.html"></iframe>

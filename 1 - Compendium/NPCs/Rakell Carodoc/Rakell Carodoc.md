@@ -34,3 +34,4 @@ Amiral et chef de la [[Ligue Frégate]].
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Noble.html"></iframe>

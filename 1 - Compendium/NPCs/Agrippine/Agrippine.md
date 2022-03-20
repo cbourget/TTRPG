@@ -38,3 +38,5 @@ tags: NPC Capes-Jaunes Guilde-Marchande
 - C'est elle qui a divulgé l'information à [[Tamerlane Foghorn]] au sujet de convoi. Elle le fait car ce dernier lui a promis une place importante dans l'armée en échange de sa collaboration.
 
 ## Statistiques
+
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Class/fighter 5.html"></iframe>

@@ -33,3 +33,4 @@ tags: NPC Non-Affilié
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Drow Fighter.html"></iframe>

@@ -32,3 +32,4 @@ tags: NPC Oberon Église-Osiron
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Class/cleric 4.html"></iframe>

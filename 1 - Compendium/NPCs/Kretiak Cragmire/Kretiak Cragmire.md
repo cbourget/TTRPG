@@ -31,3 +31,6 @@ tags: NPC Cragmire
 ## Secrets
 
 ## Statistiques
+Elite
+
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Changeling Hellknight.html"></iframe>

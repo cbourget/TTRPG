@@ -36,3 +36,4 @@ Il drague beaucoup les femmes et n'hésite pas à leur payer un ou plusieurs ver
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Troubadour.html"></iframe>

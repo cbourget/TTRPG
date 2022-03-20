@@ -37,3 +37,4 @@ tags: NPC Guilde-Marchande
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Merchant.html"></iframe>

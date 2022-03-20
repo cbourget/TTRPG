@@ -32,3 +32,4 @@ tags: NPC Cragmire
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Class/sorcerer 6.html"></iframe>

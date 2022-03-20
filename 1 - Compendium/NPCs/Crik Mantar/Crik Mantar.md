@@ -36,3 +36,5 @@ tags: NPC Mantar
 ## Secrets
 
 ## Statistiques
+
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Mastermind.html"></iframe>

@@ -33,3 +33,5 @@ tags: NPC
 ## Secrets
 
 ## Statistiques
+Bonus + 4 perception
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Dockhand.html"></iframe>

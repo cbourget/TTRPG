@@ -32,3 +32,6 @@ tags: NPC
 ## Secrets
 
 ## Statistiques
+Weak
+
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Chronicler.html"></iframe>

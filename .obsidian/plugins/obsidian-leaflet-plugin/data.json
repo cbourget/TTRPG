@@ -88,316 +88,6 @@
       ]
     },
     {
-      "id": "scenario-1-taverne",
-      "lastAccessed": 1647722048792,
-      "markers": [
-        {
-          "id": "ID_7abb69893b88",
-          "type": "Group 2",
-          "loc": [
-            -0.6923828125,
-            0.7412109375
-          ],
-          "link": "G2",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5564516129032258,
-            0.5635930047694754
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_3bda6b99b8e9",
-          "type": "Group 1",
-          "loc": [
-            -0.558502197265625,
-            0.5302734375
-          ],
-          "link": "G1",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_eac86a7b09c8",
-          "type": "Group 3",
-          "loc": [
-            -0.852447509765625,
-            0.685546875
-          ],
-          "link": "G3",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_4ae8290bd808",
-          "type": "Group 4",
-          "loc": [
-            -0.390533447265625,
-            1.03125
-          ],
-          "link": "G4",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_999b7b3a5bb9",
-          "type": "Group 5",
-          "loc": [
-            -0.46661376953125,
-            0.724609375
-          ],
-          "link": "G5",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_e82a492b192b",
-          "type": "Group 6",
-          "loc": [
-            -0.37872314453125,
-            0.91796875
-          ],
-          "link": "G6",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_0909a83bd968",
-          "type": "Group 7",
-          "loc": [
-            -0.9638671875,
-            0.91015625
-          ],
-          "link": "G7",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6832844574780058,
-            0.7845786963434023
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_bb7a59e9e90a",
-          "type": "Group 8",
-          "loc": [
-            -0.732421875,
-            0.86328125
-          ],
-          "link": "G8",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6480938416422287,
-            0.5961844197138315
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_5b5899a9eae8",
-          "type": "Group 9",
-          "loc": [
-            -1.1328125,
-            0.8505859375
-          ],
-          "link": "G9",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6385630498533724,
-            0.9220985691573926
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_db0b89ab386a",
-          "type": "Group 10",
-          "loc": [
-            -0.9296875,
-            0.79296875
-          ],
-          "link": "G10",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5953079178885631,
-            0.7567567567567568
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_28c93b2afaaa",
-          "type": "Group 11",
-          "loc": [
-            -1.0888671875,
-            0.693359375
-          ],
-          "link": "G11",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5205278592375366,
-            0.8863275039745628
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_4a1af99b9aea",
-          "type": "Group 12",
-          "loc": [
-            -1.136627197265625,
-            0.4130859375
-          ],
-          "link": "G12",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_da4beabab97b",
-          "type": "Group 13",
-          "loc": [
-            -1.154296875,
-            0.6650390625
-          ],
-          "link": "G13",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.499266862170088,
-            0.9395866454689984
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_d8b929e85af9",
-          "type": "Group 14",
-          "loc": [
-            -1.0361328125,
-            0.580078125
-          ],
-          "link": "G14",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.43548387096774194,
-            0.8434022257551669
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_abf9f8090899",
-          "type": "Group 15",
-          "loc": [
-            -0.8642578125,
-            0.8720703125
-          ],
-          "link": "G15",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6546920821114369,
-            0.7034976152623211
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        },
-        {
-          "id": "ID_2ad9a9d9d88b",
-          "type": "Group 17",
-          "loc": [
-            -0.810455322265625,
-            0.5791015625
-          ],
-          "link": "G17",
-          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "never"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
-      ]
-    },
-    {
       "id": "scenario-1-égoûts",
       "lastAccessed": 1647722297306,
       "markers": [
@@ -726,6 +416,336 @@
       "shapes": [],
       "files": [
         "2 - Campagne/Scenarios/1 - Joindre l'expédition/Bandit Lair/Bandit Lair.md"
+      ]
+    },
+    {
+      "id": "scenario-1-taverne",
+      "lastAccessed": 1647746618061,
+      "markers": [
+        {
+          "id": "ID_7abb69893b88",
+          "type": "Group 2",
+          "loc": [
+            -0.6923828125,
+            0.7412109375
+          ],
+          "link": "G2",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5564516129032258,
+            0.5635930047694754
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_3bda6b99b8e9",
+          "type": "Group 1",
+          "loc": [
+            -0.558502197265625,
+            0.5302734375
+          ],
+          "link": "G1",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_eac86a7b09c8",
+          "type": "Group 3",
+          "loc": [
+            -0.852447509765625,
+            0.685546875
+          ],
+          "link": "G3",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_4ae8290bd808",
+          "type": "Group 4",
+          "loc": [
+            -0.390533447265625,
+            1.03125
+          ],
+          "link": "G4",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_999b7b3a5bb9",
+          "type": "Group 5",
+          "loc": [
+            -0.46661376953125,
+            0.724609375
+          ],
+          "link": "G5",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_e82a492b192b",
+          "type": "Group 6",
+          "loc": [
+            -0.37872314453125,
+            0.91796875
+          ],
+          "link": "G6",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_0909a83bd968",
+          "type": "Group 7",
+          "loc": [
+            -0.9638671875,
+            0.91015625
+          ],
+          "link": "G7",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6832844574780058,
+            0.7845786963434023
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_bb7a59e9e90a",
+          "type": "Group 8",
+          "loc": [
+            -0.732421875,
+            0.86328125
+          ],
+          "link": "G8",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6480938416422287,
+            0.5961844197138315
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_5b5899a9eae8",
+          "type": "Group 9",
+          "loc": [
+            -1.1328125,
+            0.8505859375
+          ],
+          "link": "G9",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6385630498533724,
+            0.9220985691573926
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_db0b89ab386a",
+          "type": "Group 10",
+          "loc": [
+            -0.9296875,
+            0.79296875
+          ],
+          "link": "G10",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5953079178885631,
+            0.7567567567567568
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_28c93b2afaaa",
+          "type": "Group 11",
+          "loc": [
+            -1.0888671875,
+            0.693359375
+          ],
+          "link": "G11",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5205278592375366,
+            0.8863275039745628
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_4a1af99b9aea",
+          "type": "Group 12",
+          "loc": [
+            -1.136627197265625,
+            0.4130859375
+          ],
+          "link": "G12",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_da4beabab97b",
+          "type": "Group 13",
+          "loc": [
+            -1.154296875,
+            0.6650390625
+          ],
+          "link": "G13",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.499266862170088,
+            0.9395866454689984
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_d8b929e85af9",
+          "type": "Group 14",
+          "loc": [
+            -1.0361328125,
+            0.580078125
+          ],
+          "link": "G14",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.43548387096774194,
+            0.8434022257551669
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_abf9f8090899",
+          "type": "Group 15",
+          "loc": [
+            -0.8642578125,
+            0.8720703125
+          ],
+          "link": "G15",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6546920821114369,
+            0.7034976152623211
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_2ad9a9d9d88b",
+          "type": "Group 17",
+          "loc": [
+            -0.810455322265625,
+            0.5791015625
+          ],
+          "link": "G17",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_a92bd9d9b98a",
+          "type": "Group 16",
+          "loc": [
+            -0.943359375,
+            0.439453125
+          ],
+          "link": "G16",
+          "layer": "%5B%5B6%20-%20Taverne.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.32991202346041054,
+            0.7678855325914149
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
       ]
     }
   ],

@@ -34,3 +34,4 @@ tags: NPC Syndic-Des-Marchands
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Merchant.html"></iframe>

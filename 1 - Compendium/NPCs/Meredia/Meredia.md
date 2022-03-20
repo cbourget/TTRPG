@@ -35,3 +35,4 @@ tags: NPC Tamerlane
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Class/Rogue 2.html"></iframe>

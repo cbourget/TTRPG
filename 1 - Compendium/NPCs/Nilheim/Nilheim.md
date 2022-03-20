@@ -43,3 +43,4 @@ C'est finalement [[Xendra Mantar]] qui l'invita à rejoindre les [[Capes Jaunes]
 ## Secrets
 
 ## Statistiques
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Burglar.html"></iframe>
