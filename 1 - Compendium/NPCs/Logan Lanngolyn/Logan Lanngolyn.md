@@ -23,7 +23,7 @@ tags: NPC Lanngolynn
 ```
 
 ## Objectifs
-- [ ] Impressionner sa mère [[Solina Lanngolynn]] en agissant de manière héroïque et courageuse.
+- [ ] Impressionner sa mère [[Solina Lanngolyn]] en agissant de manière héroïque et courageuse.
 
 ## Détails
 

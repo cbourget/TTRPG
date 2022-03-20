@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2 - Retrouver Cleyton",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/2 - Retrouver Cleyton.md"
+    },
+    {
+      "basename": "Crik Mantar",
+      "path": "1 - Compendium/NPCs/Crik Mantar/Crik Mantar.md"
+    },
+    {
+      "basename": "Logan Lanngolyn",
+      "path": "1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.md"
+    },
+    {
+      "basename": "1 - Joindre l'expédition",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "Taverne",
       "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
-    },
-    {
-      "basename": "Crik Mantar",
-      "path": "1 - Compendium/NPCs/Crik Mantar/Crik Mantar.md"
     },
     {
       "basename": "Kretiak Cragmire",
@@ -145,10 +157,6 @@
       "path": "1 - Compendium/NPCs/Nadia/Nadia.md"
     },
     {
-      "basename": "Logan Lanngolyn",
-      "path": "1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.md"
-    },
-    {
       "basename": "Nilheim",
       "path": "1 - Compendium/NPCs/Nilheim/Nilheim.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Aruspice",
       "path": "1 - Compendium/NPCs/Aruspice/Aruspice.md"
-    },
-    {
-      "basename": "TOOD",
-      "path": "TOOD.md"
-    },
-    {
-      "basename": "Nadia",
-      "path": "1 - Compendium/NPCs/Nadia/Nadia.jpg"
     }
   ],
   "omittedPaths": [],
