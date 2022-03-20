@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Ciel Phantomhive",
+      "path": "2 - Campagne/Joueurs/Ciel Phantomhive/Ciel Phantomhive.jpg"
+    },
+    {
+      "basename": "Grog",
+      "path": "1 - Compendium/NPCs/Grog/Grog.md"
+    },
+    {
+      "basename": "Grog",
+      "path": "1 - Compendium/NPCs/Grog/Grog.jpg"
+    },
+    {
+      "basename": "Taff",
+      "path": "1 - Compendium/NPCs/Taff/Taff.jpg"
+    },
+    {
+      "basename": "Fanny",
+      "path": "1 - Compendium/NPCs/Fanny/Fanny.jpg"
+    },
+    {
+      "basename": "Tamerlane Foghorn",
+      "path": "1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.jpg"
+    },
+    {
+      "basename": "Meredia",
+      "path": "1 - Compendium/NPCs/Meredia/Meredia.jpg"
+    },
+    {
+      "basename": "Alaric Foghorn",
+      "path": "1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.jpg"
+    },
+    {
       "basename": "Taverne",
       "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
     },
@@ -93,10 +129,6 @@
       "path": "1 - Compendium/NPCs/Gatsby/Gatsby.md"
     },
     {
-      "basename": "Grog",
-      "path": "1 - Compendium/NPCs/Grog/Grog.md"
-    },
-    {
       "basename": "Harald",
       "path": "1 - Compendium/NPCs/Harald/Harald.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "Nadia",
       "path": "1 - Compendium/NPCs/Nadia/Nadia.jpg"
-    },
-    {
-      "basename": "Eryn",
-      "path": "1 - Compendium/NPCs/Eryn.md"
-    },
-    {
-      "basename": "Agrippine",
-      "path": "1 - Compendium/NPCs/Agrippine/Agrippine.md"
-    },
-    {
-      "basename": "Wilhelm Oberon",
-      "path": "1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md"
-    },
-    {
-      "basename": "Vonnder Cragmire",
-      "path": "1 - Compendium/NPCs/Vonnder Cragmire/Vonnder Cragmire.md"
-    },
-    {
-      "basename": "Tamerlane Foghorn",
-      "path": "1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.md"
-    },
-    {
-      "basename": "Talarissa",
-      "path": "1 - Compendium/NPCs/Talarissa/Talarissa.md"
-    },
-    {
-      "basename": "Strix",
-      "path": "1 - Compendium/NPCs/Strix/Strix.md"
-    },
-    {
-      "basename": "Siegfried",
-      "path": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
     }
   ],
   "omittedPaths": [],

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
+            "file": "Untitled.md",
             "mode": "preview",
             "source": true
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,15 +155,15 @@
   },
   "active": "cfdcec87323e9edd",
   "lastOpenFiles": [
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md",
-    "1 - Compendium/NPCs/Crik Mantar/Crik Mantar.md",
-    "1 - Compendium/NPCs/Kretiak Cragmire/Kretiak Cragmire.md",
-    "1 - Compendium/NPCs/Perrin/Perrin.md",
-    "1 - Compendium/NPCs/Taff/Taff.md",
-    "1 - Compendium/NPCs/Larissa Artemel/Larissa Artemel.md",
-    "1 - Compendium/NPCs/Roy Larg/Roy Larg.md",
-    "1 - Compendium/NPCs/Corbu/Corbu.md",
-    "1 - Compendium/NPCs/Hummer/Hummer.md",
-    "1 - Compendium/NPCs/Dom/Dom.md"
+    "Untitled.md",
+    "2 - Campagne/Joueurs/Ciel Phantomhive/Ciel Phantomhive.jpg",
+    "1 - Compendium/NPCs/Grog/Grog.md",
+    "1 - Compendium/NPCs/Grog/Grog.jpg",
+    "1 - Compendium/NPCs/Taff/Taff.jpg",
+    "1 - Compendium/NPCs/Fanny/Fanny.jpg",
+    "1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.jpg",
+    "1 - Compendium/NPCs/Meredia/Meredia.jpg",
+    "1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.jpg",
+    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
   ]
 }
