@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "TOOD",
+      "path": "TOOD.md"
+    },
+    {
+      "basename": "Âme - Savard",
+      "path": "Âme - Savard.pdf"
+    },
+    {
+      "basename": "Égoûts",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md"
+    },
+    {
+      "basename": "Sewer Ooze",
+      "path": "1 - Compendium/Monsters/Sewer Ooze/Sewer Ooze.md"
+    },
+    {
+      "basename": "E1",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E1.md"
+    },
+    {
       "basename": "2 - Retrouver Cleyton",
       "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/2 - Retrouver Cleyton.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Alcide Foghorn",
       "path": "1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md"
-    },
-    {
-      "basename": "Wisgar",
-      "path": "1 - Compendium/NPCs/Wisgar/Wisgar.md"
-    },
-    {
-      "basename": "Xendra Mantar",
-      "path": "1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
-    },
-    {
-      "basename": "Fanny",
-      "path": "1 - Compendium/NPCs/Fanny/Fanny.md"
-    },
-    {
-      "basename": "Borgne",
-      "path": "1 - Compendium/NPCs/Borgne/Borgne.md"
-    },
-    {
-      "basename": "Aruspice",
-      "path": "1 - Compendium/NPCs/Aruspice/Aruspice.md"
     }
   ],
   "omittedPaths": [],
