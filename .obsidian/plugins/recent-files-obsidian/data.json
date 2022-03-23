@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "NPCs Connus",
+      "path": "NPCs Connus.md"
+    },
+    {
+      "basename": "G17",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G17.md"
+    },
+    {
+      "basename": "G16",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G16.md"
+    },
+    {
+      "basename": "G15",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G15.md"
+    },
+    {
+      "basename": "G14",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G14.md"
+    },
+    {
+      "basename": "G13",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G13.md"
+    },
+    {
+      "basename": "G12",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G12.md"
+    },
+    {
+      "basename": "G11",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G11.md"
+    },
+    {
+      "basename": "G10",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G10.md"
+    },
+    {
+      "basename": "G9",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G9.md"
+    },
+    {
+      "basename": "G8",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G8.md"
+    },
+    {
+      "basename": "G7",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G7.md"
+    },
+    {
+      "basename": "G6",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G6.md"
+    },
+    {
+      "basename": "G5",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G5.md"
+    },
+    {
+      "basename": "G4",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G4.md"
+    },
+    {
+      "basename": "G3",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G3.md"
+    },
+    {
+      "basename": "G2",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G2.md"
+    },
+    {
+      "basename": "G1",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G1.md"
+    },
+    {
+      "basename": "1 - Joindre l'expédition",
+      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md"
+    },
+    {
+      "basename": "NPCs1",
+      "path": "Tokens/NPCs1.md"
+    },
+    {
       "basename": "TOOD",
       "path": "TOOD.md"
     },
@@ -31,10 +111,6 @@
     {
       "basename": "Logan Lanngolyn",
       "path": "1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.md"
-    },
-    {
-      "basename": "1 - Joindre l'expédition",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md"
     },
     {
       "basename": "Untitled",
@@ -123,82 +199,6 @@
     {
       "basename": "Cleyton Kilmer",
       "path": "1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md"
-    },
-    {
-      "basename": "Orc Juggler",
-      "path": "Images/Characters/Orc Juggler.png"
-    },
-    {
-      "basename": "Bran Ilvastar",
-      "path": "1 - Compendium/NPCs/Bran Ilvastar/Bran Ilvastar.md"
-    },
-    {
-      "basename": "Christofle",
-      "path": "1 - Compendium/NPCs/Christofle/Christofle.md"
-    },
-    {
-      "basename": "Corgak",
-      "path": "1 - Compendium/NPCs/Corgak/Corgak.md"
-    },
-    {
-      "basename": "Corvo Estelmer",
-      "path": "1 - Compendium/NPCs/Corvo Estelmer/Corvo Estelmer.md"
-    },
-    {
-      "basename": "Edelia",
-      "path": "1 - Compendium/NPCs/Edelia/Edelia.md"
-    },
-    {
-      "basename": "Frya Cragmire",
-      "path": "1 - Compendium/NPCs/Frya Cragmire/Frya Cragmire.md"
-    },
-    {
-      "basename": "Gareth",
-      "path": "1 - Compendium/NPCs/Gareth/Gareth.md"
-    },
-    {
-      "basename": "Gatsby",
-      "path": "1 - Compendium/NPCs/Gatsby/Gatsby.md"
-    },
-    {
-      "basename": "Harald",
-      "path": "1 - Compendium/NPCs/Harald/Harald.md"
-    },
-    {
-      "basename": "Héron",
-      "path": "1 - Compendium/NPCs/Héron/Héron.md"
-    },
-    {
-      "basename": "Horadin Fulgor",
-      "path": "1 - Compendium/NPCs/Horadin Fulgor/Horadin Fulgor.md"
-    },
-    {
-      "basename": "Nadia",
-      "path": "1 - Compendium/NPCs/Nadia/Nadia.md"
-    },
-    {
-      "basename": "Nilheim",
-      "path": "1 - Compendium/NPCs/Nilheim/Nilheim.md"
-    },
-    {
-      "basename": "Vilfort Estelmer",
-      "path": "1 - Compendium/NPCs/Vilfort Estelmer/Vilfort Estelmer.md"
-    },
-    {
-      "basename": "Tombeau",
-      "path": "1 - Compendium/NPCs/Tombeau/Tombeau.md"
-    },
-    {
-      "basename": "Rakell Carodoc",
-      "path": "1 - Compendium/NPCs/Rakell Carodoc/Rakell Carodoc.md"
-    },
-    {
-      "basename": "Norlu",
-      "path": "1 - Compendium/NPCs/Norlu/Norlu.md"
-    },
-    {
-      "basename": "Alcide Foghorn",
-      "path": "1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md"
     }
   ],
   "omittedPaths": [],
