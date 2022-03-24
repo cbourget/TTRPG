@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs Connus.md",
-            "mode": "preview",
+            "file": "2 - Campagne/Scenarios/Notes.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs Connus.md",
+                "file": "2 - Campagne/Scenarios/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs Connus.md"
+                "file": "2 - Campagne/Scenarios/Notes.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs Connus.md",
+                "file": "2 - Campagne/Scenarios/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,15 +155,15 @@
   },
   "active": "cfdcec87323e9edd",
   "lastOpenFiles": [
+    "2 - Campagne/Scenarios/Notes.md",
+    "Untitled.md",
+    "TOOD.md",
     "NPCs Connus.md",
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G17.md",
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G16.md",
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G15.md",
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G14.md",
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G13.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G12.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G11.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G10.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G9.md"
+    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G12.md"
   ]
 }
