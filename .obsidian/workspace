@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 - Campagne/Scenarios/Notes.md",
-            "mode": "source",
+            "file": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Campagne/Scenarios/Notes.md",
+                "file": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Campagne/Scenarios/Notes.md"
+                "file": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Campagne/Scenarios/Notes.md",
+                "file": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,15 +155,15 @@
   },
   "active": "cfdcec87323e9edd",
   "lastOpenFiles": [
-    "2 - Campagne/Scenarios/Notes.md",
+    "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.md",
+    "1 - Compendium/NPCs/Vala.md",
+    "1 - Compendium/NPCs/Dame Yiotl.md",
     "Untitled.md",
     "TOOD.md",
     "NPCs Connus.md",
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G17.md",
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G16.md",
     "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G15.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G14.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G13.md",
-    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G12.md"
+    "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G14.md"
   ]
 }

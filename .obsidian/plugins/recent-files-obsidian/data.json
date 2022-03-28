@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Notes",
-      "path": "2 - Campagne/Scenarios/Notes.md"
+      "basename": "Session 1 - Joindre l'expédition",
+      "path": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.md"
+    },
+    {
+      "basename": "Vala",
+      "path": "1 - Compendium/NPCs/Vala.md"
+    },
+    {
+      "basename": "Dame Yiotl",
+      "path": "1 - Compendium/NPCs/Dame Yiotl.md"
     },
     {
       "basename": "Untitled",
@@ -191,14 +199,6 @@
     {
       "basename": "Cook",
       "path": "1 - Compendium/NPCs/Cook/Cook.md"
-    },
-    {
-      "basename": "Hossulim",
-      "path": "1 - Compendium/NPCs/Hossulim/Hossulim.md"
-    },
-    {
-      "basename": "Belivik Vulpin",
-      "path": "1 - Compendium/NPCs/Belivik Vulpin/Belivik Vulpin.md"
     }
   ],
   "omittedPaths": [],
