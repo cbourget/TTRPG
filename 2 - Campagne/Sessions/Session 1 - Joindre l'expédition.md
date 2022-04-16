@@ -31,6 +31,7 @@
 - A parlé avec [[Talarissa]] pour comprendre ses intentions, car il en doutait. Il croit qu'elle a dit la vérité mais ne lui a pas proposé de l'aider d'une quelconque façon.
 
 ## Gains
-- Taverne: 100xp
-- Trouver les égoûts: 200xp
+- Taverne: 150xp
+- Trouver les égoûts: 150xp
 - Encounter **Sewer Oozes** : 80 xp
+- Encounter **Nadia** : 20 xp
