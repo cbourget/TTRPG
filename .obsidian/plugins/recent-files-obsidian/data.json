@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "3 - Le voyage",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/3 - Le voyage.md"
+    },
+    {
+      "basename": "2 - Retrouver Cleyton",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/2 - Retrouver Cleyton.md"
+    },
+    {
+      "basename": "1 - Joindre l'expédition",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/1 - Joindre l'expédition.md"
+    },
+    {
+      "basename": "Taverne",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/Taverne.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Égoûts",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Égoûts/Égoûts.md"
+    },
+    {
+      "basename": "Bandit Lair",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md"
+    },
+    {
       "basename": "Session 1 - Joindre l'expédition",
       "path": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.md"
     },
@@ -13,10 +41,6 @@
       "path": "1 - Compendium/NPCs/Dame Yiotl.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
       "basename": "TOOD",
       "path": "TOOD.md"
     },
@@ -26,75 +50,71 @@
     },
     {
       "basename": "G17",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G17.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G17.md"
     },
     {
       "basename": "G16",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G16.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G16.md"
     },
     {
       "basename": "G15",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G15.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G15.md"
     },
     {
       "basename": "G14",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G14.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G14.md"
     },
     {
       "basename": "G13",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G13.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G13.md"
     },
     {
       "basename": "G12",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G12.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G12.md"
     },
     {
       "basename": "G11",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G11.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G11.md"
     },
     {
       "basename": "G10",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G10.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G10.md"
     },
     {
       "basename": "G9",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G9.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G9.md"
     },
     {
       "basename": "G8",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G8.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G8.md"
     },
     {
       "basename": "G7",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G7.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G7.md"
     },
     {
       "basename": "G6",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G6.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G6.md"
     },
     {
       "basename": "G5",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G5.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G5.md"
     },
     {
       "basename": "G4",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G4.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G4.md"
     },
     {
       "basename": "G3",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G3.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G3.md"
     },
     {
       "basename": "G2",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G2.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G2.md"
     },
     {
       "basename": "G1",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/G1.md"
-    },
-    {
-      "basename": "1 - Joindre l'expédition",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/1 - Joindre l'expédition.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G1.md"
     },
     {
       "basename": "NPCs1",
@@ -105,20 +125,12 @@
       "path": "Âme - Savard.pdf"
     },
     {
-      "basename": "Égoûts",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/Égoûts.md"
-    },
-    {
       "basename": "Sewer Ooze",
       "path": "1 - Compendium/Monsters/Sewer Ooze/Sewer Ooze.md"
     },
     {
       "basename": "E1",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Égoûts/E1.md"
-    },
-    {
-      "basename": "2 - Retrouver Cleyton",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/2 - Retrouver Cleyton.md"
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Égoûts/E1.md"
     },
     {
       "basename": "Crik Mantar",
@@ -161,10 +173,6 @@
       "path": "1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.jpg"
     },
     {
-      "basename": "Taverne",
-      "path": "2 - Campagne/Scenarios/1 - Joindre l'expédition/Taverne/Taverne.md"
-    },
-    {
       "basename": "Kretiak Cragmire",
       "path": "1 - Compendium/NPCs/Kretiak Cragmire/Kretiak Cragmire.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Hummer",
       "path": "1 - Compendium/NPCs/Hummer/Hummer.md"
-    },
-    {
-      "basename": "Dom",
-      "path": "1 - Compendium/NPCs/Dom/Dom.md"
-    },
-    {
-      "basename": "Cook",
-      "path": "1 - Compendium/NPCs/Cook/Cook.md"
     }
   ],
   "omittedPaths": [],
