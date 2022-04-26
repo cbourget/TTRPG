@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Bandit Lair",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md"
+    },
+    {
+      "basename": "Bandit Lair",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.jpeg"
+    },
+    {
+      "basename": "L7",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L7.md"
+    },
+    {
+      "basename": "L6",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L6.md"
+    },
+    {
+      "basename": "L5",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L5.md"
+    },
+    {
+      "basename": "L4",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L4.md"
+    },
+    {
+      "basename": "L3",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L3.md"
+    },
+    {
+      "basename": "L2",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L2.md"
+    },
+    {
+      "basename": "L1",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L1.md"
+    },
+    {
+      "basename": "L1",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Égoûts/L1.md"
+    },
+    {
+      "basename": "E1",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/E1.md"
+    },
+    {
+      "basename": "Lettre",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Lettre.md"
+    },
+    {
+      "basename": "E1",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Égoûts/E1.md"
+    },
+    {
+      "basename": "Égoûts",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Égoûts/Égoûts.md"
+    },
+    {
       "basename": "3 - Le voyage",
       "path": "2 - Campagne/Scenarios/1 - Expédition/3 - Le voyage.md"
     },
@@ -19,14 +75,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "Égoûts",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Égoûts/Égoûts.md"
-    },
-    {
-      "basename": "Bandit Lair",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md"
     },
     {
       "basename": "Session 1 - Joindre l'expédition",
@@ -129,10 +177,6 @@
       "path": "1 - Compendium/Monsters/Sewer Ooze/Sewer Ooze.md"
     },
     {
-      "basename": "E1",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Égoûts/E1.md"
-    },
-    {
       "basename": "Crik Mantar",
       "path": "1 - Compendium/NPCs/Crik Mantar/Crik Mantar.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "Taff",
       "path": "1 - Compendium/NPCs/Taff/Taff.jpg"
-    },
-    {
-      "basename": "Fanny",
-      "path": "1 - Compendium/NPCs/Fanny/Fanny.jpg"
-    },
-    {
-      "basename": "Tamerlane Foghorn",
-      "path": "1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.jpg"
-    },
-    {
-      "basename": "Meredia",
-      "path": "1 - Compendium/NPCs/Meredia/Meredia.jpg"
-    },
-    {
-      "basename": "Alaric Foghorn",
-      "path": "1 - Compendium/NPCs/Alaric Foghorn/Alaric Foghorn.jpg"
-    },
-    {
-      "basename": "Kretiak Cragmire",
-      "path": "1 - Compendium/NPCs/Kretiak Cragmire/Kretiak Cragmire.md"
-    },
-    {
-      "basename": "Perrin",
-      "path": "1 - Compendium/NPCs/Perrin/Perrin.md"
-    },
-    {
-      "basename": "Taff",
-      "path": "1 - Compendium/NPCs/Taff/Taff.md"
-    },
-    {
-      "basename": "Larissa Artemel",
-      "path": "1 - Compendium/NPCs/Larissa Artemel/Larissa Artemel.md"
-    },
-    {
-      "basename": "Roy Larg",
-      "path": "1 - Compendium/NPCs/Roy Larg/Roy Larg.md"
-    },
-    {
-      "basename": "Corbu",
-      "path": "1 - Compendium/NPCs/Corbu/Corbu.md"
-    },
-    {
-      "basename": "Hummer",
-      "path": "1 - Compendium/NPCs/Hummer/Hummer.md"
     }
   ],
   "omittedPaths": [],
