@@ -42,4 +42,7 @@ Les joueurs devront explorer les égoûts de la ville pour finalement accéder a
 
 Éventuellement, il feront face à [[Norlu]]. Ce dernier prendra une élixir pendant le combat et avec tout le sang qui sera versé, ;a réaction sera presque instantanné. Il se retirera temporairement pour compléter sa transformation et les joueurs l'affronteront en combat singulier après s'être débarassés de ses hommes. Il prendra la fuite en s'envolant par une bouche d'égoûts débouchant dans un quartier peu fréquenté de la ville.
 
-Après cet affrontement, [[Cleyton Kilmer]] et sa bande seront délivrés. Si les joueurs retournent à la taverne, des représentants de la [[Ligue Frégate]] seront sur place et leur exploit sera reconnu. Cela leur vaudra une place à bord de l'expédition, ainsi qu'aux NPCs qui les auront aidés.
+Après cet affrontement, [[Cleyton Kilmer]] et sa bande seront délivrés. Si les joueurs retournent à la taverne, des représentants de la [[Ligue Frégate]] ([[Randal Carodoc]] et [[Roy Larg]]) seront sur place et leur exploit sera reconnu. Il y aura aussi [[Siegfried]] qui leur posera beaucoup de questions.
+
+Cela leur vaudra une place à bord de l'expédition, ainsi qu'aux NPCs qui les auront aidés.
+

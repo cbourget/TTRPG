@@ -704,7 +704,7 @@
     },
     {
       "id": "scenario-1-bandit-lair",
-      "lastAccessed": 1650561228805,
+      "lastAccessed": 1650938238410,
       "markers": [
         {
           "id": "ID_fbea492a694a",
@@ -808,16 +808,16 @@
           "id": "ID_28d8195a6959",
           "type": "Loot 3",
           "loc": [
-            -5.6640625,
-            2.6484375
+            -2.8671875,
+            2.0546875
           ],
           "link": "L3",
           "layer": "%5B%5BBandit%20Lair.jpeg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.38742857142857146,
-            0.8285714285714286
+            0.30057142857142854,
+            0.41942857142857143
           ],
           "description": null,
           "minZoom": null,
@@ -845,16 +845,16 @@
           "id": "ID_1ac98b39d91a",
           "type": "Loot 6",
           "loc": [
-            -4.41796875,
-            1.578125
+            -1.765625,
+            1.0078125
           ],
           "link": "L6",
           "layer": "%5B%5BBandit%20Lair.jpeg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.23085714285714284,
-            0.6462857142857142
+            0.14742857142857144,
+            0.2582857142857143
           ],
           "description": null,
           "minZoom": null,
@@ -900,10 +900,229 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "never"
+        },
+        {
+          "id": "ID_9a09bba97acb",
+          "type": "Encounter 2",
+          "loc": [
+            -6.186767578125,
+            4.9296875
+          ],
+          "link": "E2",
+          "layer": "%5B%5BBandit%20Lair.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_caaa6849d89a",
+          "type": "Encounter 3",
+          "loc": [
+            -4.733642578125,
+            2.6875
+          ],
+          "link": "E3",
+          "layer": "%5B%5BBandit%20Lair.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_9baa59bacbf9",
+          "type": "Encounter 4",
+          "loc": [
+            -1.968017578125,
+            2.6796875
+          ],
+          "link": "E4",
+          "layer": "%5B%5BBandit%20Lair.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_49a9a9c8ea6b",
+          "type": "Encounter 5",
+          "loc": [
+            -4.5625,
+            0.6328125
+          ],
+          "link": "E5",
+          "layer": "%5B%5BBandit%20Lair.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.09257142857142857,
+            0.6674285714285715
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_db4928887bfb",
+          "type": "Loot 8",
+          "loc": [
+            -6.178955078125,
+            5.6875
+          ],
+          "link": "L8",
+          "layer": "%5B%5BBandit%20Lair.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_3abb9abb4818",
+          "type": "Loot 9",
+          "loc": [
+            -6.249267578125,
+            6.3671875
+          ],
+          "link": "L9",
+          "layer": "%5B%5BBandit%20Lair.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_bb1beaa8fbe9",
+          "type": "Loot 10",
+          "loc": [
+            -6.3590087890625,
+            4.640625
+          ],
+          "link": "L10",
+          "layer": "%5B%5BBandit%20Lair.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
+        },
+        {
+          "id": "ID_4a0bcb49ea79",
+          "type": "Entrance",
+          "loc": [
+            -2.27978515625,
+            4.171875
+          ],
+          "layer": "%5B%5BBandit%20Lair.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "never"
         }
       ],
       "overlays": [],
-      "shapes": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -4.968017578125,
+              "lng": 0.078125,
+              "id": "ID_bb88689a7bd9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -4.999267578125,
+              "lng": 1.3046875,
+              "id": "ID_bb6b89fb1a49",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -1.3046875,
+              "lng": 2.9921875,
+              "id": "ID_7b6959ebbb3a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -1.3046875,
+              "lng": 3.4296875,
+              "id": "ID_0bba6a89cb89",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -1.3046875,
+              "lng": 3.4296875,
+              "id": "ID_092a9bbaa85a",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -6.022705078125,
+              "lng": 1.859375,
+              "id": "ID_0a591bbbb839",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -6.483642578125,
+              "lng": 1.8828125,
+              "id": "ID_49ba18aac91a",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
       "files": [
         "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md"
       ]
@@ -1492,6 +1711,51 @@
     },
     {
       "type": "Loot 7",
+      "iconName": "crown",
+      "color": "#d88322",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Loot 8",
+      "iconName": "crown",
+      "color": "#d88322",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Loot 9",
+      "iconName": "crown",
+      "color": "#d88322",
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Loot 10",
       "iconName": "crown",
       "color": "#d88322",
       "layer": false,
