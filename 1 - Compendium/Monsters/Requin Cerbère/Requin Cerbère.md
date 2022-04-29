@@ -6,11 +6,11 @@ tags: Creature
 
 ---
 
-# Requin de la Tempête
+# Requin Cerbère
 
 ```ad-desc
 
-<span class="image">![[Requin de la Tempête.png]]</span>
+<span class="image">![[Requin Cerbère.png]]</span>
 
 <span class="npc-tags">#Aberration #Aquatique #Gargantuesque</span>
 

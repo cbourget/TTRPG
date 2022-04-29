@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 - Compendium/Monsters/Troll/Troll.md",
-            "mode": "source",
+            "file": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Compendium/Monsters/Troll/Troll.md",
+                "file": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Compendium/Monsters/Troll/Troll.md"
+                "file": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Compendium/Monsters/Troll/Troll.md",
+                "file": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,15 +154,15 @@
   },
   "active": "e74354b38fa56168",
   "lastOpenFiles": [
+    "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md",
+    "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/G1.md",
+    "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L9.md",
+    "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L10.md",
     "1 - Compendium/Monsters/Troll/Troll.md",
-    "1 - Compendium/Monsters/Requin de la Tempête/Requin de la Tempête.md",
-    "1 - Compendium/Monsters/Linnorm.md",
-    "1 - Compendium/Monsters/Requin de la Tempête/Requin de la Tempête.png",
+    "1 - Compendium/Monsters/Requin Cerbère/Requin Cerbère.md",
     "1 - Compendium/Monsters/Sewer Ooze/Sewer Ooze.md",
-    "1 - Compendium/Monsters/Sewer Ooze/Sewer Ooze.png",
-    "1 - Compendium/NPCs/Talarissa/Talarissa.md",
-    "Obsidian/Templates/note-creature.md",
-    "Obsidian/Templates/note-faction.md",
-    "Obsidian/Templates/note-npc.md"
+    "1 - Compendium/Monsters/Gélatine des Égoûts.md",
+    "1 - Compendium/Monsters/Linnorm.md",
+    "1 - Compendium/Monsters/Requin Cerbère/Requin Cerbère.png"
   ]
 }

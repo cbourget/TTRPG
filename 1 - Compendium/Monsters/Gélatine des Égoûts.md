@@ -26,11 +26,11 @@ tags: Creature
 
 <br>
 
-| Caractéristiques         | Fiabilité |
-| ------------------------ | --------- |
-| Physiquement très forts. | 10        |
-| Peuvent se régénérer.    | 8         |
-| Craignent le feu.        | 8         |
-| Craignent l'acide.       | 6         |
+| Caractéristiques                                                    | Fiabilité |
+| ------------------------------------------------------------------- | --------- |
+| Physiquement très forts.               | 10        |
+| Peuvent se régénérer. | 8         |
+| Craignent le feu. | 8         |
+| Craignent l'acide. | 6         |
 
 Il est probable que des espèces de troll se soient adaptées à d'autres environnements et que leurs caractéristiques diffèrent.
