@@ -704,7 +704,7 @@
     },
     {
       "id": "scenario-1-bandit-lair",
-      "lastAccessed": 1650938238410,
+      "lastAccessed": 1651198066431,
       "markers": [
         {
           "id": "ID_fbea492a694a",
@@ -1114,6 +1114,30 @@
               "lat": -6.483642578125,
               "lng": 1.8828125,
               "id": "ID_49ba18aac91a",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polyline",
+          "color": "#f01414",
+          "vertices": [
+            {
+              "lat": -6.1168212890625,
+              "lng": 6.04296875,
+              "id": "ID_1bdab828899a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -6.3199462890625,
+              "lng": 6.046875,
+              "id": "ID_5908b98a48ab",
               "targets": {
                 "vertexIds": []
               }

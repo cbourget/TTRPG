@@ -1,20 +1,180 @@
 {
   "recentFiles": [
     {
+      "basename": "ForestPeople6",
+      "path": "Images/Characters/ForestPeople6.jpg"
+    },
+    {
+      "basename": "ForestPeople5",
+      "path": "Images/Characters/ForestPeople5.jpg"
+    },
+    {
+      "basename": "ForestPeople4",
+      "path": "Images/Characters/ForestPeople4.jpg"
+    },
+    {
+      "basename": "ForestPeople3",
+      "path": "Images/Characters/ForestPeople3.jpg"
+    },
+    {
+      "basename": "ForestPeople2",
+      "path": "Images/Characters/ForestPeople2.jpeg"
+    },
+    {
+      "basename": "ForestPeople",
+      "path": "Images/Characters/ForestPeople.jpg"
+    },
+    {
+      "basename": "FeyWoman",
+      "path": "Images/Characters/FeyWoman.jpg"
+    },
+    {
+      "basename": "FeyWizard",
+      "path": "Images/Characters/FeyWizard.jpg"
+    },
+    {
+      "basename": "FeyWarrior3",
+      "path": "Images/Characters/FeyWarrior3.jpg"
+    },
+    {
+      "basename": "FeyWarrior2",
+      "path": "Images/Characters/FeyWarrior2.jpg"
+    },
+    {
+      "basename": "FeyWarrior",
+      "path": "Images/Characters/FeyWarrior.jpg"
+    },
+    {
+      "basename": "FeyProfessor",
+      "path": "Images/Characters/FeyProfessor.jpg"
+    },
+    {
+      "basename": "IndiWarrior2",
+      "path": "Images/Characters/IndiWarrior2.jpg"
+    },
+    {
+      "basename": "IndiWarrior",
+      "path": "Images/Characters/IndiWarrior.jpg"
+    },
+    {
+      "basename": "IndiHuntress",
+      "path": "Images/Characters/IndiHuntress.jpg"
+    },
+    {
+      "basename": "IndiHunter",
+      "path": "Images/Characters/IndiHunter.jpg"
+    },
+    {
+      "basename": "IndiFemale2",
+      "path": "Images/Characters/IndiFemale2.jpg"
+    },
+    {
+      "basename": "IndiFemale",
+      "path": "Images/Characters/IndiFemale.jpg"
+    },
+    {
+      "basename": "IndiDruid",
+      "path": "Images/Characters/IndiDruid.jpg"
+    },
+    {
+      "basename": "Khorvaire2",
+      "path": "Images/Maps/Khorvaire2.jpg"
+    },
+    {
       "basename": "Bandit Lair",
       "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md"
     },
     {
-      "basename": "G1",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/G1.md"
+      "basename": "E3",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/E3.md"
+    },
+    {
+      "basename": "E1",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/E1.md"
     },
     {
       "basename": "L9",
       "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L9.md"
     },
     {
+      "basename": "L6",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L6.md"
+    },
+    {
       "basename": "L10",
       "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L10.md"
+    },
+    {
+      "basename": "L1",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L1.md"
+    },
+    {
+      "basename": "E1",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Égoûts/E1.md"
+    },
+    {
+      "basename": "Session 1 - Joindre l'expédition",
+      "path": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.md"
+    },
+    {
+      "basename": "Session 1 - Joindre l'expédition",
+      "path": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.pdf"
+    },
+    {
+      "basename": "G1",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/G1.md"
+    },
+    {
+      "basename": "Wisgar",
+      "path": "1 - Compendium/NPCs/Wisgar/Wisgar.md"
+    },
+    {
+      "basename": "Taff",
+      "path": "1 - Compendium/NPCs/Taff/Taff.md"
+    },
+    {
+      "basename": "Gareth",
+      "path": "1 - Compendium/NPCs/Gareth/Gareth.md"
+    },
+    {
+      "basename": "Dom",
+      "path": "1 - Compendium/NPCs/Dom/Dom.md"
+    },
+    {
+      "basename": "Albert",
+      "path": "1 - Compendium/NPCs/Albert/Albert.md"
+    },
+    {
+      "basename": "Mithrand",
+      "path": "1 - Compendium/NPCs/Mithrand/Mithrand.md"
+    },
+    {
+      "basename": "Héron",
+      "path": "1 - Compendium/NPCs/Héron/Héron.md"
+    },
+    {
+      "basename": "Logan Lanngolyn",
+      "path": "1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.md"
+    },
+    {
+      "basename": "Livia",
+      "path": "1 - Compendium/NPCs/Livia/Livia.md"
+    },
+    {
+      "basename": "Christofle",
+      "path": "1 - Compendium/NPCs/Christofle/Christofle.md"
+    },
+    {
+      "basename": "Grog",
+      "path": "1 - Compendium/NPCs/Grog/Grog.md"
+    },
+    {
+      "basename": "Talarissa",
+      "path": "1 - Compendium/NPCs/Talarissa/Talarissa.md"
+    },
+    {
+      "basename": "Crik Mantar",
+      "path": "1 - Compendium/NPCs/Crik Mantar/Crik Mantar.md"
     },
     {
       "basename": "Troll",
@@ -39,166 +199,6 @@
     {
       "basename": "Requin Cerbère",
       "path": "1 - Compendium/Monsters/Requin Cerbère/Requin Cerbère.png"
-    },
-    {
-      "basename": "Sewer Ooze",
-      "path": "1 - Compendium/Monsters/Sewer Ooze/Sewer Ooze.png"
-    },
-    {
-      "basename": "Talarissa",
-      "path": "1 - Compendium/NPCs/Talarissa/Talarissa.md"
-    },
-    {
-      "basename": "note-faction",
-      "path": "Obsidian/Templates/note-faction.md"
-    },
-    {
-      "basename": "note-npc",
-      "path": "Obsidian/Templates/note-npc.md"
-    },
-    {
-      "basename": "Christofle",
-      "path": "1 - Compendium/NPCs/Christofle/Christofle.md"
-    },
-    {
-      "basename": "Norlu",
-      "path": "1 - Compendium/NPCs/Norlu/Norlu.md"
-    },
-    {
-      "basename": "Grog",
-      "path": "1 - Compendium/NPCs/Grog/Grog.md"
-    },
-    {
-      "basename": "Logan Lanngolyn",
-      "path": "1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.md"
-    },
-    {
-      "basename": "Livia",
-      "path": "1 - Compendium/NPCs/Livia/Livia.md"
-    },
-    {
-      "basename": "G12",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G12.md"
-    },
-    {
-      "basename": "Crik Mantar",
-      "path": "1 - Compendium/NPCs/Crik Mantar/Crik Mantar.md"
-    },
-    {
-      "basename": "Crik Mantar",
-      "path": "1 - Compendium/NPCs/Crik Mantar/Crik Mantar.jpg"
-    },
-    {
-      "basename": "G11",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G11.md"
-    },
-    {
-      "basename": "G10",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G10.md"
-    },
-    {
-      "basename": "G9",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G9.md"
-    },
-    {
-      "basename": "G8",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G8.md"
-    },
-    {
-      "basename": "G7",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G7.md"
-    },
-    {
-      "basename": "G5",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G5.md"
-    },
-    {
-      "basename": "G4",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G4.md"
-    },
-    {
-      "basename": "G3",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G3.md"
-    },
-    {
-      "basename": "G2",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G2.md"
-    },
-    {
-      "basename": "G1",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G1.md"
-    },
-    {
-      "basename": "2 - Retrouver Cleyton",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/2 - Retrouver Cleyton.md"
-    },
-    {
-      "basename": "G17",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G17.md"
-    },
-    {
-      "basename": "G16",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G16.md"
-    },
-    {
-      "basename": "G15",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G15.md"
-    },
-    {
-      "basename": "G14",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G14.md"
-    },
-    {
-      "basename": "G13",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G13.md"
-    },
-    {
-      "basename": "G6",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G6.md"
-    },
-    {
-      "basename": "3 - Le voyage",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/3 - Le voyage.md"
-    },
-    {
-      "basename": "L1",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L1.md"
-    },
-    {
-      "basename": "L2",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L2.md"
-    },
-    {
-      "basename": "L3",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L3.md"
-    },
-    {
-      "basename": "L4",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L4.md"
-    },
-    {
-      "basename": "L5",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L5.md"
-    },
-    {
-      "basename": "L6",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L6.md"
-    },
-    {
-      "basename": "L7",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L7.md"
-    },
-    {
-      "basename": "Bandit Lair",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.jpeg"
-    },
-    {
-      "basename": "L8",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L8.md"
-    },
-    {
-      "basename": "E5",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/E5.md"
     }
   ],
   "omittedPaths": [],

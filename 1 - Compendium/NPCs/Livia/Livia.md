@@ -32,4 +32,4 @@ tags: NPC
 ## Secrets
 
 ## Statistiques
-<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Class/cleric 1.html"></iframe>
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Class/cleric 2.html"></iframe>
