@@ -62,3 +62,8 @@ img[alt$="Reaction.png"] {
     font-weight: 400;
   }
 }
+
+
+table {
+  width: 100%;
+}

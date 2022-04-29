@@ -24,8 +24,11 @@ tags: Creature
 
 ```
 
+<br>
 
 | Caractéristiques                                                    | Fiabilité |
 | ------------------------------------------------------------------- | --------- |
 | N'hésite pas à charger les navires plus gros que lui.               | 10        |
-| Son corps semble se charger d'énergie lorsque frappé par la foudre. | 6         |
+| Son corps semble se charger d'énergie lorsque frappé par la foudre. | 3         |
+
+Aucun témoignage ne corobore ces observations. Il s'agit peut-être d'une créature unique mais il est aussi probable que peu de gens aient survécu à sa rencontre. 

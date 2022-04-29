@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Linnorm",
-      "path": "1 - Compendium/Monsters/Linnorm.md"
+      "basename": "Troll",
+      "path": "1 - Compendium/Monsters/Troll/Troll.md"
     },
     {
       "basename": "Requin de la Tempête",
       "path": "1 - Compendium/Monsters/Requin de la Tempête/Requin de la Tempête.md"
+    },
+    {
+      "basename": "Linnorm",
+      "path": "1 - Compendium/Monsters/Linnorm.md"
     },
     {
       "basename": "Requin de la Tempête",
@@ -195,10 +199,6 @@
     {
       "basename": "E4",
       "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/E4.md"
-    },
-    {
-      "basename": "E3",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/E3.md"
     }
   ],
   "omittedPaths": [],
