@@ -1,22 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Siegfried",
-      "path": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
-    },
-    {
-      "basename": "Wisgar",
-      "path": "1 - Compendium/NPCs/Wisgar/Wisgar.md"
-    },
-    {
-      "basename": "Izalith Mantar 1",
-      "path": "Images/Characters/Izalith Mantar 1.jpg"
-    },
-    {
-      "basename": "Izalith Mantar",
-      "path": "Images/Characters/Izalith Mantar.jpg"
-    },
-    {
       "basename": "ForestPeople6",
       "path": "Images/Characters/ForestPeople6.jpg"
     },
@@ -39,6 +23,42 @@
     {
       "basename": "ForestPeople",
       "path": "Images/Characters/ForestPeople.jpg"
+    },
+    {
+      "basename": "ForestCrocodile",
+      "path": "Images/Characters/ForestCrocodile.jpg"
+    },
+    {
+      "basename": "Forest Warrior",
+      "path": "Images/Characters/Forest Warrior.jpg"
+    },
+    {
+      "basename": "Forest Gobelin",
+      "path": "Images/Characters/Forest Gobelin.jpg"
+    },
+    {
+      "basename": "Segast",
+      "path": "1 - Compendium/NPCs/Segast/Segast.md"
+    },
+    {
+      "basename": "Segast",
+      "path": "1 - Compendium/NPCs/Segast/Segast.jpg"
+    },
+    {
+      "basename": "Siegfried",
+      "path": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
+    },
+    {
+      "basename": "Wisgar",
+      "path": "1 - Compendium/NPCs/Wisgar/Wisgar.md"
+    },
+    {
+      "basename": "Izalith Mantar 1",
+      "path": "Images/Characters/Izalith Mantar 1.jpg"
+    },
+    {
+      "basename": "Izalith Mantar",
+      "path": "Images/Characters/Izalith Mantar.jpg"
     },
     {
       "basename": "FeyWoman",
@@ -179,26 +199,6 @@
     {
       "basename": "Grog",
       "path": "1 - Compendium/NPCs/Grog/Grog.md"
-    },
-    {
-      "basename": "Talarissa",
-      "path": "1 - Compendium/NPCs/Talarissa/Talarissa.md"
-    },
-    {
-      "basename": "Crik Mantar",
-      "path": "1 - Compendium/NPCs/Crik Mantar/Crik Mantar.md"
-    },
-    {
-      "basename": "Troll",
-      "path": "1 - Compendium/Monsters/Troll/Troll.md"
-    },
-    {
-      "basename": "Requin Cerbère",
-      "path": "1 - Compendium/Monsters/Requin Cerbère/Requin Cerbère.md"
-    },
-    {
-      "basename": "Sewer Ooze",
-      "path": "1 - Compendium/Monsters/Sewer Ooze/Sewer Ooze.md"
     }
   ],
   "omittedPaths": [],

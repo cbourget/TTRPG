@@ -24,6 +24,7 @@ tags: NPC Tamerlane
 
 ## Objectifs
 - [ ] Venger la famille [[De Beauvais]].
+- [ ] Retrouver les survivants de son équipage
 
 <span class="tab">[[Tamerlane Foghorn#Objectifs]]</span>
 <span class="embed-section tab">![[Tamerlane Foghorn#Objectifs]]</span>
