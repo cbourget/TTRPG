@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Siegfried",
+      "path": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
+    },
+    {
+      "basename": "Wisgar",
+      "path": "1 - Compendium/NPCs/Wisgar/Wisgar.md"
+    },
+    {
+      "basename": "Izalith Mantar 1",
+      "path": "Images/Characters/Izalith Mantar 1.jpg"
+    },
+    {
+      "basename": "Izalith Mantar",
+      "path": "Images/Characters/Izalith Mantar.jpg"
+    },
+    {
       "basename": "ForestPeople6",
       "path": "Images/Characters/ForestPeople6.jpg"
     },
@@ -125,10 +141,6 @@
       "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/G1.md"
     },
     {
-      "basename": "Wisgar",
-      "path": "1 - Compendium/NPCs/Wisgar/Wisgar.md"
-    },
-    {
       "basename": "Taff",
       "path": "1 - Compendium/NPCs/Taff/Taff.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Sewer Ooze",
       "path": "1 - Compendium/Monsters/Sewer Ooze/Sewer Ooze.md"
-    },
-    {
-      "basename": "Gélatine des Égoûts",
-      "path": "1 - Compendium/Monsters/Gélatine des Égoûts.md"
-    },
-    {
-      "basename": "Linnorm",
-      "path": "1 - Compendium/Monsters/Linnorm.md"
-    },
-    {
-      "basename": "Requin Cerbère",
-      "path": "1 - Compendium/Monsters/Requin Cerbère/Requin Cerbère.png"
     }
   ],
   "omittedPaths": [],

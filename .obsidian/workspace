@@ -9,7 +9,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "Images/Characters/ForestPeople6.jpg"
+            "file": "Images/Characters/Izalith Mantar 1.jpg"
           }
         }
       },
@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 - Compendium/NPCs/Wisgar/Wisgar.md",
+            "file": "1 - Compendium/NPCs/Siegfried/Siegfried.md",
             "mode": "preview",
             "source": true
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Characters/ForestPeople6.jpg",
+                "file": "1 - Compendium/NPCs/Siegfried/Siegfried.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Characters/ForestPeople6.jpg"
+                "file": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Characters/ForestPeople6.jpg",
+                "file": "1 - Compendium/NPCs/Siegfried/Siegfried.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,17 +162,17 @@
     "direction": "horizontal",
     "width": 285
   },
-  "active": "e74354b38fa56168",
+  "active": "2b64a7f38bf23ac4",
   "lastOpenFiles": [
+    "1 - Compendium/NPCs/Siegfried/Siegfried.md",
+    "1 - Compendium/NPCs/Wisgar/Wisgar.md",
+    "Images/Characters/Izalith Mantar 1.jpg",
+    "Images/Characters/Izalith Mantar.jpg",
     "Images/Characters/ForestPeople6.jpg",
     "Images/Characters/ForestPeople5.jpg",
     "Images/Characters/ForestPeople4.jpg",
     "Images/Characters/ForestPeople3.jpg",
     "Images/Characters/ForestPeople2.jpeg",
-    "Images/Characters/ForestPeople.jpg",
-    "Images/Characters/FeyWoman.jpg",
-    "Images/Characters/FeyWizard.jpg",
-    "Images/Characters/FeyWarrior3.jpg",
-    "Images/Characters/FeyWarrior2.jpg"
+    "Images/Characters/ForestPeople.jpg"
   ]
 }
