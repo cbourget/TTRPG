@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Qwila",
+      "path": "1 - Compendium/NPCs/Qwila/Qwila.md"
+    },
+    {
       "basename": "Fligbi",
       "path": "1 - Compendium/NPCs/Fligbi/Fligbi.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "NPCs Connus",
       "path": "NPCs Connus.pdf"
-    },
-    {
-      "basename": "NPCs Connus",
-      "path": "NPCs Connus.md"
     }
   ],
   "omittedPaths": [],

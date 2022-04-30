@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 - Compendium/NPCs/Fligbi/Fligbi.md",
+            "file": "1 - Compendium/NPCs/Qwila/Qwila.md",
             "mode": "source",
             "source": true
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Compendium/NPCs/Fligbi/Fligbi.md",
+                "file": "1 - Compendium/NPCs/Qwila/Qwila.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Compendium/NPCs/Fligbi/Fligbi.md"
+                "file": "1 - Compendium/NPCs/Qwila/Qwila.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Compendium/NPCs/Fligbi/Fligbi.md",
+                "file": "1 - Compendium/NPCs/Qwila/Qwila.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,6 +154,7 @@
   },
   "active": "3e8977b531de1d46",
   "lastOpenFiles": [
+    "1 - Compendium/NPCs/Qwila/Qwila.md",
     "1 - Compendium/NPCs/Fligbi/Fligbi.md",
     "1 - Compendium/NPCs/Vala.md",
     "1 - Compendium/NPCs/Vivalda.jpg",
@@ -162,7 +163,6 @@
     "1 - Compendium/NPCs/Peluvar.jpg",
     "1 - Compendium/NPCs/Blaiva/Blaiva.md",
     "1 - Compendium/NPCs/Blaiva/Blaiva.jpg",
-    "1 - Compendium/NPCs/Ronzu/Ronzu.md",
-    "1 - Compendium/NPCs/Calniss.jpg"
+    "1 - Compendium/NPCs/Ronzu/Ronzu.md"
   ]
 }
