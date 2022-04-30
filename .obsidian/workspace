@@ -7,11 +7,9 @@
         "id": "3e8977b531de1d46",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "1 - Compendium/NPCs/Qwila/Qwila.md",
-            "mode": "source",
-            "source": true
+            "file": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.pdf"
           }
         }
       }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Compendium/NPCs/Qwila/Qwila.md",
+                "file": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Compendium/NPCs/Qwila/Qwila.md"
+                "file": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.pdf"
               }
             }
           },
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Compendium/NPCs/Qwila/Qwila.md",
+                "file": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,19 +148,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285
+    "width": 285,
+    "collapsed": true
   },
   "active": "3e8977b531de1d46",
   "lastOpenFiles": [
+    "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.pdf",
+    "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md",
+    "2 - Campagne/Scenarios/1 - Expédition/Égoûts/Égoûts.md",
     "1 - Compendium/NPCs/Qwila/Qwila.md",
     "1 - Compendium/NPCs/Fligbi/Fligbi.md",
     "1 - Compendium/NPCs/Vala.md",
     "1 - Compendium/NPCs/Vivalda.jpg",
     "1 - Compendium/NPCs/Fligbi/Fligbi.png",
     "1 - Compendium/NPCs/Glouviss.png",
-    "1 - Compendium/NPCs/Peluvar.jpg",
-    "1 - Compendium/NPCs/Blaiva/Blaiva.md",
-    "1 - Compendium/NPCs/Blaiva/Blaiva.jpg",
-    "1 - Compendium/NPCs/Ronzu/Ronzu.md"
+    "1 - Compendium/NPCs/Peluvar.jpg"
   ]
 }
