@@ -10,7 +10,7 @@ tags: NPC Non-Affilié
 
 <span class="image">![[Ronzu.jpg]][[Ronzu.jpg|Voir]]</span>
 
-<span class="npc-tags">#Gnome #Femme</span>
+<span class="npc-tags">#Halfelin #Femme</span>
 
 <span>Lorem Ipsum</span>
 

@@ -1,56 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "ForestPeople6",
-      "path": "Images/Characters/ForestPeople6.jpg"
+      "basename": "Fligbi",
+      "path": "1 - Compendium/NPCs/Fligbi/Fligbi.md"
     },
     {
-      "basename": "ForestPeople5",
-      "path": "Images/Characters/ForestPeople5.jpg"
+      "basename": "Vala",
+      "path": "1 - Compendium/NPCs/Vala.md"
     },
     {
-      "basename": "ForestPeople4",
-      "path": "Images/Characters/ForestPeople4.jpg"
+      "basename": "Vivalda",
+      "path": "1 - Compendium/NPCs/Vivalda.jpg"
     },
     {
-      "basename": "ForestPeople3",
-      "path": "Images/Characters/ForestPeople3.jpg"
+      "basename": "Fligbi",
+      "path": "1 - Compendium/NPCs/Fligbi/Fligbi.png"
     },
     {
-      "basename": "ForestPeople2",
-      "path": "Images/Characters/ForestPeople2.jpeg"
+      "basename": "Glouviss",
+      "path": "1 - Compendium/NPCs/Glouviss.png"
     },
     {
-      "basename": "ForestPeople",
-      "path": "Images/Characters/ForestPeople.jpg"
+      "basename": "Peluvar",
+      "path": "1 - Compendium/NPCs/Peluvar.jpg"
     },
     {
-      "basename": "ForestCrocodile",
-      "path": "Images/Characters/ForestCrocodile.jpg"
+      "basename": "Blaiva",
+      "path": "1 - Compendium/NPCs/Blaiva/Blaiva.md"
     },
     {
-      "basename": "Forest Warrior",
-      "path": "Images/Characters/Forest Warrior.jpg"
+      "basename": "Blaiva",
+      "path": "1 - Compendium/NPCs/Blaiva/Blaiva.jpg"
     },
     {
-      "basename": "Forest Gobelin",
-      "path": "Images/Characters/Forest Gobelin.jpg"
+      "basename": "Ronzu",
+      "path": "1 - Compendium/NPCs/Ronzu/Ronzu.md"
     },
     {
-      "basename": "Segast",
-      "path": "1 - Compendium/NPCs/Segast/Segast.md"
+      "basename": "Calniss",
+      "path": "1 - Compendium/NPCs/Calniss.jpg"
     },
     {
-      "basename": "Segast",
-      "path": "1 - Compendium/NPCs/Segast/Segast.jpg"
+      "basename": "Cuela",
+      "path": "1 - Compendium/NPCs/Cuela.jpg"
     },
     {
-      "basename": "Siegfried",
-      "path": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
+      "basename": "Fabna",
+      "path": "1 - Compendium/NPCs/Fabna.jpg"
     },
     {
-      "basename": "Wisgar",
-      "path": "1 - Compendium/NPCs/Wisgar/Wisgar.md"
+      "basename": "Eryn",
+      "path": "1 - Compendium/NPCs/Eryn.md"
+    },
+    {
+      "basename": "Dubrin",
+      "path": "1 - Compendium/NPCs/Dubrin.jpg"
+    },
+    {
+      "basename": "FeyWarrior3",
+      "path": "Images/Characters/FeyWarrior3.jpg"
+    },
+    {
+      "basename": "FeyWizard",
+      "path": "Images/Characters/FeyWizard.jpg"
+    },
+    {
+      "basename": "TribalGnome2",
+      "path": "Images/Characters/TribalGnome2.jpg"
+    },
+    {
+      "basename": "TribalPeople",
+      "path": "Images/Characters/TribalPeople.jpg"
     },
     {
       "basename": "Izalith Mantar 1",
@@ -59,30 +79,6 @@
     {
       "basename": "Izalith Mantar",
       "path": "Images/Characters/Izalith Mantar.jpg"
-    },
-    {
-      "basename": "FeyWoman",
-      "path": "Images/Characters/FeyWoman.jpg"
-    },
-    {
-      "basename": "FeyWizard",
-      "path": "Images/Characters/FeyWizard.jpg"
-    },
-    {
-      "basename": "FeyWarrior3",
-      "path": "Images/Characters/FeyWarrior3.jpg"
-    },
-    {
-      "basename": "FeyWarrior2",
-      "path": "Images/Characters/FeyWarrior2.jpg"
-    },
-    {
-      "basename": "FeyWarrior",
-      "path": "Images/Characters/FeyWarrior.jpg"
-    },
-    {
-      "basename": "FeyProfessor",
-      "path": "Images/Characters/FeyProfessor.jpg"
     },
     {
       "basename": "IndiWarrior2",
@@ -97,10 +93,6 @@
       "path": "Images/Characters/IndiHuntress.jpg"
     },
     {
-      "basename": "IndiHunter",
-      "path": "Images/Characters/IndiHunter.jpg"
-    },
-    {
       "basename": "IndiFemale2",
       "path": "Images/Characters/IndiFemale2.jpg"
     },
@@ -113,92 +105,100 @@
       "path": "Images/Characters/IndiDruid.jpg"
     },
     {
-      "basename": "Khorvaire2",
-      "path": "Images/Maps/Khorvaire2.jpg"
+      "basename": "GiantScavenger",
+      "path": "Images/Characters/GiantScavenger.jpg"
     },
     {
-      "basename": "Bandit Lair",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md"
+      "basename": "Flame Archer",
+      "path": "Images/Characters/Flame Archer.jpg"
     },
     {
-      "basename": "E3",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/E3.md"
+      "basename": "Forest Gobelin",
+      "path": "Images/Characters/Forest Gobelin.jpg"
     },
     {
-      "basename": "E1",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/E1.md"
+      "basename": "Elven Archer Girl",
+      "path": "Images/Characters/Elven Archer Girl.jpg"
     },
     {
-      "basename": "L9",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L9.md"
+      "basename": "Female Captain",
+      "path": "Images/Characters/Female Captain.jpg"
     },
     {
-      "basename": "L6",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L6.md"
+      "basename": "FeyWarrior",
+      "path": "Images/Characters/FeyWarrior.jpg"
     },
     {
-      "basename": "L10",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L10.md"
+      "basename": "FeyWarrior2",
+      "path": "Images/Characters/FeyWarrior2.jpg"
     },
     {
-      "basename": "L1",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/L1.md"
+      "basename": "Forest Warrior",
+      "path": "Images/Characters/Forest Warrior.jpg"
     },
     {
-      "basename": "E1",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Égoûts/E1.md"
+      "basename": "ForestCrocodile",
+      "path": "Images/Characters/ForestCrocodile.jpg"
     },
     {
-      "basename": "Session 1 - Joindre l'expédition",
-      "path": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.md"
+      "basename": "ForestPeople",
+      "path": "Images/Characters/ForestPeople.jpg"
     },
     {
-      "basename": "Session 1 - Joindre l'expédition",
-      "path": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.pdf"
+      "basename": "ForestPeople2",
+      "path": "Images/Characters/ForestPeople2.jpeg"
     },
     {
-      "basename": "G1",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/G1.md"
+      "basename": "ForestPeople3",
+      "path": "Images/Characters/ForestPeople3.jpg"
     },
     {
-      "basename": "Taff",
-      "path": "1 - Compendium/NPCs/Taff/Taff.md"
+      "basename": "ForestPeople4",
+      "path": "Images/Characters/ForestPeople4.jpg"
     },
     {
-      "basename": "Gareth",
-      "path": "1 - Compendium/NPCs/Gareth/Gareth.md"
+      "basename": "ForestPeople5",
+      "path": "Images/Characters/ForestPeople5.jpg"
     },
     {
-      "basename": "Dom",
-      "path": "1 - Compendium/NPCs/Dom/Dom.md"
+      "basename": "ForestPeople6",
+      "path": "Images/Characters/ForestPeople6.jpg"
     },
     {
-      "basename": "Albert",
-      "path": "1 - Compendium/NPCs/Albert/Albert.md"
+      "basename": "Pictis",
+      "path": "1 - Compendium/Factions/Pictis/Pictis.md"
     },
     {
-      "basename": "Mithrand",
-      "path": "1 - Compendium/NPCs/Mithrand/Mithrand.md"
+      "basename": "Compendium v.2",
+      "path": "1 - Compendium/Créatures/Compendium v.2.md"
     },
     {
-      "basename": "Héron",
-      "path": "1 - Compendium/NPCs/Héron/Héron.md"
+      "basename": "Cordycep",
+      "path": "1 - Compendium/Créatures/Cordycep/Cordycep.md"
     },
     {
-      "basename": "Logan Lanngolyn",
-      "path": "1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.md"
+      "basename": "Agrippine",
+      "path": "1 - Compendium/NPCs/Agrippine/Agrippine.md"
     },
     {
-      "basename": "Livia",
-      "path": "1 - Compendium/NPCs/Livia/Livia.md"
+      "basename": "Plan",
+      "path": "Plan.md"
     },
     {
-      "basename": "Christofle",
-      "path": "1 - Compendium/NPCs/Christofle/Christofle.md"
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
-      "basename": "Grog",
-      "path": "1 - Compendium/NPCs/Grog/Grog.md"
+      "basename": "TOOD",
+      "path": "TOOD.md"
+    },
+    {
+      "basename": "NPCs Connus",
+      "path": "NPCs Connus.pdf"
+    },
+    {
+      "basename": "NPCs Connus",
+      "path": "NPCs Connus.md"
     }
   ],
   "omittedPaths": [],
