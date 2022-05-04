@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Session 1 - Joindre l'expédition",
-      "path": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.pdf"
+      "basename": "Sigle",
+      "path": "1 - Compendium/Sigle.png"
+    },
+    {
+      "basename": "Alcide Foghorn",
+      "path": "1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md"
+    },
+    {
+      "basename": "Segast",
+      "path": "1 - Compendium/NPCs/Segast/Segast.md"
     },
     {
       "basename": "Bandit Lair",
@@ -11,6 +19,10 @@
     {
       "basename": "Égoûts",
       "path": "2 - Campagne/Scenarios/1 - Expédition/Égoûts/Égoûts.md"
+    },
+    {
+      "basename": "Session 1 - Joindre l'expédition",
+      "path": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.pdf"
     },
     {
       "basename": "Qwila",
@@ -187,18 +199,6 @@
     {
       "basename": "Compendium v.2",
       "path": "1 - Compendium/Créatures/Compendium v.2.md"
-    },
-    {
-      "basename": "Cordycep",
-      "path": "1 - Compendium/Créatures/Cordycep/Cordycep.md"
-    },
-    {
-      "basename": "Agrippine",
-      "path": "1 - Compendium/NPCs/Agrippine/Agrippine.md"
-    },
-    {
-      "basename": "Plan",
-      "path": "Plan.md"
     }
   ],
   "omittedPaths": [],
