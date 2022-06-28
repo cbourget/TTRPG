@@ -7,9 +7,11 @@
         "id": "3e8977b531de1d46",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "1 - Compendium/Sigle.png"
+            "file": "Untitled.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Compendium/Sigle.png",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Compendium/Sigle.png"
+                "file": "Untitled.md"
               }
             }
           },
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Compendium/Sigle.png",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,15 +155,15 @@
   },
   "active": "3e8977b531de1d46",
   "lastOpenFiles": [
-    "1 - Compendium/Sigle.png",
-    "1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md",
-    "1 - Compendium/NPCs/Segast/Segast.md",
-    "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md",
-    "2 - Campagne/Scenarios/1 - Expédition/Égoûts/Égoûts.md",
-    "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.pdf",
-    "1 - Compendium/NPCs/Qwila/Qwila.md",
-    "1 - Compendium/NPCs/Fligbi/Fligbi.md",
-    "1 - Compendium/NPCs/Vala.md",
-    "1 - Compendium/NPCs/Vivalda.jpg"
+    "Untitled.md",
+    "1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.md",
+    "2 - Campagne/Expédition.md",
+    "2 - Campagne/Scenarios/1 - Expédition/Taverne/G17.md",
+    "2 - Campagne/Scenarios/1 - Expédition/Taverne/G16.md",
+    "2 - Campagne/Scenarios/1 - Expédition/Taverne/G15.md",
+    "2 - Campagne/Scenarios/1 - Expédition/Taverne/G14.md",
+    "2 - Campagne/Scenarios/1 - Expédition/Taverne/G13.md",
+    "2 - Campagne/Scenarios/1 - Expédition/Taverne/G12.md",
+    "2 - Campagne/Scenarios/1 - Expédition/Taverne/G11.md"
   ]
 }

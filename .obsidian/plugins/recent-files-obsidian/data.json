@@ -1,24 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "Sigle",
-      "path": "1 - Compendium/Sigle.png"
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
-      "basename": "Alcide Foghorn",
-      "path": "1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md"
+      "basename": "Logan Lanngolyn",
+      "path": "1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.md"
     },
     {
-      "basename": "Segast",
-      "path": "1 - Compendium/NPCs/Segast/Segast.md"
+      "basename": "Expédition",
+      "path": "2 - Campagne/Expédition.md"
     },
     {
-      "basename": "Bandit Lair",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md"
+      "basename": "G17",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G17.md"
     },
     {
-      "basename": "Égoûts",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Égoûts/Égoûts.md"
+      "basename": "G16",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G16.md"
+    },
+    {
+      "basename": "G15",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G15.md"
+    },
+    {
+      "basename": "G14",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G14.md"
+    },
+    {
+      "basename": "G13",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G13.md"
+    },
+    {
+      "basename": "G12",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G12.md"
+    },
+    {
+      "basename": "G11",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G11.md"
+    },
+    {
+      "basename": "G10",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G10.md"
+    },
+    {
+      "basename": "G9",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G9.md"
+    },
+    {
+      "basename": "G8",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G8.md"
+    },
+    {
+      "basename": "G7",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G7.md"
+    },
+    {
+      "basename": "G6",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G6.md"
+    },
+    {
+      "basename": "G5",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G5.md"
+    },
+    {
+      "basename": "G4",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G4.md"
+    },
+    {
+      "basename": "G3",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G3.md"
+    },
+    {
+      "basename": "G2",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G2.md"
+    },
+    {
+      "basename": "G1",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G1.md"
+    },
+    {
+      "basename": "Taverne",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/Taverne.md"
+    },
+    {
+      "basename": "TOOD",
+      "path": "TOOD.md"
+    },
+    {
+      "basename": "Plan",
+      "path": "Plan.md"
+    },
+    {
+      "basename": "NPCs Connus",
+      "path": "NPCs Connus.pdf"
+    },
+    {
+      "basename": "Index",
+      "path": "Index.md"
+    },
+    {
+      "basename": "Âme - Savard",
+      "path": "Âme - Savard.pdf"
     },
     {
       "basename": "Session 1 - Joindre l'expédition",
@@ -33,12 +117,36 @@
       "path": "1 - Compendium/NPCs/Fligbi/Fligbi.md"
     },
     {
+      "basename": "Segast",
+      "path": "1 - Compendium/NPCs/Segast/Segast.md"
+    },
+    {
+      "basename": "Sigle",
+      "path": "1 - Compendium/Sigle.png"
+    },
+    {
       "basename": "Vala",
       "path": "1 - Compendium/NPCs/Vala.md"
     },
     {
       "basename": "Vivalda",
       "path": "1 - Compendium/NPCs/Vivalda.jpg"
+    },
+    {
+      "basename": "Wilhem Oberon",
+      "path": "1 - Compendium/NPCs/Wilhem Oberon.md"
+    },
+    {
+      "basename": "Alcide Foghorn",
+      "path": "1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md"
+    },
+    {
+      "basename": "Bandit Lair",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md"
+    },
+    {
+      "basename": "Égoûts",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/Égoûts/Égoûts.md"
     },
     {
       "basename": "Fligbi",
@@ -91,114 +199,6 @@
     {
       "basename": "FeyWizard",
       "path": "Images/Characters/FeyWizard.jpg"
-    },
-    {
-      "basename": "TribalGnome2",
-      "path": "Images/Characters/TribalGnome2.jpg"
-    },
-    {
-      "basename": "TribalPeople",
-      "path": "Images/Characters/TribalPeople.jpg"
-    },
-    {
-      "basename": "Izalith Mantar 1",
-      "path": "Images/Characters/Izalith Mantar 1.jpg"
-    },
-    {
-      "basename": "Izalith Mantar",
-      "path": "Images/Characters/Izalith Mantar.jpg"
-    },
-    {
-      "basename": "IndiWarrior2",
-      "path": "Images/Characters/IndiWarrior2.jpg"
-    },
-    {
-      "basename": "IndiWarrior",
-      "path": "Images/Characters/IndiWarrior.jpg"
-    },
-    {
-      "basename": "IndiHuntress",
-      "path": "Images/Characters/IndiHuntress.jpg"
-    },
-    {
-      "basename": "IndiFemale2",
-      "path": "Images/Characters/IndiFemale2.jpg"
-    },
-    {
-      "basename": "IndiFemale",
-      "path": "Images/Characters/IndiFemale.jpg"
-    },
-    {
-      "basename": "IndiDruid",
-      "path": "Images/Characters/IndiDruid.jpg"
-    },
-    {
-      "basename": "GiantScavenger",
-      "path": "Images/Characters/GiantScavenger.jpg"
-    },
-    {
-      "basename": "Flame Archer",
-      "path": "Images/Characters/Flame Archer.jpg"
-    },
-    {
-      "basename": "Forest Gobelin",
-      "path": "Images/Characters/Forest Gobelin.jpg"
-    },
-    {
-      "basename": "Elven Archer Girl",
-      "path": "Images/Characters/Elven Archer Girl.jpg"
-    },
-    {
-      "basename": "Female Captain",
-      "path": "Images/Characters/Female Captain.jpg"
-    },
-    {
-      "basename": "FeyWarrior",
-      "path": "Images/Characters/FeyWarrior.jpg"
-    },
-    {
-      "basename": "FeyWarrior2",
-      "path": "Images/Characters/FeyWarrior2.jpg"
-    },
-    {
-      "basename": "Forest Warrior",
-      "path": "Images/Characters/Forest Warrior.jpg"
-    },
-    {
-      "basename": "ForestCrocodile",
-      "path": "Images/Characters/ForestCrocodile.jpg"
-    },
-    {
-      "basename": "ForestPeople",
-      "path": "Images/Characters/ForestPeople.jpg"
-    },
-    {
-      "basename": "ForestPeople2",
-      "path": "Images/Characters/ForestPeople2.jpeg"
-    },
-    {
-      "basename": "ForestPeople3",
-      "path": "Images/Characters/ForestPeople3.jpg"
-    },
-    {
-      "basename": "ForestPeople4",
-      "path": "Images/Characters/ForestPeople4.jpg"
-    },
-    {
-      "basename": "ForestPeople5",
-      "path": "Images/Characters/ForestPeople5.jpg"
-    },
-    {
-      "basename": "ForestPeople6",
-      "path": "Images/Characters/ForestPeople6.jpg"
-    },
-    {
-      "basename": "Pictis",
-      "path": "1 - Compendium/Factions/Pictis/Pictis.md"
-    },
-    {
-      "basename": "Compendium v.2",
-      "path": "1 - Compendium/Créatures/Compendium v.2.md"
     }
   ],
   "omittedPaths": [],
