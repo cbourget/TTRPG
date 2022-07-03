@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Notes scénario 3.md",
             "mode": "source",
             "source": true
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Notes scénario 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Notes scénario 3.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Notes scénario 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,15 +155,15 @@
   },
   "active": "3e8977b531de1d46",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Notes scénario 3.md",
+    "1 - Compendium/NPCs/Penny Ilvastar/Penny Ilvastar.md",
+    "1 - Compendium/Factions/Ilvastar.md",
+    "1 - Compendium/NPCs/Bran Ilvastar/Bran Ilvastar.md",
+    "1 - Compendium/NPCs/Vilfort Estelmer/Vilfort Estelmer.md",
+    "1 - Compendium/Factions/Estelmer.md",
     "2 - Campagne/Expédition.md",
     "1 - Compendium/Factions/Rackham.md",
     "1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.md",
-    "2 - Campagne/Scenarios/1 - Expédition/Taverne/G17.md",
-    "2 - Campagne/Scenarios/1 - Expédition/Taverne/G16.md",
-    "2 - Campagne/Scenarios/1 - Expédition/Taverne/G15.md",
-    "2 - Campagne/Scenarios/1 - Expédition/Taverne/G14.md",
-    "2 - Campagne/Scenarios/1 - Expédition/Taverne/G13.md",
-    "2 - Campagne/Scenarios/1 - Expédition/Taverne/G12.md"
+    "2 - Campagne/Scenarios/1 - Expédition/Taverne/G17.md"
   ]
 }

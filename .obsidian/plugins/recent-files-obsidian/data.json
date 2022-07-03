@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "Notes scénario 3",
+      "path": "Notes scénario 3.md"
+    },
+    {
+      "basename": "Penny Ilvastar",
+      "path": "1 - Compendium/NPCs/Penny Ilvastar/Penny Ilvastar.md"
+    },
+    {
+      "basename": "Ilvastar",
+      "path": "1 - Compendium/Factions/Ilvastar.md"
+    },
+    {
+      "basename": "Bran Ilvastar",
+      "path": "1 - Compendium/NPCs/Bran Ilvastar/Bran Ilvastar.md"
+    },
+    {
+      "basename": "Vilfort Estelmer",
+      "path": "1 - Compendium/NPCs/Vilfort Estelmer/Vilfort Estelmer.md"
+    },
+    {
+      "basename": "Estelmer",
+      "path": "1 - Compendium/Factions/Estelmer.md"
     },
     {
       "basename": "Expédition",
@@ -179,26 +199,6 @@
     {
       "basename": "Calniss",
       "path": "1 - Compendium/NPCs/Calniss.jpg"
-    },
-    {
-      "basename": "Cuela",
-      "path": "1 - Compendium/NPCs/Cuela.jpg"
-    },
-    {
-      "basename": "Fabna",
-      "path": "1 - Compendium/NPCs/Fabna.jpg"
-    },
-    {
-      "basename": "Eryn",
-      "path": "1 - Compendium/NPCs/Eryn.md"
-    },
-    {
-      "basename": "Dubrin",
-      "path": "1 - Compendium/NPCs/Dubrin.jpg"
-    },
-    {
-      "basename": "FeyWarrior3",
-      "path": "Images/Characters/FeyWarrior3.jpg"
     }
   ],
   "omittedPaths": [],
