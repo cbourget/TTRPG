@@ -5,12 +5,16 @@
       "path": "Untitled.md"
     },
     {
-      "basename": "Logan Lanngolyn",
-      "path": "1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.md"
-    },
-    {
       "basename": "Expédition",
       "path": "2 - Campagne/Expédition.md"
+    },
+    {
+      "basename": "Rackham",
+      "path": "1 - Compendium/Factions/Rackham.md"
+    },
+    {
+      "basename": "Logan Lanngolyn",
+      "path": "1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.md"
     },
     {
       "basename": "G17",
@@ -195,10 +199,6 @@
     {
       "basename": "FeyWarrior3",
       "path": "Images/Characters/FeyWarrior3.jpg"
-    },
-    {
-      "basename": "FeyWizard",
-      "path": "Images/Characters/FeyWizard.jpg"
     }
   ],
   "omittedPaths": [],
