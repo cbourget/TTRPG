@@ -19,7 +19,7 @@ Rackam: Et ensuite?! Qu'adviendra-t-il lorsque nosu toucherons terre? À ce que 
 
 Randall: En effet, Rackam, toi-même étant capitaine, tu en sais quelque chose. J'ai...
 
-Alcide: CVous souloez un bon point capitaine Rackam. Il va sans dire qu'il faudra une chaîne de commande bien établie afin que cette expédition ne sombre dans le chaos. Je pense que le capitaine Randall est tout-à-fait apte à diriger cette compagnie même lorsque nous aurons touché terre. Au-delà de cette compétences, c'est aussi un leader né et un loyal fidèle serviteur de notre patrie.
+Alcide: Vous soulevez un bon point capitaine Rackam. Il va sans dire qu'il faudra une chaîne de commande bien établie afin que cette expédition ne sombre dans le chaos. Je pense que le capitaine Randall est tout-à-fait apte à diriger cette compagnie même lorsque nous aurons touché terre. Au-delà de cette compétences, c'est aussi un leader né et un loyal fidèle serviteur de notre patrie.
 
 Rackam: En tout respect messire Foghorn, je ne pense pas que Randall soit l'homme désigné pour cette tâche. Il n'a jamais prouvé sa valeur dans une situation telle que celle-ci tandis que moi, n'en déplaise à la famille Carodoc, j'ai redressé la situation avec les pirates en mettant sur pied un avant-poste dans les îles de cette mer. Je sais ce qu'il faut pour conquérir l'inconnu.  
 
@@ -28,10 +28,55 @@ Wilhem: Vous cherchez tous à savoir vers qui vous tourner alors que la réponse
 Penny Ilvastar: La famille Ilvastar abonde dans le même sens que son excellence et nous nous soumettons à l'autorité d'Osiron.
 Vilfort Estelmer: La famille Estelmer se soumet à l'autorité d'Osiron.
 
-Randall: **Regarde anxieusement Alcide** Une cohue se déclanche
+Randall: **Regarde anxieusement Alcide** Une cohue se déclanche et plusieurs PNJs se rangent d'une part et d'autre ou émettent leur opinion.
 
 Crik: Votre excellence sait bien que nous sommes tous fidèles à Osiron. La réponse que vous offrez à la quesion est valable mais...
 
 Perrin: C'est la seule réponse valable.
 
-Crik: **Ignore Perrin** mais  la question mérite d'être débattue sans avoir recours à l'absolutisme. Puisqu'il me semble évident que nous n'obtiendrons pas concensus aujourd'hui, reportons cette discussion à plus tard. En attendant, je suggère à tous de trouver de l'inspiration net du réconfort dans les accomplissements de ces héros sans qui notre mission aurait déjà échouée. Ils ont su mettre de côté leurs différends et cela s'est avéré payant.
+Crik: **Ignore Perrin** mais  la question mérite d'être débattue sans avoir recours à l'absolutisme. Puisqu'il me semble évident que nous n'obtiendrons pas concensus aujourd'hui, reportons cette discussion à plus tard. En attendant, je suggère à tous de trouver de l'inspiration et du réconfort dans les accomplissements de ces héros sans qui notre mission aurait déjà échouée. Ils ont su mettre de côté leurs différends et cela s'est avéré payant. **En montrant les joueurs**
+
+Un peu plus tard dans la journée
+
+Deux matelots montent sur le pont avec [[Jormun]] et [[Gareth]] qu'ils ont trouvé dans la cale. Cela attire l'attention et beaucoup de gens se réunissent pour assister à la scène. Randall se met à les questionner.
+
+Randall: Nommez-vous et dites-moi ce que vous faites à bord de mon navire.
+J&G: **En regardant nerveusement autour** Nous nous cachions en ne sachant pas qu'il s'agissait de votre navire...
+Randall: Vous pensiez ainsi être dispensés de payer la traversée... C'est une très mauvaise idée...
+J&G: Non non, pas du tout. Nous nous sommes cachés car nous craignons pour nos vie...
+Agrippine: Avec raison! Vous avez trahi notre guilde et trahi Brevoy.
+J&G: C'est faux!
+Brann: C'est vrai!
+Randall: Silence! JE pose les questions! ... Comment répondez-vous à ces accusations?
+J&G: Nous sommes innocents. Ciel! Dis-leur! Nous n'avons rien fait.
+Xendra: Capitaine Randall, permettez-moi de prendre la parole, en tant que personne lésée par le crime dont sont accusés ces individus. Sans dire que je les crois non-coupables, je ne crois pas que nous ayons de preuves suffisantes pour soutenir les accusations et encore moins pour les condamner. Je vous propose que nous taisions cette affaire qui n'est qu'une distraction.
+Agripinne: Xendra, qu'est-ce qui te prend! Ils ne peuvent rester impunis!
+Randall: Silence! En effet, cette distraction s'est déjà trop éternisée. Mademoiselle Xendra, croyez-vous ces hommes dangeureux?
+Xendra: Je ne les crois pas dangeureux dans les circonstances où ils se trouvent.
+Randall: Dance ce cas, que l'on trouve un travail à ces hommes et qu'on ne les perde pas de vue.
+Rackam: Mais ce sont des clandestins! Nous devrions les jeter par-dessus bord! **Sa crew est d'accord et l'exprime** Pour qu'ils travaillent il faudra les nourrir et ce ne sera pas à même mes rations!
+Randall: **Qui avait déjà tournée dos à la foule, s'arrête** ...
+Xendra: Je partagerai mes rations avec eux afin qu'ils aient la force de faire briller ce pont.
+Nilheim: Moi de-même.
+Randall: Qu'il en soit ainsi.
+Rackam: **Grogne un peu**. Certains de ses sbires crachent au pied des J&G.
+
+
+Petite blague des marins de Rakam:
+
+**À Wanagesska** toi, est-tu un genre de vagabond vénérateur de la nature?
+Regarde ça... Ça, c'est de l'eau sacrée. Nous les marins on la vénère comme toit tu vénères les ruisseaux...
+On a aussi un rituel sacré... On trempe un sceptre demain pis ON FROTTE! **En bottant la chaudière**
+
+
+Confession de M. Sulyvan, An 2996, Verbatim
+
+Votre excellence, je m'adresse à vous car je suis troublé. Je suis troublé depuis la mort de celui dont vous occupez maintenant le siège, le Saint Père Gawain. Presque toute ma vie et jusqu'à sa mort, je l'ai servi, du mieux que j'ai pu. C'était un homme bon et il m'a fait le plus grand des honneurs en acceptant mes services. Que je sois puni si ce que je m'apprête à vous dire soit un parjure à sa mémoire.
+
+Dans les jours précédents sa mort, mon maître parlait souvent, sans qu'il n'y aie d'interlocoteur. Il était seul, dans sa chambre, et moi, qui vaquait à mes occupations, l'entendait parfois. Je ne portais pas une oreille attentive mais malgré cela, je dois admettre qu'il était devenu difficile de trouver un sens à ses paroles. La journée précédant son unification, j'ai entendu des paroles qui, depuis, sont l'objet de mes tourments.
+
+Je ne me rappelle pas de ses paroles exactes mais je me souviens qu'il se demandait s'il en avait fait assez. S'il en avait assez dit. Dans le cas contraire, il priait pour que les **Ptu... Rien...** facent preuve de clémence et que l'humanité survive au nouveau millénaire.
+
+Je ne sais pas sil s'agissait seulement des divagations d'un homme malade mais. à l'approche du troisième millénaire, je suis inquiet.
+
+

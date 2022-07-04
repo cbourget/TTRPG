@@ -11,7 +11,7 @@ tags: NPC
 
 ```ad-desc
 
-<span class="image">![[Fligbi.jpg]][[Fligbi.jpg|Voir]]</span>
+<span class="image">![[Fligbi.png]][[Fligbi.png|Voir]]</span>
 
 <span class="npc-tags">#Gnome #Homme</span>
 

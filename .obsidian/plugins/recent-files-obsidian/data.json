@@ -5,108 +5,56 @@
       "path": "Notes scénario 3.md"
     },
     {
-      "basename": "Penny Ilvastar",
-      "path": "1 - Compendium/NPCs/Penny Ilvastar/Penny Ilvastar.md"
+      "basename": "Le Pacte",
+      "path": "1 - Compendium/Concepts/Le Pacte.md"
     },
     {
-      "basename": "Ilvastar",
-      "path": "1 - Compendium/Factions/Ilvastar.md"
+      "basename": "Âme",
+      "path": "1 - Compendium/Concepts/Âme.md"
     },
     {
-      "basename": "Bran Ilvastar",
-      "path": "1 - Compendium/NPCs/Bran Ilvastar/Bran Ilvastar.md"
+      "basename": "Église d'Osiron",
+      "path": "1 - Compendium/Factions/Église d'Osiron.md"
     },
     {
-      "basename": "Vilfort Estelmer",
-      "path": "1 - Compendium/NPCs/Vilfort Estelmer/Vilfort Estelmer.md"
+      "basename": "Osiron",
+      "path": "1 - Compendium/Concepts/Osiron.md"
     },
     {
-      "basename": "Estelmer",
-      "path": "1 - Compendium/Factions/Estelmer.md"
+      "basename": "Père Gawain",
+      "path": "1 - Compendium/Concepts/Père Gawain.md"
+    },
+    {
+      "basename": "Korigan Telazar",
+      "path": "1 - Compendium/Concepts/Korigan Telazar.md"
+    },
+    {
+      "basename": "Sigle",
+      "path": "1 - Compendium/Sigle.png"
+    },
+    {
+      "basename": "2 - Une Nouvelle Terre",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/2 - Une Nouvelle Terre.md"
+    },
+    {
+      "basename": "3 - Le voyage",
+      "path": "2 - Campagne/Scenarios/1 - Expédition/3 - Le voyage.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Untitled.md"
+    },
+    {
+      "basename": "Pictown",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Pictown.jpg"
     },
     {
       "basename": "Expédition",
       "path": "2 - Campagne/Expédition.md"
     },
     {
-      "basename": "Rackham",
-      "path": "1 - Compendium/Factions/Rackham.md"
-    },
-    {
-      "basename": "Logan Lanngolyn",
-      "path": "1 - Compendium/NPCs/Logan Lanngolyn/Logan Lanngolyn.md"
-    },
-    {
-      "basename": "G17",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G17.md"
-    },
-    {
-      "basename": "G16",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G16.md"
-    },
-    {
-      "basename": "G15",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G15.md"
-    },
-    {
-      "basename": "G14",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G14.md"
-    },
-    {
-      "basename": "G13",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G13.md"
-    },
-    {
-      "basename": "G12",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G12.md"
-    },
-    {
-      "basename": "G11",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G11.md"
-    },
-    {
-      "basename": "G10",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G10.md"
-    },
-    {
-      "basename": "G9",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G9.md"
-    },
-    {
-      "basename": "G8",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G8.md"
-    },
-    {
-      "basename": "G7",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G7.md"
-    },
-    {
-      "basename": "G6",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G6.md"
-    },
-    {
-      "basename": "G5",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G5.md"
-    },
-    {
-      "basename": "G4",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G4.md"
-    },
-    {
-      "basename": "G3",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G3.md"
-    },
-    {
-      "basename": "G2",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G2.md"
-    },
-    {
-      "basename": "G1",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/G1.md"
-    },
-    {
-      "basename": "Taverne",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Taverne/Taverne.md"
+      "basename": "Index",
+      "path": "Index.md"
     },
     {
       "basename": "TOOD",
@@ -117,88 +65,140 @@
       "path": "Plan.md"
     },
     {
-      "basename": "NPCs Connus",
-      "path": "NPCs Connus.pdf"
-    },
-    {
-      "basename": "Index",
-      "path": "Index.md"
-    },
-    {
-      "basename": "Âme - Savard",
-      "path": "Âme - Savard.pdf"
-    },
-    {
-      "basename": "Session 1 - Joindre l'expédition",
-      "path": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.pdf"
-    },
-    {
-      "basename": "Qwila",
-      "path": "1 - Compendium/NPCs/Qwila/Qwila.md"
-    },
-    {
-      "basename": "Fligbi",
-      "path": "1 - Compendium/NPCs/Fligbi/Fligbi.md"
-    },
-    {
-      "basename": "Segast",
-      "path": "1 - Compendium/NPCs/Segast/Segast.md"
-    },
-    {
-      "basename": "Sigle",
-      "path": "1 - Compendium/Sigle.png"
-    },
-    {
-      "basename": "Vala",
-      "path": "1 - Compendium/NPCs/Vala.md"
-    },
-    {
-      "basename": "Vivalda",
-      "path": "1 - Compendium/NPCs/Vivalda.jpg"
-    },
-    {
-      "basename": "Wilhem Oberon",
-      "path": "1 - Compendium/NPCs/Wilhem Oberon.md"
-    },
-    {
-      "basename": "Alcide Foghorn",
-      "path": "1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md"
-    },
-    {
-      "basename": "Bandit Lair",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md"
-    },
-    {
-      "basename": "Égoûts",
-      "path": "2 - Campagne/Scenarios/1 - Expédition/Égoûts/Égoûts.md"
-    },
-    {
-      "basename": "Fligbi",
-      "path": "1 - Compendium/NPCs/Fligbi/Fligbi.png"
-    },
-    {
-      "basename": "Glouviss",
-      "path": "1 - Compendium/NPCs/Glouviss.png"
+      "basename": "Blaiva",
+      "path": "1 - Compendium/NPCs/Blaiva/Blaiva.md"
     },
     {
       "basename": "Peluvar",
       "path": "1 - Compendium/NPCs/Peluvar.jpg"
     },
     {
-      "basename": "Blaiva",
-      "path": "1 - Compendium/NPCs/Blaiva/Blaiva.md"
+      "basename": "Glouviss",
+      "path": "1 - Compendium/NPCs/Glouviss.png"
     },
     {
-      "basename": "Blaiva",
-      "path": "1 - Compendium/NPCs/Blaiva/Blaiva.jpg"
+      "basename": "Fabna",
+      "path": "1 - Compendium/NPCs/Fabna.jpg"
+    },
+    {
+      "basename": "Eryn",
+      "path": "1 - Compendium/NPCs/Eryn.md"
+    },
+    {
+      "basename": "Dubrin",
+      "path": "1 - Compendium/NPCs/Dubrin.jpg"
+    },
+    {
+      "basename": "Dame Yiotl",
+      "path": "1 - Compendium/NPCs/Dame Yiotl.md"
+    },
+    {
+      "basename": "Cuela",
+      "path": "1 - Compendium/NPCs/Cuela.jpg"
+    },
+    {
+      "basename": "Xendra Mantar",
+      "path": "1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
+    },
+    {
+      "basename": "Wisgar",
+      "path": "1 - Compendium/NPCs/Wisgar/Wisgar.md"
+    },
+    {
+      "basename": "Wilhelm Oberon",
+      "path": "1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md"
+    },
+    {
+      "basename": "Vonnder Cragmire",
+      "path": "1 - Compendium/NPCs/Vonnder Cragmire/Vonnder Cragmire.md"
+    },
+    {
+      "basename": "Vilfort Estelmer",
+      "path": "1 - Compendium/NPCs/Vilfort Estelmer/Vilfort Estelmer.md"
+    },
+    {
+      "basename": "Tombeau",
+      "path": "1 - Compendium/NPCs/Tombeau/Tombeau.md"
+    },
+    {
+      "basename": "Tamerlane Foghorn",
+      "path": "1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.md"
+    },
+    {
+      "basename": "Talarissa",
+      "path": "1 - Compendium/NPCs/Talarissa/Talarissa.md"
+    },
+    {
+      "basename": "Taff",
+      "path": "1 - Compendium/NPCs/Taff/Taff.md"
+    },
+    {
+      "basename": "Siegfried",
+      "path": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
+    },
+    {
+      "basename": "Seymor Mantar",
+      "path": "1 - Compendium/NPCs/Seymor Mantar/Seymor Mantar.md"
+    },
+    {
+      "basename": "Segast",
+      "path": "1 - Compendium/NPCs/Segast/Segast.md"
+    },
+    {
+      "basename": "Samora",
+      "path": "1 - Compendium/NPCs/Samora/Samora.md"
+    },
+    {
+      "basename": "Roy Larg",
+      "path": "1 - Compendium/NPCs/Roy Larg/Roy Larg.md"
     },
     {
       "basename": "Ronzu",
       "path": "1 - Compendium/NPCs/Ronzu/Ronzu.md"
     },
     {
-      "basename": "Calniss",
-      "path": "1 - Compendium/NPCs/Calniss.jpg"
+      "basename": "Randal Carodoc",
+      "path": "1 - Compendium/NPCs/Randal Carodoc/Randal Carodoc.md"
+    },
+    {
+      "basename": "Rakell Carodoc",
+      "path": "1 - Compendium/NPCs/Rakell Carodoc/Rakell Carodoc.md"
+    },
+    {
+      "basename": "Rackham",
+      "path": "1 - Compendium/NPCs/Rackham/Rackham.md"
+    },
+    {
+      "basename": "Qwila",
+      "path": "1 - Compendium/NPCs/Qwila/Qwila.md"
+    },
+    {
+      "basename": "Perrin",
+      "path": "1 - Compendium/NPCs/Perrin/Perrin.md"
+    },
+    {
+      "basename": "Penny Ilvastar",
+      "path": "1 - Compendium/NPCs/Penny Ilvastar/Penny Ilvastar.md"
+    },
+    {
+      "basename": "Norlu",
+      "path": "1 - Compendium/NPCs/Norlu/Norlu.md"
+    },
+    {
+      "basename": "Nilheim",
+      "path": "1 - Compendium/NPCs/Nilheim/Nilheim.md"
+    },
+    {
+      "basename": "Nadia",
+      "path": "1 - Compendium/NPCs/Nadia/Nadia.md"
+    },
+    {
+      "basename": "Mithrand",
+      "path": "1 - Compendium/NPCs/Mithrand/Mithrand.md"
+    },
+    {
+      "basename": "Meredia",
+      "path": "1 - Compendium/NPCs/Meredia/Meredia.md"
     }
   ],
   "omittedPaths": [],
