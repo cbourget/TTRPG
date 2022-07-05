@@ -1,16 +1,180 @@
 {
   "recentFiles": [
     {
+      "basename": "ImminarMap",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg"
+    },
+    {
+      "basename": "Kheyus",
+      "path": "Images/Maps/Kheyus.png"
+    },
+    {
+      "basename": "Seaside_Ambush_72dpi_VTT",
+      "path": "Images/Maps/Seaside_Ambush_72dpi_VTT.jpg"
+    },
+    {
+      "basename": "Sewer2",
+      "path": "Images/Maps/Sewer2.jpg"
+    },
+    {
+      "basename": "Sewer3",
+      "path": "Images/Maps/Sewer3.jpg"
+    },
+    {
+      "basename": "SwampTown",
+      "path": "Images/Maps/SwampTown.jpg"
+    },
+    {
+      "basename": "Town_of_Hanged_Men_(Night)_72dpi_VTT",
+      "path": "Images/Maps/Town_of_Hanged_Men_(Night)_72dpi_VTT.jpg"
+    },
+    {
+      "basename": "Town_of_Hanged_Men_Roof_(Night)_72dpi_VTT",
+      "path": "Images/Maps/Town_of_Hanged_Men_Roof_(Night)_72dpi_VTT.jpg"
+    },
+    {
+      "basename": "Ville Portuaire",
+      "path": "Images/Maps/Ville Portuaire.jpg"
+    },
+    {
+      "basename": "WorldMap",
+      "path": "Images/Maps/WorldMap.jpg"
+    },
+    {
+      "basename": "Wormford",
+      "path": "Images/Maps/Wormford.jpg"
+    },
+    {
+      "basename": "XendrikHex",
+      "path": "Images/Maps/XendrikHex.jpeg"
+    },
+    {
+      "basename": "Ship",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Ship.jpg"
+    },
+    {
+      "basename": "QuartierBandits",
+      "path": "Images/Maps/QuartierBandits.jpg"
+    },
+    {
+      "basename": "Prison",
+      "path": "Images/Maps/Prison.jpg"
+    },
+    {
+      "basename": "LakeTown2",
+      "path": "Images/Maps/LakeTown2.jpg"
+    },
+    {
+      "basename": "Murkmire_Derelict_Lower_72dpi_VTT",
+      "path": "Images/Maps/Murkmire_Derelict_Lower_72dpi_VTT.jpg"
+    },
+    {
+      "basename": "Pools_of_Tranquility_72dpi_VTT",
+      "path": "Images/Maps/Pools_of_Tranquility_72dpi_VTT.jpg"
+    },
+    {
+      "basename": "Primeval_Forest_72dpi_VTT",
+      "path": "Images/Maps/Primeval_Forest_72dpi_VTT.jpg"
+    },
+    {
+      "basename": "Pictown",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Pictown.jpg"
+    },
+    {
+      "basename": "LakeTown",
+      "path": "Images/Maps/LakeTown.jpg"
+    },
+    {
+      "basename": "Khorvaire2",
+      "path": "Images/Maps/Khorvaire2.jpg"
+    },
+    {
+      "basename": "Khorvaire",
+      "path": "Images/Maps/Khorvaire.jpg"
+    },
+    {
+      "basename": "HowlDeepTavern",
+      "path": "Images/Maps/HowlDeepTavern.jpg"
+    },
+    {
+      "basename": "FishingVillage_logo",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/FishingVillage_logo.jpg"
+    },
+    {
+      "basename": "Untitled",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Untitled.md"
+    },
+    {
+      "basename": "2 - Une Nouvelle Terre",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/2 - Une Nouvelle Terre.md"
+    },
+    {
+      "basename": "ExoticCityGrid",
+      "path": "Images/Maps/ExoticCityGrid.jpg"
+    },
+    {
+      "basename": "Ederfast2",
+      "path": "Images/Maps/Ederfast2.jpg"
+    },
+    {
+      "basename": "Ederfast",
+      "path": "Images/Maps/Ederfast.jpg"
+    },
+    {
+      "basename": "AbandonnedVillage",
+      "path": "Images/Maps/AbandonnedVillage.jpg"
+    },
+    {
+      "basename": "Brevoy Street",
+      "path": "Images/Locations/Brevoy Street.jpg"
+    },
+    {
+      "basename": "Death Beach",
+      "path": "Images/Locations/Death Beach.jpg"
+    },
+    {
+      "basename": "Alley",
+      "path": "Images/Locations/Alley.jpg"
+    },
+    {
+      "basename": "Bridgelands",
+      "path": "Images/Locations/Bridgelands.jpg"
+    },
+    {
+      "basename": "DesertCity",
+      "path": "Images/Locations/DesertCity.jpg"
+    },
+    {
+      "basename": "Wandering Tombshell",
+      "path": "Images/Locations/Wandering Tombshell.jpg"
+    },
+    {
+      "basename": "Sunny Mountains",
+      "path": "Images/Locations/Sunny Mountains.jpg"
+    },
+    {
+      "basename": "Écrin du Damné",
+      "path": "1 - Compendium/Documents/Écrin du Damné.md"
+    },
+    {
+      "basename": "Âme",
+      "path": "1 - Compendium/Concepts/Âme.md"
+    },
+    {
+      "basename": "Confession Sulyvan",
+      "path": "1 - Compendium/Documents/Confession Sulyvan.md"
+    },
+    {
+      "basename": "Rapport Dr Holowitz",
+      "path": "1 - Compendium/Documents/Rapport Dr Holowitz.md"
+    },
+    {
       "basename": "Notes scénario 3",
       "path": "Notes scénario 3.md"
     },
     {
       "basename": "Le Pacte",
       "path": "1 - Compendium/Concepts/Le Pacte.md"
-    },
-    {
-      "basename": "Âme",
-      "path": "1 - Compendium/Concepts/Âme.md"
     },
     {
       "basename": "Église d'Osiron",
@@ -30,175 +194,11 @@
     },
     {
       "basename": "Sigle",
-      "path": "1 - Compendium/Sigle.png"
-    },
-    {
-      "basename": "2 - Une Nouvelle Terre",
-      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/2 - Une Nouvelle Terre.md"
+      "path": "1 - Compendium/Documents/Sigle.png"
     },
     {
       "basename": "3 - Le voyage",
       "path": "2 - Campagne/Scenarios/1 - Expédition/3 - Le voyage.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Untitled.md"
-    },
-    {
-      "basename": "Pictown",
-      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Pictown.jpg"
-    },
-    {
-      "basename": "Expédition",
-      "path": "2 - Campagne/Expédition.md"
-    },
-    {
-      "basename": "Index",
-      "path": "Index.md"
-    },
-    {
-      "basename": "TOOD",
-      "path": "TOOD.md"
-    },
-    {
-      "basename": "Plan",
-      "path": "Plan.md"
-    },
-    {
-      "basename": "Blaiva",
-      "path": "1 - Compendium/NPCs/Blaiva/Blaiva.md"
-    },
-    {
-      "basename": "Peluvar",
-      "path": "1 - Compendium/NPCs/Peluvar.jpg"
-    },
-    {
-      "basename": "Glouviss",
-      "path": "1 - Compendium/NPCs/Glouviss.png"
-    },
-    {
-      "basename": "Fabna",
-      "path": "1 - Compendium/NPCs/Fabna.jpg"
-    },
-    {
-      "basename": "Eryn",
-      "path": "1 - Compendium/NPCs/Eryn.md"
-    },
-    {
-      "basename": "Dubrin",
-      "path": "1 - Compendium/NPCs/Dubrin.jpg"
-    },
-    {
-      "basename": "Dame Yiotl",
-      "path": "1 - Compendium/NPCs/Dame Yiotl.md"
-    },
-    {
-      "basename": "Cuela",
-      "path": "1 - Compendium/NPCs/Cuela.jpg"
-    },
-    {
-      "basename": "Xendra Mantar",
-      "path": "1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
-    },
-    {
-      "basename": "Wisgar",
-      "path": "1 - Compendium/NPCs/Wisgar/Wisgar.md"
-    },
-    {
-      "basename": "Wilhelm Oberon",
-      "path": "1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md"
-    },
-    {
-      "basename": "Vonnder Cragmire",
-      "path": "1 - Compendium/NPCs/Vonnder Cragmire/Vonnder Cragmire.md"
-    },
-    {
-      "basename": "Vilfort Estelmer",
-      "path": "1 - Compendium/NPCs/Vilfort Estelmer/Vilfort Estelmer.md"
-    },
-    {
-      "basename": "Tombeau",
-      "path": "1 - Compendium/NPCs/Tombeau/Tombeau.md"
-    },
-    {
-      "basename": "Tamerlane Foghorn",
-      "path": "1 - Compendium/NPCs/Tamerlane Foghorn/Tamerlane Foghorn.md"
-    },
-    {
-      "basename": "Talarissa",
-      "path": "1 - Compendium/NPCs/Talarissa/Talarissa.md"
-    },
-    {
-      "basename": "Taff",
-      "path": "1 - Compendium/NPCs/Taff/Taff.md"
-    },
-    {
-      "basename": "Siegfried",
-      "path": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
-    },
-    {
-      "basename": "Seymor Mantar",
-      "path": "1 - Compendium/NPCs/Seymor Mantar/Seymor Mantar.md"
-    },
-    {
-      "basename": "Segast",
-      "path": "1 - Compendium/NPCs/Segast/Segast.md"
-    },
-    {
-      "basename": "Samora",
-      "path": "1 - Compendium/NPCs/Samora/Samora.md"
-    },
-    {
-      "basename": "Roy Larg",
-      "path": "1 - Compendium/NPCs/Roy Larg/Roy Larg.md"
-    },
-    {
-      "basename": "Ronzu",
-      "path": "1 - Compendium/NPCs/Ronzu/Ronzu.md"
-    },
-    {
-      "basename": "Randal Carodoc",
-      "path": "1 - Compendium/NPCs/Randal Carodoc/Randal Carodoc.md"
-    },
-    {
-      "basename": "Rakell Carodoc",
-      "path": "1 - Compendium/NPCs/Rakell Carodoc/Rakell Carodoc.md"
-    },
-    {
-      "basename": "Rackham",
-      "path": "1 - Compendium/NPCs/Rackham/Rackham.md"
-    },
-    {
-      "basename": "Qwila",
-      "path": "1 - Compendium/NPCs/Qwila/Qwila.md"
-    },
-    {
-      "basename": "Perrin",
-      "path": "1 - Compendium/NPCs/Perrin/Perrin.md"
-    },
-    {
-      "basename": "Penny Ilvastar",
-      "path": "1 - Compendium/NPCs/Penny Ilvastar/Penny Ilvastar.md"
-    },
-    {
-      "basename": "Norlu",
-      "path": "1 - Compendium/NPCs/Norlu/Norlu.md"
-    },
-    {
-      "basename": "Nilheim",
-      "path": "1 - Compendium/NPCs/Nilheim/Nilheim.md"
-    },
-    {
-      "basename": "Nadia",
-      "path": "1 - Compendium/NPCs/Nadia/Nadia.md"
-    },
-    {
-      "basename": "Mithrand",
-      "path": "1 - Compendium/NPCs/Mithrand/Mithrand.md"
-    },
-    {
-      "basename": "Meredia",
-      "path": "1 - Compendium/NPCs/Meredia/Meredia.md"
     }
   ],
   "omittedPaths": [],
