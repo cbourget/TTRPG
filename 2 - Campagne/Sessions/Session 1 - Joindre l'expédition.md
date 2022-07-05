@@ -1,7 +1,7 @@
 
 # Session 1 - Joindre l'expédition
 ## Information
-- Dans uen rumeur entendues par les joueurs, il a été question de [[Vala]], un insurgé qui aurait renvendiqué l'attentat qui a permis de saisir un convoi important de biens destinés au front. Il a été mentionné que ce dernier a gagné en crédibilité et que plusieurs personnes se sont ralliées à lui.
+- Dans une rumeur entendues par les joueurs, il a été question de [[Vala]], un insurgé qui aurait renvendiqué l'attentat qui a permis de saisir un convoi important de biens destinés au front. Il a été mentionné que ce dernier a gagné en crédibilité et que plusieurs personnes se sont ralliées à lui.
 
 ## Action
 ### [[Ciel Phantomhive]]
