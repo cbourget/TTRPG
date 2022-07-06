@@ -7,9 +7,11 @@
         "id": "3e8977b531de1d46",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg"
+            "file": "Notes scénario 3.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg",
+                "file": "Notes scénario 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg"
+                "file": "Notes scénario 3.md"
               }
             }
           },
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg",
+                "file": "Notes scénario 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,6 +154,7 @@
   },
   "active": "3e8977b531de1d46",
   "lastOpenFiles": [
+    "Notes scénario 3.md",
     "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg",
     "1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md",
     "2 - Campagne/Sessions/Session 2 - Retrouver Cleyton.md",
@@ -160,7 +163,6 @@
     "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.pdf",
     "Images/Maps/Kheyus.png",
     "Images/Maps/Seaside_Ambush_72dpi_VTT.jpg",
-    "Images/Maps/Sewer2.jpg",
-    "Images/Maps/Sewer3.jpg"
+    "Images/Maps/Sewer2.jpg"
   ]
 }

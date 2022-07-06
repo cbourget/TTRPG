@@ -60,10 +60,32 @@ On a aussi un rituel sacré... On trempe un sceptre demain pis ON FROTTE! **En b
 
 ---
 
+Mécanique:
+
+Le bateau a un maximum de 40
+
+Moral/Cohésion:  x/10
+Santé: x/10
+Compétence/Prises de décision: x/10
+Équipement: * / 10
+
+Progression (par tranche de 5 jours):
+	- DC 20: -5
+	- DC 25: -3
+	- DC 30: 5
+	- DC 35: 7
+	- DC 45: 10
+
+Durée du voyage: 45 jours
+Événements:
+	- Tempête
+	- Maladie
+	- Aucun vent
+	- 
 
 ---
 
-
-
-
-
+Tara est le nom de la terre
+Pictuk est le village et ses habitants sont les Pictis
+Lorsque le lac gèle, ils envoient les hommes et les boeufs pour couper/rammener du bois
+Lorsque le niveau de l'eau baisse, ils font brouter les boeufs (algues)
