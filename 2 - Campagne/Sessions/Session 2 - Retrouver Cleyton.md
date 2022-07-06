@@ -19,26 +19,26 @@
 - A appris que certains bordels ou tavernes s'approvisionnaient en vin auprès des contrebandiers.
 
 ### [[Père Aurel]]
-- A obtenu son laisser-passer pour l'exédition via [[Wilhem Oberon]].
+- A obtenu son laisser-passer pour l'expédition via [[Wilhem Oberon]].
 - A gagné la confiance de [[Logan Lanngolyn]].
 
 ### [[Léon de Beauvais]]
-- A obtenu son laisser-passer pour l'exédition via [[Rakell Carodoc]].
+- A obtenu son laisser-passer pour l'expédition via [[Rakell Carodoc]].
 - A trouvé le fouet de sa famille.
 - A libéré [[Cleyton Kilmer]] et les prisonniers.
 
 ### [[Wanageeska]]
-- A obtenu son laisser-passer pour l'exédition via [[Wilhem Oberon]].
+- A obtenu son laisser-passer pour l'expédition via [[Sigur Eldridge]].
 - A intimidé [[Logan Lanngolyn]] et passé proche de lui couper la langue.
-- S'est fait valoir auprès de [[Korigan Mantar]] en mentionnant ses connaissances de la nature et du terrain. [[Korigan Mantar]] lui a mentionné que c,était uen bonne chose mais qu'il n'était pas la meilleure personne pour faire l'appréciation de ces connaissances.
-- S'est fait insulter par la bande de [[Rackham]].
 
 ### [[Sigur Eldridge]]
-- A parlé avec [[Corvo Estelmer]] et lui a demandé s'il allait faire partie de l'expédition, ce à quoi [[Corvo Estelmer]] lui a répondu par l'affirmative. [[Corvo Estelmer]] l'a également trouvé impertinent. [[Sigur Eldridge]] a aussi mentionné sa maîtrise du dialogue et des intéractions sociales.
-- A parlé avec [[Talarissa]] pour comprendre ses intentions, car il en doutait. Il croit qu'elle a dit la vérité mais ne lui a pas proposé de l'aider d'une quelconque façon.
+- A parlé avec [[Alcide Foghorn]] et a tout raconté.
+- A obtenu son laisser-passer pour l'expédition via [[Alaric Foghorn]].
+- A fait monter [[Talarissa]], [[Héron]], [[Livia]] et [[Wanageeska]].
 
 ## Gains
-- Taverne: 150xp
-- Trouver les égoûts: 150xp
-- Encounter **Sewer Oozes** : 80 xp
-- Encounter **Nadia** : 20 xp
+- Encounter **Choker**: 60xp
+- Encounter **Spiders**: 100xp
+- Encounter **Bandits** + trappes: 400xp
+- Sauver les prisonniers (8) et [[Cleyton Kilmer]]: 130xp
+- Retour à la taverne et RP: 80xp

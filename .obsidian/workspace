@@ -7,11 +7,9 @@
         "id": "3e8977b531de1d46",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "NPCs Connus.md",
-            "mode": "preview",
-            "source": true
+            "file": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg"
           }
         }
       }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs Connus.md",
+                "file": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs Connus.md"
+                "file": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg"
               }
             }
           },
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs Connus.md",
+                "file": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,15 +152,15 @@
   },
   "active": "3e8977b531de1d46",
   "lastOpenFiles": [
-    "NPCs Connus.md",
+    "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg",
+    "1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md",
     "2 - Campagne/Sessions/Session 2 - Retrouver Cleyton.md",
+    "NPCs Connus.md",
     "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.md",
     "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.pdf",
-    "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg",
     "Images/Maps/Kheyus.png",
     "Images/Maps/Seaside_Ambush_72dpi_VTT.jpg",
     "Images/Maps/Sewer2.jpg",
-    "Images/Maps/Sewer3.jpg",
-    "Images/Maps/SwampTown.jpg"
+    "Images/Maps/Sewer3.jpg"
   ]
 }

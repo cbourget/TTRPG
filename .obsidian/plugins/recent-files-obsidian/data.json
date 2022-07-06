@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "NPCs Connus",
-      "path": "NPCs Connus.md"
+      "basename": "ImminarMap",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg"
+    },
+    {
+      "basename": "Cleyton Kilmer",
+      "path": "1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md"
     },
     {
       "basename": "Session 2 - Retrouver Cleyton",
       "path": "2 - Campagne/Sessions/Session 2 - Retrouver Cleyton.md"
+    },
+    {
+      "basename": "NPCs Connus",
+      "path": "NPCs Connus.md"
     },
     {
       "basename": "Session 1 - Joindre l'expédition",
@@ -15,10 +23,6 @@
     {
       "basename": "Session 1 - Joindre l'expédition",
       "path": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.pdf"
-    },
-    {
-      "basename": "ImminarMap",
-      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg"
     },
     {
       "basename": "Kheyus",
@@ -195,10 +199,6 @@
     {
       "basename": "Église d'Osiron",
       "path": "1 - Compendium/Factions/Église d'Osiron.md"
-    },
-    {
-      "basename": "Osiron",
-      "path": "1 - Compendium/Concepts/Osiron.md"
     }
   ],
   "omittedPaths": [],
