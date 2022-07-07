@@ -1,12 +1,100 @@
 {
   "recentFiles": [
     {
-      "basename": "Notes scénario 3",
-      "path": "Notes scénario 3.md"
+      "basename": "Expédition",
+      "path": "2 - Campagne/Expédition.md"
+    },
+    {
+      "basename": "Ship",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Ship.jpg"
+    },
+    {
+      "basename": "2 - Une Nouvelle Terre",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/2 - Une Nouvelle Terre.md"
+    },
+    {
+      "basename": "Christofle",
+      "path": "1 - Compendium/NPCs/Christofle/Christofle.md"
+    },
+    {
+      "basename": "Harald",
+      "path": "1 - Compendium/NPCs/Harald/Harald.md"
+    },
+    {
+      "basename": "Samora",
+      "path": "1 - Compendium/NPCs/Samora/Samora.jpg"
+    },
+    {
+      "basename": "Edelia",
+      "path": "1 - Compendium/NPCs/Edelia/Edelia.md"
+    },
+    {
+      "basename": "Agrippine",
+      "path": "1 - Compendium/NPCs/Agrippine/Agrippine.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Index.md"
+    },
+    {
+      "basename": "TOOD",
+      "path": "TOOD.md"
+    },
+    {
+      "basename": "Plan",
+      "path": "Plan.md"
+    },
+    {
+      "basename": "NPCs Connus",
+      "path": "NPCs Connus.md"
     },
     {
       "basename": "ImminarMap",
       "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg"
+    },
+    {
+      "basename": "FishingVillage_logo",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/FishingVillage_logo.jpg"
+    },
+    {
+      "basename": "Penny Ilvastar",
+      "path": "1 - Compendium/NPCs/Penny Ilvastar/Penny Ilvastar.md"
+    },
+    {
+      "basename": "Vilfort Estelmer",
+      "path": "1 - Compendium/NPCs/Vilfort Estelmer/Vilfort Estelmer.md"
+    },
+    {
+      "basename": "Kretiak Cragmire",
+      "path": "1 - Compendium/NPCs/Kretiak Cragmire/Kretiak Cragmire.md"
+    },
+    {
+      "basename": "Frya Cragmire",
+      "path": "1 - Compendium/NPCs/Frya Cragmire/Frya Cragmire.md"
+    },
+    {
+      "basename": "Xendra Mantar",
+      "path": "1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
+    },
+    {
+      "basename": "Notes scénario 3",
+      "path": "Notes scénario 3.md"
+    },
+    {
+      "basename": "Écrin du Damné",
+      "path": "1 - Compendium/Documents/Écrin du Damné.md"
+    },
+    {
+      "basename": "GlyphMort",
+      "path": "1 - Compendium/Documents/GlyphMort.png"
+    },
+    {
+      "basename": "Rapport Dr Holowitz",
+      "path": "1 - Compendium/Documents/Rapport Dr Holowitz.md"
+    },
+    {
+      "basename": "Confession Sulyvan",
+      "path": "1 - Compendium/Documents/Confession Sulyvan.md"
     },
     {
       "basename": "Cleyton Kilmer",
@@ -15,10 +103,6 @@
     {
       "basename": "Session 2 - Retrouver Cleyton",
       "path": "2 - Campagne/Sessions/Session 2 - Retrouver Cleyton.md"
-    },
-    {
-      "basename": "NPCs Connus",
-      "path": "NPCs Connus.md"
     },
     {
       "basename": "Session 1 - Joindre l'expédition",
@@ -73,10 +157,6 @@
       "path": "Images/Maps/XendrikHex.jpeg"
     },
     {
-      "basename": "Ship",
-      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Ship.jpg"
-    },
-    {
       "basename": "QuartierBandits",
       "path": "Images/Maps/QuartierBandits.jpg"
     },
@@ -119,86 +199,6 @@
     {
       "basename": "HowlDeepTavern",
       "path": "Images/Maps/HowlDeepTavern.jpg"
-    },
-    {
-      "basename": "FishingVillage_logo",
-      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/FishingVillage_logo.jpg"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Untitled.md"
-    },
-    {
-      "basename": "2 - Une Nouvelle Terre",
-      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/2 - Une Nouvelle Terre.md"
-    },
-    {
-      "basename": "ExoticCityGrid",
-      "path": "Images/Maps/ExoticCityGrid.jpg"
-    },
-    {
-      "basename": "Ederfast2",
-      "path": "Images/Maps/Ederfast2.jpg"
-    },
-    {
-      "basename": "Ederfast",
-      "path": "Images/Maps/Ederfast.jpg"
-    },
-    {
-      "basename": "AbandonnedVillage",
-      "path": "Images/Maps/AbandonnedVillage.jpg"
-    },
-    {
-      "basename": "Brevoy Street",
-      "path": "Images/Locations/Brevoy Street.jpg"
-    },
-    {
-      "basename": "Death Beach",
-      "path": "Images/Locations/Death Beach.jpg"
-    },
-    {
-      "basename": "Alley",
-      "path": "Images/Locations/Alley.jpg"
-    },
-    {
-      "basename": "Bridgelands",
-      "path": "Images/Locations/Bridgelands.jpg"
-    },
-    {
-      "basename": "DesertCity",
-      "path": "Images/Locations/DesertCity.jpg"
-    },
-    {
-      "basename": "Wandering Tombshell",
-      "path": "Images/Locations/Wandering Tombshell.jpg"
-    },
-    {
-      "basename": "Sunny Mountains",
-      "path": "Images/Locations/Sunny Mountains.jpg"
-    },
-    {
-      "basename": "Écrin du Damné",
-      "path": "1 - Compendium/Documents/Écrin du Damné.md"
-    },
-    {
-      "basename": "Âme",
-      "path": "1 - Compendium/Concepts/Âme.md"
-    },
-    {
-      "basename": "Confession Sulyvan",
-      "path": "1 - Compendium/Documents/Confession Sulyvan.md"
-    },
-    {
-      "basename": "Rapport Dr Holowitz",
-      "path": "1 - Compendium/Documents/Rapport Dr Holowitz.md"
-    },
-    {
-      "basename": "Le Pacte",
-      "path": "1 - Compendium/Concepts/Le Pacte.md"
-    },
-    {
-      "basename": "Église d'Osiron",
-      "path": "1 - Compendium/Factions/Église d'Osiron.md"
     }
   ],
   "omittedPaths": [],

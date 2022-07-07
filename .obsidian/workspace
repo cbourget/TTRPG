@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes scénario 3.md",
-            "mode": "source",
+            "file": "2 - Campagne/Expédition.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes scénario 3.md",
+                "file": "2 - Campagne/Expédition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes scénario 3.md"
+                "file": "2 - Campagne/Expédition.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes scénario 3.md",
+                "file": "2 - Campagne/Expédition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,15 +154,15 @@
   },
   "active": "3e8977b531de1d46",
   "lastOpenFiles": [
-    "Notes scénario 3.md",
-    "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg",
-    "1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md",
-    "2 - Campagne/Sessions/Session 2 - Retrouver Cleyton.md",
-    "NPCs Connus.md",
-    "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.md",
-    "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.pdf",
-    "Images/Maps/Kheyus.png",
-    "Images/Maps/Seaside_Ambush_72dpi_VTT.jpg",
-    "Images/Maps/Sewer2.jpg"
+    "2 - Campagne/Expédition.md",
+    "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Ship.jpg",
+    "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/2 - Une Nouvelle Terre.md",
+    "1 - Compendium/NPCs/Christofle/Christofle.md",
+    "1 - Compendium/NPCs/Harald/Harald.md",
+    "1 - Compendium/NPCs/Samora/Samora.jpg",
+    "1 - Compendium/NPCs/Edelia/Edelia.md",
+    "1 - Compendium/NPCs/Agrippine/Agrippine.md",
+    "Index.md",
+    "TOOD.md"
   ]
 }

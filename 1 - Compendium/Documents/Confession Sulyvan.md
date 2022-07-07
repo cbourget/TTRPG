@@ -6,4 +6,4 @@ Dans les jours précédents sa mort, mon maître parlait souvent, sans qu'il n'y
 
 Je ne me rappelle pas de ses paroles exactes mais je me souviens qu'il se demandait s'il en avait fait assez. S'il en avait assez dit. Dans le cas contraire, il priait pour que les **Ptu... Rien...** facent preuve de clémence et que l'humanité survive au nouveau millénaire.
 
-Je ne sais pas sil s'agissait seulement des divagations d'un homme malade mais. à l'approche du troisième millénaire, je suis inquiet.
+Je ne sais pas sil s'agissait seulement des divagations d'un homme malade mais, à l'approche du troisième millénaire, je suis inquiet.

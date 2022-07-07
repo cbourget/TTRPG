@@ -4,18 +4,19 @@ Dans le cadre de ma profession, j'ai rencontré lors des dernières années, 128
 
 **Effets observés**
 
-| Effets            | Exposition modérée (%) | Exposition modérée (%) | Exposition importante (%) |
-| -------------------------------------- | ---------------------- | ---------------------- | ------------------------- |
-| Aucun effet                            | 30                     | 8                      | 0                         |
-| Hallucinations                         | 46                     | 84                     | 50                        |
-| Rêves troubles                         | 78                     | 90                     | 80                        |
-| Anxiété                                | 88                     | 96                     | 10                        |
-| Modification du tempérament            | 10                     | 60                     | 95                        |
-| Délires psychotiques                   | 0                      | 34                     | 50                        |
-| Acquisition de nouvelles connaissances | 5                      | 70                     | 95                        |
-| Modification de la personnalité        | 0                      | 10                     | 75                        |
-| Désordre de la personnalité            | 0                      | 0                      | 20                        |
-| Léthargie extrême                      | 0                      | 0                      | 5                         |
+| Effets                                 | Exposition faible (%) | Exposition modérée (%) | Exposition importante (%) |
+| -------------------------------------- | --------------------- | ---------------------- | ------------------------- |
+| Aucun effet                            | 30                    | 8                      | 0                         |
+| Hallucinations                         | 46                    | 84                     | 50                        |
+| Rêves troubles                         | 78                    | 90                     | 80                        |
+| Anxiété                                | 88                    | 96                     | 10                        |
+| Modification du tempérament            | 10                    | 60                     | 95                        |
+| Délires psychotiques                   | 0                     | 34                     | 50                        |
+|          Perte de mémoire                              |     0                  |        40                |          75                 |
+| Acquisition de nouvelles connaissances | 5                     | 70                     | 95                        |
+| Modification de la personnalité        | 0                     | 10                     | 75                        |
+| Désordre de la personnalité            | 0                     | 0                      | 20                        |
+| Léthargie extrême                      | 0                     | 0                      | 5                         |
 
 **Hypothèses**
 - Après une exposition importante, la personnalité des sujets a souvent été altérée. Ces altérations se font progressivement et cela me laisse croire que les âmes collectées ont une influence sur celle du sujet.
@@ -24,7 +25,7 @@ Dans le cadre de ma profession, j'ai rencontré lors des dernières années, 128
 **Conclusions**
 - Certains sujets n'ont subit aucun effet mais la plupart ont subit des effets légers à graves.
 - Les effets d'une exposition modérée ont souvent disparu ou se sont amoindris après que le sujet aie cessé sa pratique. Les soins prodigués par un pratiquant de ma profession semblent favoriser le rétablissement.
-- Les patients exposés de façon soutenue ou importante ont parfois été soulagés par des soins réguliers mais une guérison permanente ne semble pas envisageable par les méthodes traditionnelle.
+- Les patients exposés de façon soutenue ou importante ont parfois été soulagés par des soins réguliers mais une guérison permanente ne semble pas envisageable par les méthodes traditionnelles.
 
 **Recommandations**
 - Dans l'éventualité ou la cessation définitive de cette pratique soit impossible, je recommande que de nouvelles études soient faites afin d'accroître notre compréhension du phénomène et de développer des traitements efficaces sur les sujets atteints de façon soutenue ou importante.

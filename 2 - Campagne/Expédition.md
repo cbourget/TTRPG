@@ -127,3 +127,8 @@
 
 ![[Christofle.jpg]][[Christofle.jpg|Voir]]
 ```
+
+```ad-gallery
+
+![[Edelia.jpg]][[Edelia.jpg|Voir]]
+```

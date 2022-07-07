@@ -32,3 +32,5 @@ tags: NPC
 ## Secrets
 
 ## Statistiques
+
+<iframe class="embedded-statblock" src="https://pathfinderdashboard.com/Creatures/Class/champion 3.html"></iframe>
