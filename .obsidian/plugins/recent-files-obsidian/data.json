@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Expédition",
-      "path": "2 - Campagne/Expédition.md"
+      "basename": "FishingVillage_logo",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/FishingVillage_logo.jpg"
+    },
+    {
+      "basename": "ImminarMap",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg"
+    },
+    {
+      "basename": "Pictown",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Pictown.jpg"
+    },
+    {
+      "basename": "Ship",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Ship.jpg"
     },
     {
       "basename": "Notes scénario 3",
       "path": "Notes scénario 3.md"
+    },
+    {
+      "basename": "NPCs Connus",
+      "path": "NPCs Connus.md"
+    },
+    {
+      "basename": "NPCs Connus",
+      "path": "NPCs Connus.pdf"
+    },
+    {
+      "basename": "Expédition",
+      "path": "2 - Campagne/Expédition.md"
     },
     {
       "basename": "Siegfried",
@@ -15,10 +39,6 @@
     {
       "basename": "Alcide Foghorn",
       "path": "1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md"
-    },
-    {
-      "basename": "Ship",
-      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Ship.jpg"
     },
     {
       "basename": "2 - Une Nouvelle Terre",
@@ -55,18 +75,6 @@
     {
       "basename": "Plan",
       "path": "Plan.md"
-    },
-    {
-      "basename": "NPCs Connus",
-      "path": "NPCs Connus.md"
-    },
-    {
-      "basename": "ImminarMap",
-      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg"
-    },
-    {
-      "basename": "FishingVillage_logo",
-      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/FishingVillage_logo.jpg"
     },
     {
       "basename": "Penny Ilvastar",
@@ -189,16 +197,8 @@
       "path": "Images/Maps/Primeval_Forest_72dpi_VTT.jpg"
     },
     {
-      "basename": "Pictown",
-      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Pictown.jpg"
-    },
-    {
       "basename": "LakeTown",
       "path": "Images/Maps/LakeTown.jpg"
-    },
-    {
-      "basename": "Khorvaire2",
-      "path": "Images/Maps/Khorvaire2.jpg"
     }
   ],
   "omittedPaths": [],
