@@ -5,6 +5,18 @@
       "path": "2 - Campagne/Expédition.md"
     },
     {
+      "basename": "Notes scénario 3",
+      "path": "Notes scénario 3.md"
+    },
+    {
+      "basename": "Siegfried",
+      "path": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
+    },
+    {
+      "basename": "Alcide Foghorn",
+      "path": "1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md"
+    },
+    {
       "basename": "Ship",
       "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Ship.jpg"
     },
@@ -75,10 +87,6 @@
     {
       "basename": "Xendra Mantar",
       "path": "1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
-    },
-    {
-      "basename": "Notes scénario 3",
-      "path": "Notes scénario 3.md"
     },
     {
       "basename": "Écrin du Damné",
@@ -191,14 +199,6 @@
     {
       "basename": "Khorvaire2",
       "path": "Images/Maps/Khorvaire2.jpg"
-    },
-    {
-      "basename": "Khorvaire",
-      "path": "Images/Maps/Khorvaire.jpg"
-    },
-    {
-      "basename": "HowlDeepTavern",
-      "path": "Images/Maps/HowlDeepTavern.jpg"
     }
   ],
   "omittedPaths": [],
