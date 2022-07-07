@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes scénario 3.md",
+            "file": "1 - Compendium/Documents/Écrin du Damné.md",
             "mode": "source",
             "source": true
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes scénario 3.md",
+                "file": "1 - Compendium/Documents/Écrin du Damné.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes scénario 3.md"
+                "file": "1 - Compendium/Documents/Écrin du Damné.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes scénario 3.md",
+                "file": "1 - Compendium/Documents/Écrin du Damné.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,6 +154,7 @@
   },
   "active": "3e8977b531de1d46",
   "lastOpenFiles": [
+    "1 - Compendium/Documents/Écrin du Damné.md",
     "Notes scénario 3.md",
     "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/FishingVillage_logo.jpg",
     "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg",
@@ -162,7 +163,6 @@
     "NPCs Connus.md",
     "NPCs Connus.pdf",
     "2 - Campagne/Expédition.md",
-    "1 - Compendium/NPCs/Siegfried/Siegfried.md",
-    "1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md"
+    "1 - Compendium/NPCs/Siegfried/Siegfried.md"
   ]
 }

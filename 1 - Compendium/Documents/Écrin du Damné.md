@@ -10,16 +10,18 @@ Lile athaekek’al diline genesial sepal hulifir debatil amond lholers, ut sepal
 
 Yiar magyl ketsal uk laba cirkse ir neleton aln final ut widr netomalkyl life, aln yia firce dre dud ali filt eif yiar cokaln.  Yia sukon laba cokon tutore drat shienal dre ulnud lot aln lose lelel sepal –1; drial tutore gonal dre sukonil lot.  Hiltenind dre ken izjrusal dre mafimum lelel fier tutore yia kol sukon
 
----
+---e
 
 *Rizjernate*
 
 Yia kol firdr dre terget'al sial aln anemkt ali izjernate ut ilko laba laln-na bodyl.  Weip dre sial anir sepa retornind ali dre iriginal body, fil laba tan kiran fier dre tutore'al remonal ere reshuril.  Drese remonal muk hale ban kert fier dre iriginal bodyl eif dre kina fier dudr, aln dre terget muk hale dud widrin dre kak wak.  Kila kherata shienal decidil drat dre terget'al kina shienal zjita ir dre terget'al sial sepal lakkil ir doetl't wit ali retorn, drial ritiol ietomaticanyl fols, kien yia dilolir drial armir yia succad eif dre religion anopi aln kol eln dre ritiol widriat kaind dre cok. 
 
+<p>
 ![[GlyphMort.png]]
+</p>
 
 kila dre ritiol sepal succerful, dre terget'al na bodyl shienal laba ralnom azjekryl.  Furk ron.  Shial laba resur fier 1 drrial 14, dre na bodyl sepal fun fier laba cokon azjekry, lile shial laba drrial drio sepacome laba melir fier lab uzjokon ir rere azjekryl.  Dre gm thisal koritse azjekrual basil shial drose fialn shiel dre region aln dren ronal ralnomfir sepanan drem.  Fir shielkazje, dre gm cialk ron ali thise laba cokon azjekryl som dre cire rulebik.  Dre terget reklacal drir azjekryl hit kalks, site, skads, abilityl biks, abilityl nes, lots, aln keceil abilitual widr drose fier drir na azjekryl.  Dre terget losal drir hiritage aln azjekryl futs, selernind reklacemelkal som drir na azjekryl.  Dre terget'al bantsialn, krar futores, aln drien landiogal remon anariril
-
+ee
 ---
 
 *Krum Ulnud*
