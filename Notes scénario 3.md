@@ -2,6 +2,10 @@ Vala a pris le crédit pour l'attentat
 
 ---
 
+Siefried confirme aux joueurs que la boisson trouvée dans le repère ne provient pas de Brevoy. Ils l'ont fait tester par les Lanngolyn et ceux-ci soupconnent qu'elle vient de Durne. Tout a été détruit mais Siegried a réussi à négocier un tonneau auprès de Tamerlane.
+
+---
+
 Randall: Bienvenue à bord du Kelpie! Je suis le capitaine Randall Carodoc. La mer est calme et vents sont favorables. Cela veut dire que dans quelques temps, Brevoy, notre patrie, disparaîtra sous l'horizon. Jetez-y donc un dernier coup d'oeil et espérez que ce ne soit pas le dernier. Les prochains mois seront difficiles mais, en travaillant avec coeur, cette expédition sera couronnée de succès. Bien sur, vous devrez obéir à mes ordres car vous êtes des aujourd'hui, des marins. Que vous soyez de descendance noble ou commune, aucune insubordination à moi-même ou à mon bras droit, monsieur [[Roy Larg]], ne sera tolérée tant que vous foulerez les planches de ce navire.
 
 Rackham: Et ensuite?! Qu'adviendra-t-il lorsque nous toucherons terre? À ce que je sache, l'autorité d'un capitaine n'a de valeur qu'à bord de son vaisseau.
