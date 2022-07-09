@@ -13,3 +13,8 @@
 .tab {
   padding-left: 20px;
 }
+
+.center {
+  display: block;
+  text-align: center;
+}

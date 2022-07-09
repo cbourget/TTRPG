@@ -4,6 +4,6 @@ Votre excellence, je m'adresse à vous car je suis troublé. Je suis troublé de
 
 Dans les jours précédents sa mort, mon maître parlait souvent, sans qu'il n'y aie d'interlocoteur. Il était seul, dans sa chambre, et moi, qui vaquait à mes occupations, l'entendait parfois. Je ne portais pas une oreille attentive mais malgré cela, je dois admettre qu'il était devenu difficile de trouver un sens à ses paroles. La journée précédant son unification, j'ai entendu des paroles qui, depuis, sont l'objet de mes tourments.
 
-Je ne me rappelle pas de ses paroles exactes mais je me souviens qu'il se demandait s'il en avait fait assez. S'il en avait assez dit. Dans le cas contraire, il priait pour que les **Ptu... Rien...** facent preuve de clémence et que l'humanité survive au nouveau millénaire.
+Je ne me rappelle pas exactement des mots qui fûrent prononcés mais je me souviens qu'il se demandait s'il en avait assez fait et s'il en avait assez dit. Dans le cas contraire, il priait pour que les **Ptu... Rien...** facent preuve de clémence et que l'humanité survive au nouveau millénaire. Ce qui m'a surtout marqué, c'est le tremblement dans sa voix et la peur qui l'habitait. 
 
 Je ne sais pas sil s'agissait seulement des divagations d'un homme malade mais, à l'approche du troisième millénaire, je suis inquiet.

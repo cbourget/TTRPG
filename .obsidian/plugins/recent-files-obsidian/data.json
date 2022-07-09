@@ -2,7 +2,27 @@
   "recentFiles": [
     {
       "basename": "Écrin du Damné",
+      "path": "1 - Compendium/Documents/Écrin du Damné.pdf"
+    },
+    {
+      "basename": "Rapport Dr Holowitz",
+      "path": "1 - Compendium/Documents/Rapport Dr Holowitz.md"
+    },
+    {
+      "basename": "Écrin du Damné",
       "path": "1 - Compendium/Documents/Écrin du Damné.md"
+    },
+    {
+      "basename": "Confession Sulyvan",
+      "path": "1 - Compendium/Documents/Confession Sulyvan.pdf"
+    },
+    {
+      "basename": "Confession Sulyvan",
+      "path": "1 - Compendium/Documents/Confession Sulyvan.md"
+    },
+    {
+      "basename": "GlyphMort",
+      "path": "1 - Compendium/Documents/GlyphMort.png"
     },
     {
       "basename": "Notes scénario 3",
@@ -101,18 +121,6 @@
       "path": "1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
     },
     {
-      "basename": "GlyphMort",
-      "path": "1 - Compendium/Documents/GlyphMort.png"
-    },
-    {
-      "basename": "Rapport Dr Holowitz",
-      "path": "1 - Compendium/Documents/Rapport Dr Holowitz.md"
-    },
-    {
-      "basename": "Confession Sulyvan",
-      "path": "1 - Compendium/Documents/Confession Sulyvan.md"
-    },
-    {
       "basename": "Cleyton Kilmer",
       "path": "1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Pools_of_Tranquility_72dpi_VTT",
       "path": "Images/Maps/Pools_of_Tranquility_72dpi_VTT.jpg"
-    },
-    {
-      "basename": "Primeval_Forest_72dpi_VTT",
-      "path": "Images/Maps/Primeval_Forest_72dpi_VTT.jpg"
-    },
-    {
-      "basename": "LakeTown",
-      "path": "Images/Maps/LakeTown.jpg"
     }
   ],
   "omittedPaths": [],
