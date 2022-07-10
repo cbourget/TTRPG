@@ -5,6 +5,18 @@
       "path": "Notes scénario 3.md"
     },
     {
+      "basename": "Wilhelm Oberon",
+      "path": "1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md"
+    },
+    {
+      "basename": "Expédition",
+      "path": "2 - Campagne/Expédition.md"
+    },
+    {
+      "basename": "LeaderCapesJaunes",
+      "path": "1 - Compendium/NPCs/LeaderCapesJaunes.jpg"
+    },
+    {
       "basename": "Rapport De Beauvais",
       "path": "1 - Compendium/Documents/Rapport De Beauvais.md"
     },
@@ -47,10 +59,6 @@
     {
       "basename": "NPCs Connus",
       "path": "NPCs Connus.pdf"
-    },
-    {
-      "basename": "Expédition",
-      "path": "2 - Campagne/Expédition.md"
     },
     {
       "basename": "Siegfried",

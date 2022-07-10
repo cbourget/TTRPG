@@ -100,15 +100,15 @@ Durée du voyage: 45 jours
 		- Critical Failure: 0 jours
 41-60: Vents favorables
 	DC 30, mêmes effets
-Aucun vent: 60-80:
+60-80: Aucun vent
 	DC 40, mêmes effets
-Tempête: 81-90
+81-90: Tempête
 	DC 45
 		- Critical success: 5 jours
 		- Success: 2 jours
 		- Failure: 0 jours, -1 équipement, -1 moral
 		- Critical Failure: 0 jours, -3 équipement, -1 moral 
-Maladie: 91-100
+91-100: Maladie:
 	DC: 35
 		- Critical success: 5 jours
 		- Success: 5 jours, - 1 santé
