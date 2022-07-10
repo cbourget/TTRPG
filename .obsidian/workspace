@@ -6,11 +6,25 @@
       {
         "id": "2fe0eb2655969030",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Notes scénario 3.md",
             "mode": "source",
+            "source": true
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "fdc703e7914e9bb2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1 - Compendium/NPCs/Rackham/Rackham.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418
+    "width": 353
   },
   "right": {
     "id": "8b329d269e60daa7",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes scénario 3.md",
+                "file": "1 - Compendium/NPCs/Rackham/Rackham.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes scénario 3.md"
+                "file": "1 - Compendium/NPCs/Rackham/Rackham.md"
               }
             }
           },
@@ -131,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes scénario 3.md",
+                "file": "1 - Compendium/NPCs/Rackham/Rackham.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,19 +164,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285
+    "width": 285,
+    "collapsed": true
   },
-  "active": "2fe0eb2655969030",
+  "active": "fdc703e7914e9bb2",
   "lastOpenFiles": [
+    "1 - Compendium/NPCs/Rackham/Rackham.md",
+    "1 - Compendium/NPCs/Hummer/Hummer.md",
+    "1 - Compendium/NPCs/Javelin/Javelin.md",
+    "1 - Compendium/NPCs/Siegfried/Siegfried.md",
     "Notes scénario 3.md",
+    "1 - Compendium/NPCs/Strix/Strix.md",
     "1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md",
     "2 - Campagne/Expédition.md",
     "1 - Compendium/NPCs/LeaderCapesJaunes.jpg",
-    "1 - Compendium/Documents/Rapport De Beauvais.md",
-    "1 - Compendium/Documents/Rapport De Beauvais.pdf",
-    "1 - Compendium/NPCs/Fligbi/Fligbi.md",
-    "1 - Compendium/Documents/Rapport Dr Holowitz.md",
-    "1 - Compendium/Documents/GlyphMort.png",
-    "1 - Compendium/Documents/Écrin du Damné.md"
+    "1 - Compendium/Documents/Rapport De Beauvais.md"
   ]
 }

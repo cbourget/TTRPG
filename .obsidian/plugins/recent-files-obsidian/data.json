@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Rackham",
+      "path": "1 - Compendium/NPCs/Rackham/Rackham.md"
+    },
+    {
+      "basename": "Hummer",
+      "path": "1 - Compendium/NPCs/Hummer/Hummer.md"
+    },
+    {
+      "basename": "Javelin",
+      "path": "1 - Compendium/NPCs/Javelin/Javelin.md"
+    },
+    {
+      "basename": "Siegfried",
+      "path": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
+    },
+    {
       "basename": "Notes scénario 3",
       "path": "Notes scénario 3.md"
+    },
+    {
+      "basename": "Strix",
+      "path": "1 - Compendium/NPCs/Strix/Strix.md"
     },
     {
       "basename": "Wilhelm Oberon",
@@ -59,10 +79,6 @@
     {
       "basename": "NPCs Connus",
       "path": "NPCs Connus.pdf"
-    },
-    {
-      "basename": "Siegfried",
-      "path": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
     },
     {
       "basename": "Alcide Foghorn",
@@ -183,22 +199,6 @@
     {
       "basename": "XendrikHex",
       "path": "Images/Maps/XendrikHex.jpeg"
-    },
-    {
-      "basename": "QuartierBandits",
-      "path": "Images/Maps/QuartierBandits.jpg"
-    },
-    {
-      "basename": "Prison",
-      "path": "Images/Maps/Prison.jpg"
-    },
-    {
-      "basename": "LakeTown2",
-      "path": "Images/Maps/LakeTown2.jpg"
-    },
-    {
-      "basename": "Murkmire_Derelict_Lower_72dpi_VTT",
-      "path": "Images/Maps/Murkmire_Derelict_Lower_72dpi_VTT.jpg"
     }
   ],
   "omittedPaths": [],
