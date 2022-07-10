@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ad7e512abd2bef73",
+        "id": "d57492d279dcec73",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "1 - Compendium/Documents/Écrin du Damné.pdf"
+            "file": "1 - Compendium/Documents/Rapport Dr Holowitz.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Compendium/Documents/Écrin du Damné.pdf",
+                "file": "1 - Compendium/Documents/Rapport Dr Holowitz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Compendium/Documents/Écrin du Damné.pdf"
+                "file": "1 - Compendium/Documents/Rapport Dr Holowitz.md"
               }
             }
           },
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Compendium/Documents/Écrin du Damné.pdf",
+                "file": "1 - Compendium/Documents/Rapport Dr Holowitz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,17 +152,17 @@
     "direction": "horizontal",
     "width": 285
   },
-  "active": "ad7e512abd2bef73",
+  "active": "d57492d279dcec73",
   "lastOpenFiles": [
-    "1 - Compendium/Documents/Écrin du Damné.pdf",
     "1 - Compendium/Documents/Rapport Dr Holowitz.md",
+    "1 - Compendium/Documents/GlyphMort.png",
     "1 - Compendium/Documents/Écrin du Damné.md",
     "1 - Compendium/Documents/Confession Sulyvan.pdf",
     "1 - Compendium/Documents/Confession Sulyvan.md",
-    "1 - Compendium/Documents/GlyphMort.png",
+    "2 - Campagne/Scenarios/1 - Expédition/Bandit Lair/Bandit Lair.md",
+    "1 - Compendium/Documents/Écrin du Damné.pdf",
     "Notes scénario 3.md",
     "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/FishingVillage_logo.jpg",
-    "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg",
-    "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Pictown.jpg"
+    "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/ImminarMap.jpg"
   ]
 }
