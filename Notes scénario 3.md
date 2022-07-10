@@ -91,6 +91,32 @@ Durée du voyage: 45 jours
 	- 
 
 ---
+```
+1-40: Mer calme
+	DC 35
+		- Critical success: 8 jours
+		- Success: 5 jours
+		- Failure: 2 jours
+		- Critical Failure: 0 jours
+41-60: Vents favorables
+	DC 30, mêmes effets
+Aucun vent: 60-80:
+	DC 40, mêmes effets
+Tempête: 81-90
+	DC 45
+		- Critical success: 5 jours
+		- Success: 2 jours
+		- Failure: 0 jours, -1 équipement, -1 moral
+		- Critical Failure: 0 jours, -3 équipement, -1 moral 
+Maladie: 91-100
+	DC: 35
+		- Critical success: 5 jours
+		- Success: 5 jours, - 1 santé
+		- Failure: 2 jours, -1 santé, -1 moral
+		- Critical Failure: 0 jours, -3 santé, -2 moral
+```
+
+---
 
 Tara est le nom de la terre
 Pictuk est le village et ses habitants sont les Pictis
