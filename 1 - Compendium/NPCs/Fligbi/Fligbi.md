@@ -23,8 +23,8 @@ tags: NPC Pictis
 ```
 
 ## Objectifs
-<span class="tab">[[Pictis#Objectifs]]</span>
-<span class="embed-section tab">![[Pictis#Objectifs]]</span>
+<span class="tab">[[1 - Compendium/Factions/Pictis/Pictis#Objectifs]]</span>
+<span class="embed-section tab">![[1 - Compendium/Factions/Pictis/Pictis#Objectifs]]</span>
 - [ ] Il aimerait en apprendre plus sur ...
 
 ## Détails
