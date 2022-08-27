@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Rackham",
-      "path": "1 - Compendium/NPCs/Rackham/Rackham.md"
+      "basename": "Notes scénario 3",
+      "path": "Notes scénario 3.md"
+    },
+    {
+      "basename": "Nostaria",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/Nostaria.jpg"
     },
     {
       "basename": "Hummer",
       "path": "1 - Compendium/NPCs/Hummer/Hummer.md"
+    },
+    {
+      "basename": "Rackham",
+      "path": "1 - Compendium/NPCs/Rackham/Rackham.md"
+    },
+    {
+      "basename": "Roy Larg",
+      "path": "1 - Compendium/NPCs/Roy Larg/Roy Larg.md"
     },
     {
       "basename": "Javelin",
@@ -15,10 +27,6 @@
     {
       "basename": "Siegfried",
       "path": "1 - Compendium/NPCs/Siegfried/Siegfried.md"
-    },
-    {
-      "basename": "Notes scénario 3",
-      "path": "Notes scénario 3.md"
     },
     {
       "basename": "Strix",
@@ -191,14 +199,6 @@
     {
       "basename": "WorldMap",
       "path": "Images/Maps/WorldMap.jpg"
-    },
-    {
-      "basename": "Wormford",
-      "path": "Images/Maps/Wormford.jpg"
-    },
-    {
-      "basename": "XendrikHex",
-      "path": "Images/Maps/XendrikHex.jpeg"
     }
   ],
   "omittedPaths": [],

@@ -15,6 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 
 ## Objectifs
 - [ ]  Investiguer sur [[Wanageeska]]
+- [ ]  Investiguer sur [[Léon de Beauvais]]
 - [ ] Compiler les données sur la colonie et sa croissance
 
 ## Détails

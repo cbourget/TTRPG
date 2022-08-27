@@ -3,7 +3,7 @@
 tags: NPC
 ---
 
-# Perrin de Beauvais
+# Estelle de Beauvais
 <span class="nav">[Détails](#Détails) [Secrets](#Secrets)</span>
 
 Lorem Ipsum

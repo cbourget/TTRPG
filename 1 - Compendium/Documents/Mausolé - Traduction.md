@@ -1,0 +1,1 @@
+Puissent-ils traverser dans l'autre monde, et ne jamais en revenir, ceux dont la lumière ne brille plus.

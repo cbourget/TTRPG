@@ -2,7 +2,7 @@
 ---
 
 cssclass: 'npc'
-tags: NPC
+tags: NPC Pictis
 
 ---
 <span class="nav">[Objectifs](#Objectifs) [Détails](#Détails)  [Relations](#Relations) [Secrets](#Secrets) [Statistiques](#Statistiques)</span>
@@ -23,6 +23,8 @@ tags: NPC
 ```
 
 ## Objectifs
+<span class="tab">[[Pictis#Objectifs]]</span>
+<span class="embed-section tab">![[Pictis#Objectifs]]</span>
 
 ## Détails
 

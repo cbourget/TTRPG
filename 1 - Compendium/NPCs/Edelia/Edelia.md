@@ -23,7 +23,7 @@ tags: NPC
 ```
 
 ## Objectifs
-- [ ] TODO
+- [ ] Elle représente la nation 
 
 ## Détails
 
