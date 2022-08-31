@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Mausolé - Traduction",
+      "path": "1 - Compendium/Documents/Mausolé - Traduction.md"
+    },
+    {
+      "basename": "1 - Manoir",
+      "path": "1 - Compendium/Lieux/Nostaria/1 - Manoir/1 - Manoir.md"
+    },
+    {
       "basename": "Notes scénario 3",
       "path": "Notes scénario 3.md"
+    },
+    {
+      "basename": "Couleurs",
+      "path": "1 - Compendium/Concepts/Couleurs.md"
+    },
+    {
+      "basename": "Étrangleur",
+      "path": "1 - Compendium/Créatures/Étrangleur/Étrangleur.md"
+    },
+    {
+      "basename": "Troll",
+      "path": "1 - Compendium/Créatures/Troll/Troll.md"
+    },
+    {
+      "basename": "Cordycep",
+      "path": "1 - Compendium/Créatures/Cordycep/Cordycep.md"
+    },
+    {
+      "basename": "Requin Cerbère",
+      "path": "1 - Compendium/Créatures/Requin Cerbère/Requin Cerbère.md"
     },
     {
       "basename": "Nostaria",
@@ -171,34 +199,6 @@
     {
       "basename": "Seaside_Ambush_72dpi_VTT",
       "path": "Images/Maps/Seaside_Ambush_72dpi_VTT.jpg"
-    },
-    {
-      "basename": "Sewer2",
-      "path": "Images/Maps/Sewer2.jpg"
-    },
-    {
-      "basename": "Sewer3",
-      "path": "Images/Maps/Sewer3.jpg"
-    },
-    {
-      "basename": "SwampTown",
-      "path": "Images/Maps/SwampTown.jpg"
-    },
-    {
-      "basename": "Town_of_Hanged_Men_(Night)_72dpi_VTT",
-      "path": "Images/Maps/Town_of_Hanged_Men_(Night)_72dpi_VTT.jpg"
-    },
-    {
-      "basename": "Town_of_Hanged_Men_Roof_(Night)_72dpi_VTT",
-      "path": "Images/Maps/Town_of_Hanged_Men_Roof_(Night)_72dpi_VTT.jpg"
-    },
-    {
-      "basename": "Ville Portuaire",
-      "path": "Images/Maps/Ville Portuaire.jpg"
-    },
-    {
-      "basename": "WorldMap",
-      "path": "Images/Maps/WorldMap.jpg"
     }
   ],
   "omittedPaths": [],
