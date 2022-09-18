@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Agrippine",
-      "path": "1 - Compendium/NPCs/Agrippine/Agrippine.md"
-    },
-    {
       "basename": "Notes scénario 5",
       "path": "Notes scénario 5.md"
+    },
+    {
+      "basename": "Lettre Estelle",
+      "path": "1 - Compendium/Documents/Lettre Estelle.md"
+    },
+    {
+      "basename": "Journal Olia",
+      "path": "1 - Compendium/Documents/Journal Olia.md"
+    },
+    {
+      "basename": "Agrippine",
+      "path": "1 - Compendium/NPCs/Agrippine/Agrippine.md"
     },
     {
       "basename": "Mausolé - Traduction",
@@ -191,14 +199,6 @@
     {
       "basename": "Session 1 - Joindre l'expédition",
       "path": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.md"
-    },
-    {
-      "basename": "Session 1 - Joindre l'expédition",
-      "path": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.pdf"
-    },
-    {
-      "basename": "Kheyus",
-      "path": "Images/Maps/Kheyus.png"
     }
   ],
   "omittedPaths": [],
