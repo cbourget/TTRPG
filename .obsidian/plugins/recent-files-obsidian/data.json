@@ -9,6 +9,46 @@
       "path": "1 - Compendium/Documents/Lettre Estelle.md"
     },
     {
+      "basename": "Notes scénario 3",
+      "path": "Notes scénario 3.md"
+    },
+    {
+      "basename": "Plan",
+      "path": "Plan.md"
+    },
+    {
+      "basename": "1 - Manoir",
+      "path": "1 - Compendium/Lieux/Nostaria/1 - Manoir/1 - Manoir.md"
+    },
+    {
+      "basename": "1 - Manoir",
+      "path": "1 - Compendium/Lieux/Nostaria/1 - Manoir/1 - Manoir.webp"
+    },
+    {
+      "basename": "Village",
+      "path": "1 - Compendium/Lieux/Nostaria/Village.jpg"
+    },
+    {
+      "basename": "Nostaria",
+      "path": "1 - Compendium/Lieux/Nostaria/Nostaria.jpg"
+    },
+    {
+      "basename": "CratereVillage",
+      "path": "1 - Compendium/Lieux/Nostaria/CratereVillage.jpg"
+    },
+    {
+      "basename": "2 - Une Nouvelle Terre",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/2 - Une Nouvelle Terre.md"
+    },
+    {
+      "basename": "Expédition",
+      "path": "2 - Campagne/Expédition.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Index.md"
+    },
+    {
       "basename": "Journal Olia",
       "path": "1 - Compendium/Documents/Journal Olia.md"
     },
@@ -19,14 +59,6 @@
     {
       "basename": "Mausolé - Traduction",
       "path": "1 - Compendium/Documents/Mausolé - Traduction.md"
-    },
-    {
-      "basename": "1 - Manoir",
-      "path": "1 - Compendium/Lieux/Nostaria/1 - Manoir/1 - Manoir.md"
-    },
-    {
-      "basename": "Notes scénario 3",
-      "path": "Notes scénario 3.md"
     },
     {
       "basename": "Couleurs",
@@ -81,10 +113,6 @@
       "path": "1 - Compendium/NPCs/Wilhelm Oberon/Wilhelm Oberon.md"
     },
     {
-      "basename": "Expédition",
-      "path": "2 - Campagne/Expédition.md"
-    },
-    {
       "basename": "LeaderCapesJaunes",
       "path": "1 - Compendium/NPCs/LeaderCapesJaunes.jpg"
     },
@@ -137,10 +165,6 @@
       "path": "1 - Compendium/NPCs/Alcide Foghorn/Alcide Foghorn.md"
     },
     {
-      "basename": "2 - Une Nouvelle Terre",
-      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/2 - Une Nouvelle Terre.md"
-    },
-    {
       "basename": "Christofle",
       "path": "1 - Compendium/NPCs/Christofle/Christofle.md"
     },
@@ -157,16 +181,8 @@
       "path": "1 - Compendium/NPCs/Edelia/Edelia.md"
     },
     {
-      "basename": "Index",
-      "path": "Index.md"
-    },
-    {
       "basename": "TOOD",
       "path": "TOOD.md"
-    },
-    {
-      "basename": "Plan",
-      "path": "Plan.md"
     },
     {
       "basename": "Penny Ilvastar",
@@ -183,22 +199,6 @@
     {
       "basename": "Frya Cragmire",
       "path": "1 - Compendium/NPCs/Frya Cragmire/Frya Cragmire.md"
-    },
-    {
-      "basename": "Xendra Mantar",
-      "path": "1 - Compendium/NPCs/Xendra Mantar/Xendra Mantar.md"
-    },
-    {
-      "basename": "Cleyton Kilmer",
-      "path": "1 - Compendium/NPCs/Cleyton Kilmer/Cleyton Kilmer.md"
-    },
-    {
-      "basename": "Session 2 - Retrouver Cleyton",
-      "path": "2 - Campagne/Sessions/Session 2 - Retrouver Cleyton.md"
-    },
-    {
-      "basename": "Session 1 - Joindre l'expédition",
-      "path": "2 - Campagne/Sessions/Session 1 - Joindre l'expédition.md"
     }
   ],
   "omittedPaths": [],

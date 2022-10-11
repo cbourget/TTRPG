@@ -12,4 +12,6 @@ Ce texte est-il en commun? Les Durin ont-ils adopté la langue de Estelle et ont
 - Certains NPCs sont partis explorer. Déterminer lesquels et ce qui leur est arrivé.
 
 - Établir le nombre de rations/ressources à leur disposition
-- 
+
+- Estelle a échangé quelques lettres avec Telazar Mantar, dans laquelle elle a mentonné que ses recherches n'avancaient pas comme prévu. Celui-ci lui a envoyé un assistant pour l'aider en lui mentionnant qu'il était spécial et qu'il avait ce qu'il fallait en lui pour l'aider. Il s'agissait d'un démon shapeshifté en humain que Telazar avait soumis grâce au souul binding. Estelle a compris que ce "ce qu'il a en lui" faisait référence à son sang et s'est mise à en utiliser dans ses expéricences. Une servante s'en est fait injecter et plus tard, lorsqu'elle mis au monde une jeune fille (Qwila), elle décéda. Olia pris la fille sous son aile et se rendi compte qu'elle était particulière (aggressive). Elle en compris la raison et retourna au manoir pour tenter de guérier Qwila. Se faiant, elle accru sa propre longévité en liant son âme à celle du démon à l'intérieur de Qwila.
+ - Le démon s'appelle XXX. Il se rappelle avoir été trahi par Telazar et avoir souffert des expéricens de Estelle. Il veut se venger. Il pourrait collaborer avec les joueurs. Il est une excellent source d'info.
