@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Correspondance Estelle - Diector",
+      "path": "Correspondance Estelle - Diector.md"
+    },
+    {
       "basename": "Notes scénario 5",
       "path": "Notes scénario 5.md"
+    },
+    {
+      "basename": "Le Pacte",
+      "path": "1 - Compendium/Concepts/Le Pacte.md"
+    },
+    {
+      "basename": "Korigan Mantar",
+      "path": "1 - Compendium/NPCs/Korigan Mantar/Korigan Mantar.md"
+    },
+    {
+      "basename": "Korigan Telazar",
+      "path": "1 - Compendium/Concepts/Korigan Telazar.md"
+    },
+    {
+      "basename": "Père Gawain",
+      "path": "1 - Compendium/Concepts/Père Gawain.md"
     },
     {
       "basename": "Burbry-Free-scaled",
@@ -179,26 +199,6 @@
     {
       "basename": "FeyWizard",
       "path": "Images/Characters/FeyWizard.jpg"
-    },
-    {
-      "basename": "FeyWarrior3",
-      "path": "Images/Characters/FeyWarrior3.jpg"
-    },
-    {
-      "basename": "FeyWarrior2",
-      "path": "Images/Characters/FeyWarrior2.jpg"
-    },
-    {
-      "basename": "FeyWarrior",
-      "path": "Images/Characters/FeyWarrior.jpg"
-    },
-    {
-      "basename": "Durnien2",
-      "path": "Images/Characters/Durnien2.jpg"
-    },
-    {
-      "basename": "Durnien",
-      "path": "Images/Characters/Durnien.jpg"
     }
   ],
   "omittedPaths": [],

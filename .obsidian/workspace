@@ -21,9 +21,11 @@
         "id": "94f17a294f57dc2e",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Images/Locations/Burbry-Free-scaled.webp"
+            "file": "Correspondance Estelle - Diector.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes scénario 5.md",
+                "file": "Correspondance Estelle - Diector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes scénario 5.md"
+                "file": "Correspondance Estelle - Diector.md"
               }
             }
           },
@@ -143,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes scénario 5.md",
+                "file": "Correspondance Estelle - Diector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,17 +167,17 @@
     "width": 285,
     "collapsed": true
   },
-  "active": "fdc703e7914e9bb2",
+  "active": "94f17a294f57dc2e",
   "lastOpenFiles": [
+    "Notes scénario 5.md",
+    "1 - Compendium/Concepts/Le Pacte.md",
+    "1 - Compendium/NPCs/Korigan Mantar/Korigan Mantar.md",
+    "1 - Compendium/Concepts/Korigan Telazar.md",
+    "1 - Compendium/Concepts/Père Gawain.md",
     "Images/Locations/Burbry-Free-scaled.webp",
     "Images/CrowFey2.jpg",
     "Images/Locations/NostariaArrival.jpg",
     "Images/Locations/NostariaUpfall.jpg",
-    "Images/Locations/NostariaBeach.jpg",
-    "Images/Locations/Wandering Tombshell.jpg",
-    "Images/Maps/Ederfast.jpg",
-    "Images/Characters/Witch Apprentice.jpg",
-    "Images/Characters/Winged Axe Woman.jpg",
-    "Images/Characters/Warrior Girl.jpg"
+    "Images/Locations/NostariaBeach.jpg"
   ]
 }
