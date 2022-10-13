@@ -39,6 +39,8 @@ Ce texte est-il en commun? Les Durin ont-ils adopté la langue de Estelle et ont
 - Mangrove avec bébé + hag
 - Grotte submergée + perles
 - Champignons
+- Crows
+- Passage secret derrière ronces
 
 Peuples de la forêt
 - Pikti

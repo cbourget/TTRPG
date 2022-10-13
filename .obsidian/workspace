@@ -21,11 +21,9 @@
         "id": "94f17a294f57dc2e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Correspondance Estelle - Diector.md",
-            "mode": "source",
-            "source": true
+            "file": "1 - Compendium/Créatures/Feys/CrowFey.jpg"
           }
         }
       }
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Correspondance Estelle - Diector.md",
+                "file": "Notes scénario 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Correspondance Estelle - Diector.md"
+                "file": "Notes scénario 5.md"
               }
             }
           },
@@ -145,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Correspondance Estelle - Diector.md",
+                "file": "Notes scénario 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,17 +165,17 @@
     "width": 285,
     "collapsed": true
   },
-  "active": "94f17a294f57dc2e",
+  "active": "fdc703e7914e9bb2",
   "lastOpenFiles": [
+    "1 - Compendium/Créatures/Feys/CrowFey.jpg",
+    "1 - Compendium/Créatures/Feys/Witch and Child.jpg",
+    "1 - Compendium/Créatures/Feys/Horse Fairy.jpg",
+    "1 - Compendium/Créatures/Feys/Horse Crow.png",
     "Notes scénario 5.md",
-    "1 - Compendium/Concepts/Le Pacte.md",
-    "1 - Compendium/NPCs/Korigan Mantar/Korigan Mantar.md",
-    "1 - Compendium/Concepts/Korigan Telazar.md",
-    "1 - Compendium/Concepts/Père Gawain.md",
-    "Images/Locations/Burbry-Free-scaled.webp",
-    "Images/CrowFey2.jpg",
-    "Images/Locations/NostariaArrival.jpg",
-    "Images/Locations/NostariaUpfall.jpg",
-    "Images/Locations/NostariaBeach.jpg"
+    "1 - Compendium/Créatures/Mushroom Sentinel.jpg",
+    "1 - Compendium/Créatures/Forest Crocodile.jpg",
+    "1 - Compendium/Créatures/Feys/Fallen Tree.jpg",
+    "2 - Campagne/Expédition.md",
+    "Correspondance Estelle - Diector.md"
   ]
 }

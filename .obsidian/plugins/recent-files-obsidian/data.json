@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Notes scénario 5",
+      "path": "Notes scénario 5.md"
+    },
+    {
+      "basename": "CrowFey",
+      "path": "1 - Compendium/Créatures/Feys/CrowFey.jpg"
+    },
+    {
+      "basename": "Witch and Child",
+      "path": "1 - Compendium/Créatures/Feys/Witch and Child.jpg"
+    },
+    {
+      "basename": "Horse Fairy",
+      "path": "1 - Compendium/Créatures/Feys/Horse Fairy.jpg"
+    },
+    {
+      "basename": "Horse Crow",
+      "path": "1 - Compendium/Créatures/Feys/Horse Crow.png"
+    },
+    {
+      "basename": "Mushroom Sentinel",
+      "path": "1 - Compendium/Créatures/Mushroom Sentinel.jpg"
+    },
+    {
+      "basename": "Forest Crocodile",
+      "path": "1 - Compendium/Créatures/Forest Crocodile.jpg"
+    },
+    {
+      "basename": "Fallen Tree",
+      "path": "1 - Compendium/Créatures/Feys/Fallen Tree.jpg"
+    },
+    {
+      "basename": "Expédition",
+      "path": "2 - Campagne/Expédition.md"
+    },
+    {
       "basename": "Correspondance Estelle - Diector",
       "path": "Correspondance Estelle - Diector.md"
     },
     {
-      "basename": "Notes scénario 5",
-      "path": "Notes scénario 5.md"
+      "basename": "P1",
+      "path": "1 - Compendium/Créatures/P1.png"
+    },
+    {
+      "basename": "P1",
+      "path": "1 - Compendium/Créatures/P1.md"
     },
     {
       "basename": "Le Pacte",
@@ -159,46 +199,6 @@
     {
       "basename": "IndiFemale2",
       "path": "Images/Characters/IndiFemale2.jpg"
-    },
-    {
-      "basename": "IndiFemale",
-      "path": "Images/Characters/IndiFemale.jpg"
-    },
-    {
-      "basename": "ForestPeople6",
-      "path": "Images/Characters/ForestPeople6.jpg"
-    },
-    {
-      "basename": "ForestPeople5",
-      "path": "Images/Characters/ForestPeople5.jpg"
-    },
-    {
-      "basename": "ForestPeople4",
-      "path": "Images/Characters/ForestPeople4.jpg"
-    },
-    {
-      "basename": "ForestPeople3",
-      "path": "Images/Characters/ForestPeople3.jpg"
-    },
-    {
-      "basename": "ForestPeople2",
-      "path": "Images/Characters/ForestPeople2.jpeg"
-    },
-    {
-      "basename": "Forest Warrior",
-      "path": "Images/Characters/Forest Warrior.jpg"
-    },
-    {
-      "basename": "ForestPeople",
-      "path": "Images/Characters/ForestPeople.jpg"
-    },
-    {
-      "basename": "Forest Gobelin",
-      "path": "Images/Characters/Forest Gobelin.jpg"
-    },
-    {
-      "basename": "FeyWizard",
-      "path": "Images/Characters/FeyWizard.jpg"
     }
   ],
   "omittedPaths": [],
