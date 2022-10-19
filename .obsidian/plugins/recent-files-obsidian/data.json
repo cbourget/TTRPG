@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "tokens",
+      "path": "tmp/tokens.md"
+    },
+    {
+      "basename": "10 LARGE",
+      "path": "tmp/10 LARGE.jpg"
+    },
+    {
+      "basename": "29",
+      "path": "tmp/29.jpg"
+    },
+    {
+      "basename": "NPCs1",
+      "path": "Tokens/NPCs1.md"
+    },
+    {
       "basename": "Notes scénario 5",
       "path": "Notes scénario 5.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "IndiWarrior",
       "path": "Images/Characters/IndiWarrior.jpg"
-    },
-    {
-      "basename": "IndiWarrior2",
-      "path": "Images/Characters/IndiWarrior2.jpg"
-    },
-    {
-      "basename": "IndiHuntress",
-      "path": "Images/Characters/IndiHuntress.jpg"
-    },
-    {
-      "basename": "IndiHunter",
-      "path": "Images/Characters/IndiHunter.jpg"
-    },
-    {
-      "basename": "IndiFemale2",
-      "path": "Images/Characters/IndiFemale2.jpg"
     }
   ],
   "omittedPaths": [],

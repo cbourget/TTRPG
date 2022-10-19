@@ -4,7 +4,8 @@
 }
 .admonition-desc.admonition,
 .admonition-gallery.admonition,
-.admonition-gallery-print.admonition {
+.admonition-gallery-print.admonition,
+.admonition-gallery-print-large.admonition {
   background-color: initial;
   box-shadow: none;
   border-left: none;
@@ -12,12 +13,14 @@
 }
 .admonition-desc .admonition-title,
 .admonition-gallery .admonition-title,
-.admonition-gallery-print .admonition-title {
+.admonition-gallery-print .admonition-title,
+.admonition-gallery-print-large .admonition-title {
   display: none !important;
 }
 .admonition-desc .admonition-content,
 .admonition-gallery .admonition-content,
-.admonition-gallery-print .admonition-content {
+.admonition-gallery-print .admonition-content,
+.admonition-gallery-print-large .admonition-content {
   margin: 0;
 }
 
@@ -87,6 +90,25 @@
 .admonition-gallery-print .admonition-content span img {
   width: 1in;
   height: 2in;
+  object-fit: cover;
+  object-position: 50% 0%;
+}
+
+
+/* Gallery print large */
+.admonition-gallery-print-large .admonition-content {
+  display: flex;
+}
+.admonition-gallery-print-large .admonition-content span {
+  display: flex;
+  border: 4px solid #ddd;
+  margin-right: 2px;
+  border-radius: 8px 8px 0 0px;
+  overflow: hidden;
+}
+.admonition-gallery-print-large .admonition-content span img {
+  width: 1.8in;
+  height: 3.4in;
   object-fit: cover;
   object-position: 50% 0%;
 }

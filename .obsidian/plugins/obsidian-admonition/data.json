@@ -63,6 +63,17 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "gallery-print-large": {
+      "type": "gallery-print-large",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "images",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
