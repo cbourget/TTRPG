@@ -62,10 +62,10 @@ Dynamique de la forêt
 - Les fées de l'ouest ont été infectées et ont graduellement perdu l'usage de leurs pouvoirs
 - Les hags de l'ouest en ont profité pour étendre leur influence. Elles ont tranquillement corrompues la partie ouest de la forêt.
 - Les hags ont jeté un puissant sortilèges sur les fées déjà dépourvues de leurs pouvoirs qui les a transformées en horribles corbeaux.
-- La faune de la partie ouest de la forêt s'est déplacée ver l'est et les Kemesh, peuple de nomades, les ont suivi dans cette migration. 
-- Les Toka, dont le territoire était déjà à l'est se font malmener par les Kemesh, plus nombreux et plus puissants.
+- La faune de la partie ouest de la forêt s'est déplacée ver l'est et les Kemesh, les ont suivi dans cette migration. 
+- Les Toka, des nomades dont le territoire était déjà à l'est se font malmener par les Kemesh, plus nombreux et plus puissants.
 - La faune de l'ouest, elle aussi infectée (en partie) déplace les champignons d'ouest en est.
-- D'autres créatures de l'ouest, comme des trolls, se déplacentd'ouest en est.
+- D'autres créatures de l'ouest, comme des trolls, se déplacent d'ouest en est.
 - Les wood giant chassent ces créatures et animaux infectés afin de limiter la propagation. Ils sont parfois en conflits avec les Kemesh qu'ils considèrent perturbateurs.
 - De façon générale, la faune est plus grosse que la normale. C'est corrélé avec la taille des arbres.
 - La végétation de l'ouest se transforme peu à peu sous l'influence des hags. Elle devient plus rabougrie, les arbres meurent et, dans certains cas, elle devient sentiente et aggressive.

@@ -5,6 +5,26 @@
       "path": "Notes scénario 5.md"
     },
     {
+      "basename": "P1",
+      "path": "1 - Compendium/Créatures/P1.png"
+    },
+    {
+      "basename": "P1",
+      "path": "1 - Compendium/Créatures/P1.md"
+    },
+    {
+      "basename": "Lettre Estelle",
+      "path": "1 - Compendium/Documents/Lettre Estelle.md"
+    },
+    {
+      "basename": "Journal Olia",
+      "path": "1 - Compendium/Documents/Journal Olia.md"
+    },
+    {
+      "basename": "Correspondance Estelle - Diector",
+      "path": "1 - Compendium/Documents/Correspondance Estelle - Diector.md"
+    },
+    {
       "basename": "TOOD",
       "path": "TOOD.md"
     },
@@ -81,14 +101,6 @@
       "path": "1 - Compendium/Documents/Lettre Estelle.pdf"
     },
     {
-      "basename": "Lettre Estelle",
-      "path": "1 - Compendium/Documents/Lettre Estelle.md"
-    },
-    {
-      "basename": "Journal Olia",
-      "path": "1 - Compendium/Documents/Journal Olia.md"
-    },
-    {
       "basename": "NPCs Connus",
       "path": "NPCs Connus.md"
     },
@@ -99,10 +111,6 @@
     {
       "basename": "Index",
       "path": "Index.md"
-    },
-    {
-      "basename": "Correspondance Estelle - Diector",
-      "path": "1 - Compendium/Documents/Correspondance Estelle - Diector.md"
     },
     {
       "basename": "2 - Une Nouvelle Terre",
@@ -139,14 +147,6 @@
     {
       "basename": "Expédition",
       "path": "2 - Campagne/Expédition.md"
-    },
-    {
-      "basename": "P1",
-      "path": "1 - Compendium/Créatures/P1.png"
-    },
-    {
-      "basename": "P1",
-      "path": "1 - Compendium/Créatures/P1.md"
     },
     {
       "basename": "Le Pacte",
