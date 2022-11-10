@@ -20,9 +20,15 @@ Ce texte est-il en commun? Les Durin ont-ils adopté la langue de Estelle et ont
 - Estelmer, Ilvastar, Corgak: Au campement
 - Vilheim, Perrin: Au Campement
 - Crik, Samora: Au campement
-- Harald, Bran Ilvastar, Talarissa: Partis chercher des herbes médicinales
+- Harald, Logan Lanngolyn, Talarissa: Partis chercher des herbes médicinales
 - Larissa Artemel, Héron: Partis à la chasse
 - Javelin: Parti pêcher
+- Hummer, Stryx: Veille sur Rackam
+- Edelia a parlé aux gens du village avec la Samora.
+- Agrippine, Meredia et NPC sans image sont partis rejoindre les joueurs sous prétexte qu'ils devaient être en danger.
+- Livia veille sur les blessés
+- Christofle: A fait un pari avec Hummer et Stryx que vous alliez revenir
+- Grog: Au campement
 
 
 - Carbuncle

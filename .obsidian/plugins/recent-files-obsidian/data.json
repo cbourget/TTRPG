@@ -1,24 +1,112 @@
 {
   "recentFiles": [
     {
-      "basename": "tokens",
-      "path": "tmp/tokens.md"
+      "basename": "Notes scénario 5",
+      "path": "Notes scénario 5.md"
     },
     {
-      "basename": "10 LARGE",
-      "path": "tmp/10 LARGE.jpg"
+      "basename": "TOOD",
+      "path": "TOOD.md"
     },
     {
-      "basename": "29",
-      "path": "tmp/29.jpg"
+      "basename": "Plan",
+      "path": "Plan.md"
     },
     {
       "basename": "NPCs1",
       "path": "Tokens/NPCs1.md"
     },
     {
-      "basename": "Notes scénario 5",
-      "path": "Notes scénario 5.md"
+      "basename": "Pictis",
+      "path": "1 - Compendium/Factions/Pictis/Pictis.md"
+    },
+    {
+      "basename": "Vivalda",
+      "path": "1 - Compendium/NPCs/Vivalda.md"
+    },
+    {
+      "basename": "Qwila",
+      "path": "1 - Compendium/NPCs/Qwila/Qwila.md"
+    },
+    {
+      "basename": "Olia",
+      "path": "1 - Compendium/NPCs/Olia/Olia.md"
+    },
+    {
+      "basename": "Fligbi",
+      "path": "1 - Compendium/NPCs/Fligbi/Fligbi.md"
+    },
+    {
+      "basename": "Dubrin",
+      "path": "1 - Compendium/NPCs/Dubrin/Dubrin.md"
+    },
+    {
+      "basename": "Cuela",
+      "path": "1 - Compendium/NPCs/Cuela/Cuela.md"
+    },
+    {
+      "basename": "Calniss",
+      "path": "1 - Compendium/NPCs/Calniss/Calniss.md"
+    },
+    {
+      "basename": "Blaiva",
+      "path": "1 - Compendium/NPCs/Blaiva/Blaiva.md"
+    },
+    {
+      "basename": "Rapport Dr Holowitz",
+      "path": "1 - Compendium/Documents/Rapport Dr Holowitz.pdf"
+    },
+    {
+      "basename": "Rapport Dr Holowitz",
+      "path": "1 - Compendium/Documents/Rapport Dr Holowitz.md"
+    },
+    {
+      "basename": "Rapport De Beauvais",
+      "path": "1 - Compendium/Documents/Rapport De Beauvais.pdf"
+    },
+    {
+      "basename": "Rapport De Beauvais",
+      "path": "1 - Compendium/Documents/Rapport De Beauvais.md"
+    },
+    {
+      "basename": "Mausolé - Traduction",
+      "path": "1 - Compendium/Documents/Mausolé - Traduction.md"
+    },
+    {
+      "basename": "Mausolé - Inscription",
+      "path": "1 - Compendium/Documents/Mausolé - Inscription.md"
+    },
+    {
+      "basename": "Lettre Estelle",
+      "path": "1 - Compendium/Documents/Lettre Estelle.pdf"
+    },
+    {
+      "basename": "Lettre Estelle",
+      "path": "1 - Compendium/Documents/Lettre Estelle.md"
+    },
+    {
+      "basename": "Journal Olia",
+      "path": "1 - Compendium/Documents/Journal Olia.md"
+    },
+    {
+      "basename": "NPCs Connus",
+      "path": "NPCs Connus.md"
+    },
+    {
+      "basename": "Notes scénario 3",
+      "path": "Notes scénario 3.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Index.md"
+    },
+    {
+      "basename": "Correspondance Estelle - Diector",
+      "path": "1 - Compendium/Documents/Correspondance Estelle - Diector.md"
+    },
+    {
+      "basename": "2 - Une Nouvelle Terre",
+      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/2 - Une Nouvelle Terre.md"
     },
     {
       "basename": "CrowFey",
@@ -51,10 +139,6 @@
     {
       "basename": "Expédition",
       "path": "2 - Campagne/Expédition.md"
-    },
-    {
-      "basename": "Correspondance Estelle - Diector",
-      "path": "Correspondance Estelle - Diector.md"
     },
     {
       "basename": "P1",
@@ -115,90 +199,6 @@
     {
       "basename": "Winged Axe Woman",
       "path": "Images/Characters/Winged Axe Woman.jpg"
-    },
-    {
-      "basename": "Warrior Girl",
-      "path": "Images/Characters/Warrior Girl.jpg"
-    },
-    {
-      "basename": "Warlord",
-      "path": "Images/Characters/Warlord.jpg"
-    },
-    {
-      "basename": "Wandering Mage",
-      "path": "Images/Characters/Wandering Mage.png"
-    },
-    {
-      "basename": "UndeadWarrior",
-      "path": "Images/Characters/UndeadWarrior.jpg"
-    },
-    {
-      "basename": "UndeadViking",
-      "path": "Images/Characters/UndeadViking.jpg"
-    },
-    {
-      "basename": "UndeadMushroom",
-      "path": "Images/Characters/UndeadMushroom.jpg"
-    },
-    {
-      "basename": "TribalPeople7",
-      "path": "Images/Characters/TribalPeople7.jpg"
-    },
-    {
-      "basename": "TribalPeople6",
-      "path": "Images/Characters/TribalPeople6.jpg"
-    },
-    {
-      "basename": "TribalPeople5",
-      "path": "Images/Characters/TribalPeople5.jpg"
-    },
-    {
-      "basename": "TribalPeople3",
-      "path": "Images/Characters/TribalPeople3.jpg"
-    },
-    {
-      "basename": "TribalPeople",
-      "path": "Images/Characters/TribalPeople.jpg"
-    },
-    {
-      "basename": "Scarred Northen Man",
-      "path": "Images/Characters/Scarred Northen Man.jpg"
-    },
-    {
-      "basename": "Queen Barbarian",
-      "path": "Images/Characters/Queen Barbarian.jpg"
-    },
-    {
-      "basename": "Paladin",
-      "path": "Images/Characters/Paladin.jpg"
-    },
-    {
-      "basename": "Orc Juggler",
-      "path": "Images/Characters/Orc Juggler.png"
-    },
-    {
-      "basename": "Old Oracle",
-      "path": "Images/Characters/Old Oracle.jpg"
-    },
-    {
-      "basename": "Mage Lancer",
-      "path": "Images/Characters/Mage Lancer.jpg"
-    },
-    {
-      "basename": "Korigan Telazard",
-      "path": "Images/Characters/Korigan Telazard.jpg"
-    },
-    {
-      "basename": "Izalith Mantar 1",
-      "path": "Images/Characters/Izalith Mantar 1.jpg"
-    },
-    {
-      "basename": "Izalith Mantar",
-      "path": "Images/Characters/Izalith Mantar.jpg"
-    },
-    {
-      "basename": "IndiWarrior",
-      "path": "Images/Characters/IndiWarrior.jpg"
     }
   ],
   "omittedPaths": [],

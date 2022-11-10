@@ -13,5 +13,5 @@ Le repos m'a été éternellement dérobé.
 Sans toi, les caresses de la nuit sont celles d'une lame acérée.
 
 Je pleure et je souffre car, hélas, ton oeuvre est inachevée.
-Où que tu sois, oh Estelle, puisse-tu l'achever et maudire les dieux.
+Où que tu sois, oh Estelle, puisse-tu l'accomplir et maudire les dieux.
 
