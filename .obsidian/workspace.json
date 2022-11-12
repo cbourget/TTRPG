@@ -62,9 +62,19 @@
                 "file": "1 - Compendium/Documents/GlyphMort.png"
               }
             }
+          },
+          {
+            "id": "87182860eac3133e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "1 - Compendium/Créatures/UndeadMushroom.jpg"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Compendium/Documents/GlyphMort.png",
+                "file": "1 - Compendium/Créatures/UndeadMushroom.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Compendium/Documents/GlyphMort.png"
+                "file": "1 - Compendium/Créatures/UndeadMushroom.jpg"
               }
             }
           },
@@ -184,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Compendium/Documents/GlyphMort.png",
+                "file": "1 - Compendium/Créatures/UndeadMushroom.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,17 +216,17 @@
     "width": 285,
     "collapsed": true
   },
-  "active": "b06bfda9f7564280",
+  "active": "a926cbb9d2f4badf",
   "lastOpenFiles": [
-    "1 - Compendium/Documents/Correspondance Estelle - Diector.md",
-    "1 - Compendium/Documents/Lettre Estelle.pdf",
-    "1 - Compendium/Documents/Lettre Estelle.md",
-    "1 - Compendium/Lieux/Nostaria/1 - Manoir/1 - Manoir.md",
-    "Notes scénario 5.md",
-    "1 - Compendium/NPCs/Olia/Olia.md",
-    "1 - Compendium/Documents/Rapport De Beauvais.md",
-    "Images/Characters/Izalith Mantar 1.jpg",
-    "Images/Characters/Izalith Mantar.jpg",
-    "Images/Characters/IndiWarrior2.jpg"
+    "Images/Characters/TribePeople6.png",
+    "Images/Characters/UndeadViking.jpg",
+    "Images/Characters/TribalPeople10.jpg",
+    "Images/Characters/TribePeople3.png",
+    "Images/Characters/TribePeople4.jpg",
+    "Images/Characters/TribalPeople9.jpg",
+    "Images/Characters/TribalPeople8.jpg",
+    "Images/Characters/TribalPeople7.jpg",
+    "Images/Characters/TribalPeople6.jpg",
+    "Images/Characters/TribalPeople5.jpg"
   ]
 }

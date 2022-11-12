@@ -1,6 +1,154 @@
 {
   "recentFiles": [
     {
+      "basename": "UndeadMushroom",
+      "path": "1 - Compendium/Créatures/UndeadMushroom.jpg"
+    },
+    {
+      "basename": "TribePeople6",
+      "path": "Images/Characters/TribePeople6.png"
+    },
+    {
+      "basename": "UndeadViking",
+      "path": "Images/Characters/UndeadViking.jpg"
+    },
+    {
+      "basename": "TribalPeople10",
+      "path": "Images/Characters/TribalPeople10.jpg"
+    },
+    {
+      "basename": "TribePeople3",
+      "path": "Images/Characters/TribePeople3.png"
+    },
+    {
+      "basename": "TribePeople4",
+      "path": "Images/Characters/TribePeople4.jpg"
+    },
+    {
+      "basename": "TribalPeople9",
+      "path": "Images/Characters/TribalPeople9.jpg"
+    },
+    {
+      "basename": "TribalPeople8",
+      "path": "Images/Characters/TribalPeople8.jpg"
+    },
+    {
+      "basename": "TribalPeople7",
+      "path": "Images/Characters/TribalPeople7.jpg"
+    },
+    {
+      "basename": "TribalPeople6",
+      "path": "Images/Characters/TribalPeople6.jpg"
+    },
+    {
+      "basename": "TribalPeople5",
+      "path": "Images/Characters/TribalPeople5.jpg"
+    },
+    {
+      "basename": "TribalPeople3",
+      "path": "Images/Characters/TribalPeople3.jpg"
+    },
+    {
+      "basename": "TribalPeople2",
+      "path": "Images/Characters/TribalPeople2.jpg"
+    },
+    {
+      "basename": "TribalPeople",
+      "path": "Images/Characters/TribalPeople.jpg"
+    },
+    {
+      "basename": "TribalGnome2",
+      "path": "Images/Characters/TribalGnome2.jpg"
+    },
+    {
+      "basename": "Izalith Mantar",
+      "path": "Images/Characters/Izalith Mantar.jpg"
+    },
+    {
+      "basename": "IndiWarrior2",
+      "path": "Images/Characters/IndiWarrior2.jpg"
+    },
+    {
+      "basename": "IndiHuntress",
+      "path": "Images/Characters/IndiHuntress.jpg"
+    },
+    {
+      "basename": "IndiHunter",
+      "path": "Images/Characters/IndiHunter.jpg"
+    },
+    {
+      "basename": "IndiFemale2",
+      "path": "Images/Characters/IndiFemale2.jpg"
+    },
+    {
+      "basename": "IndiFemale",
+      "path": "Images/Characters/IndiFemale.jpg"
+    },
+    {
+      "basename": "ForestPeople6",
+      "path": "Images/Characters/ForestPeople6.jpg"
+    },
+    {
+      "basename": "ForestPeople5",
+      "path": "Images/Characters/ForestPeople5.jpg"
+    },
+    {
+      "basename": "ForestPeople4",
+      "path": "Images/Characters/ForestPeople4.jpg"
+    },
+    {
+      "basename": "ForestPeople3",
+      "path": "Images/Characters/ForestPeople3.jpg"
+    },
+    {
+      "basename": "ForestPeople2",
+      "path": "Images/Characters/ForestPeople2.jpeg"
+    },
+    {
+      "basename": "ForestPeople",
+      "path": "Images/Characters/ForestPeople.jpg"
+    },
+    {
+      "basename": "FeyWarrior2",
+      "path": "Images/Characters/FeyWarrior2.jpg"
+    },
+    {
+      "basename": "FeyWarrior",
+      "path": "Images/Characters/FeyWarrior.jpg"
+    },
+    {
+      "basename": "Hag",
+      "path": "1 - Compendium/Créatures/Hag.jpg"
+    },
+    {
+      "basename": "Mushroom Sentinel",
+      "path": "1 - Compendium/Créatures/Mushroom Sentinel.jpg"
+    },
+    {
+      "basename": "Forest Crocodile",
+      "path": "1 - Compendium/Créatures/Forest Crocodile.jpg"
+    },
+    {
+      "basename": "Crow Hag",
+      "path": "1 - Compendium/Créatures/Crow Hag.jpg"
+    },
+    {
+      "basename": "Compendium v.2",
+      "path": "1 - Compendium/Créatures/Compendium v.2.md"
+    },
+    {
+      "basename": "CryingWoman",
+      "path": "1 - Compendium/Créatures/CryingWoman.jpg"
+    },
+    {
+      "basename": "Cahier de notes",
+      "path": "1 - Compendium/Documents/Cahier de notes.md"
+    },
+    {
+      "basename": "Journal Olia",
+      "path": "1 - Compendium/Documents/Journal Olia.md"
+    },
+    {
       "basename": "GlyphMort",
       "path": "1 - Compendium/Documents/GlyphMort.png"
     },
@@ -37,32 +185,8 @@
       "path": "Images/Characters/Izalith Mantar 1.jpg"
     },
     {
-      "basename": "Izalith Mantar",
-      "path": "Images/Characters/Izalith Mantar.jpg"
-    },
-    {
-      "basename": "IndiWarrior2",
-      "path": "Images/Characters/IndiWarrior2.jpg"
-    },
-    {
       "basename": "IndiWarrior",
       "path": "Images/Characters/IndiWarrior.jpg"
-    },
-    {
-      "basename": "IndiHuntress",
-      "path": "Images/Characters/IndiHuntress.jpg"
-    },
-    {
-      "basename": "IndiHunter",
-      "path": "Images/Characters/IndiHunter.jpg"
-    },
-    {
-      "basename": "IndiFemale2",
-      "path": "Images/Characters/IndiFemale2.jpg"
-    },
-    {
-      "basename": "IndiFemale",
-      "path": "Images/Characters/IndiFemale.jpg"
     },
     {
       "basename": "IndiDruid",
@@ -73,132 +197,8 @@
       "path": "Images/Characters/Hal-Elf Ranger.jpg"
     },
     {
-      "basename": "ForestPeople6",
-      "path": "Images/Characters/ForestPeople6.jpg"
-    },
-    {
       "basename": "GiantScavenger",
       "path": "Images/Characters/GiantScavenger.jpg"
-    },
-    {
-      "basename": "ForestPeople4",
-      "path": "Images/Characters/ForestPeople4.jpg"
-    },
-    {
-      "basename": "ForestPeople2",
-      "path": "Images/Characters/ForestPeople2.jpeg"
-    },
-    {
-      "basename": "ForestPeople",
-      "path": "Images/Characters/ForestPeople.jpg"
-    },
-    {
-      "basename": "FeyWarrior3",
-      "path": "Images/Characters/FeyWarrior3.jpg"
-    },
-    {
-      "basename": "FeyWizard",
-      "path": "Images/Characters/FeyWizard.jpg"
-    },
-    {
-      "basename": "FeyWarrior2",
-      "path": "Images/Characters/FeyWarrior2.jpg"
-    },
-    {
-      "basename": "FeyWarrior",
-      "path": "Images/Characters/FeyWarrior.jpg"
-    },
-    {
-      "basename": "Chamanness",
-      "path": "Images/Characters/Chamanness.png"
-    },
-    {
-      "basename": "Crow Hag",
-      "path": "1 - Compendium/Créatures/Crow Hag.jpg"
-    },
-    {
-      "basename": "Hag",
-      "path": "1 - Compendium/Créatures/Hag.jpg"
-    },
-    {
-      "basename": "CusedTree",
-      "path": "Images/CusedTree.jpg"
-    },
-    {
-      "basename": "DarkWizardKnight",
-      "path": "Images/DarkWizardKnight.jpg"
-    },
-    {
-      "basename": "DecayGod",
-      "path": "Images/DecayGod.jpg"
-    },
-    {
-      "basename": "Demon",
-      "path": "Images/Demon.jpg"
-    },
-    {
-      "basename": "AdventurerWarrior",
-      "path": "Images/Characters/AdventurerWarrior.jpg"
-    },
-    {
-      "basename": "Archer Rouge",
-      "path": "Images/Characters/Archer Rouge.jpg"
-    },
-    {
-      "basename": "Assassin",
-      "path": "Images/Characters/Assassin.jpg"
-    },
-    {
-      "basename": "Bard",
-      "path": "Images/Characters/Bard.jpg"
-    },
-    {
-      "basename": "Blacksmith",
-      "path": "Images/Characters/Blacksmith.jpg"
-    },
-    {
-      "basename": "Brome Firbor",
-      "path": "Images/Characters/Brome Firbor.jpg"
-    },
-    {
-      "basename": "Butcher",
-      "path": "Images/Characters/Butcher.jpg"
-    },
-    {
-      "basename": "Celestials",
-      "path": "Images/Characters/Celestials.jpg"
-    },
-    {
-      "basename": "Cannibal",
-      "path": "Images/Characters/Cannibal.jpg"
-    },
-    {
-      "basename": "Cloaked Guy",
-      "path": "Images/Characters/Cloaked Guy.jpg"
-    },
-    {
-      "basename": "Crown and Wizard",
-      "path": "Images/Characters/Crown and Wizard.jpg"
-    },
-    {
-      "basename": "Dame Yiotl",
-      "path": "Images/Characters/Dame Yiotl.jpg"
-    },
-    {
-      "basename": "Dark Lord",
-      "path": "Images/Characters/Dark Lord.jpg"
-    },
-    {
-      "basename": "Demonic Shamaness",
-      "path": "Images/Characters/Demonic Shamaness.jpg"
-    },
-    {
-      "basename": "DiseasedWoman2",
-      "path": "Images/Characters/DiseasedWoman2.jpg"
-    },
-    {
-      "basename": "Dragonborn Dwarf",
-      "path": "Images/Characters/Dragonborn Dwarf.jpg"
     }
   ],
   "omittedPaths": [],
