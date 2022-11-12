@@ -1,196 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Notes scénario 5",
-      "path": "Notes scénario 5.md"
+      "basename": "Hag",
+      "path": "Images/Hag.jpg"
     },
     {
-      "basename": "P1",
-      "path": "1 - Compendium/Créatures/P1.png"
+      "basename": "Demon2",
+      "path": "Images/Demon2.jpg"
     },
     {
-      "basename": "P1",
-      "path": "1 - Compendium/Créatures/P1.md"
+      "basename": "Demon",
+      "path": "Images/Demon.jpg"
     },
     {
-      "basename": "Lettre Estelle",
-      "path": "1 - Compendium/Documents/Lettre Estelle.md"
+      "basename": "DecayGod",
+      "path": "Images/DecayGod.jpg"
     },
     {
-      "basename": "Journal Olia",
-      "path": "1 - Compendium/Documents/Journal Olia.md"
+      "basename": "DarkWizardKnight",
+      "path": "Images/DarkWizardKnight.jpg"
     },
     {
-      "basename": "Correspondance Estelle - Diector",
-      "path": "1 - Compendium/Documents/Correspondance Estelle - Diector.md"
-    },
-    {
-      "basename": "TOOD",
-      "path": "TOOD.md"
-    },
-    {
-      "basename": "Plan",
-      "path": "Plan.md"
-    },
-    {
-      "basename": "NPCs1",
-      "path": "Tokens/NPCs1.md"
-    },
-    {
-      "basename": "Pictis",
-      "path": "1 - Compendium/Factions/Pictis/Pictis.md"
-    },
-    {
-      "basename": "Vivalda",
-      "path": "1 - Compendium/NPCs/Vivalda.md"
-    },
-    {
-      "basename": "Qwila",
-      "path": "1 - Compendium/NPCs/Qwila/Qwila.md"
-    },
-    {
-      "basename": "Olia",
-      "path": "1 - Compendium/NPCs/Olia/Olia.md"
-    },
-    {
-      "basename": "Fligbi",
-      "path": "1 - Compendium/NPCs/Fligbi/Fligbi.md"
-    },
-    {
-      "basename": "Dubrin",
-      "path": "1 - Compendium/NPCs/Dubrin/Dubrin.md"
-    },
-    {
-      "basename": "Cuela",
-      "path": "1 - Compendium/NPCs/Cuela/Cuela.md"
-    },
-    {
-      "basename": "Calniss",
-      "path": "1 - Compendium/NPCs/Calniss/Calniss.md"
-    },
-    {
-      "basename": "Blaiva",
-      "path": "1 - Compendium/NPCs/Blaiva/Blaiva.md"
-    },
-    {
-      "basename": "Rapport Dr Holowitz",
-      "path": "1 - Compendium/Documents/Rapport Dr Holowitz.pdf"
-    },
-    {
-      "basename": "Rapport Dr Holowitz",
-      "path": "1 - Compendium/Documents/Rapport Dr Holowitz.md"
-    },
-    {
-      "basename": "Rapport De Beauvais",
-      "path": "1 - Compendium/Documents/Rapport De Beauvais.pdf"
-    },
-    {
-      "basename": "Rapport De Beauvais",
-      "path": "1 - Compendium/Documents/Rapport De Beauvais.md"
-    },
-    {
-      "basename": "Mausolé - Traduction",
-      "path": "1 - Compendium/Documents/Mausolé - Traduction.md"
-    },
-    {
-      "basename": "Mausolé - Inscription",
-      "path": "1 - Compendium/Documents/Mausolé - Inscription.md"
-    },
-    {
-      "basename": "Lettre Estelle",
-      "path": "1 - Compendium/Documents/Lettre Estelle.pdf"
-    },
-    {
-      "basename": "NPCs Connus",
-      "path": "NPCs Connus.md"
-    },
-    {
-      "basename": "Notes scénario 3",
-      "path": "Notes scénario 3.md"
-    },
-    {
-      "basename": "Index",
-      "path": "Index.md"
-    },
-    {
-      "basename": "2 - Une Nouvelle Terre",
-      "path": "2 - Campagne/Scenarios/2 - Une Nouvelle Terre/2 - Une Nouvelle Terre.md"
-    },
-    {
-      "basename": "CrowFey",
-      "path": "1 - Compendium/Créatures/Feys/CrowFey.jpg"
-    },
-    {
-      "basename": "Witch and Child",
-      "path": "1 - Compendium/Créatures/Feys/Witch and Child.jpg"
-    },
-    {
-      "basename": "Horse Fairy",
-      "path": "1 - Compendium/Créatures/Feys/Horse Fairy.jpg"
-    },
-    {
-      "basename": "Horse Crow",
-      "path": "1 - Compendium/Créatures/Feys/Horse Crow.png"
-    },
-    {
-      "basename": "Mushroom Sentinel",
-      "path": "1 - Compendium/Créatures/Mushroom Sentinel.jpg"
-    },
-    {
-      "basename": "Forest Crocodile",
-      "path": "1 - Compendium/Créatures/Forest Crocodile.jpg"
-    },
-    {
-      "basename": "Fallen Tree",
-      "path": "1 - Compendium/Créatures/Feys/Fallen Tree.jpg"
-    },
-    {
-      "basename": "Expédition",
-      "path": "2 - Campagne/Expédition.md"
-    },
-    {
-      "basename": "Le Pacte",
-      "path": "1 - Compendium/Concepts/Le Pacte.md"
-    },
-    {
-      "basename": "Korigan Mantar",
-      "path": "1 - Compendium/NPCs/Korigan Mantar/Korigan Mantar.md"
-    },
-    {
-      "basename": "Korigan Telazar",
-      "path": "1 - Compendium/Concepts/Korigan Telazar.md"
-    },
-    {
-      "basename": "Père Gawain",
-      "path": "1 - Compendium/Concepts/Père Gawain.md"
-    },
-    {
-      "basename": "Burbry-Free-scaled",
-      "path": "Images/Locations/Burbry-Free-scaled.webp"
+      "basename": "CusedTree",
+      "path": "Images/CusedTree.jpg"
     },
     {
       "basename": "CrowFey2",
       "path": "Images/CrowFey2.jpg"
-    },
-    {
-      "basename": "NostariaArrival",
-      "path": "Images/Locations/NostariaArrival.jpg"
-    },
-    {
-      "basename": "NostariaUpfall",
-      "path": "Images/Locations/NostariaUpfall.jpg"
-    },
-    {
-      "basename": "NostariaBeach",
-      "path": "Images/Locations/NostariaBeach.jpg"
-    },
-    {
-      "basename": "Wandering Tombshell",
-      "path": "Images/Locations/Wandering Tombshell.jpg"
-    },
-    {
-      "basename": "Ederfast",
-      "path": "Images/Maps/Ederfast.jpg"
     },
     {
       "basename": "Witch Apprentice",
@@ -199,6 +35,170 @@
     {
       "basename": "Winged Axe Woman",
       "path": "Images/Characters/Winged Axe Woman.jpg"
+    },
+    {
+      "basename": "Warrior Girl",
+      "path": "Images/Characters/Warrior Girl.jpg"
+    },
+    {
+      "basename": "Warlord",
+      "path": "Images/Characters/Warlord.jpg"
+    },
+    {
+      "basename": "Wandering Mage",
+      "path": "Images/Characters/Wandering Mage.png"
+    },
+    {
+      "basename": "UndeadWarrior",
+      "path": "Images/Characters/UndeadWarrior.jpg"
+    },
+    {
+      "basename": "UndeadViking",
+      "path": "Images/Characters/UndeadViking.jpg"
+    },
+    {
+      "basename": "UndeadMushroom",
+      "path": "Images/Characters/UndeadMushroom.jpg"
+    },
+    {
+      "basename": "TribalPeople10",
+      "path": "Images/Characters/TribalPeople10.jpg"
+    },
+    {
+      "basename": "TribalPeople9",
+      "path": "Images/Characters/TribalPeople9.jpg"
+    },
+    {
+      "basename": "TribalPeople8",
+      "path": "Images/Characters/TribalPeople8.jpg"
+    },
+    {
+      "basename": "TribalPeople7",
+      "path": "Images/Characters/TribalPeople7.jpg"
+    },
+    {
+      "basename": "TribalPeople6",
+      "path": "Images/Characters/TribalPeople6.jpg"
+    },
+    {
+      "basename": "TribalPeople5",
+      "path": "Images/Characters/TribalPeople5.jpg"
+    },
+    {
+      "basename": "TribalPeople3",
+      "path": "Images/Characters/TribalPeople3.jpg"
+    },
+    {
+      "basename": "TribalPeople2",
+      "path": "Images/Characters/TribalPeople2.jpg"
+    },
+    {
+      "basename": "TribalPeople",
+      "path": "Images/Characters/TribalPeople.jpg"
+    },
+    {
+      "basename": "TribalGnome2",
+      "path": "Images/Characters/TribalGnome2.jpg"
+    },
+    {
+      "basename": "TribePeople4",
+      "path": "Images/Characters/TribePeople4.jpg"
+    },
+    {
+      "basename": "TribePeople3",
+      "path": "Images/Characters/TribePeople3.png"
+    },
+    {
+      "basename": "Swashbuckler",
+      "path": "Images/Characters/Swashbuckler.jpg"
+    },
+    {
+      "basename": "Summoner",
+      "path": "Images/Characters/Summoner.jpg"
+    },
+    {
+      "basename": "Spy",
+      "path": "Images/Characters/Spy.jpg"
+    },
+    {
+      "basename": "Shady Sailor",
+      "path": "Images/Characters/Shady Sailor.jpg"
+    },
+    {
+      "basename": "Scarred Northen Man",
+      "path": "Images/Characters/Scarred Northen Man.jpg"
+    },
+    {
+      "basename": "Sailor",
+      "path": "Images/Characters/Sailor.jpg"
+    },
+    {
+      "basename": "Rochard",
+      "path": "Images/Characters/Rochard.png"
+    },
+    {
+      "basename": "Queen Barbarian",
+      "path": "Images/Characters/Queen Barbarian.jpg"
+    },
+    {
+      "basename": "Pirate",
+      "path": "Images/Characters/Pirate.jpg"
+    },
+    {
+      "basename": "Paladin",
+      "path": "Images/Characters/Paladin.jpg"
+    },
+    {
+      "basename": "Orc Juggler",
+      "path": "Images/Characters/Orc Juggler.png"
+    },
+    {
+      "basename": "Old Oracle",
+      "path": "Images/Characters/Old Oracle.jpg"
+    },
+    {
+      "basename": "Mage Lancer",
+      "path": "Images/Characters/Mage Lancer.jpg"
+    },
+    {
+      "basename": "Korigan Telazard",
+      "path": "Images/Characters/Korigan Telazard.jpg"
+    },
+    {
+      "basename": "Izalith Mantar 1",
+      "path": "Images/Characters/Izalith Mantar 1.jpg"
+    },
+    {
+      "basename": "Izalith Mantar",
+      "path": "Images/Characters/Izalith Mantar.jpg"
+    },
+    {
+      "basename": "Cannibal",
+      "path": "Images/Characters/Cannibal.jpg"
+    },
+    {
+      "basename": "IndiFemale2",
+      "path": "Images/Characters/IndiFemale2.jpg"
+    },
+    {
+      "basename": "IndiFemale",
+      "path": "Images/Characters/IndiFemale.jpg"
+    },
+    {
+      "basename": "IndiDruid",
+      "path": "Images/Characters/IndiDruid.jpg"
+    },
+    {
+      "basename": "IndiWarrior2",
+      "path": "Images/Characters/IndiWarrior2.jpg"
+    },
+    {
+      "basename": "IndiWarrior",
+      "path": "Images/Characters/IndiWarrior.jpg"
+    },
+    {
+      "basename": "IndiHuntress",
+      "path": "Images/Characters/IndiHuntress.jpg"
     }
   ],
   "omittedPaths": [],
