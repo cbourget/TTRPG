@@ -1,168 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Hag",
-      "path": "Images/Hag.jpg"
+      "basename": "GlyphMort",
+      "path": "1 - Compendium/Documents/GlyphMort.png"
     },
     {
-      "basename": "Demon2",
-      "path": "Images/Demon2.jpg"
+      "basename": "Correspondance Estelle - Diector",
+      "path": "1 - Compendium/Documents/Correspondance Estelle - Diector.md"
     },
     {
-      "basename": "Demon",
-      "path": "Images/Demon.jpg"
+      "basename": "Lettre Estelle",
+      "path": "1 - Compendium/Documents/Lettre Estelle.pdf"
     },
     {
-      "basename": "DecayGod",
-      "path": "Images/DecayGod.jpg"
+      "basename": "Lettre Estelle",
+      "path": "1 - Compendium/Documents/Lettre Estelle.md"
     },
     {
-      "basename": "DarkWizardKnight",
-      "path": "Images/DarkWizardKnight.jpg"
+      "basename": "1 - Manoir",
+      "path": "1 - Compendium/Lieux/Nostaria/1 - Manoir/1 - Manoir.md"
     },
     {
-      "basename": "CusedTree",
-      "path": "Images/CusedTree.jpg"
+      "basename": "Notes scénario 5",
+      "path": "Notes scénario 5.md"
     },
     {
-      "basename": "CrowFey2",
-      "path": "Images/CrowFey2.jpg"
+      "basename": "Olia",
+      "path": "1 - Compendium/NPCs/Olia/Olia.md"
     },
     {
-      "basename": "Witch Apprentice",
-      "path": "Images/Characters/Witch Apprentice.jpg"
-    },
-    {
-      "basename": "Winged Axe Woman",
-      "path": "Images/Characters/Winged Axe Woman.jpg"
-    },
-    {
-      "basename": "Warrior Girl",
-      "path": "Images/Characters/Warrior Girl.jpg"
-    },
-    {
-      "basename": "Warlord",
-      "path": "Images/Characters/Warlord.jpg"
-    },
-    {
-      "basename": "Wandering Mage",
-      "path": "Images/Characters/Wandering Mage.png"
-    },
-    {
-      "basename": "UndeadWarrior",
-      "path": "Images/Characters/UndeadWarrior.jpg"
-    },
-    {
-      "basename": "UndeadViking",
-      "path": "Images/Characters/UndeadViking.jpg"
-    },
-    {
-      "basename": "UndeadMushroom",
-      "path": "Images/Characters/UndeadMushroom.jpg"
-    },
-    {
-      "basename": "TribalPeople10",
-      "path": "Images/Characters/TribalPeople10.jpg"
-    },
-    {
-      "basename": "TribalPeople9",
-      "path": "Images/Characters/TribalPeople9.jpg"
-    },
-    {
-      "basename": "TribalPeople8",
-      "path": "Images/Characters/TribalPeople8.jpg"
-    },
-    {
-      "basename": "TribalPeople7",
-      "path": "Images/Characters/TribalPeople7.jpg"
-    },
-    {
-      "basename": "TribalPeople6",
-      "path": "Images/Characters/TribalPeople6.jpg"
-    },
-    {
-      "basename": "TribalPeople5",
-      "path": "Images/Characters/TribalPeople5.jpg"
-    },
-    {
-      "basename": "TribalPeople3",
-      "path": "Images/Characters/TribalPeople3.jpg"
-    },
-    {
-      "basename": "TribalPeople2",
-      "path": "Images/Characters/TribalPeople2.jpg"
-    },
-    {
-      "basename": "TribalPeople",
-      "path": "Images/Characters/TribalPeople.jpg"
-    },
-    {
-      "basename": "TribalGnome2",
-      "path": "Images/Characters/TribalGnome2.jpg"
-    },
-    {
-      "basename": "TribePeople4",
-      "path": "Images/Characters/TribePeople4.jpg"
-    },
-    {
-      "basename": "TribePeople3",
-      "path": "Images/Characters/TribePeople3.png"
-    },
-    {
-      "basename": "Swashbuckler",
-      "path": "Images/Characters/Swashbuckler.jpg"
-    },
-    {
-      "basename": "Summoner",
-      "path": "Images/Characters/Summoner.jpg"
-    },
-    {
-      "basename": "Spy",
-      "path": "Images/Characters/Spy.jpg"
-    },
-    {
-      "basename": "Shady Sailor",
-      "path": "Images/Characters/Shady Sailor.jpg"
-    },
-    {
-      "basename": "Scarred Northen Man",
-      "path": "Images/Characters/Scarred Northen Man.jpg"
-    },
-    {
-      "basename": "Sailor",
-      "path": "Images/Characters/Sailor.jpg"
-    },
-    {
-      "basename": "Rochard",
-      "path": "Images/Characters/Rochard.png"
-    },
-    {
-      "basename": "Queen Barbarian",
-      "path": "Images/Characters/Queen Barbarian.jpg"
-    },
-    {
-      "basename": "Pirate",
-      "path": "Images/Characters/Pirate.jpg"
-    },
-    {
-      "basename": "Paladin",
-      "path": "Images/Characters/Paladin.jpg"
-    },
-    {
-      "basename": "Orc Juggler",
-      "path": "Images/Characters/Orc Juggler.png"
-    },
-    {
-      "basename": "Old Oracle",
-      "path": "Images/Characters/Old Oracle.jpg"
-    },
-    {
-      "basename": "Mage Lancer",
-      "path": "Images/Characters/Mage Lancer.jpg"
-    },
-    {
-      "basename": "Korigan Telazard",
-      "path": "Images/Characters/Korigan Telazard.jpg"
+      "basename": "Rapport De Beauvais",
+      "path": "1 - Compendium/Documents/Rapport De Beauvais.md"
     },
     {
       "basename": "Izalith Mantar 1",
@@ -173,8 +41,20 @@
       "path": "Images/Characters/Izalith Mantar.jpg"
     },
     {
-      "basename": "Cannibal",
-      "path": "Images/Characters/Cannibal.jpg"
+      "basename": "IndiWarrior2",
+      "path": "Images/Characters/IndiWarrior2.jpg"
+    },
+    {
+      "basename": "IndiWarrior",
+      "path": "Images/Characters/IndiWarrior.jpg"
+    },
+    {
+      "basename": "IndiHuntress",
+      "path": "Images/Characters/IndiHuntress.jpg"
+    },
+    {
+      "basename": "IndiHunter",
+      "path": "Images/Characters/IndiHunter.jpg"
     },
     {
       "basename": "IndiFemale2",
@@ -189,16 +69,136 @@
       "path": "Images/Characters/IndiDruid.jpg"
     },
     {
-      "basename": "IndiWarrior2",
-      "path": "Images/Characters/IndiWarrior2.jpg"
+      "basename": "Hal-Elf Ranger",
+      "path": "Images/Characters/Hal-Elf Ranger.jpg"
     },
     {
-      "basename": "IndiWarrior",
-      "path": "Images/Characters/IndiWarrior.jpg"
+      "basename": "ForestPeople6",
+      "path": "Images/Characters/ForestPeople6.jpg"
     },
     {
-      "basename": "IndiHuntress",
-      "path": "Images/Characters/IndiHuntress.jpg"
+      "basename": "GiantScavenger",
+      "path": "Images/Characters/GiantScavenger.jpg"
+    },
+    {
+      "basename": "ForestPeople4",
+      "path": "Images/Characters/ForestPeople4.jpg"
+    },
+    {
+      "basename": "ForestPeople2",
+      "path": "Images/Characters/ForestPeople2.jpeg"
+    },
+    {
+      "basename": "ForestPeople",
+      "path": "Images/Characters/ForestPeople.jpg"
+    },
+    {
+      "basename": "FeyWarrior3",
+      "path": "Images/Characters/FeyWarrior3.jpg"
+    },
+    {
+      "basename": "FeyWizard",
+      "path": "Images/Characters/FeyWizard.jpg"
+    },
+    {
+      "basename": "FeyWarrior2",
+      "path": "Images/Characters/FeyWarrior2.jpg"
+    },
+    {
+      "basename": "FeyWarrior",
+      "path": "Images/Characters/FeyWarrior.jpg"
+    },
+    {
+      "basename": "Chamanness",
+      "path": "Images/Characters/Chamanness.png"
+    },
+    {
+      "basename": "Crow Hag",
+      "path": "1 - Compendium/Créatures/Crow Hag.jpg"
+    },
+    {
+      "basename": "Hag",
+      "path": "1 - Compendium/Créatures/Hag.jpg"
+    },
+    {
+      "basename": "CusedTree",
+      "path": "Images/CusedTree.jpg"
+    },
+    {
+      "basename": "DarkWizardKnight",
+      "path": "Images/DarkWizardKnight.jpg"
+    },
+    {
+      "basename": "DecayGod",
+      "path": "Images/DecayGod.jpg"
+    },
+    {
+      "basename": "Demon",
+      "path": "Images/Demon.jpg"
+    },
+    {
+      "basename": "AdventurerWarrior",
+      "path": "Images/Characters/AdventurerWarrior.jpg"
+    },
+    {
+      "basename": "Archer Rouge",
+      "path": "Images/Characters/Archer Rouge.jpg"
+    },
+    {
+      "basename": "Assassin",
+      "path": "Images/Characters/Assassin.jpg"
+    },
+    {
+      "basename": "Bard",
+      "path": "Images/Characters/Bard.jpg"
+    },
+    {
+      "basename": "Blacksmith",
+      "path": "Images/Characters/Blacksmith.jpg"
+    },
+    {
+      "basename": "Brome Firbor",
+      "path": "Images/Characters/Brome Firbor.jpg"
+    },
+    {
+      "basename": "Butcher",
+      "path": "Images/Characters/Butcher.jpg"
+    },
+    {
+      "basename": "Celestials",
+      "path": "Images/Characters/Celestials.jpg"
+    },
+    {
+      "basename": "Cannibal",
+      "path": "Images/Characters/Cannibal.jpg"
+    },
+    {
+      "basename": "Cloaked Guy",
+      "path": "Images/Characters/Cloaked Guy.jpg"
+    },
+    {
+      "basename": "Crown and Wizard",
+      "path": "Images/Characters/Crown and Wizard.jpg"
+    },
+    {
+      "basename": "Dame Yiotl",
+      "path": "Images/Characters/Dame Yiotl.jpg"
+    },
+    {
+      "basename": "Dark Lord",
+      "path": "Images/Characters/Dark Lord.jpg"
+    },
+    {
+      "basename": "Demonic Shamaness",
+      "path": "Images/Characters/Demonic Shamaness.jpg"
+    },
+    {
+      "basename": "DiseasedWoman2",
+      "path": "Images/Characters/DiseasedWoman2.jpg"
+    },
+    {
+      "basename": "Dragonborn Dwarf",
+      "path": "Images/Characters/Dragonborn Dwarf.jpg"
     }
   ],
   "omittedPaths": [],

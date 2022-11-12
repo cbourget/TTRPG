@@ -39,12 +39,32 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/Hag.jpg"
+                "file": "1 - Compendium/Créatures/Hag.jpg"
+              }
+            }
+          },
+          {
+            "id": "7096fbe084dea7ae",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "1 - Compendium/Créatures/Hag.jpg"
+              }
+            }
+          },
+          {
+            "id": "b06bfda9f7564280",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "1 - Compendium/Documents/GlyphMort.png"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -74,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tamerlane",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Hag.jpg",
+                "file": "1 - Compendium/Documents/GlyphMort.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Hag.jpg"
+                "file": "1 - Compendium/Documents/GlyphMort.png"
               }
             }
           },
@@ -164,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Hag.jpg",
+                "file": "1 - Compendium/Documents/GlyphMort.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,17 +206,17 @@
     "width": 285,
     "collapsed": true
   },
-  "active": "366191aeef74f0c1",
+  "active": "b06bfda9f7564280",
   "lastOpenFiles": [
-    "Images/Demon2.jpg",
-    "Images/Demon.jpg",
-    "Images/DecayGod.jpg",
-    "Images/DarkWizardKnight.jpg",
-    "Images/CusedTree.jpg",
-    "Images/CrowFey2.jpg",
-    "Images/Characters/Witch Apprentice.jpg",
-    "Images/Characters/Winged Axe Woman.jpg",
-    "Images/Characters/Warrior Girl.jpg",
-    "Images/Characters/Warlord.jpg"
+    "1 - Compendium/Documents/Correspondance Estelle - Diector.md",
+    "1 - Compendium/Documents/Lettre Estelle.pdf",
+    "1 - Compendium/Documents/Lettre Estelle.md",
+    "1 - Compendium/Lieux/Nostaria/1 - Manoir/1 - Manoir.md",
+    "Notes scénario 5.md",
+    "1 - Compendium/NPCs/Olia/Olia.md",
+    "1 - Compendium/Documents/Rapport De Beauvais.md",
+    "Images/Characters/Izalith Mantar 1.jpg",
+    "Images/Characters/Izalith Mantar.jpg",
+    "Images/Characters/IndiWarrior2.jpg"
   ]
 }
