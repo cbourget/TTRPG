@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Couleurs",
+      "path": "1 - Compendium/Concepts/Couleurs.md"
+    },
+    {
+      "basename": "Notes scénario 5",
+      "path": "Notes scénario 5.md"
+    },
+    {
+      "basename": "NPCs Connus",
+      "path": "NPCs Connus.md"
+    },
+    {
+      "basename": "Âme",
+      "path": "1 - Compendium/Concepts/Âme.md"
+    },
+    {
+      "basename": "Âme - Savard",
+      "path": "1 - Compendium/Concepts/Âme - Savard.md"
+    },
+    {
+      "basename": "Mausolé - Inscription",
+      "path": "1 - Compendium/Documents/Mausolé - Inscription.md"
+    },
+    {
+      "basename": "Collecteurs",
+      "path": "1 - Compendium/Concepts/Collecteurs.md"
+    },
+    {
       "basename": "UndeadMushroom",
       "path": "1 - Compendium/Créatures/UndeadMushroom.jpg"
     },
@@ -169,36 +197,8 @@
       "path": "1 - Compendium/Lieux/Nostaria/1 - Manoir/1 - Manoir.md"
     },
     {
-      "basename": "Notes scénario 5",
-      "path": "Notes scénario 5.md"
-    },
-    {
       "basename": "Olia",
       "path": "1 - Compendium/NPCs/Olia/Olia.md"
-    },
-    {
-      "basename": "Rapport De Beauvais",
-      "path": "1 - Compendium/Documents/Rapport De Beauvais.md"
-    },
-    {
-      "basename": "Izalith Mantar 1",
-      "path": "Images/Characters/Izalith Mantar 1.jpg"
-    },
-    {
-      "basename": "IndiWarrior",
-      "path": "Images/Characters/IndiWarrior.jpg"
-    },
-    {
-      "basename": "IndiDruid",
-      "path": "Images/Characters/IndiDruid.jpg"
-    },
-    {
-      "basename": "Hal-Elf Ranger",
-      "path": "Images/Characters/Hal-Elf Ranger.jpg"
-    },
-    {
-      "basename": "GiantScavenger",
-      "path": "Images/Characters/GiantScavenger.jpg"
     }
   ],
   "omittedPaths": [],
