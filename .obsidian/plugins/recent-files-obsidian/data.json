@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Wanageeska",
+      "path": "2 - Campagne/Joueurs/Wanageeska/Wanageeska.md"
+    },
+    {
       "basename": "Couleurs",
       "path": "1 - Compendium/Concepts/Couleurs.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1 - Manoir",
       "path": "1 - Compendium/Lieux/Nostaria/1 - Manoir/1 - Manoir.md"
-    },
-    {
-      "basename": "Olia",
-      "path": "1 - Compendium/NPCs/Olia/Olia.md"
     }
   ],
   "omittedPaths": [],
