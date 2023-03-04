@@ -22,13 +22,23 @@
             }
           },
           {
-            "id": "ee5d87d0841adb79",
+            "id": "4122ebe74223e195",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "1 - Compendium/Créatures/Bear.jpg"
+              }
+            }
+          },
+          {
+            "id": "2fbccd3b5b52c6eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Compendium/Concepts/Le Pacte.md",
-                "mode": "preview",
+                "file": "2 - Campagne/Expédition.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -46,15 +56,17 @@
       {
         "id": "d0cd6f862b299ff8",
         "type": "tabs",
-        "dimension": 76.11111111111111,
+        "dimension": 76.8642447418738,
         "children": [
           {
             "id": "a926cbb9d2f4badf",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "1 - Compendium/Factions/Toka/Toka.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -80,13 +92,32 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5eea58bc26bfa526",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d9110016db4425a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "92167755dfd6ebc0",
         "type": "tabs",
-        "dimension": 23.888888888888893,
+        "dimension": 23.135755258126196,
         "children": [
           {
             "id": "d41d8b8630bc95e2",
@@ -100,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 496.5
   },
   "right": {
     "id": "8b329d269e60daa7",
@@ -116,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Compendium/Concepts/Le Pacte.md",
+                "file": "1 - Compendium/Créatures/Bear.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Compendium/Concepts/Le Pacte.md"
+                "file": "1 - Compendium/Créatures/Bear.jpg"
               }
             }
           },
@@ -154,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Compendium/Concepts/Le Pacte.md",
+                "file": "1 - Compendium/Créatures/Bear.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,22 +219,48 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ee5d87d0841adb79",
+  "active": "4122ebe74223e195",
   "lastOpenFiles": [
-    "1 - Compendium/Concepts/Pthumériens.md",
+    "1 - Compendium/Créatures/Hags/Crying Woman.jpg",
+    "1 - Compendium/Créatures/Hags/Hag 1.jpg",
+    "1 - Compendium/Créatures/Compendium v.2.md",
+    "1 - Compendium/Créatures/Hags/Crow Hag.jpg",
+    "1 - Compendium/Créatures/Étrangleur/Étrangleur.md",
+    "1 - Compendium/Créatures/Esclavagistes/Esclavagiste 4.jpg",
+    "1 - Compendium/Créatures/Esclavagistes/Esclavagiste 3.jpg",
+    "1 - Compendium/Créatures/Esclavagistes/Esclavagiste 2.jpg",
+    "1 - Compendium/Créatures/Esclavagistes/Esclavagiste 1.jpg",
+    "1 - Compendium/Créatures/Feys/Horse Fairy.jpg",
+    "1 - Compendium/Créatures/Feys/Fey 2.jpg",
+    "1 - Compendium/Créatures/Nymphs/Nymph.jpg",
+    "1 - Compendium/Créatures/Nymphs/Nymph4.jpg",
+    "Notes 6.md",
+    "Notes scénario 5.md",
+    "2 - Campagne/Expédition.md",
+    "1 - Compendium/Créatures/Cordycep/Cordycep.md",
+    "1 - Compendium/Créatures/Crocodiles",
+    "1 - Compendium/Créatures/Hags",
+    "1 - Compendium/Lieux/Nostaria/0 - Pictuk/0 - Pictuk.md",
+    "1 - Compendium/Factions/Fées/Fées.md",
+    "1 - Compendium/Factions/Toka/Toka.md",
+    "1 - Compendium/Factions/Fées/Fées.md",
+    "1 - Compendium/Factions/Fées",
+    "1 - Compendium/Factions/Artemel.md",
+    "1 - Compendium/Factions/Pictis/Pictis.md",
+    "1 - Compendium/NPCs/Blaiva/Blaiva.md",
+    "1 - Compendium/Factions/Toka",
+    "1 - Compendium/Factions/Kemesh/Kemesh.md",
+    "1 - Compendium/Factions/Kemesh.md",
+    "1 - Compendium/Factions/Kemesh",
+    "Untitled.md",
+    "1 - Compendium/Factions/Rackham.md",
     "1 - Compendium/Concepts/Forêt de Vernoir.md",
+    "1 - Compendium/Concepts/Alchimie.md",
+    "1 - Compendium/Concepts/Le Pacte.md",
+    "1 - Compendium/Concepts/Pthumériens.md",
     "1 - Compendium/Concepts/Gulde des Chasseurs.md",
     "1 - Compendium/Concepts/Âme.md",
     "1 - Compendium/Concepts/Estelle de Beauvais.md",
-    "Notes scénario 5.md",
-    "2 - Campagne/Joueurs/Wanageeska/Wanageeska.md",
-    "1 - Compendium/Concepts/Couleurs.md",
-    "NPCs Connus.md",
-    "1 - Compendium/Concepts/Âme - Savard.md",
-    "1 - Compendium/Documents/Mausolé - Inscription.md",
-    "1 - Compendium/Concepts/Collecteurs.md",
-    "Images/Characters/TribePeople6.png",
-    "Images/Characters/UndeadViking.jpg",
-    "Images/Characters/TribalPeople10.jpg"
+    "2 - Campagne/Joueurs/Wanageeska/Wanageeska.md"
   ]
 }

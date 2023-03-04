@@ -21,7 +21,7 @@ Ce texte est-il en commun? Les Durin ont-ils adopté la langue de Estelle et ont
 - Vilheim, Perrin: Au Campement
 - Crik, Samora: Au campement
 - Harald, Logan Lanngolyn, Talarissa: Partis chercher des herbes médicinales
-- Larissa Artemel, Héron: Partis à la chasse
+- Larissa Artemel, Héron, Nilheim et Bran Ilvastar: Partis à la chasse
 - Javelin: Parti pêcher
 - Hummer, Stryx: Veille sur Rackam
 - Edelia a parlé aux gens du village avec la Samora.
@@ -76,6 +76,7 @@ Habitants
 - Hags
 - Géants
 - Kemesh
+- 
 - Toka
 - Trolls et autres créatures (infectés ou pas)
 - Animaux (infectés ou pas)
