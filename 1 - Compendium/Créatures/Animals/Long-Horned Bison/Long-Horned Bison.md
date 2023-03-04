@@ -1,0 +1,1 @@
+<iframe class="embedded-statblock" src=https://pathfinderdashboard.com/Creatures/Long-horned%20Bison.html"></iframe>

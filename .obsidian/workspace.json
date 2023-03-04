@@ -22,23 +22,13 @@
             }
           },
           {
-            "id": "4122ebe74223e195",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "1 - Compendium/Créatures/Bear.jpg"
-              }
-            }
-          },
-          {
-            "id": "2fbccd3b5b52c6eb",
+            "id": "f41e46e4f16c477d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2 - Campagne/Expédition.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -131,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 481.5
   },
   "right": {
     "id": "8b329d269e60daa7",
@@ -147,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Compendium/Créatures/Bear.jpg",
+                "file": "2 - Campagne/Expédition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Compendium/Créatures/Bear.jpg"
+                "file": "2 - Campagne/Expédition.md"
               }
             }
           },
@@ -185,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Compendium/Créatures/Bear.jpg",
+                "file": "2 - Campagne/Expédition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,48 +209,51 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4122ebe74223e195",
+  "active": "f41e46e4f16c477d",
   "lastOpenFiles": [
-    "1 - Compendium/Créatures/Hags/Crying Woman.jpg",
-    "1 - Compendium/Créatures/Hags/Hag 1.jpg",
+    "1 - Compendium/Créatures/Animals/Long-Horned Bison/Long-Horned Bison.md",
+    "1 - Compendium/Lieux/Nostaria/2 - Forêt/Giant Trees.jpg",
+    "1 - Compendium/Lieux/Nostaria/2 - Forêt/Giant Trees.jpg.crdownload",
+    "1 - Compendium/Créatures/Feys/Fey 3.jpg",
+    "1 - Compendium/Créatures/Feys/Fey 3.jpg.crdownload",
+    "1 - Compendium/Lieux/Nostaria/2 - Forêt/Unclassified.jpg",
+    "1 - Compendium/Lieux/Nostaria/2 - Forêt/Unclassified.jpg.crdownload",
+    "1 - Compendium/Lieux/Nostaria/2 - Forêt/Fey Tree.jpg",
+    "1 - Compendium/Lieux/Nostaria/2 - Forêt/Fey Tree.jpg.crdownload",
+    "1 - Compendium/Créatures/Animals/Roc.md",
+    "1 - Compendium/Créatures/Animals/Long-Horned Bison",
+    "1 - Compendium/Créatures/Animals/Roc/Roc.md",
+    "1 - Compendium/Créatures/Animals/Roc",
+    "1 - Compendium/Créatures/Animals/Roc/Roc.png",
+    "1 - Compendium/Créatures/Animals/Roc.png.crdownload",
+    "1 - Compendium/Créatures/Animals/Giant Crocodile/Giant Crocodile.md",
+    "1 - Compendium/Créatures/Giants",
+    "1 - Compendium/Créatures/Giants/Giant.png",
+    "1 - Compendium/Créatures/Giant.png.crdownload",
+    "1 - Compendium/Créatures/Animals/Giant Crocodile/Giant Crocodile.jpg",
+    "1 - Compendium/Créatures/Animals/Giant Crocodile",
+    "1 - Compendium/Lieux/Nostaria/2 - Forêt/Tree.jpg",
+    "1 - Compendium/Lieux/Nostaria/2 - Forêt/Village Pictis.jpg",
+    "1 - Compendium/Lieux/Nostaria/2 - Forêt/Decay Birds.png",
+    "1 - Compendium/Factions/Kemesh/Kemesh.md",
+    "1 - Compendium/Factions/Capes Jaunes.md",
+    "1 - Compendium/Factions/Toka/Toka.md",
+    "1 - Compendium/Factions/Pictis/Pictis.md",
     "1 - Compendium/Créatures/Compendium v.2.md",
-    "1 - Compendium/Créatures/Hags/Crow Hag.jpg",
+    "1 - Compendium/Créatures/P1.md",
     "1 - Compendium/Créatures/Étrangleur/Étrangleur.md",
-    "1 - Compendium/Créatures/Esclavagistes/Esclavagiste 4.jpg",
-    "1 - Compendium/Créatures/Esclavagistes/Esclavagiste 3.jpg",
-    "1 - Compendium/Créatures/Esclavagistes/Esclavagiste 2.jpg",
-    "1 - Compendium/Créatures/Esclavagistes/Esclavagiste 1.jpg",
-    "1 - Compendium/Créatures/Feys/Horse Fairy.jpg",
-    "1 - Compendium/Créatures/Feys/Fey 2.jpg",
-    "1 - Compendium/Créatures/Nymphs/Nymph.jpg",
-    "1 - Compendium/Créatures/Nymphs/Nymph4.jpg",
     "Notes 6.md",
     "Notes scénario 5.md",
     "2 - Campagne/Expédition.md",
     "1 - Compendium/Créatures/Cordycep/Cordycep.md",
-    "1 - Compendium/Créatures/Crocodiles",
-    "1 - Compendium/Créatures/Hags",
     "1 - Compendium/Lieux/Nostaria/0 - Pictuk/0 - Pictuk.md",
     "1 - Compendium/Factions/Fées/Fées.md",
-    "1 - Compendium/Factions/Toka/Toka.md",
     "1 - Compendium/Factions/Fées/Fées.md",
-    "1 - Compendium/Factions/Fées",
     "1 - Compendium/Factions/Artemel.md",
-    "1 - Compendium/Factions/Pictis/Pictis.md",
     "1 - Compendium/NPCs/Blaiva/Blaiva.md",
-    "1 - Compendium/Factions/Toka",
-    "1 - Compendium/Factions/Kemesh/Kemesh.md",
     "1 - Compendium/Factions/Kemesh.md",
-    "1 - Compendium/Factions/Kemesh",
     "Untitled.md",
     "1 - Compendium/Factions/Rackham.md",
-    "1 - Compendium/Concepts/Forêt de Vernoir.md",
-    "1 - Compendium/Concepts/Alchimie.md",
-    "1 - Compendium/Concepts/Le Pacte.md",
-    "1 - Compendium/Concepts/Pthumériens.md",
-    "1 - Compendium/Concepts/Gulde des Chasseurs.md",
-    "1 - Compendium/Concepts/Âme.md",
-    "1 - Compendium/Concepts/Estelle de Beauvais.md",
-    "2 - Campagne/Joueurs/Wanageeska/Wanageeska.md"
+    "1 - Compendium/Concepts/Forêt de Vernoir.md"
   ]
 }
